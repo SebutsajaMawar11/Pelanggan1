@@ -253,7 +253,116 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 
 
-______________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________
+
+
+
+_________________ CADANGAN NOBAR _________________________
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTINF:-1 tvg-id="MNCSports.id" group-title="CADANGAN NOBAR" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstar(ott.navigator&tivimate)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTINF:-1 tvg-id="MNCSports2.id" group-title="CADANGAN NOBAR" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstar 2(ott.navigator&tivimate)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="SS4" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="CADANGAN NOBAR", SPORTSTARS 4 ᴴᴰ(ott.navigator&tivimate)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="CADANGAN NOBAR",Soccer Channel ᴴᴰ(ott.navigator&tivimate)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="CADANGAN NOBAR",Soccer Channel-HD (ott.&.tivimate)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=115
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=115
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="CADANGAN NOBAR",SPORTSTAR-1-HD (ott.&.tivimate)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=112
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=112
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="CADANGAN NOBAR",SPORTSTAR-2-HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=113
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=113
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="CADANGAN NOBAR",RCTI-HD (ott.&.tivimate)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1
+
+
+
+#EXTINF:-1 group-title="CADANGAN NOBAR" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png", RCTI (3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157591.ts
+
+
+
+#EXTINF:-1 group-title="CADANGAN NOBAR" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png", RCTI (xtv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://xtv.ooo:8080/live/djshub654@/djshub456@/351023.ts
+
+
+#EXTINF:-1 group-title="CADANGAN NOBAR" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png", RCTI (televizo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/Hamzah79/abc12345/47.ts
+
+
+#EXTINF:-1 group-title="CADANGAN NOBAR" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png", MNCTV (televizo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/Hamzah79/abc12345/49.ts
+
+
+#EXTINF:-1 group-title="CADANGAN NOBAR" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png", GTV (televizo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/Hamzah79/abc12345/48.ts
+
+
+#EXTINF:-1 group-title="CADANGAN NOBAR" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg", TVRI SPORTS (3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/166686
+
+
+
+
+
+__________________________________________________________________________________________________________________________________________________________________________
 
 ================ 🔴LIVE LIGA BRI / EVENT ONLY ==================
 
