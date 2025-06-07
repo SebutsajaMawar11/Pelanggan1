@@ -465,7 +465,7 @@ ________________________________________________________________________________
 
 #EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="Indonesia Channels",INFO...!!
-https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=Af4i1MNj_GgQ7kNvwF4wuwz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfKEcKH8KjKEYcd550Pk3qV1CpR7vx3VjTv__o8c9L9GxQ&oe=6845EFF4
+##https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=Af4i1MNj_GgQ7kNvwF4wuwz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfKEcKH8KjKEYcd550Pk3qV1CpR7vx3VjTv__o8c9L9GxQ&oe=6845EFF4
 
 
 
@@ -601,6 +601,14 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Indonesia Channels",RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels",Nusantara TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -638,11 +646,6 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Indonesia Channels",RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 
 
