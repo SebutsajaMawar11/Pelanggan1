@@ -2626,30 +2626,7 @@ ___________________
 OPTUS TV
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS 2 FHD", OPTUS SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS 2 FHD", OPTUS SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS 2 FHD", OPTUS SPORT 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS 2 FHD", OPTUS SPORT 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS 2 FHD", OPTUS SPORT 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS 2 FHD", OPTUS SPORT 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS 2 FHD", OPTUS SPORT 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 
 
 
@@ -2658,34 +2635,6 @@ ESPN TV
 
 
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="SPORTS 2 FHD",ESPN 1
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/639.ts
-
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="SPORTS 2 FHD",ESPN 2
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/638.ts
-
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="SPORTS 2 FHD",ESPN 3
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/640.ts
-
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="SPORTS 2 FHD",ESPN 4
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/62.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="SPORTS 2 FHD",ESPN 5
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/60.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="SPORTS 2 FHD",ESPN 6
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/48.ts
 
 
 
@@ -2843,8 +2792,6 @@ ______________________________________________
 SKY SPORT TV
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS 2 FHD", UK: SKY SPORTS FOOTBALL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football%202.m3u8
 
 
 
@@ -2865,61 +2812,11 @@ SKY SPORT
 
 
 
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTS 2 FHD", UK: SKY SPORTS NEWS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="SPORTS 2 FHD", UK: SKY SPORTS ARENA
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20arena.m3u8
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de.m3u8
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de%202.m3u8
-
-
-
 _____________________________________________________________________________________________________________
 DAZN TV
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u8
 
 
 
@@ -2933,280 +2830,21 @@ MOTORVISION
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
 
 
-
-
-
-______________________________________________________________________________________________________________
-TNT TV
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/FKIqWYs.png", TNT SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%201.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/S88QAk8.png", TNT SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/eaPYjbw.png", TNT SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%203.m3u8
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/GdwgxdO.png", TNT SPORTS 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%204.m3u8
-
-
-
-__________________________________________________________________________________________________
-ARENA TV
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS 2 FHD", ARENA PREMIUM 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS 2 FHD", ARENA PREMIUM 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS 2 FHD", ARENA PREMIUM 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", ARENA SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png", ARENA SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", ARENA SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
-
-
-
-_______________________________________________________________________________________
-MOVISTAR LALIGA
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/uW8jAsQ.png", MOVISTAR LIGA DE CAMPEONES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
-
-
-________________________________________________________________________________________________
-SSC TV
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS 2 FHD", SSC 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%201.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS 2 FHD", SSC 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS 2 FHD", SSC 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%203.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS 2 FHD", SSC 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%204.m3u8
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS 2 FHD", SSC 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%205.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS 2 FHD", SSC NEWS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%20NEWS.m3u8
-
-
-
-
-
-____________________________________________________________________________________________
-ELEVENT TV
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/pi8ipf6.png", ELEVEN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/dJpSG5v.png", ELEVEN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/0yyPvbr.png", ELEVEN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
-
-
-_________________________________________________________________________________________________________
-DAZN TV
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
-
-
-_________________________________________________________________________________________________
-DIGI TV
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
-
-
-
-
-____________________________________________________________________________________________________________
-SPORT TV
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%202.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%203.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%204.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
-
-
-_____________________________________________________________________________________________________
-LFC TV
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS 2 FHD", LFC TV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
-
-
-
-
 ______________________________________________________________________________________________________
 MU TV
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS 2 FHD", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MUTV.m3u8
-
-
-
-__________________________________________________
-CCTV 
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS 2 FHD", CCTV 5+
-https://phdown.serv00.net/Smartv.php?id=cctv5plus
+####https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MUTV.m3u8
 
 
 
 ________________________________________________________________________
-NBA TV
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS 2 FHD", NBA TV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS 2 FHD", WWE NETWORK HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS 2 FHD", WWE NETWORK HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork%202.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS 2 FHD", IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
-
-
-
-#EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS 2 FHD", UFC FIGHT PASS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
-
-
 
 
 
@@ -3238,12 +2876,11 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="SPORTS 2 FHD", TVRI SPORT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
 
 
 
@@ -3255,18 +2892,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS 2 FHD", ASTRO CRICKET
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
-
-
-
-
 ______________________________________________
 DUBAI TV
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS 2 FHD", DUBAI SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dubai%20sports%201.m3u8
 
 
 
@@ -3279,14 +2906,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%202.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
