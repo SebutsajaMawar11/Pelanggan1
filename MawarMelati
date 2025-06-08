@@ -353,6 +353,13 @@ https://zozotv.xyz:443/live/Hamzah79/abc12345/48.ts
 ===============================🏐VOLLEY BALL/EVENT ONLY=========================================
 
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ou-JJN4Oq-kWUMeJaCQff3jKSN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4340233/b336a4.jpg" group-title="🏐VOLLEY BALL/EVENT ONLY", AVC
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18913&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
+
+
 
 
 #EXTINF:-1 group-title="🏐VOLLEY BALL/EVENT ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9MIpupHcWv8lEa5wx1W0qesfPmTXOEEHinQPsMrou-84pdQvFC6_E8A&s=10", VOLLEY 1 (TERSEDIA SAAT LIVE)
