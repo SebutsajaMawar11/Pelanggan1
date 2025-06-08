@@ -350,10 +350,10 @@ https://zozotv.xyz:443/live/Hamzah79/abc12345/48.ts
 
 
 
-===============================🏐VOLLEY BALL/EVENT ONLY=========================================
+===============================🏐VOLLEY / EVENT ONLY=========================================
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ou-JJN4Oq-kWUMeJaCQff3jKSN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4340233/b336a4.jpg" group-title="🏐VOLLEY BALL/EVENT ONLY", AVC
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ou-JJN4Oq-kWUMeJaCQff3jKSN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4340233/b336a4.jpg" group-title="🏐VOLLEY / EVENT ONLY", AVC
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18913&type=drm
@@ -362,7 +362,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
 
 
 
-#EXTINF:-1 group-title="🏐VOLLEY BALL/EVENT ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9MIpupHcWv8lEa5wx1W0qesfPmTXOEEHinQPsMrou-84pdQvFC6_E8A&s=10", VOLLEY 1 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="🏐VOLLEY / EVENT ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9MIpupHcWv8lEa5wx1W0qesfPmTXOEEHinQPsMrou-84pdQvFC6_E8A&s=10", VOLLEY 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -372,7 +372,7 @@ https://4gr3uomttgr31hctwgczdgqbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.
 
 
 
-#EXTINF:-1 group-title="🏐VOLLEY BALL/EVENT ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9MIpupHcWv8lEa5wx1W0qesfPmTXOEEHinQPsMrou-84pdQvFC6_E8A&s=10", VOLLEY 2 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="🏐VOLLEY / EVENT ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9MIpupHcWv8lEa5wx1W0qesfPmTXOEEHinQPsMrou-84pdQvFC6_E8A&s=10", VOLLEY 2 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -381,7 +381,7 @@ https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" tvg-id="5bcd558ce1ae93147e7b4f906bf7a094" tvg-chno="123" group-title="🏐VOLLEY BALL/EVENT ONLY",MOJI_FHD (LIVE VOLLEY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" tvg-id="5bcd558ce1ae93147e7b4f906bf7a094" tvg-chno="123" group-title="🏐VOLLEY / EVENT ONLY",MOJI_FHD (LIVE VOLLEY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
