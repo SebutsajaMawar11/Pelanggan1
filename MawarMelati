@@ -3080,6 +3080,53 @@ __________________________________________________
 
 
 
+================ MUSIC ==================
+
+
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS4WC3CI-sRu_zbICv9dB-0frZh7ASwTRz_jkbz4iCcu64pq905gP7so9X1M9oBuXLGJIpl2UxIohQRMQC1CL0byBnpU_6avW5LvLcCjiG2PB0IWOtn2-6dbmQCgkGmtau5k2iV8BnXgQF6RVgUbgr38UDvRRcKWB14Z6WRn586zmWjvsG5SX0sqAFf7AI/s700/BAHANA.png",BAHANA RADIO MUSIC
+https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUgBg5FPryaJz74nVcZK8umSf84YP4jjVsJPCZCUiPK4hQuoS5m8eSN4moWBma_ekg6biBFp_tcsurvsYWkZEU7zdGjOV6WLShRd-q5Pg9lKy6kvbFhjTpTx0eUt_-QI5IqNKAJiD59ADOG-yhGIHT3QlPW_h_qcp-3PPFxU265Ji0_bsboK10FiuEd8Bk/s700/MALEO%20TV.png",MALEO TV
+#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv1vf4oYMXaqJWbZXJy1oZzhzzwNKXYlzpsZyB2PISNWaL3jR01G8EiAls8OywWbIHTnn4Ht5KpDk2FE_ylAFwG2NNN9qhAc5GZ_c1v0IJwh7BKbc5w0nne1sEG0OxMR342yIuj_p5KuEJkJ9YZT38i6q8oWoQcVU8Goifjeq1ml4fKYKXz0tT-LjNYPJG/s700/CITRA%20DANGDUT.png",CITRA DANGDUT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+
+
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv1vf4oYMXaqJWbZXJy1oZzhzzwNKXYlzpsZyB2PISNWaL3jR01G8EiAls8OywWbIHTnn4Ht5KpDk2FE_ylAFwG2NNN9qhAc5GZ_c1v0IJwh7BKbc5w0nne1sEG0OxMR342yIuj_p5KuEJkJ9YZT38i6q8oWoQcVU8Goifjeq1ml4fKYKXz0tT-LjNYPJG/s700/CITRA%20DANGDUT.png",CITRA DANGDUT FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd29wXb2-vddaGfok9d7cxHHcvHuMWdCD5TiNQKFiheJaQHJFeQe60qxRfHsv8T08JpJlzmS4BuPZMlCcUfx5poQEDHQalbzMcsxCUqmv3QvmkJXAMEKuk-O4RH_UrY89cH-TZRTOWTqlGXMD5lLbESsMP6HGrdJ750fZSSk7EHj4LoMCazkRtOBx8R9HE/s700/IMTV.png",IMTV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJFYxAIRJ-ANQNTChQK0JaPttzAuleY-uAzo3ylQxfbeK4Siwm0m0J9xTk4NwaCYueYVfezY9WjSEJOzPrJ_ytpFdQnzd8ysxmjcFg0QO-lcllckbI1cISZmn_o8DebVsXuyui8yKWYre1FdKO3xPgjIHS94zyUSK5uSBUtRzNTP3I_wGkOJEy8k_X0Zqa/s700/POP%20MUSIC.png",POP MUSIC
+#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSeXOiuCwywCJVSG4lZY072482du66sGdgSEBy6RNXZ4SnPL4bCl2OKuYM75lChRw7Qod_FY3Ombldwm1WKTM5dfuV6aMizFK48qNHFBlazCDmWhyzTTwzVc6gBVNcwjeTvNXlmkIsF4Ymm7V6Ncf08CdW9A8o4cD11Emu0cU9hWyRRRXGrhgO24RDPVxs/s700/SPIRIT%20TV.png" group-title="MUSIC",SPIRIT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+
+
 
 
 
@@ -3408,54 +3455,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 https://wahyu1ptv.pages.dev/Flik-HD.m3u8
 #http://xtv.ooo:8080/live/387546/200900/350947.ts
 
-
-
-
-
-
-================ MUSIC ==================
-
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS4WC3CI-sRu_zbICv9dB-0frZh7ASwTRz_jkbz4iCcu64pq905gP7so9X1M9oBuXLGJIpl2UxIohQRMQC1CL0byBnpU_6avW5LvLcCjiG2PB0IWOtn2-6dbmQCgkGmtau5k2iV8BnXgQF6RVgUbgr38UDvRRcKWB14Z6WRn586zmWjvsG5SX0sqAFf7AI/s700/BAHANA.png",BAHANA RADIO MUSIC
-https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzeVlMxH27YZItvBD98dwfC7qhE6RHj-Qpr_BpuwAAiGfcwhIqlFCnTpin3bWNn_ZoqmtQO7ghJ8z0a1RUhj82uGMa5Ib5-UulLhyv1h91HzPbU7QFDrEkrHuZZI3upkSeaOowfPBPG7aXgoNnZcSaG1e7_3uv0DwNS1Gb8Ae4_NOq0aqG4b953EhXe9S9/s700/MIC%20TV.png",MIC TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://v2.siar.us/mic/live/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUgBg5FPryaJz74nVcZK8umSf84YP4jjVsJPCZCUiPK4hQuoS5m8eSN4moWBma_ekg6biBFp_tcsurvsYWkZEU7zdGjOV6WLShRd-q5Pg9lKy6kvbFhjTpTx0eUt_-QI5IqNKAJiD59ADOG-yhGIHT3QlPW_h_qcp-3PPFxU265Ji0_bsboK10FiuEd8Bk/s700/MALEO%20TV.png",MALEO TV
-#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv1vf4oYMXaqJWbZXJy1oZzhzzwNKXYlzpsZyB2PISNWaL3jR01G8EiAls8OywWbIHTnn4Ht5KpDk2FE_ylAFwG2NNN9qhAc5GZ_c1v0IJwh7BKbc5w0nne1sEG0OxMR342yIuj_p5KuEJkJ9YZT38i6q8oWoQcVU8Goifjeq1ml4fKYKXz0tT-LjNYPJG/s700/CITRA%20DANGDUT.png",CITRA DANGDUT
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv1vf4oYMXaqJWbZXJy1oZzhzzwNKXYlzpsZyB2PISNWaL3jR01G8EiAls8OywWbIHTnn4Ht5KpDk2FE_ylAFwG2NNN9qhAc5GZ_c1v0IJwh7BKbc5w0nne1sEG0OxMR342yIuj_p5KuEJkJ9YZT38i6q8oWoQcVU8Goifjeq1ml4fKYKXz0tT-LjNYPJG/s700/CITRA%20DANGDUT.png",CITRA DANGDUT FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd29wXb2-vddaGfok9d7cxHHcvHuMWdCD5TiNQKFiheJaQHJFeQe60qxRfHsv8T08JpJlzmS4BuPZMlCcUfx5poQEDHQalbzMcsxCUqmv3QvmkJXAMEKuk-O4RH_UrY89cH-TZRTOWTqlGXMD5lLbESsMP6HGrdJ750fZSSk7EHj4LoMCazkRtOBx8R9HE/s700/IMTV.png",IMTV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJFYxAIRJ-ANQNTChQK0JaPttzAuleY-uAzo3ylQxfbeK4Siwm0m0J9xTk4NwaCYueYVfezY9WjSEJOzPrJ_ytpFdQnzd8ysxmjcFg0QO-lcllckbI1cISZmn_o8DebVsXuyui8yKWYre1FdKO3xPgjIHS94zyUSK5uSBUtRzNTP3I_wGkOJEy8k_X0Zqa/s700/POP%20MUSIC.png",POP MUSIC
-#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSeXOiuCwywCJVSG4lZY072482du66sGdgSEBy6RNXZ4SnPL4bCl2OKuYM75lChRw7Qod_FY3Ombldwm1WKTM5dfuV6aMizFK48qNHFBlazCDmWhyzTTwzVc6gBVNcwjeTvNXlmkIsF4Ymm7V6Ncf08CdW9A8o4cD11Emu0cU9hWyRRRXGrhgO24RDPVxs/s700/SPIRIT%20TV.png" group-title="MUSIC",SPIRIT TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
-
-="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqrz5IGBOvoiN2dQcgD1NRb2adtF-8RqZDZa5btXPWtmAOKHybsYroM3xjMBzufQFeED2DtbTxvo-F_2j6shP6KF-n3tOCqeBBXLWMZyuCIetB9WaeMZX-YZOqwO2weO5uXvCTHFE3Lw5Dc_sAbjIKHV5cvf7kYTxsniaNqysYH_dL7bJagOL04rC9GJyX/s700/KPOP%20TV.png",24H K-POP TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://live.24hrkpop.com/hls/3/stream.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo
 
 
 
