@@ -419,7 +419,7 @@ https://av-ch-cdn.mncnow.id/live/eds/BandungTV/sa_dash/BandungTV.mpd
 
 
 
-#EXTINF:-1 tvg-id="MDTV" tvg-logo="https://static.mncnow.id/images/channel/2ebd1ba0/17e1_r32.jpg" group-title="2. VISION+", MDTV 
+#EXTINF:-1 tvg-id="MDTV" tvg-logo="https://static.mncnow.id/images/channel/2ebd1ba0/17e1_r32.jpg" group-title="▶ TV VISION+", MDTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd 
