@@ -584,7 +584,7 @@ https://zozotv.xyz:443/live/Hamzah79/abc12345/48.ts
 ===============================🏐VOLLEY / EVENT ONLY=========================================
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ou-JJN4Oq-kWUMeJaCQff3jKSN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4340233/b336a4.jpg" group-title="🏐VOLLEY / EVENT ONLY", AVC (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s" group-title="🏐VOLLEY / EVENT ONLY", AVC (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18913&type=drm
