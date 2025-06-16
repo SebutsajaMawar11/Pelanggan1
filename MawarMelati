@@ -3236,6 +3236,16 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/356
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N7pT4xe_X2_RVgJrg0HoEucFhj7dqqKvVB8rNkrVNwy7F3lF40u3RAtq&s=10" group-title="🏐VOLLEY / EVENT ONLY", VOLI TURKI FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
+#http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/32095.ts
+
+
 
 
 ________________________________________________________________________________________________________
