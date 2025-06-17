@@ -3200,13 +3200,6 @@ https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhKnblUwnmtlvIr8-cLV1uBtuHEw5cUKB_Guw67OwKD8bIm6efIXyBsgwWZ-nw77c5qMVMcJtWT4Jv9CC_4HFWY7Cof-Lup9E_tOUbf3EGdNGzfF1-T4cz_EUjC5TI16GbzUvG2PkZFwhfXQEL3-kXmOyRGUiGNX9SOsTo2I1dM8RHr025abYkhbF2Mqhq/s700/JTV.png" group-title="DAERAH",JTV 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-https://cempedak-cdn-fly.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
-
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghwdDzqtNVEM64FV_qVuMYXe-FTgTmlr_994f5SpwU6w8CnxqJAkU-UZCDP1KRBazZdpUm3g1CLoHwyTdCt31l_bfnKAU3jYd7hucFrAqUA1vF-XgSNW0WXiDmEKz6ruR5N-wX_wPVpYokisdlddcg-qtjqDPTJV5wnQBvri-zBrGOMFhNnKevPITiFSCD/s700/UGTV.png" group-title="DAERAH",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
@@ -3233,16 +3226,6 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w430128046.
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwXIJdpyJ3_m0sXo48NirMroBlPfjOYAyeQqkC81U0cTYvJQP6ucBWOYTTSuNH-aYaxUNYZvcLsRNLT9a_YKPendhnWNpl4CsMK8DvAsYYOkuFCN2Ot5EP_NE5rQxkpRZm9rskOzdPdfF4w9BjufDuXsLZubkIbxjBnmYhjBGrBwIvqxDwNs8jcJw9hBIG/s700/SURABAYA%20TV.png" group-title="DAERAH",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHeMK9FOOmJHycgNIMb_zs3VYiWZgfnd7k2igJ7m4ai4mKdQ4IStBme19J_LRqEN5dCTgZysSm56EXcMPOL2b0aSVoSmQJ-RnksFjPc2kyAIMRd7BA8CTk0jfkqWU8g27ZmVyD7yY0D1vr_2jKAStd5ZJUUn79YEG9hoQgXRAgmIxlHhFDmSDVkdIxzqz_/s700/JAKTV.png" group-title="DAERAH",JAKTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrK2U25QmVxmG_YnJ4-bDt6fpWDWI3cYLM50pzYNq5BPs5ljWD-Ka7m4x3_10JUPOqWfGZQ8zjFRQvxcP_olJ611paDlqLdwOdv0dri7hkVZCteeW4h5CGIkIJHp8mg0VVkZVfwPW1cc-cIrwgYY2lp1TUZnn22q2utx7E7DFD4X44_bLLVNfkN9NQoXn9/s700/BANDUNG%20TV.png" group-title="DAERAH",BANDUNG TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCB4VBHj4LAr23mV42dMmr-Jsz6D6xi8lqUX_6MEptHOhqa5hAINMnkYScJnzpEQpjYeV5KvP7Ll6yaGiD9aIcqqd_zPmjO-CaZ617A6EWpHWUNJWejkHQIrT3irAt6mlDPTjGTa1_r5gyld1CNRb6mWGINp8zClLYfIYPJ27ZsxIOEalrsGZEp8rd3pRA/s700/BANTEN%20TV.png" group-title="DAERAH",BANTEN TV
@@ -3274,8 +3257,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZKAOeO_VOcxCoGjszU72zWNvWkGzUbFziKUL4erGhNjmvmXlgoLjdZZqfuKufckduNqlQ3ETiXHY9oPGu5AdAFcd4fXyqxY7Vre2ww7heR1yFD02Mo8GqvQaD30dQ_atNrUrdYAHfqkKvjwLmx4doV117ty1idq_NhJF4ssi7J1ajnIVIQrceEWElyrei/s700/JAWA%20POS%20TV.png" group-title="DAERAH" ,JAWA POS TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje10grhwE80k4GDAiDfHnVrhYq_0kJ7vAfPI8NsAYnJ01WH_PgFMk7TSagHHtjKGd368OyCFpql_BG2Z_xfBFmNG4xgj6sXxACNeygZYjgIlPjtBhWZPjbz80MaRS-dd9dDmbJ8pVqmaoU7k4Y8XXPPiDMew3YnQNF6QpTY9DxI_TCCwQ_TI6K0t2VF8Rj/s700/SANGAJI%20TV.png" group-title="DAERAH",SANGAJI TV
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-ZNGdE8djeg-ekkAerLk0T3x7NxuqHpuvR38zSeF_wSiKPOZ1gJR2xgMndfxXULqRgcl8xZngMV3zLkSAFGgyI4C5ohGmNnyCqRPOnmEJzA4Iw7vP2HfYCYUZZcZU8afLfZ40XD-PelNKtOi3WHag_SkHm1C3VkifRjCkvvijNOwfdrDMB2H55bwxyAb5/s700/AKTV.png" group-title="DAERAH",AKTV
@@ -3311,18 +3292,11 @@ https://flv.intechmedia.net/live/ch59.m3u8
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPgBWTE37RcNNa3Il23Wk5Tqv1zWoGDrJdKiNfokUKbGDF3TRlOH84HYHD2iGfyWM51SSV0nzpJtUDS7P-iuJBAeQmRoAdBlEjdZkU6c0U1ijq0cUSCEi9i3-rX0olSvL8dh7cdC1CsGOzi6Z_1LNkOqvGfk3KjVFER1KW99PjbEY8y9i9r-wUTud4AkUP/s700/SAMPIT%20TV.png" group-title="DAERAH" ,SAMPIT TV IMT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch56.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYjO0i6aV_DsdjxU4NwJ7ZVAGWzZchd_EOScQ07EtQWJntwBMtYXPdOYJE0RQBz_eFQmwnOQ_lAc-gTpIUKbs4S7rlxgd5Xu-k_ZFunkQVYQBlCwIgwmC7xh6TAZWNXuMpQwCtzr64Ypg1IxOX7d6z0plkZ2SEDmM49mSPct7zOH1iFcRFTMt9z08EOp_A/s700/TVKU.png" group-title="DAERAH",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
 #http://103.30.1.14:8080/hls/live.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk1VzctOSJU7-V6EHGuuIwsIlH-yXkO5BbkHDHksLtyHEd0ScqH1voJQqNgiQ0CPtYwjFV8sMshtxO9LRLrBA-ikH52rfUxYSFfdykjuNutm8mXHyJom5vTRCM5ua5Yeil1qkLQHeILJh9sDjaPInK79No7Yk_HVNhtagbfaeeJldRDLD5jkowJD1ZmIB6/s700/PRIMA%20TV.png" group-title="DAERAH",PRIMA TV
-https://primatv.siar.us/primatv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTOHRDzIdtZH4gG-1bEAfXUSBINReta74kZPed8bfRWgY35vyWlz11EfWesXYBX9nnbELbKZSMo_8AK3TWWUxckOHt0BqRGeDVIdHIm5riIP9xXq3Fy9OvzpBmexdqWp3T15Lpme2gEYdBKPQ3n49mo0EaYbb3SvzjV_-gCjhIEMs3qivIERbVQnRFYBha/s700/JOGJA%20TV.png" group-title="DAERAH",JOGJA TV
@@ -3340,9 +3314,6 @@ http://103.140.188.211:1935/radarlampungtv/myStream/playlist.m3u8
 https://e.siar.us/live/dtvi.m3u8
 
 
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKc63x_h8AhjdLdmmciu764nJkX_yKjlZOdCsitfvaOghCEMEzF5SVtQL3L9Rgwv-NIVBe3o3X0jC-jeaufucwW_f40qAyTs0egZJ9_6LKQo7xHAxCLxnYFafeEOhXLHzQ9OPzBvzvItQ2_ydOmd8a5B4gtH_3H4YVzHB9KnR70SNFnnPbOYcgFt0vA3G/s700/TV%20DESA.png",TV DESA
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/playlist.m3u8
 
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVX1W3AEhY7FxlUJiZmY2okldG5GT08CAbZoZ1opOTmPkWeGwYvfLd8V1sIlPS07j8Zq5bfphBg9hmdBs0fIddzCqs3Obch4x5gQlpi-G_2oaztPkzVPBqcybGQ9E-IdQbKKFgCj2a4SJlcCISMTDc0esGo12tkg6QQXs8LjxosW7xdKbj48zAJsphWWcC/s700/NASIONAL%20TV.png",NASIONAL TV
@@ -3350,9 +3321,6 @@ https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/playlist.m3u8
 https://tv.nasionaltv.com/ntvlive/index.m3u8
 
 
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-1H4q8ily6a6hERsLVzuz85Oz9mr3kRuqdig7512dLgg2Wavz0GWMdrvk9ObmFZZUpyACy3krinp_mC9glz6tdlgDRhTh23ixkiylA96PJe7Y1MoLf9nSCu_iINF1YIfXtVjoBMS2nFC677M0YIgW1QVkVXbSZrofh75mXc90nVfrrYcaQ00xXbIrVaNc/s700/JURNAL%20TV.png",JURNAL TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjty2w0hwAD6RK683A1pV1x66S7SYoFmxEKvWQsVaycaEw3hqhhpp2uqv3WLWW0jp9TiaDiTGuH6vFsoUkoiCxpZuXnrSoTFVzr0f7OMdEGeC-BbRK-l7y_xO0c8y54AC-1Loc-dSlCRFfjeXxxVJqSk8XRfiyW9b3M84Kep0Gd2EtHD4BXG6FPHK_7G5Pk/s700/KILISUCI%20TV.png" group-title="DAERAH",KILISUCI TV
@@ -3367,16 +3335,6 @@ https://flv.intechmedia.net/live/ch52.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii_uyzUPwSl51JIbksTd8-s1j-v9s_lf1Cf7slz272iX8TltUKZ7v19lbxSCftRWtsYDT9cEYmhXRTjTKKzRHG8iHFADYikjaBE856rIAtCZ7c5XtnQuvcmTlVbBcGLnviz-SiGUObDrRGok27BmYl7MqTftvE4ZX-u6VHxmoZZPwhQFIEYw7pqJKURSB7/s700/PKTV.png" group-title="DAERAH",PKTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4tvbXHjWxlP7IVH962QmJ0oFnEM-UIGRNFeNwXk-wgCspsMlkwa46_9tnsBi4-nhlNn8W2I9mFEGcePULGvBwEVm7bEFZNOKKvUYoAOFrFg6vnauBH-Zu8eU6oXVzAgMQY7j-j7bqFgZO6HKcZA7EBzfETqwLfFzchlvQInP76yX5GBSFx0NbwXP_sRGY/s700/MGS%20TV.png" group-title="DAERAH",MGS TV
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaewZjr7TBu8DYkZL_jlqTpXvDqr13LS5bwkhp_x_7bWhiIj1F-RpiHym8-ypkuzIeulsooFpHAFC-ljdptt_oSx9Z9ppthWukw_JvxpYtPXIMH-cAtr7lxY8DfUws_HxFODgdFxmnR-4fSZ_46gJU4PrSJ4DMKesvNbfRpf3Ju7L_ToJ2aT7rEwZzyp8s/s700/BALI%20TV.png" group-title="DAERAH",BALI TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 
 
