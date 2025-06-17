@@ -2985,6 +2985,54 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPo7jYpSQ5YEEpFTHrSr0Yip1Bz11Bg4QbzaYTrU3sPdYiy_KyfVXHOs&s=10" group-title="WORLD SPORTS", HUBSPORT PREMIER 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/HubsportPL1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="WORLD SPORTS", NOW SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Nowsport1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="WORLD SPORTS", NOW SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Nowsport2.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="WORLD SPORTS", NOW SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Nowsport3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="WORLD SPORTS", NOW SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Nowsport4.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305" group-title="WORLD SPORTS", NOW SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Nowsport5.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="WORLD SPORTS", NOW SPORT 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Nowsport6.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="WORLD SPORTS", NOW SPORT 7
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Nowsport7.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmohffZqzd9a_8puCAll5RFgx_OYdiDgOPqw&s" group-title="WORLD SPORTS", NOW SPORT PREMIER 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/NowsportPL1.m3u8
+
+
+
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-id=mutv.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png",MUTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
