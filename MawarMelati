@@ -3363,9 +3363,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
 https://mui.siar.us/mui/live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="madanitv.id" tvg-logo="https://i.ibb.co.com/BLLK7pT/madanitv.png",MADANI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="ashiil" tvg-logo="https://i.ibb.co.com/2Jyd7dT/Ashiil-TV.png",ASHIIL TV
@@ -3378,10 +3375,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://i.ibb.co.com/6JTJfLT/deikids.png",DEI KIDS TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/dekid.m3u8
-#https://e.siar.us/live/deikidstv.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/Nt7wqCG/mtatv.png",MTA TV
