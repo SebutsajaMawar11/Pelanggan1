@@ -4348,6 +4348,15 @@ ________________________________________________________________________________
 =======================▶VOD INDO◀=========================
 
 
+#EXTINF:-1 type="" group-title="▶VOD INDO◀" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qO0mbZj4mJfxpWPbrAb1Zr6F2zW.jpg",Kupu-Kupu Kertas
+https://play.upns.xyz/hls/XHrSR67JJ4hHWM4ns1h9pA/ic/ghsd6sxi/c5rvnz/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
+
+
+#EXTINF:-1 type="" group-title="▶VOD INDO◀" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",Lembayung
+https://play.upns.xyz/hls/f5Jr3ih4E9FsfGlclg-eSQ/db/el9jhvkg/talzbq/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2QxMWZjOWEtNzE2Yi00ODNlLWFiNjMtMzdlNDAxZGM3MTUyXkEyXkFqcGdeQXVyMTIxMTI2NzM5._V1_.jpg"group-title="▶VOD INDO◀",Hari Yang Dijanjikan
 https://www.googleapis.com/drive/v3/files/1weKZ-8ejDRCEgcuFRf_wSLpDCGYIv8LA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -4399,6 +4408,11 @@ ________________________________________________________________________________
 
 
 ==================================================FILM HOROR==================================================
+
+
+#EXTINF:-1 type="" group-title="FILM HOROR" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/um0ezs2daaKr9zW3weK2z2oNUT8.jpg",Pengantin Iblis
+https://playerx.rpmstream.online/hls/KbKGsH3b9pt2NZVOAXFK-A/gee/cvax3f5w/6sy3gk/tt/master.m3u8|referer=https://playerx.rpmstream.online/&origin=https://playerx.rpmstream.online&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
 
 
 
