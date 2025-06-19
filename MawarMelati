@@ -1723,6 +1723,35 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS" tvg-logo="https://i.imgur.com/0sNWg54.png" ch-number="92" group-logo="", Sports Connect
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/abr_satellitechannel/satch_sportsconnect_360p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SPORTS",Star Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/180/content/common/channel/logos/star-sports-2.png" group-title="SPORTS",Star Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Tap Sports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="SPORTS",TAP Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+
+#EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/PPTV_HD_36.png" group-title="SPORTS", PPTV HD
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 
 
@@ -3209,8 +3238,8 @@ https://zozotv.xyz:443/live/Hamzah79/abc12345/475.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/OLzg2pu_dRGwbD_rJo0GLg/Fv2lucGIbhPi2caWYvF5Lg/1749381629725/live/may211/chunklist.m3u8
 
+
 #EXTINF:-1 group-title="🏐VOLLEY / EVENT ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s",VL 2 (MOJI)
-#######https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18913/file/drm/hls/18913/master.m3u8
 http://xtv.ooo:80/Kashif1980/03042368432/350997
 
 
