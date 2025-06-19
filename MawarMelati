@@ -3157,11 +3157,11 @@ ________________________________________________________________________________
 
 
 
-####EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s" group-title="🏐VOLLEY / EVENT ONLY", AVC 1 (TERSEDIA SAAT LIVE)
-#######EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-######KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-######KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18913&type=drm
-#######https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s" group-title="🏐VOLLEY / EVENT ONLY", AVC 1 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18913&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
 
 
 
@@ -3209,9 +3209,9 @@ https://zozotv.xyz:443/live/Hamzah79/abc12345/475.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/OLzg2pu_dRGwbD_rJo0GLg/Fv2lucGIbhPi2caWYvF5Lg/1749381629725/live/may211/chunklist.m3u8
 
-#EXTINF:-1 group-title="🏐VOLLEY / EVENT ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s",VL 2 (MOJI 1)
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18913/file/drm/hls/18913/master.m3u8
-####http://xtv.ooo:80/Kashif1980/03042368432/350997
+#EXTINF:-1 group-title="🏐VOLLEY / EVENT ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s",VL 2 (MOJI)
+#######https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18913/file/drm/hls/18913/master.m3u8
+http://xtv.ooo:80/Kashif1980/03042368432/350997
 
 
 
