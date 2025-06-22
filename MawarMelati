@@ -1869,14 +1869,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="BEIN 1 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png" group-title="SPORTS 2 HD",BEIN 1 THA
-https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="BEIN 3 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png" group-title="SPORTS 2 HD",BEIN 3 THA
-https://delicate-hall-d108.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8
-
 
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS 2 HD", BEIN SPORTS 1 MY
@@ -2123,11 +2115,6 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium756
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
 
 
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6PJLKztFr1dwnlCZ_00qtVZdlFbciEm7RYe3_2nDxcVmwD3snBitqROA&s=10", MU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8
 
 
 
@@ -2493,47 +2480,6 @@ https://fl1.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="SPORTS 2 HD", TNT ARGENTINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE P1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS 2 HD",TRUE PREMIER 1 
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD1_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE P2" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS 2 HD",TRUE PREMIER 2
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD2_720p/chunklist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="TRUE P3" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="SPORTS 2 HD",TRUE PREMIER 3
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD3_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="SPORTS 2 HD",TRUE PREMIER 4
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD4_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="SPORTS 2 HD",TRUE SPORT 2
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd1_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport3.png" group-title="SPORTS 2 HD",TRUE SPORT 3
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport4.png" group-title="SPORTS 2 HD",TRUE SPORT 4
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd3_720p/chunklist.m3u8
 
 
 
