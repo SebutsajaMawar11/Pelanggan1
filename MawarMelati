@@ -1236,22 +1236,8 @@ https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQc
 
 
 
-####EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
-####EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="SPORTS",INFO...!!
-####https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQN0ByeK2QwucHbGZj_wPCFgFqEd-OSPo2G-eRay5mONNWUpyTtEOhonJ1XrTD0fWco4nqWz3li3XwGq6Lxxlh4G.mp4?strext=1&_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=hdO1t44vMtwQ7kNvwEJwp7a&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5LWJhc2ljLWdlbjJfNTQwcCIsInZpZGVvX2lkIjo1NDcwMzAxMDQ5MzE3OTAsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3NDAwMDQ1OTM2MTY1NzAsInZpX3VzZWNhc2VfaWQiOjEwMTIxLCJkdXJhdGlvbl9zIjoyNjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_zt=28&_nc_eui2=AeG4gfXyP4NPo-2KfjEKZtyhWhEb3Dx3uS9aERvcPHe5L-YCNzYLb2Asz3x3mE6AUgNMS3D8z9A3l3DwRHp5AcGg&oh=00_AfLmE3994RUJkxRep9Ieq59t2kOsQoB0kVch4q6-F4tk2Q&oe=6834C61C&bytestart=33483765&byteend=34039913%20Request%20Method%20GET%20Status%20Code%20200%20OK%20Remote%20Address%2057.144.100.128:443%20Referrer%20Policy%20strict-origin-when-cross-origin
-
-
-
-
-
 _____
 SOCCER
-
-
-####EXTINF:-1 tvg-id="SoccerChannel.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="SPORTS",Soccer Channel-HD
-####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-####KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-####https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
 
 
 
@@ -1312,12 +1298,6 @@ SPORTSTAR2.1
 _____
 SPOSTAR 3
 
-######EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_3.png" group-title="SPORTS",(OFFLINE)
-#####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#####KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
-####EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#####https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_3.png" group-title="SPORTS", SPORTSTARS 3 HD
@@ -1325,7 +1305,7 @@ SPOSTAR 3
 #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=114&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#####https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
 
@@ -1346,10 +1326,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 ______
 PSJ TV
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Putih.png",PSJ TV
-#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##########https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
 
