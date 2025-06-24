@@ -501,7 +501,7 @@ _____
 SPOSTAR 3
 
 
-#EXTINF:-1 tvg-id="Sportstars 3 HD - [Channel 423].id" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_3.png",SPORTSTARS 03 HD
+#EXTINF:-1 tvg-id="Sportstars 3 HD - [Channel 423].id" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",SPORTSTARS 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
