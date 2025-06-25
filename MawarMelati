@@ -3354,9 +3354,6 @@ https://cloud.hownetwork.xyz/xxx/2b11838fa0c707e047eb0a74eac33b86/25/480.m3u8
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2023/01/01/task1/445b7b48f22b518444219373441d0083/360p/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mYsTYgO.jpeg" group-title="▶VOD ALL◀", VENOM
-https://www.googleapis.com/drive/v3/files/1xbOgRcfm2MwQOWfZWa5BiQWXrGnqf4ky?alt=media&key=AIzaSyD4G9veeusKNZqG4WkteGWsiFRS0EsQ1tk
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/xNhI3Hx.jpeg" group-title="▶VOD ALL◀", THE MEG 1
 https://cdn7iv.diebutx.com/ownhls/2020/574570dde77e5b84f010995dee417522/480p/index.m3u8
@@ -3699,12 +3696,11 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDON
 https://drive.usercontent.google.com/download?id=1wQui7I9Ucl9Sa1MU9ZbmIrleFbe_VEqf&export=download&authuser=0&confirm=t&uuid=ec6a583e-7b8a-44ba-9dd7-a93c9dd7a543&at=APvzH3oECIWDBprkqofOSf9Jz82S%3A1735813166311
 
 
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmYjc0OGEtNDFmMy00ZDhkLWI4MTgtNjI1MDhlMWVjN2U0XkEyXkFqcGc@._V1_.jpg" group-title="FILM HOROR",DOSEN GHAIB - SUDAH MALAM ATAU SUDAH TAHU (FHD) 
 https://drive.usercontent.google.com/download?id=1YslB3-jUVIsLr9EDSjaukX6dpwKZxX9R&export=download&authuser=0&confirm=t&uuid=357c1cc9-c82d-4901-b5a6-18db10f9902c&at=APvzH3rIBYS4a9CILesu8yIh3WCf%3A1735754447312
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Ikut_Aku_ke_Neraka.jpg/220px-Ikut_Aku_ke_Neraka.jpg"group-title="FILM HOROR",Ikut Aku ke Neraka
-https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 #EXTINF:-1 tvg-logo="https://lsf.go.id/wp-content/uploads/2022/02/Menjelang-Magrib.jpg"group-title="FILM HOROR",Menjelang Magrib
