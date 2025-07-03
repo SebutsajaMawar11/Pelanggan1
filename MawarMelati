@@ -1176,28 +1176,6 @@ https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-com
 
 
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="SPORTS 2 HD" , DIGI SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium400
-
-
-
-#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="SPORTS 2 HD" , DIGI SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium401
-
-
-
-#EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/utuqys1454953276.png" group-title="SPORTS 2 HD" , DIGI SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium402
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo2LpM6Kpi_gFycU4Ot409FcyATgVlZwiP2Bx_xb8GrjHpezmAlvDreUB&s=10" group-title="SPORTS 2 HD", DUBAI SPORTS 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8
 
