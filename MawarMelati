@@ -356,11 +356,11 @@ http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
 ___________________________
 jala live
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶BOLA INDOSIAR/LIVE◀",INDOSIAR 720 (JALALIVE1)
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
-#EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
-https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=0dd9432afa8f6ec167ae8e33173206e2&txTime=686e5eeb
+########EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶BOLA INDOSIAR/LIVE◀",INDOSIAR 720 (JALALIVE1)
+#######EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+#######EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
+##########EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
+#######https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=0dd9432afa8f6ec167ae8e33173206e2&txTime=686e5eeb
 ___________________________
 
 
@@ -375,11 +375,11 @@ ___________________
 livesport
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶BOLA INDOSIAR/LIVE◀",EVENT ONLY 480 (LIVESPORTS)
-#EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
-https://twnx3-cf.boblcfwudz421.com/auth%3D45289a5c2148440732094fe002cafbbba19a68bc7f7eec6ea535d9a8cdc78716503d6de4e99bc4bbc8433a304159007bfa7ecddebf3b59b4d2285f942d8bdac9f899720837848ac9e160666062b1cd39454188c567176c78f558f225d6d8aa15ba5d3bf7dfc3e20904c9e3c691fb86e1fd7582fd5a101b41879b88fb590143e02b15567029bef49dbf98d568561402c6c54075b970d88ad9b48429d02fa651eac970587f237ee5a5a001d88e6cee61fbecbc3f20cb7eedaa4989ee466bcf3fcc5370e38e8ed6cac3034fa7ca034d37db8095383824cc3b1e2b60e1850e3edb8b%26cid%3DF8G5wbXzvbSjNCxTWG3bo250709%26_v%3D2%26_r%3DTgDmW8%26_vis%3D0d92454ddb04371db0d8832a95cfa7cbc19f6e7fd24085fe0e1ba2b120f47e87%26_vvs%3D53e2e7aacd00ddc2cccad50e23434de07105a10d3e7e0131b408e0a1c19b10f6/app/c359036.m3u8
+#####EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶BOLA INDOSIAR/LIVE◀",EVENT ONLY 480 (LIVESPORTS)
+####EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
+###EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
+#####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
+###########https://twnx3-cf.boblcfwudz421.com/auth%3D45289a5c2148440732094fe002cafbbba19a68bc7f7eec6ea535d9a8cdc78716503d6de4e99bc4bbc8433a304159007bfa7ecddebf3b59b4d2285f942d8bdac9f899720837848ac9e160666062b1cd39454188c567176c78f558f225d6d8aa15ba5d3bf7dfc3e20904c9e3c691fb86e1fd7582fd5a101b41879b88fb590143e02b15567029bef49dbf98d568561402c6c54075b970d88ad9b48429d02fa651eac970587f237ee5a5a001d88e6cee61fbecbc3f20cb7eedaa4989ee466bcf3fcc5370e38e8ed6cac3034fa7ca034d37db8095383824cc3b1e2b60e1850e3edb8b%26cid%3DF8G5wbXzvbSjNCxTWG3bo250709%26_v%3D2%26_r%3DTgDmW8%26_vis%3D0d92454ddb04371db0d8832a95cfa7cbc19f6e7fd24085fe0e1ba2b120f47e87%26_vvs%3D53e2e7aacd00ddc2cccad50e23434de07105a10d3e7e0131b408e0a1c19b10f6/app/c359036.m3u8
 
 _____________________
 
