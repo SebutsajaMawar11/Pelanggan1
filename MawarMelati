@@ -2276,6 +2276,22 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
 
 
 
+#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttGcYmUhCc0G3QFHAugy_mKcDnNVNLjP_UTmoMgmZZ-iFYEA5qCLNe96F&s=10",AVC/VNL 3 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/KrZNRprXLrTDoHd54kRSVg/Fv2lucGIbhPi2caWYvF5Lg/1750245650456/live/may17/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttGcYmUhCc0G3QFHAugy_mKcDnNVNLjP_UTmoMgmZZ-iFYEA5qCLNe96F&s=10",AVC/VNL 4 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/vr984ubu8H09KjASXZVWeQ/Fv2lucGIbhPi2caWYvF5Lg/1749386843546/live/may21/chunklist.m3u8
+
+
+
+
 #EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9MIpupHcWv8lEa5wx1W0qesfPmTXOEEHinQPsMrou-84pdQvFC6_E8A&s=10", VOLLEY 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
