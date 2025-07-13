@@ -350,20 +350,47 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
 
+
 ________________________________________________________________________________________________________________________________________________________________________
 
 
-====================================▶BOLA INDOSIAR/LIVE◀====================================================
+====================================▶EVENT INDOSIAR/LIVE◀====================================================
 
 
 
-#EXTINF:-1 group-title="▶BOLA INDOSIAR/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR FHD(HD.1)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT INDOSIAR/LIVE◀", LIVE ONLY PIALA PRESIDEN 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://faiqtv.my.id/percobaanvidio/drm.php?id=19035&type=drm
+https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT INDOSIAR/LIVE◀", LIVE ONLY PIALA PRESIDEN 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT INDOSIAR/LIVE◀",PIALA PRESIDEN 3
+#EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
+https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+
+
+
+
+#EXTINF:-1 group-title="▶EVENT INDOSIAR/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR FHD(HD.1)
 http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
 
 ___________________________
 jala live
 
-########EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶BOLA INDOSIAR/LIVE◀",INDOSIAR 720 (JALALIVE1)
+########EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT INDOSIAR/LIVE◀",INDOSIAR 720 (JALALIVE1)
 #######EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 #######EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 ##########EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
@@ -373,7 +400,7 @@ ___________________________
 
 
 
-#EXTINF:-1 group-title="▶BOLA INDOSIAR/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (HD.2)
+#EXTINF:-1 group-title="▶EVENT INDOSIAR/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (HD.2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162138.ts
 
@@ -382,7 +409,7 @@ ___________________
 livesport
 
 
-#####EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶BOLA INDOSIAR/LIVE◀",EVENT ONLY 480 (LIVESPORTS)
+#####EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT INDOSIAR/LIVE◀",EVENT ONLY 480 (LIVESPORTS)
 ####EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
 ###EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
 #####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
@@ -394,35 +421,35 @@ _____________________
 
 
 
-#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="▶BOLA INDOSIAR/LIVE◀",INDOSIAR_HD (HD.3)
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="▶EVENT INDOSIAR/LIVE◀",INDOSIAR_HD (HD.3)
 http://iptvtree.net:8080/live/F25093/29838750/162138.ts
 
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶BOLA INDOSIAR/LIVE◀",INDOSIAR-HD(HD.4)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT INDOSIAR/LIVE◀",INDOSIAR-HD(HD.4)
 http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/1505849.ts
 
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶BOLA INDOSIAR/LIVE◀",INDOSIAR-HD(HD.5)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT INDOSIAR/LIVE◀",INDOSIAR-HD(HD.5)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶BOLA INDOSIAR/LIVE◀",🔴BOLA INDOSIAR FHD
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT INDOSIAR/LIVE◀",🔴BOLA INDOSIAR FHD
 #EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶BOLA INDOSIAR/LIVE◀",🔴BOLA INDOSIAR (AKTIF SAAT LIVE)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT INDOSIAR/LIVE◀",🔴BOLA INDOSIAR (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
 
 
 
 
-
 __________________________________________________________________________________________________________________________________________________________________________
+
 
 ================ 🔴LIVE LIGA BRI / EVENT ONLY ==================
 
