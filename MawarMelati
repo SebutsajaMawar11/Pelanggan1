@@ -87,11 +87,9 @@ ________________________________________________________________________________
 
 ================================== INDONESIA CHANNELS ====================================
 
-#####EXTINF:-1 group-logo="https://i.ytimg.com/vi/yrQ30eMir10/sddefault.jpg",YOUTUBE Channel
-####EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yrQ30eMir10/sddefault.jpg" group-title="Indonesia Channels",🔴LIVE ANIVERSARY SENIMAN GABUS KE 7
-####https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751719748/ei/5MpoaITgKsLasfIPtpS_oAs/ip/160.22.128.18/id/O80Xlr7EQSU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AY1jyLPcRbWZHlamJJDxW_gmWYAbiQm8MxE2fRgSQDPi4YrRUOZhTrLBo4Ea_hTOrnquCx2pBA/spc/l3OVKfFlZDBDzvWCApNpgZDDX7Oxvw9vv7423FqBpt_--kNAtenChyPuI1EIPUwAoZgp/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK7r_EVUn4du4t38zeihY4Cwm3DUjl41_JnwgfA-4odtAiByVqpIFjUdrgHgFMeOZC1uVFfdTF0fBGm9rFeLILk3_g%3D%3D/file/index.m3u8
-
-
+#EXTINF:-1 group-logo="https://i.ytimg.com/vi/yrQ30eMir10/sddefault.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yrQ30eMir10/sddefault.jpg" group-title="Indonesia Channels",🔴LIVE AGUNZA (ANIVERSARY SENIMAN GABUS KE 7)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752430250/ei/SqJzaNOZIezW1d8Pn-y8kAg/ip/160.22.128.114/id/VY5y3fz7EA0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478322/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPl0cCtbRnyKbXhCtgNBHXrG5wlX9KNSU9gv4bs6R4_uhnXIztV_ECJQjU1VdxuY1UhYFB4-6XY/spc/l3OVKVyhTsiOnKrX8Iue94V8HJxkFOL-YpLNXV6U4yWfOM6lndNP/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKLnaBueEB0jyxZ5TZxy1W0xezOVYU433WSewsp2rTGgCIDNZyzqQF8tvb1GiKDETznhkXmjA0KKrddxaSWj9cYMm/file/index.m3u8
 
 
 
