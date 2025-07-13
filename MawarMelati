@@ -670,6 +670,31 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 
 
 
+__________________
+DAZN TV
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="SPORTS" ch-number="1" type="channel",DAZN 1
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="SPORTS" ch-number="2" type="channel",DAZN 2
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="SPORTS" ch-number="3" type="channel",DAZN 3
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="SPORTS" ch-number="4" type="channel",DAZN 4
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
+
+
+
 ____________
 SUKAN TV
 
