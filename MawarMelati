@@ -2159,6 +2159,20 @@ https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png" group-title="SPORTS 2 FHD",Sport TV6
 https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
 
+______________
+SuperSport TV
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="SPORTS 2 FHD", SuperSport 1
+https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="SPORTS 2 FHD", SuperSport 2
+https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="SPORTS 2 FHD", SuperSport 3
+https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
+
 
 ___________________
 ARENA TV
