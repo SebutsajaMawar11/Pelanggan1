@@ -2218,6 +2218,17 @@ http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15735
 http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15736
 
 
+_________________
+STANTA TV
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="SPORTS 2 FHD",SetantaSports 1
+https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports2.png" group-title="SPORTS 2 FHD",SetantaSports 2
+https://wahyu1ptv.pages.dev/Setanta2-HD.m3u8
+
+
 ____________________________________________
 CAMPURAN
 
@@ -2247,6 +2258,22 @@ http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/63953
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/U4528GU.jpg" group-title="SPORTS 2 FHD",SP WWE HD
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/249298
+
+
+_________________
+G3Sport TV
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="SPORTS 2 FHD", Go3Sport HD
+https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="SPORTS 2 FHD", Go3Sport 1
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="SPORTS 2 FHD", Go3Sport 2
+https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="SPORTS 2 FHD", Go3Sport 3
+https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
 
 
 _________________________________________________
@@ -4303,6 +4330,13 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
+
+
+#EXTINF:-1 group-title="HBO / MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 
 
