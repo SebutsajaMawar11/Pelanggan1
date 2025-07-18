@@ -2667,6 +2667,14 @@ https://hotlivezz179026907.akainu.xyz/vr984ubu8H09KjASXZVWeQ/Fv2lucGIbhPi2caWYvF
 
 
 
+#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL (VNL)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.viva.id/vivawisata/1265x711/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="▶VOLLEY / EVENT ONLY◀",MOJI_LIVE VOLLEY
