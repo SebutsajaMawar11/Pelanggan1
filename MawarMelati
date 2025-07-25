@@ -1120,6 +1120,20 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=feed3&type=m3u8
 
 
 
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4p7otNAjRdWkZPBLdbdBLPl8QloLp_VjhrpgmnxZbWAH2LlS1E2WczK0&s=10" group-title="▶EVENT BOLA/LIVE◀",SCTV & INDOSIAR (BOLA)
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#####https://zozotv.xyz:443/live/tonot@562/z562/45.ts
+https://zozotv.xyz:443/live/tonot@562/z562/46.ts
+http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
+####https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/indosiar.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀",🔴BANED...!!! (SERVER 1)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
