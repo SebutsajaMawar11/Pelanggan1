@@ -1328,7 +1328,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18253
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EiBRSyr4NaUosiH5haixyvWiVGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456099/fe2891.jpg" group-title="▶LIVE/EVENT◀4", Final: Vietnam vs Indonesia - ASEAN U-23 Championship Mandiri Cup | 20:00 29 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EiBRSyr4NaUosiH5haixyvWiVGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456099/fe2891.jpg" group-title="▶LIVE/EVENT◀", Final: Vietnam vs Indonesia - ASEAN U-23 Championship Mandiri Cup | 20:00 29 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
