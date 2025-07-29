@@ -1280,15 +1280,7 @@ ________________________________________________________________________________
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fuRTGDorowwqjFNnopEJgrXlAEs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447496/4cc160.jpg" group-title="▶LIVE/EVENT◀", Timnas Putri Senior vs O2C Bandung - Moji Volley Cup | 18:30 24 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rECygM8BXyR2h31Qi85-TPgslkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-16-court-1-c7e83f.jpg" group-title="▶LIVE/EVENT◀", Liang Wei Keng/Wang Chang (CHN) vs Huang Di/Liu Yang (CHN) - Men's Doubles Round of 16 | Victor China Open 2025 | 08:00 24 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EqnxvTF4nLOKhhaa0_OzU4QxCpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459282/3ef846.jpg" group-title="▶LIVE/EVENT◀", Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani (INA) vs Kang Khai Xing/Aaron Tai (MAS) - Men's Doubles Round of 32 | Sands China LTD Macau Open 2025 | 09:00 29 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1296,7 +1288,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IDoPXqlSrqcD1R06wZ_3MyhwVTE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447821/ed1bb7.jpg" group-title="▶LIVE/EVENT◀", Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani (INA) vs Fajar Alfian/Muhammad Shohibul Fikri (INA) - Men's Doubles Round of 16 | Victor China Open 2025 | 08:00 24 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jv9OVGNNqGFW9434Vefl18dZNYY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459296/1562bf.jpg" group-title="▶LIVE/EVENT◀", Apriyani Rahayu/Febi Setianingrum (INA) vs Chen Qing Chen/Keng Shu Liang (CHN) - Women's Doubles Round of 32 | Sands China LTD Macau Open 2025 | 09:00 29 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1304,7 +1296,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qNNZJ_LoEu_xeq75xRGarmF3ZFE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/victor-china-open-2025-round-of-16-court-3-a56036.jpg" group-title="▶LIVE/EVENT◀", Kim Hye Jeong/Kong Hee Yong (KOR) vs Hsieh Pei Shan/Hung En-Tzu (TPE) - Women's Doubles Round of 16 | Victor China Open 2025 | 08:00 24 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mS0Xn-kM-ZiyeG47ZN4U6vpmMJs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459390/52290c.jpg" group-title="▶LIVE/EVENT◀", Ong Yew Sin/Teo Ee Yi (MAS) vs Rahmat Hidayat/Yeremia Erich Yoche Yacob Rambitan (INA) - Men's Doubles Round of 32 | Sands China LTD Macau Open 2025 | 09:00 29 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1312,47 +1304,15 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QtrTy0LTOcfeUw_LwQPINBddFxw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446616/9e6115.jpg" group-title="▶LIVE/EVENT◀", ISPS HANDA Women's Scottish Open 2025 - Round 1 | 15:30 24 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Afo3jP7qxGZDqR8JJIbTUrDKyDk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sands-china-ltd-macau-open-2025-qualifiers-r32-court-4-1ab295.jpg" group-title="▶LIVE/EVENT◀", Yuna Kato/Hina Osawa (JPN) vs Nanako Hara/Riko Kiyose (JPN) - Women's Doubles Round of 32 | Sands China LTD Macau Open 2025 | 09:00 29 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18190
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18253
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uNPwlL11Lye5Sm91MsuO_KeJD28=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4442974/476830.jpg" group-title="▶LIVE/EVENT◀", ATP 250: Generali Open 2025 - Quarter Final | 16:00 24 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/leyarypQM55Q-9niGeC5OFdzgfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4443142/01b7c1.jpg" group-title="▶LIVE/EVENT◀", WTA 250: Livesport Prague Open 2025 - Quarterfinals | 16:00 24 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NJWYgz_Tc80wUf5P7WXQV6t-zKQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4443144/d61efd.jpg" group-title="▶LIVE/EVENT◀", ISPS Handa Senior Open - Round 1 | 19:30 24 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17139
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17139
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/x16WSQtdk5UnfNwZA_uUCXYCViI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4442976/cf74c6.jpg" group-title="▶LIVE/EVENT◀", Women: Japan vs Turkey - Volleyball Nations League | 21:15 24 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ANwfYqfLbWmmn2j-gkfdqUJgCy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4442975/abbb75.jpg" group-title="▶LIVE/EVENT◀", ATP 250: Plava Laguna Croatia Open Umag 2025 - Quarter Final | 21:30 24 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qy3qQ208HXPw_1C3WxlVAWHwGcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456792/5cf738.jpg" group-title="▶LIVE/EVENT◀", Tarragona P1 Premier Padel 2025 - Day 2 | 14:00 29 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1360,135 +1320,15 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/t_WD6K_XWDygquygt7C1txvWpkM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4442977/da839f.jpg" group-title="▶LIVE/EVENT◀", ATP 500: Mubadala Citi DC Open 2025 - Day 4 | 22:00 24 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EIqGeEns-pf-jXOOs1MA9ab8b0w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459447/1f12f8.jpg" group-title="▶LIVE/EVENT◀", Fang-Chih Lee/Fang-Jen Lee (TPE) vs Raymond Indra/Nikolaus Joaquin (INA) - Men's Doubles Round of 32 | Sands China LTD Macau Open 2025 | 19:00 29 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18253
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6IXsbzPiyCu8vCBBA8_c1Bqiazg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4442978/cf03c8.jpg" group-title="▶LIVE/EVENT◀", ATP 250: Plava Laguna Croatia Open Umag 2025 - Quarter Final | 23:00 24 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6299
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6299
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aAOpHIfQkSmK13qokwSZtT8ikpE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445339/667fdd.jpg" group-title="▶LIVE/EVENT◀", WTA 500: Mubadala Citi DC Open 2025 - Day 4 | 00:00 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1MaPSPryRhRBgncpk2q5K98ERXM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4443099/a94999.jpg" group-title="▶LIVE/EVENT◀", Women: Brazil vs Germany - Volleyball Nations League | 00:45 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dKJ9bmHuTAhHG3iO58TWDqwL3Dw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447768/9aed08.jpg" group-title="▶LIVE/EVENT◀", Ajax vs Celtic - Como Cup | 01:25 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17139
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17139
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rhvEIZLggUDrKZTpPaGQLC12IrM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445341/7ea1cb.jpg" group-title="▶LIVE/EVENT◀", ATP 250: Plava Laguna Croatia Open Umag 2025 - Quarter Final | 02:00 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Lz_lTsMUrBW1xmdjx3HXHqegmTc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445343/58163d.jpg" group-title="▶LIVE/EVENT◀", 3M Open - Round 1 | 03:00 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18189
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18189
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/935TGKFKS84wUg5oSXmiyeYEh-c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445347/c7d969.jpg" group-title="▶LIVE/EVENT◀", FIA Formula 3 Championship Belgium Grand Prix 2025 - Practice | 13:45 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yMKbztj7j48UtWdwNi81lg6kxV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445348/3f648e.jpg" group-title="▶LIVE/EVENT◀", FIA Formula 2 Championship Belgium Grand Prix 2025 - Practice | 15:00 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hB5a1-ff_jnmo4O3t2WtxnnwmBg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446625/6c6de6.jpg" group-title="▶LIVE/EVENT◀", WorldSBK Free Practice 1 - WorldSBK Championship Round 7 Hungarian Round | 15:15 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/InZ5drIV8hpQDEcClRkGHHcQoQ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447520/54929c.jpg" group-title="▶LIVE/EVENT◀", ISPS HANDA Women's Scottish Open 2025 - Round 2 | 15:30 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18190
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yhuVNsX1lL5rJ1Y31V3el97hEPw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447525/337f93.jpg" group-title="▶LIVE/EVENT◀", Semifinal: Vietnam vs Philippines - ASEAN U-23 Championship Mandiri Cup | 16:00 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19088
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19088
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eMht2tvn2K8Qr82Izl_wrySL404=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449156/1f9e7a.jpg" group-title="▶LIVE/EVENT◀", Timnas Putri U21 vs O2C Bandung - Moji Volley Cup | 16:30 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tV2t5PJlO_fmaYtgKaOXGZyIpEQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4444552/b41810.jpg" group-title="▶LIVE/EVENT◀", Formula 1 Moet & Chandon Belgian Grand Prix 2025 - Practice | 17:25 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Df52--z494tmf3jV4tpCiePWdEQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445370/b8921e.jpg" group-title="▶LIVE/EVENT◀", ATP 250: Generali Open 2025 - Semifinal | 17:30 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5_BFIw4y1LsCOtYoyUYDihHkBkw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4444553/32880f.jpg" group-title="▶LIVE/EVENT◀", FIA Formula 3 Championship Belgium Grand Prix 2025 - Qualifying | 18:58 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wj5BDcYgHPJUiwEzDuj_ua8-eBI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447527/299f65.jpg" group-title="▶LIVE/EVENT◀", Semifinal: Indonesia vs Thailand - ASEAN U-23 Championship Mandiri Cup | 19:00 25 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EiBRSyr4NaUosiH5haixyvWiVGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456099/fe2891.jpg" group-title="▶LIVE/EVENT◀4", Final: Vietnam vs Indonesia - ASEAN U-23 Championship Mandiri Cup | 20:00 29 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1496,7 +1336,31 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n0weArn4CLpj2pF0MNy7P0cYk3Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445351/0788a3.jpg" group-title="▶LIVE/EVENT◀", WTA 250: Livesport Prague Open 2025 - Semifinals | 19:00 25 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z_uDC_q7aiYnV-IVGrgO_pureA8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459450/23a332.jpg" group-title="▶LIVE/EVENT◀", Bryan Jeremy Goonting/M. Fazriq Mohamad Razif (MAS) vs Muh Putra Erwiyansyah/Daniel Edgar Marvino (INA) - Men's Doubles Round of 32 | Sands China LTD Macau Open 2025 | 21:00 29 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18253
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i7Fn0dOTYTew5CaLQohutdqXQow=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456794/7f8aa8.jpg" group-title="▶LIVE/EVENT◀", ATP 1000: National Bank Open presented by Rogers 2025 - Day 3 | 22:00 29 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/X11gr8ZXsp3DxEsRVco7IAOT2Ao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459412/a2cdd0.jpg" group-title="▶LIVE/EVENT◀", Rui Hirokami/Sayaka Hobara (JPN) vs Meilysa Trias Puspitasari/Rachel Allessya Rose (INA) - Women's Doubles Round of 32 | Sands China LTD Macau Open 2025 | 22:00 29 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZX2ZyYdDt7iNfo57Nv2K0NRvrsY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4460091/ac52a0.jpg" group-title="▶LIVE/EVENT◀", WTA 1000: Omnium Banque Nationale 2025 - Day 2 | 22:00 29 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1504,85 +1368,157 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CzhFwxUodiZmm3t5oZsei8cPQoo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449157/caa877.jpg" group-title="▶LIVE/EVENT◀", Timnas Putri Senior vs Mabes TNI - Moji Volley Cup | 19:00 25 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4Md9LO-jw643gmpwzX4nyuQ8lKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4462035/e96b33.jpg" group-title="▶LIVE/EVENT◀", WTA 1000: Omnium Banque Nationale 2025 - Day 2 | 06:00 30 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/x7YLeXKk__p7XHZyqksXwg6dBk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446626/cdcce2.jpg" group-title="▶LIVE/EVENT◀", WorldWCR Tissot Superpole - WorldSBK Championship Round 7 Hungarian Round | 19:05 25 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/s_zshXdt1LweSV-enCjj-nmKRIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456795/86dfcf.jpg" group-title="▶LIVE/EVENT◀", Men: Italy vs Cuba - Volleyball Nations League | 13:45 30 Juli 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tkdaJr651oNt7lwCtbdgeDK37Kk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4443101/94f937.jpg" group-title="▶LIVE/EVENT◀", ONE Friday Fights 117 | 19:30 25 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OeleYMDGbpgd2IQyL3RQAqHQHX0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456742/960a10.jpg" group-title="▶LIVE/EVENT◀", Tarragona P1 Premier Padel 2025 - Day 3 | 14:00 30 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/agNIxmd6DsKfrkhkIBGqXUuZVzw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456796/8fef5d.jpg" group-title="▶LIVE/EVENT◀", Men: Brazil vs China - Volleyball Nations League | 17:45 30 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hBX5rsRhd9RiIHYlByAchMNx7kU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456743/8893df.jpg" group-title="▶LIVE/EVENT◀", Tarragona P1 Premier Padel 2025 - Day 3 | 21:00 30 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eoLgQ81XEE60i3kWfDynMDtZNAc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456790/3b583c.jpg" group-title="▶LIVE/EVENT◀", ATP 1000: National Bank Open presented by Rogers 2025 - Day 4 | 22:00 30 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JHXrVGX3ToqTbnAobUz5B0J2N_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4458977/4fd28f.jpg" group-title="▶LIVE/EVENT◀", Nottingham Forest vs Estoril Praia - Pre-season Friendly Match | 01:00 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6299
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6299
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wkdf6bl1LVoUGIy7gAAMBCE4AEU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4458976/6a3d64.jpg" group-title="▶LIVE/EVENT◀", West Ham vs Everton - Premier League Summer Series | 05:30 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19228
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19228
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0nd6bNmUcpS9K5_5YGDn9F1Pf9A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4462178/43a948.jpg" group-title="▶LIVE/EVENT◀", WTA 1000: Omnium Banque Nationale 2025 - Day 3 | 06:00 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/V9k28VWusUjCk8ezBAob-suOQ1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4462189/d25439.jpg" group-title="▶LIVE/EVENT◀", Man United vs Bournemouth - Premier League Summer Series | 08:30 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19228
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19228
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YefDlA506G4wOnC0nZioKZK_2qE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459269/b6fb8b.jpg" group-title="▶LIVE/EVENT◀", Men: France vs Slovenia - Volleyball Nations League | 14:00 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5y9cuDyVsyKid8gbSEwqfGX5Ixk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459270/2dce98.jpg" group-title="▶LIVE/EVENT◀", Tarragona P1 Premier Padel 2025 - Day 4 | 15:00 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kYVRwWSWjzqLvHtrfh3-tTzY-QI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459273/bc17ec.jpg" group-title="▶LIVE/EVENT◀", Mallorca vs Parma - Pre-season Friendly Match | 15:55 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6299
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6299
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iAgCsDsxmzDJTHxUgzlrhQsUq0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459268/2fe507.jpg" group-title="▶LIVE/EVENT◀", Men: Japan vs Poland - Volleyball Nations League | 18:00 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/O4uPqXoGBL4bT_Zi_vixuIXso-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459272/a3a206.jpg" group-title="▶LIVE/EVENT◀", ATP 1000: National Bank Open presented by Rogers 2025 - Day 5 | 22:00 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ifRObLk31eknYmA19x-xxA_MOzQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4462049/e9fc0f.jpg" group-title="▶LIVE/EVENT◀", WTA 1000: Omnium Banque Nationale 2025 - Day 4 | 23:30 31 Juli 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9vwOetObl9O4T2GNHyr02Ym6L0o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4462191/3865ca.jpg" group-title="▶LIVE/EVENT◀", WTA 1000: Omnium Banque Nationale 2025 - Day 4 | 06:00 01 Agustus 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4TBEbWn33kkNS84p9q0bPYLlnts=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4462028/405f3f.jpg" group-title="▶LIVE/EVENT◀", Tarragona P1 Premier Padel 2025 - Quarter Final | 15:00 01 Agustus 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6A2LcGjCSNQeJJHujT6bDa9ZJv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459448/6e259e.jpg" group-title="▶LIVE/EVENT◀", ONE Friday Fights 118 | 19:30 01 Agustus 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=16890
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8SaradfgfI1jW-AISQGyU85Y7kA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445354/80d4b6.jpg" group-title="▶LIVE/EVENT◀", ISPS Handa Senior Open - Round 2 | 19:30 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17139
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17139
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6T08ZWxVpjp0u3Mn_ScUeJCQNug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445349/e0dfc3.jpg" group-title="▶LIVE/EVENT◀", FIA Formula 2 Championship Belgium Grand Prix 2025 - Qualifying | 19:53 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sOcp-hD_biodBkFNTeLfKUvzZOo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446627/0f16df.jpg" group-title="▶LIVE/EVENT◀", WorldSSP Superpole - WorldSBK Championship Round 7 Hungarian Round | 19:55 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Vsjo0ohQThJQAJHMqqqWv_H8Ac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446640/fff547.jpg" group-title="▶LIVE/EVENT◀", WorldSBK Free Practice 2 - WorldSBK Championship Round 7 Hungarian Round | 20:55 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z_aZdP-socDuXKVpvHOtprn2sdc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445371/4438a1.jpg" group-title="▶LIVE/EVENT◀", WTA 250: Livesport Prague Open 2025 - Semifinals | 21:00 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zT1y9WY21GljnyaDTsS84YIc55o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445350/80ead6.jpg" group-title="▶LIVE/EVENT◀", Formula 1 Moet & Chandon Belgian Grand Prix 2025 - Sprint Qualifying | 21:25 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4GC178CEaBiAjqBRveWCmDkGqkE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447215/936e5e.jpg" group-title="▶LIVE/EVENT◀", WTA 500: Mubadala Citi DC Open 2025 - Quarterfinals | 23:00 25 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BDAKKxIqjAf3JkCe1J6gsPReTig=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445373/a8ba63.jpg" group-title="▶LIVE/EVENT◀", ATP 250: Plava Laguna Croatia Open Umag 2025 - Semifinal | 23:30 25 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wP80l0XoWfu7XtBzXH6sILgz1DU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4462029/cfbdd8.jpg" group-title="▶LIVE/EVENT◀", Tarragona P1 Premier Padel 2025 - Quarter Final | 21:00 01 Agustus 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1590,7 +1526,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bLJj47y5VCEjnwFIs-5ch_61wFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446641/95f47e.jpg" group-title="▶LIVE/EVENT◀", ATP 500: Mubadala Citi DC Open 2025 - Quarter Final | 01:00 26 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/x1LO-CmKVLa9zOwwNUW8ZyjzCFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4459274/8f6762.jpg" group-title="▶LIVE/EVENT◀", ATP 1000: National Bank Open presented by Rogers 2025 - Day 6 | 22:00 01 Agustus 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1598,309 +1534,17 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xi9APtMIqsa86-pG_ow92eWCXVA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446719/8a7ca7.jpg" group-title="▶LIVE/EVENT◀", 3M Open - Round 2 | 03:00 26 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mVqwvc9iTS_DmN7TKQ9trsM5nZE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19268/superstar-knockout-vol-3-65726e.jpg" group-title="▶LIVE/EVENT◀", Superstar Knockout Vol.3 | 20:00 09 Agustus 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18189
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18189
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19268
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19268
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tbIcqnAgjTZZYE3mo0bC4GcTTI8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447216/d0122c.jpg" group-title="▶LIVE/EVENT◀", WTA 500: Mubadala Citi DC Open 2025 - Quarterfinals | 06:30 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nNSc31tq_yiSoqAshNJb464eGzQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447466/f54671.jpg" group-title="▶LIVE/EVENT◀", WorldSBK Free Practice 3 - WorldSBK Championship Round 7 Hungarian Round | 13:55 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iklwmibxEslDlNVIzA6v9YHB1Qk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447467/18cb18.jpg" group-title="▶LIVE/EVENT◀", FIA Formula 3 Championship Belgium Grand Prix 2025 - Sprint Race | 14:10 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZIell6CM_ICUhZ7ktNGOOvIXVaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447473/60941a.jpg" group-title="▶LIVE/EVENT◀", WorldSBK Tissot Superpole - WorldSBK Championship Round 7 Hungarian Round | 15:50 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Q1dIrmRCX8yBilzoKehy6bU4oCs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449160/d67880.jpg" group-title="▶LIVE/EVENT◀", O2C Bandung vs Mabes TNI - Moji Volley Cup | 16:30 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OtLgWnx3mZ1s_h5-JMNZGj7P8sM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447468/e793d1.jpg" group-title="▶LIVE/EVENT◀", Formula 1 Moet & Chandon Belgian Grand Prix 2025 - Sprint Race | 16:55 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AHRF65kOCj-PBcB3MA5coAwg4qE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447474/5a5173.jpg" group-title="▶LIVE/EVENT◀", WorldWCR Race 1 - WorldSBK Championship Round 7 Hungarian Round | 17:10 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CdPYZB9iFqu6owM5wBfNsIJzZ1o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447482/bb38f4.jpg" group-title="▶LIVE/EVENT◀", WorldSBK Race 1 - WorldSBK Championship Round 7 Hungarian Round | 18:35 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bnKBJsaJd_wSYJRC2jp2cLzMFZE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447470/ec8bd4.jpg" group-title="▶LIVE/EVENT◀", FIA Formula 2 Championship Belgium Grand Prix 2025 - Sprint Race | 18:40 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Efl8v3fmQMJJM0YKSzr-xrheHNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449558/4377da.jpg" group-title="▶LIVE/EVENT◀", Persija vs Arema FC - Persija Matchday | 19:00 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19189
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19189
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9icVQdBR6zLid9qvyT3wcBjjnZs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447217/e6a822.jpg" group-title="▶LIVE/EVENT◀", WTA 250: Livesport Prague Open 2025 - Finals | 19:00 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/C3hC43ivcpWD84X56OumE42vXk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449158/3533ea.jpg" group-title="▶LIVE/EVENT◀", ISPS HANDA Women's Scottish Open 2025 - Round 3 | 19:00 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18190
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SjFGatdQmIehnBUEdR-_nKBBts0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449161/be6f2f.jpg" group-title="▶LIVE/EVENT◀", Timnas Putri U21 vs Timnas Putri Senior - Moji Volley Cup | 19:00 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gWKqNcPu1v9l364wK5jaHnDQlqk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447484/b9209f.jpg" group-title="▶LIVE/EVENT◀", ISPS Handa Senior Open - Round 3 | 19:30 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17139
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17139
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I8_jDpghDQxgv_qaWqCqUObxBqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446642/01f5ee.jpg" group-title="▶LIVE/EVENT◀", ATP 250: Generali Open 2025 - Final | 19:30 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UJEG1oJ15xaaJ7nOgW48CrSP5T8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449163/15974f.jpg" group-title="▶LIVE/EVENT◀", Nice vs St. Pauli - Pre-season Friendly Match | 19:55 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uG2BYx8woYmexBiAEhdUjDB7rDQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447483/eac5bf.jpg" group-title="▶LIVE/EVENT◀", WorldSSP Race 1 - WorldSBK Championship Round 7 Hungarian Round | 20:00 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I_iIXtChgQ90c2ecy1NA-wK0nUg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447471/165131.jpg" group-title="▶LIVE/EVENT◀", Formula 1 Moet & Chandon Belgian Grand Prix 2025 - Qualifying | 20:55 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MZcGfFMSkKwBx8d4ugdHlNq6WxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449164/9292a8.jpg" group-title="▶LIVE/EVENT◀", Kaiserslautern vs Roma - Pre-season Friendly Match | 22:55 26 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cnzVKAuEXx8NxrK6QQekFaBsgac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446720/32aeb0.jpg" group-title="▶LIVE/EVENT◀", 3M Open - Round 3 | 00:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18189
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18189
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-2r8fA6rGRG4_tJ-y4iWAg-AUWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446685/eee992.jpg" group-title="▶LIVE/EVENT◀", ATP 250: Plava Laguna Croatia Open Umag 2025 - Final | 01:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7xWfFrFhSHURY5B9kix2S_2nyOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447218/cf8b1e.jpg" group-title="▶LIVE/EVENT◀", WTA 500: Mubadala Citi DC Open 2025 - Semifinals | 01:30 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/HawwDCXWFxA2UOwDEpLApY90sFg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447472/b678c8.jpg" group-title="▶LIVE/EVENT◀", Nott'm Forest vs Fulham - Pre-season Friendly Match | 01:55 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WRh7ZOZ03G--ClIHLbHmV2GdrBk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446718/d59b0e.jpg" group-title="▶LIVE/EVENT◀", ATP 500: Mubadala Citi DC Open 2025 - Semifinal | 06:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aoknEGm3N1sCy_PwGYXAlIutn1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447489/e272df.jpg" group-title="▶LIVE/EVENT◀", FIA Formula 3 Championship Belgium Grand Prix 2025 - Race | 13:25 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/StNYJ5JvUUTOV7mmaK5YmXBplwM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447490/a43018.jpg" group-title="▶LIVE/EVENT◀", FIA Formula 2 Championship Belgium Grand Prix 2025 - Race | 14:55 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/U1bAHto0UrA9E0SjhgE2BsLUkko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447477/95692b.jpg" group-title="▶LIVE/EVENT◀", WorldSBK Tissot Superpole Race - WorldSBK Championship Round 7 Hungarian Round | 15:40 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uxCUF3tPlxymSr5NzbqRtZnWZ9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447478/768647.jpg" group-title="▶LIVE/EVENT◀", WorldWCR Race 2 - WorldSBK Championship Round 7 Hungarian Round | 17:10 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6G3af2Q0-brhhe8s_s-q_WMlH2U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447366/f2ef86.jpg" group-title="▶LIVE/EVENT◀", 2025 MXGP of Czech Republic: MX2 - Race 1 | 18:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=17141
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/htTrRqjY2WFL-U4EsUX8n5HDuuc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449159/25de1f.jpg" group-title="▶LIVE/EVENT◀", ISPS HANDA Women's Scottish Open 2025 - Final Round | 18:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18190
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fnzaxQ0_YK_Matglo24n95_MFjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447479/ae9626.jpg" group-title="▶LIVE/EVENT◀", WorldSBK Race 2 - WorldSBK Championship Round 7 Hungarian Round | 18:35 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/A4DH8ye5wtgiyx6XR9FrN_gDcv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447433/f60db7.jpg" group-title="▶LIVE/EVENT◀", 2025 MXGP of Czech Republic: MXGP - Race 1 | 19:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=17141
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MYdHKeV-2tILdReF2jqE8hcqygM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447488/6d4c93.jpg" group-title="▶LIVE/EVENT◀", ISPS Handa Senior Open - Round 4 | 19:30 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17139
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17139
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xEKab0uGmHIkQ6-AS59ZQBTvews=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447491/6a0946.jpg" group-title="▶LIVE/EVENT◀", Formula 1 Moet & Chandon Belgian Grand Prix 2025 - Race | 19:55 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17884
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SjQ2loo0ao2u6hDqrszm60xAVJg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447481/bc6183.jpg" group-title="▶LIVE/EVENT◀", WorldSSP Race 2 - WorldSBK Championship Round 7 Hungarian Round | 20:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DZ3vsO_F24ZXQhtsXl5nyGf81MQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447455/92d95c.jpg" group-title="▶LIVE/EVENT◀", 2025 MXGP of Czech Republic: MX2 - Race 2 | 21:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=17141
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/H8FXs956g4YEc9YkfL8re6G6nQo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447492/b3a550.jpg" group-title="▶LIVE/EVENT◀", ATP 1000: National Bank Open presented by Rogers 2025 - Day 1 | 22:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vRPRv72Ca71c48_qKRqLaUVhb7A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447456/c83e96.jpg" group-title="▶LIVE/EVENT◀", 2025 MXGP of Czech Republic: MXGP - Race 2 | 22:00 27 Juli 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=17141
 
 
 
