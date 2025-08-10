@@ -4788,47 +4788,40 @@ ________________________________________________________________________________
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="HBO / MOVIES",ETV BIOSKOP_FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="HBO / MOVIES",ETV Bioskop
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
-#http://iptvtree.net:8080/live/F25093/29838750/298526.ts
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="HBO / MOVIES",ETV BIOSKOP2_FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="HBO / MOVIES",ETV Bioskop 2
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://WahyuIPTV.short.gy/ETVBioskop2.ts
-#http://iptvtree.net:8080/live/F25093/29838750/298513.ts
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="HBO / MOVIES",ETV BIOSKOP3_FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="HBO / MOVIES",ETV Bioskop 3
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://WahyuIPTV.short.gy/ETVBioskop3.ts
-#http://iptvtree.net:8080/live/F25093/29838750/298514.ts
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
 
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="HBO / MOVIES",ETV BIOSKOP4_FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://WahyuIPTV.short.gy/ETVBioskop4.ts
-#http://iptvtree.net:8080/live/F25093/29838750/298529.ts
 
 
 
