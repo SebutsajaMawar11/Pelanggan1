@@ -264,7 +264,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19367&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
+######https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
 
 
 
@@ -1366,10 +1366,11 @@ ________________________________________________________________________________
 
 
 _______IKI NYALA______
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
 #EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", AVC/VNL 1 (TERSEDIA SAAT LIVE)
-######https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
 
 
 
