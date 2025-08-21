@@ -87,17 +87,17 @@ ________________________________________________________________________________
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/moXRiI02kIU/hqdefault.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/moXRiI02kIU/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE NEW ARSHAKA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755780810/ei/asKmaJwwhIqm3w_X8s2IBQ/ip/160.22.128.114/id/moXRiI02kIU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548069/txs/51548066%2C51548067%2C51548068%2C51548069%2C51548070%2C51548071/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNxTTCojd_g26_T7lFJ2zjDbMx5o6yH5b_gclfGwdGx9rSznKfow3Eo4xUMff5E1_eEq6aF5nMe/spc/l3OVKQ9lGMFx_OKrSWFQ8hRVDdJREfdZhqZ6EDr_nl6cMboum-Hu/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfr2exRPnbDnvs3Uu3yaQcZ4aoqZOi6zKMK2_S0snH90CIFRPd5CMp0EN7kFyzkPw2851OwOXlzQgiY6cf1J7F3rv/file/index.m3u8
+#####https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755780810/ei/asKmaJwwhIqm3w_X8s2IBQ/ip/160.22.128.114/id/moXRiI02kIU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548069/txs/51548066%2C51548067%2C51548068%2C51548069%2C51548070%2C51548071/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNxTTCojd_g26_T7lFJ2zjDbMx5o6yH5b_gclfGwdGx9rSznKfow3Eo4xUMff5E1_eEq6aF5nMe/spc/l3OVKQ9lGMFx_OKrSWFQ8hRVDdJREfdZhqZ6EDr_nl6cMboum-Hu/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfr2exRPnbDnvs3Uu3yaQcZ4aoqZOi6zKMK2_S0snH90CIFRPd5CMp0EN7kFyzkPw2851OwOXlzQgiY6cf1J7F3rv/file/index.m3u8
 
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/wAe56VnLFDU/hqdefault.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wAe56VnLFDU/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE KENDEDES GRAND MUSIK
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755781085/ei/fcOmaLjHHJODvcAPxYmJ-A8/ip/160.22.128.114/id/wAe56VnLFDU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548069/txs/51548066%2C51548067%2C51548068%2C51548069%2C51548070%2C51548071/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMABFlnuv6QVrSf56FJH8Q9thrIGKYTPFLCA5RlFc7nIHcYP9fc746WnHYY2tgA2GzLAGi9FBhJ/spc/l3OVKS6fyiPU-8Zs_CjyNTmGPtNzcom6YXtcsTGZUm25WC7GwsPV/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAITCuXZD3pPDJSZOW1TwhBu19KOCt-HPxXj0QIvKe8qlAiEA7-t5e96cGEpYydRa_nTIAJPunMhlk337qKrN40QsoWc%3D/file/index.m3u8
+######https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755781085/ei/fcOmaLjHHJODvcAPxYmJ-A8/ip/160.22.128.114/id/wAe56VnLFDU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548069/txs/51548066%2C51548067%2C51548068%2C51548069%2C51548070%2C51548071/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMABFlnuv6QVrSf56FJH8Q9thrIGKYTPFLCA5RlFc7nIHcYP9fc746WnHYY2tgA2GzLAGi9FBhJ/spc/l3OVKS6fyiPU-8Zs_CjyNTmGPtNzcom6YXtcsTGZUm25WC7GwsPV/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAITCuXZD3pPDJSZOW1TwhBu19KOCt-HPxXj0QIvKe8qlAiEA7-t5e96cGEpYydRa_nTIAJPunMhlk337qKrN40QsoWc%3D/file/index.m3u8
 
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/33WuFcJZlyA/hqdefault.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/33WuFcJZlyA/hqdefault.jpg" group-title="Indonesia Channels",🔴 MEKAR SARI BUDOYO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755781460/ei/9MSmaODLDo-J29gPyNW-yAM/ip/160.22.128.114/id/fwAYouYROvE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548069/txs/51548066%2C51548067%2C51548068%2C51548069%2C51548070%2C51548071/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLOb9tb4oaDn-Rb4Hib7lzUVimHUHP3FcSYKaNcDqigN5noQoYe20B9MHPNGP7aVeLbyhACgUZ_C/spc/l3OVKZcWTqeHDGflMSUlT9NPh6hrwoydVAVYHwfXR9ZZZWapxgji/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANibYlvnJ4MKu4yc8zVI2qy0NPqMBHLi1BR1BGDFHIGGAiEAyUQnzhD2Sj9xwFXMs5APN11xY0ad2EFW0KcaMxEn1-8%3D/file/index.m3u8
+#########https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755781460/ei/9MSmaODLDo-J29gPyNW-yAM/ip/160.22.128.114/id/fwAYouYROvE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548069/txs/51548066%2C51548067%2C51548068%2C51548069%2C51548070%2C51548071/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLOb9tb4oaDn-Rb4Hib7lzUVimHUHP3FcSYKaNcDqigN5noQoYe20B9MHPNGP7aVeLbyhACgUZ_C/spc/l3OVKZcWTqeHDGflMSUlT9NPh6hrwoydVAVYHwfXR9ZZZWapxgji/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANibYlvnJ4MKu4yc8zVI2qy0NPqMBHLi1BR1BGDFHIGGAiEAyUQnzhD2Sj9xwFXMs5APN11xY0ad2EFW0KcaMxEn1-8%3D/file/index.m3u8
 
 ______________________________________________________
 
@@ -1506,91 +1506,6 @@ ________________________________________________________________________________
 
 
 ========================================================================▶LIVE EVENT◀========================================================================
-
-
-
-#EXTM3U billed-msg="DO NOT SELL THIS PLAYLIST ! - updated 20 Agt 2025 21:00 WIB" x-tvg-url="https://xxx.vercel.app/xxx.xml.gz"
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" group-logo="https://play-lh.googleusercontent.com/MRCF1kiPBdAHdWbVZwLn6i4NQ2WPpVCRFKRkwZfdpbDb5KuySOGE48fTn5G6W2aVA8q1",DO NOT SELL THIS PLAYLIST !
-#https://vdo.com
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/UW5zlGfSw6T8IPGipPR7is0yTAc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510568/72ce32.jpg",(20 Agt 2025 18:55 WIB) Timor-Leste vs Indonesia - ASEAN U16 Girls' Mandiri Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19406&type=drm
-########https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19406&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/QeMo062VHwZ6yaUHfIympv5NGOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4506036/093af2.jpg",(20 Agt 2025 22:00 WIB) US Open Qualifying Tournament 2025 - Day 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/x-oiwlBNK5KPom_AiZfFDUd5_8g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4508831/a55780.jpg",(20 Agt 2025 22:00 WIB) WTA 250: Tennis In The Land - Day 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6786&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6786&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/uYbZ7h-xF7QQFq0jXSPUqmwYX9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4506545/1d9f7c.jpg",(21 Agt 2025 01:55 WIB) Bodo/Glimt vs SK Sturm Graz - UEFA Champions League Play-off
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17875&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17875&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/fV0j-svR5D0XYdkUNqymdLU7yjw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4506549/8550ba.jpg",(21 Agt 2025 01:55 WIB) Celtic vs Kairat - UEFA Champions League Play-off
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/dhqN4m4hL9z7Hyt1ltXsBphTyBg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4506554/169840.jpg",(21 Agt 2025 01:55 WIB) Fenerbahce vs Benfica - UEFA Champions League Play-off
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/3Q2SBCST9hp3tABgM6L8ucX_PQQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4506547/f5ffa1.jpg",(21 Agt 2025 04:00 WIB) ATP 250: Winston-Salem Open 2025 - Day 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17875&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17875&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/f32RCA3ERuk3ZmCg3YQjJKKJWfA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4508832/a93168.jpg",(21 Agt 2025 04:00 WIB) WTA 500: Abierto GNP Seguros - Round of 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6786&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6786&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/WMnb-ZGipvK13CCzoGHu5MNYFns=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512812/a1f936.jpg",(21 Agt 2025 06:00 WIB) Jessica Pegula/Jack Draper vs Iga Swiatek/Casper Ruud - Mixed Doubles Semifinal | US Open Qualifying Tournament 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/G9aVmj7gWLbgEECUAypGrUCEb3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512813/e94672.jpg",(21 Agt 2025 07:00 WIB) Danielle Collins/Christian Harrison vs Sara Errani/Andrea Vavassori - Mixed Doubles Semifinal | US Open Qualifying Tournament 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
 
 
 
