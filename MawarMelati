@@ -495,9 +495,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="– ID LOKAL VIP / FHD –",INDOSIAR
 https://zozotv.xyz:443/live/elyahya/elyahya/45.ts
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/45.ts
-#############http://tvking.xyz:8080/haidii/0135244551/5117
+http://tvking.xyz:8080/haidii/0135244551/5117
 
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="– ID LOKAL VIP / FHD –",SCTV
+https://zozotv.xyz:443/live/elyahya/elyahya/46.ts
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/46.ts
 http://tvking.xyz:8080/haidii/0135244551/5147
 
