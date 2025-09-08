@@ -2434,203 +2434,22 @@ ________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
 🔴🔴##https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
 
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/zFZ5s3rkgAEe5a37k6ir9bPPT1A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg",(05 Sep 2025 20:30 WIB) Indonesia vs Chinese Taipei - Timnas Garuda Matchday
+
+
+
+#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/FCu5I2dpyay5CXffcr3ZnvczP54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg",(08 Sep 2025 19:30 WIB) Indonesia vs Lebanon - Timnas Garuda Matchday
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19497&type=drm
 https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19497&type=dash
 
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/bOZwgM5ysRVGs1mr7CwOHaMGkpM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4546930/f8b10e.jpg",(05 Sep 2025 20:53 WIB) FIA Formula 2 Championship Italy Grand Prix 2025 - Qualifying
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
 
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/ap_4nzbib8TUBtGho2qpvkzSY6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4547025/b43e55.jpg",(05 Sep 2025 21:55 WIB) Formula 1 Pirelli Gran Premio D'Italia 2025 - Practice 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
 
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/v0i2RJh08NQuK_PQMD1U0i9AChg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4539751/1e5cee.jpg",(05 Sep 2025 22:00 WIB) Madrid P1 Premier Padel 2025 - Quarter Final
+#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/dwRiAPC2zF3BqcKpiWqVZED-Q-U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557140/73af0b.jpg",(09 Sep 2025 03:00 WIB) WTA 500: Guadalajara Open Akron Presented by Santander 2025 - Day 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/Xi56K_8KtNVtFH8ZqXn8w3lk5Xg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540900/737f61.jpg",(06 Sep 2025 13:35 WIB) Moto3 Free Practice 2: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/bye1LcNRcArLwVsflv2-UnsEGHM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4547026/90ff00.jpg",(06 Sep 2025 14:10 WIB) FIA Formula 3 Championship Italy Grand Prix 2025 - Sprint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/ZcCsUZa6lP2ZR8eRpLkq9JhFOLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542876/7384ee.jpg",(06 Sep 2025 14:20 WIB) Moto2 Free Practice 2: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/TiGZfKoLGIIXmOF1Iy4e7__JhDk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542877/879608.jpg",(06 Sep 2025 15:00 WIB) MotoGP Free Practice 2: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/ngMIGk77hlz7Jymf3RMxLzjjkbE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540897/aa8932.jpg",(06 Sep 2025 15:30 WIB) Laos vs Korea Republic - AFC U-23 Asian Cup 2026 Qualifiers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/5WFHnU7vlPZvawS96q84M11g8F0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542897/a0857d.jpg",(06 Sep 2025 15:40 WIB) MotoGP Qualifying: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/x3l-JFGnHyUX5ehTLJfBqPq5nzg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4544470/fcb506.jpg",(06 Sep 2025 16:00 WIB) Putri: Kharisma Premium vs Rajawali O2C - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/FCFjEf2T4U6BzU0T70tcJ2K2TPs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4547027/dee393.jpg",(06 Sep 2025 17:25 WIB) Formula 1 Pirelli Gran Premio D'Italia 2025 - Practice 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/fvHZquxnFqS30MbK7Cb8w3MGKFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542898/c9f302.jpg",(06 Sep 2025 17:40 WIB) Moto3 Qualifying: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/uI_WscokH4ZN1c9GhjupmXSp6d8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542899/bd1a1e.jpg",(06 Sep 2025 18:40 WIB) Moto2 Qualifying: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/iwFV0IaicbtA5jSgIeT4QWwhVOA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540899/f1c979.jpg",(06 Sep 2025 19:00 WIB) Rajadamnern 2025 Super Lightweight Title
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19388&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19388&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/kk2HTt2iae0ne6fKpa4rhvHxDcY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4544471/2a5a56.jpg",(06 Sep 2025 19:00 WIB) Putri: TNI AL vs Mitra Bank Jateng - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/76UTd-v1nhXKSkKyQNiamKhZM_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4547028/dd70bf.jpg",(06 Sep 2025 19:10 WIB) FIA Formula 2 Championship Italy Grand Prix 2025 - Sprint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/MOTTmRfD9EL6kjJxvEApe4UJ3Ek=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540896/5e8cd1.jpg",(06 Sep 2025 19:30 WIB) Macau vs Indonesia - AFC U-23 Asian Cup 2026 Qualifiers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/of9S5GnAcuh8kFQTzU24Bi4gXXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542900/12f3eb.jpg",(06 Sep 2025 19:40 WIB) MotoGP Tissot SPRINT: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/tnBDcICzc6GdRgKkVZKfL4s120w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4547029/49bb71.jpg",(06 Sep 2025 20:55 WIB) Formula 1 Pirelli Gran Premio D'Italia 2025 - Qualifying
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/rBGQjBJ4-XpMgnVAkQ_kIxEayws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542906/b2618c.jpg",(06 Sep 2025 23:00 WIB) Madrid P1 Premier Padel 2025 - Semifinal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/Fgi6F8HBUayJAZXb3TJr2TfhVyU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4547030/ee09a3.jpg",(07 Sep 2025 13:10 WIB) FIA Formula 3 Championship Italy Grand Prix 2025 - Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/DXNmtb-ucrMgGbT4a-fIg5CwvR0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542901/b520a3.jpg",(07 Sep 2025 14:35 WIB) MotoGP Warm Up & Rider's Parade: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/i4YPBDsWWOM7JipP5XmXQXplhPg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4547031/861420.jpg",(07 Sep 2025 14:40 WIB) FIA Formula 2 Championship Italy Grand Prix 2025 - Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/Lv03ziKGaydc_pZ8pnKkoEZehe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542902/bf6fe6.jpg",(07 Sep 2025 15:45 WIB) Moto3 Race: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/Lw2qxbhWYZSQIYqZw1MQJpGvoww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4544472/c625ef.jpg",(07 Sep 2025 16:00 WIB) Putri: Bank Jatim vs Rajawali O2C - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/m1khK-QxvjZMDkY6m_klCr-K9-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542903/13fb36.jpg",(07 Sep 2025 17:10 WIB) Moto2 Race: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/tAi_NEbXolnVROzE_wCfyPR27dw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542904/90fe02.jpg",(07 Sep 2025 18:25 WIB) MotoGP Race: MotoGP 2025 Round 15 - Monster Energy Grand Prix of Catalonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/KC2i-zoBcvssknxh-r5c2XH5rvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4544473/ed9279.jpg",(07 Sep 2025 19:00 WIB) Putri: TNI AL vs Kharisma Premium - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/uXAd077w2575RZrhTOfAYTmClO8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4547032/9fdfe7.jpg",(07 Sep 2025 19:55 WIB) Formula 1 Pirelli Gran Premio D'Italia 2025 - Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17884&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17884&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/FCu5I2dpyay5CXffcr3ZnvczP54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg",(08 Sep 2025 20:30 WIB) Indonesia vs Lebanon - Timnas Garuda Matchday
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19497&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19497&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/sp15r8E3b7VEzswt65SIvo6vUwA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542919/47cce1.jpg",(09 Sep 2025 15:30 WIB) Laos vs Macau - AFC U-23 Asian Cup 2026 Qualifiers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/gFdHCiI2PjHIdU5OYvUu__9s2A0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542920/8b0325.jpg",(09 Sep 2025 19:30 WIB) Korea Republic vs Indonesia - AFC U-23 Asian Cup 2026 Qualifiers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6786&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6786&type=dash
 
 
 
