@@ -1336,6 +1336,18 @@ ________________________________________________________________________________
 ######https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
 
 
+_______
+🔴 VOLI TV
+
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXsSo5AfrXtxNToEybGhBkl9C5ZjHa4eYZFL0k4j5m34lyBA10QxcOhAz&s=10" group-title="▶VOLLEY / EVENT ONLY◀", 🔴 VOLI TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/2/2.m3u8
+
+
 
 _______IKI NYALA______
 
