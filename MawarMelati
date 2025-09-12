@@ -1349,12 +1349,14 @@ _______
 🔴 VOLI TV
 
 
-#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/VoliTV2023.png/revision/latest?cb=20231115114023" group-title="▶VOLLEY / EVENT ONLY◀", 🔴 VOLI TV
+
+#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/VoliTV2023.png/revision/latest?cb=20231115114023" group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/VoliTV2023.png/revision/latest?cb=20231115114023" ch-number="1",🔴 VOLI TV (FHD)
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 http://103.179.182.117:6768/hls/2/2.m3u8
+
 
 
 
