@@ -634,6 +634,76 @@ ___
 http://103.179.182.117:6768/hls/52/52.m3u8
 
 
+
+______
+🔴MENTARI TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/3vqch04/MENTARI.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/3vqch04/MENTARI.png" ch-number="1", MENTARI TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/48/48.m3u8
+
+_______
+🔴MAGNA TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/5MMkxkt/MAGNACHANNEL.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/5MMkxkt/MAGNACHANNEL.png" ch-number="1", MAGNA TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/19/19.m3u8
+
+_______
+🔴CNN TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/g3QcVg0/CNN.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/g3QcVg0/CNN.png" ch-number="1", CNN TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/59/59.m3u8
+
+_______
+🔴CNBC TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/cxpj0wY/CNBC.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/cxpj0wY/CNBC.png" ch-number="1", CNBC TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/58/58.m3u8
+
+
+_______
+🔴KOMPAS TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/r6Dfk5W/KOMPASTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/r6Dfk5W/KOMPASTV.png" ch-number="1", KOMPAS TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/53/53.m3u8
+
+
+_______
+🔴VTV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/nCsWg2P/VTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/nCsWg2P/VTV.png" ch-number="1", VTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/47/47.m3u8
+
+_______
+🔴NUSANTARA TV
+
+#EXTINF:-1 tvg-id="26" tvg-logo="https://i.ibb.co.com/YdvzZ4L/NUSANTARATV.png" group-title="📁 LOKAL INDO VIP (FHD)", NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+
 ____
 🔴TVRI
 
