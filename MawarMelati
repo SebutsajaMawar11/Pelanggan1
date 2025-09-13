@@ -309,7 +309,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-###https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 
@@ -331,7 +331,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
 
 
@@ -499,7 +499,152 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 🔴🔴🔴🔴🔴__________ – ID LOKAL VIP / FHD – ____________🔴🔴🔴🔴🔴
 
-___________________________
+====================📁 LOKAL INDO VIP (FHD)====================
+
+
+----
+🔴INDOSIAR
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" ch-number="1", INDOSIAR
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/56/56.m3u8
+
+
+___
+🔴RCTI
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/bBsDyTs/RCTI.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/bBsDyTs/RCTI.png" ch-number="1", RCTI
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/51/51.m3u8
+
+
+____
+🔴ANTV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/CVmY3Rh/ANTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/CVmY3Rh/ANTV.png" ch-number="1", ANTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/45/45.m3u8
+
+
+____
+🔴TRANS 7
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/RPYZ0Ln/TRANS7.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/RPYZ0Ln/TRANS7.png" ch-number="1", TRANS 7
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/42/42.m3u8
+
+
+____
+🔴SCTV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/tXJvsJQ/SCTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/tXJvsJQ/SCTV.png" ch-number="1", SCTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/55/55.m3u8
+
+
+_____
+🔴TRANS TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/0fgvHSK/TRANSTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/0fgvHSK/TRANSTV.png" ch-number="1", TRANS TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/43/43.m3u8
+
+
+
+_____
+🔴GTV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/P9ZbzDW/GTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/P9ZbzDW/GTV.png" ch-number="1", GTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/57/57.m3u8
+
+
+______
+🔴MOJI TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/yNK0TD1/MOJI.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/yNK0TD1/MOJI.png" ch-number="1", MOJI TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/50/50.m3u8
+
+
+_____
+🔴TV ONE
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/M7Ykhrs/TVONE.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/M7Ykhrs/TVONE.png" ch-number="1", TVONE
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/46/46.m3u8
+
+____
+🔴MNC TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/kXQCRQx/MNC.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/kXQCRQx/MNC.png" ch-number="1", MNCTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/54/54.m3u8
+
+
+____
+🔴GARUDA TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/2cMqMjJ/GARUDA.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/2cMqMjJ/GARUDA.png" ch-number="1", GARUDA TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/11/11.m3u8
+
+
+___
+🔴INEWS TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/xfdbFZP/INEWS.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/xfdbFZP/INEWS.png" ch-number="1", INEWS TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/52/52.m3u8
+
+
+____
+🔴TVRI
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/frZjJ7z/TVRI.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/frZjJ7z/TVRI.png" ch-number="1", TVRI
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/63/63.m3u8
+
+
 
 ________________________________________________________________________________________________________________________________________________________________________
 
