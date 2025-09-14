@@ -134,6 +134,26 @@ ________________________________________________________________________________
 EVENT _____🔴🔴🔴
 
 
+___
+1)
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/2lzk6HuJEEYwmOL3CCHKIkxcn6I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563159/f648b4.jpg", PERSIJA vs Bali United FC - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+
+____
+2)
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/dFwDzWSNmgyR9-OL3zFkP_i9S9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4567624/0f4770.jpg", PSIS Semarang vs Persiku Kudus - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
+
+
+
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://cdn.grid.id/crop/19x33:732x380/x/photo/2025/09/02/screenshot-2025-09-02-180343png-20250902060409.png",Kualifikasi Piala Asia U-23 2026 (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
