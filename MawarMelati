@@ -150,7 +150,7 @@ ____
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
+#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
 
 
 
