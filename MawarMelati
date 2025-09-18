@@ -847,9 +847,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 ______
-PSJ TV
+SINPO TV
 
 
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHJ-8ANIpQVVrdD8UUjm6lHcnQHvTUsBhruM4C3cRjg&s" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHJ-8ANIpQVVrdD8UUjm6lHcnQHvTUsBhruM4C3cRjg&s" ch-number="1", SINPO TV (AKTIF SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&type=hls
 
 
 _______________________________________________________
