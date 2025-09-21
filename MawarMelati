@@ -133,8 +133,9 @@ EVENT _____🔴🔴🔴
 
 
 
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI - Super League (TERSEDIA SAAT LIVE)
+_____
+BRI 1)
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI s1 - Super League (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
@@ -151,23 +152,32 @@ https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
 
 ___
-1)
+Bri 2)
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",INDOSIAR auto - BRI Super League (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",INDOSIAR auto s2- BRI Super League (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
 https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
 ____
-2)
+pegadaian1)
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",LIGA PEGADAIAN - Pegadaian Championship (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",LIGA PEGADAIAN s1 - Pegadaian Championship (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
 https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
 
+
+_____
+pegadaian 2)
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s2 - Pegadaian Championship (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
 
 
 ______
