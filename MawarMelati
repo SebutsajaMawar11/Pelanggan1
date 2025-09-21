@@ -146,7 +146,7 @@ https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
 
 
 
@@ -162,7 +162,7 @@ https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 ____
 2)
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/0yrRBNP4sXRp8mZxksjP8RUaMVA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4568462/16555d.jpg", PSS Sleman vs Persiba Balikpapan - Pegadaian Championship
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",LIGA PEGADAIAN - Pegadaian Championship (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
