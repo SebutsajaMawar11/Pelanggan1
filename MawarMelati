@@ -133,73 +133,6 @@ EVENT _____🔴🔴🔴
 
 
 
-_____
-BRI 1)
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI s1 - Super League (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
-
-
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI - Super League (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
-###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
-
-
-
-___
-Bri 2)
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",INDOSIAR auto s2- BRI Super League (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
-
-____
-pegadaian1)
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",LIGA PEGADAIAN s1 - Pegadaian Championship (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
-
-
-_____
-pegadaian 2)
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s2 - Pegadaian Championship (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
-
-
-______
-🔴iki nyala🔴
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://cdn.grid.id/crop/19x33:732x380/x/photo/2025/09/02/screenshot-2025-09-02-180343png-20250902060409.png",Kualifikasi Piala Asia U-23 2026 (B)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-###https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7Mr7LW17UbhHIRzPNaZIMZrEvRA2pOdZBBwfTKkE7KM_3s-l7MLZLQZX&s=10",Korea Republic vs Indonesia - AFC U-23 Asian Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-🔴🔴############https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
-
-
-
-
 #EXTINF:-1 group-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/09/03/2166414908.jpg" group-title="Indonesia Channels" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/09/03/2166414908.jpg" ch-number="1",🔴INDOSIAR🔴 SPORTS_FHD
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
@@ -545,6 +478,40 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
 ==================================================📁LIVE / EVENT LOKAL==================================================
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",(22 Sep 2025 14:54 WIB) Arema FC vs PERSIB - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",(22 Sep 2025 15:00 WIB) Jelang Kick Off - Arema FC vs PERSIB - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19355&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19355&type=dash
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",(22 Sep 2025 15:15 WIB) Persikad vs Sriwijaya FC - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
+
+#EXTINF:-1 group-title="#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",(22 Sep 2025 18:35 WIB) Borneo FC Samarinda vs PERSIS - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",(22 Sep 2025 18:52 WIB) Sumsel United vs Persiraja Banda Aceh - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
 
 
 _____
