@@ -544,6 +544,113 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
 
+==================================================📁LIVE / EVENT LOKAL==================================================
+
+
+_____
+BRI 1)
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI s1 - Super League (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI (A) - Super League (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
+
+
+
+___
+Bri 2)
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",INDOSIAR auto s2- BRI Super League (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+
+____
+pegadaian1)
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s1 - Pegadaian Championship (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
+
+
+_____
+pegadaian 2)
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s2 - Pegadaian Championship (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
+
+
+______
+🔴iki nyala🔴
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://cdn.grid.id/crop/19x33:732x380/x/photo/2025/09/02/screenshot-2025-09-02-180343png-20250902060409.png",Kualifikasi Piala Asia U-23 2026 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7Mr7LW17UbhHIRzPNaZIMZrEvRA2pOdZBBwfTKkE7KM_3s-l7MLZLQZX&s=10", AFC U-23 Asian Cup (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYvAdYXz6gsJMrf12wi7a4YuDP85y292lbc8QQCju4sEzI9ARyNrLa1M&s=10",AFC U-23 Asian Cup 2026 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", INDOSIAR_SPORT  (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+
+
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/08/11/3017177497.jpg" ch-number="1",INDOSIAR_AUTO (TERSEDIA SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19367&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_FHD (TERSEDIA SAAT LIVE)
+http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="📁LIVE / EVENT LOKAL",INDOSIAR_SD (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
+
+
+
+
+
 
 🔴🔴🔴🔴🔴__________ – ID LOKAL VIP / FHD – ____________🔴🔴🔴🔴🔴
 
@@ -1967,395 +2074,6 @@ ________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17505&type=drm
 🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17505&type=dash
-
-
-
-
-==================================================🔵LIVE / EVENT ONLY🔵==================================================
-
-
-
-
-
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/UrnQM7budHx7IVxsh2nPhiMD7UE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4558883/360bbc.jpg",(10 Sep 2025 12:30 WIB) Putra: Singo Yudha Kutai Barat vs Perumda Tirta Bhagasasi Bekasi - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/Xk73PVuspm7zcUFpg-Rk952--_w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4553769/439d9a.jpg",(10 Sep 2025 16:00 WIB) Alpine Paris Major Premier Padel 2025 - Day 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/lsFNbL4D7TL362kgp8TiExMwtv8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4558884/84f4bf.jpg",(10 Sep 2025 16:00 WIB) Putra: Berlian Bank Jateng vs DPUPR Alib Grobogan - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/mrbujbmS4riWcKwqyp2OMfSolwM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4558885/5c41f9.jpg",(10 Sep 2025 19:00 WIB) Putra: Lavani Navy vs Sukun Badak - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/u-2R1zUJUcykyPzwfW5DUlFEnQU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4561265/41e042.jpg",(10 Sep 2025 19:00 WIB) Liu Kuang Heng/Yang Po Han (TPE) vs Leo Rolly Carnando/Bagas Maulana (INA) - Men's Doubles Round of 32 | LI-NING Hong Kong Open 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18253&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18253&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/54vPQREd0mr_ZJ9MnAENzpJzX8s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4561079/5ca581.jpg",(10 Sep 2025 21:00 WIB) Jafar Hidayatullah/Felisha Alberta Nathaniel Pasaribu (INA) vs Amri Syahnawi/Nita Violina Marwah (INA) - Mixed Doubles Round of 32 | LI-NING Hong Kong Open 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18252&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18252&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/Blycgb-PGHiaOSaVSrlImk9ELeU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4561053/3c338a.jpg",(10 Sep 2025 22:00 WIB) Alwi Farhan (INA) vs Jason Gunawan (HKG) - Men's Singles Round of 32 | LI-NING Hong Kong Open 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18249&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18249&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/O86Go3PHUK_U2eIy17svmzFnAjY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4553770/1eb917.jpg",(10 Sep 2025 23:00 WIB) Alpine Paris Major Premier Padel 2025 - Day 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/qVqI7-ujrB6A-HQzBU0qAx2VuXY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557142/c49a5e.jpg",(11 Sep 2025 03:00 WIB) WTA 500: Guadalajara Open Akron Presented by Santander 2025 - Day 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6786&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6786&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/ANQkYjrb4DhcDLNlPDivulRHhRU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4560965/cfb584.jpg",(11 Sep 2025 13:00 WIB) Putra: Berlian Bank Jateng vs Singo Yudha Kutai Barat - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/e490Z4WkKS1Xg2BkzaePeQWFh6o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4553771/0ee4bd.jpg",(11 Sep 2025 16:00 WIB) Alpine Paris Major Premier Padel 2025 - Day 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/v7ctsd5Xg1YU8o3TpsVJgoTL35o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4560966/e894db.jpg",(11 Sep 2025 16:00 WIB) Putra: Sukun Badak vs Perumda Tirta Bhagasasi Bekasi - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/GzRc9rwCIhMVtj34qaRwXBdS7TU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4560972/e43940.jpg",(11 Sep 2025 19:00 WIB) Putra: Lavani Navy vs DPUPR Alib Grobogan - Livoli Divisi Utama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19488&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/wt0SfUlFulJlre0w0oMpP9uHSEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4553772/dd70e2.jpg",(11 Sep 2025 23:00 WIB) Alpine Paris Major Premier Padel 2025 - Day 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/gbl2x5XptXBoHicrWFSBI1K14zI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4561096/19701e.jpg",(12 Sep 2025 01:00 WIB) WTA 250: SP Open 2025 - Day 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17505&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17505&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/rZ3vn3DLRK45JemkfC28o0g7e-I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557143/118d16.jpg",(12 Sep 2025 03:00 WIB) WTA 500: Guadalajara Open Akron Presented by Santander 2025 - Day 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6786&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6786&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/Sp4cjmVwuOvElwu5NoFIh1Olpx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4561098/3cbfd6.jpg",(12 Sep 2025 03:00 WIB) Kroger Queen City Championship presented by P&G - Round 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18190&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18190&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/wzJO76ovqdYcsOeFYnlDY9YdZdY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563100/200f33.jpg",(12 Sep 2025 13:55 WIB) Moto3 Free Practice 1: MotoGP 2025 Round 16 - Red Bull Grand Prix of San Marino and the Rimini Rivera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/yGnSYjdstkIQbjmpv7qVyt13pkE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563098/5b36cb.jpg",(12 Sep 2025 14:50 WIB) Moto2 Free Practice 1: MotoGP 2025 Round 16 - Red Bull Grand Prix of San Marino and the Rimini Rivera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/AdCpxF6F33tMv1UBIccv_Nl4RJI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563101/f19d6a.jpg",(12 Sep 2025 15:35 WIB) MotoGP Free Practice 1: MotoGP 2025 Round 16 - Red Bull Grand Prix of San Marino and the Rimini Rivera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/y9GZRp0fVWTm6PdSD2mUDgb5OE0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4553773/ec5c67.jpg",(12 Sep 2025 18:00 WIB) Alpine Paris Major Premier Padel 2025 - Quarter Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/gDGCj0Aci6MzqU9S_kXJZFQHLEQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563102/6b9f39.jpg",(12 Sep 2025 18:10 WIB) Moto3 Practice: MotoGP 2025 Round 16 - Red Bull Grand Prix of San Marino and the Rimini Rivera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/IhfGqIKEfj12WPtTH0gnEgqObDA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563099/a9e0a3.jpg",(12 Sep 2025 19:05 WIB) Moto2 Practice: MotoGP 2025 Round 16 - Red Bull Grand Prix of San Marino and the Rimini Rivera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/D9R1l454BZRZyDLc-cxJn963ym0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563103/97ffec.jpg",(12 Sep 2025 19:50 WIB) MotoGP Practice: MotoGP 2025 Round 16 - Red Bull Grand Prix of San Marino and the Rimini Rivera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/mYD5cnIU9UmH73LxmhZh-gYwR2E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4553774/73564c.jpg",(12 Sep 2025 23:00 WIB) Alpine Paris Major Premier Padel 2025 - Quarter Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/0vnCgL69tbcpX9DhtoWtRAcZCW8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4561097/db8782.jpg",(12 Sep 2025 23:00 WIB) WTA 250: SP Open 2025 - Quarter Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17505&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17505&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/itUQ0LFPpCrPiZWPDjhBihiqotY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4561099/62b3c8.jpg",(13 Sep 2025 00:00 WIB) Kroger Queen City Championship presented by P&G - Round 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18190&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18190&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/DXAAeL0trEhlutRHHkPpkmdYdv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563079/fdc233.jpg",(13 Sep 2025 01:55 WIB) Sevilla vs Elche - LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/mIDk4p6eBeyyUB5g4wNmbgER98Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4558764/c210bf.jpg",(13 Sep 2025 02:00 WIB) Ipswich vs Sheffield United - EFL Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6685&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6685&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/ZRbtmisfEJsrxEYcFxa4Q-Jvzgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557255/f43cfa.jpg",(13 Sep 2025 03:00 WIB) WTA 500: Guadalajara Open Akron Presented by Santander 2025 - Quarter Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6786&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6786&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/5bwhSqqo65zMyj1tSW_o1BDdyEg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563104/b4123f.jpg",(13 Sep 2025 13:35 WIB) Moto3 Free Practice 2: MotoGP 2025 Round 16 - Red Bull Grand Prix of San Marino and the Rimini Rivera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/bceYb6mwjo_4mB5JahO1qh3WQxs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563105/c866b4.jpg",(13 Sep 2025 14:20 WIB) Moto2 Free Practice 2: MotoGP 2025 Round 16 - Red Bull Grand Prix of San Marino and the Rimini Rivera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/GSBgKF4HMmi9ep3XrVXSkz1Rh3o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562501/216b4e.jpg",(13 Sep 2025 18:00 WIB) Arsenal vs Nottingham Forest - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9182&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/hB_is6xxJLISKXVpAyqazvPs-rs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563080/0cbd4c.jpg",(13 Sep 2025 18:55 WIB) Getafe vs Oviedo - LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/3hvabMlTgsj0eON-WrHEO8tKZ_c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557257/d9bb53.jpg",(13 Sep 2025 20:00 WIB) Cagliari vs Parma - Serie A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19404&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/fah8Ltl2PXZJ3_aEVdtpocPuBLg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562502/013c31.jpg",(13 Sep 2025 20:30 WIB) Newcastle vs Wolves - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9182&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/u7brC4wpukTk7k_LXBcg1ObhtDk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562507/d7d4ef.jpg",(13 Sep 2025 20:50 WIB) Bournemouth vs Brighton - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19375&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19375&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/I693tINZ55v63Db8ekvLSFPzZig=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562541/6bcb6c.jpg",(13 Sep 2025 20:50 WIB) Crystal Palace vs Sunderland - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18796&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18796&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/yXGbmaeaz9FmkFyQaHBOHeQRzDA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562681/c02ea2.jpg",(13 Sep 2025 21:00 WIB) Everton vs Aston Villa - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9183&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9183&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/3zOj3FQ7gWfTzbu2siZeauJfAP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563083/3a6397.jpg",(13 Sep 2025 21:10 WIB) Real Sociedad vs Real Madrid - LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/RGwnZpyGLflsNrtsEaNIS2x38GI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4558877/0f4660.jpg",(13 Sep 2025 21:30 WIB) Ajax vs PEC Zwolle - Eredivisie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6685&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6685&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/D2rm6Ei75NwjILvbsVhC-_CEA0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557263/29806b.jpg",(13 Sep 2025 22:00 WIB) Alpine Paris Major Premier Padel 2025 - Semifinal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/e_vPwOmLeTsbmvA0eXOLXathzKk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557258/d9cede.jpg",(13 Sep 2025 23:00 WIB) Juventus vs Inter - Serie A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19404&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/_EAGVZI49B5Moxw9L2X36G6gS3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562503/d21f7d.jpg",(13 Sep 2025 23:00 WIB) West Ham vs Tottenham - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9182&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/00dbs2sO0dCF1om3uelUpXwXgRY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563084/f0f382.jpg",(13 Sep 2025 23:25 WIB) Athletic Club vs Alaves - LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/p3_4WmiEDYO2eRwv_mUPhjVhcqk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4559066/b18cd8.jpg",(13 Sep 2025 23:40 WIB) NEC Nijmegen vs PSV - Eredivisie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6685&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6685&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/ukMh2Rd0AYLjSlyXlm3TXAADKy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557259/4f3ec2.jpg",(14 Sep 2025 01:45 WIB) Fiorentina vs Napoli - Serie A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19404&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/TTWfrlSAw751GUbGWFTuD9f4ww8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4558878/7fea52.jpg",(14 Sep 2025 01:55 WIB) Feyenoord vs Heerenveen - Eredivisie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6685&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6685&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/xN_8wZUiCrQLxbO3F_o9C_cvcSI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563087/1b9a6e.jpg",(14 Sep 2025 01:55 WIB) Atletico Madrid vs Villarreal - LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/7qExtyK--CK4qFF1RdH7ieiHjHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562504/356c9d.jpg",(14 Sep 2025 02:00 WIB) Brentford vs Chelsea - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9182&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/K7o5ittP37mzhC4v7xy_F8y1SPY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557256/3607f5.jpg",(14 Sep 2025 06:00 WIB) WTA 500: Guadalajara Open Akron Presented by Santander 2025 - Semifinal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6786&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6786&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/HhOO8cfxeg8O-Ph3XXbxE7l3sRk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557260/809f30.jpg",(14 Sep 2025 17:30 WIB) Roma vs Torino - Serie A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19404&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/8et-SyETj_oUCrXytghKpyZ8RBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563089/ff6182.jpg",(14 Sep 2025 18:55 WIB) Celta Vigo vs Girona - LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/mQ3nhFVew1Xo98Qi6WKseqanmbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4558879/bda791.jpg",(14 Sep 2025 19:30 WIB) Heracles vs AZ Alkmaar - Eredivisie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19436&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19436&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/zlIk95i3mCsZpP_lrPlJrs1io3c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562505/8ee37b.jpg",(14 Sep 2025 19:30 WIB) Burnley vs Liverpool - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9182&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/aAz20-KSMEuzl9vBrFJ7ZORpyWc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4558601/61c0bb.jpg",(14 Sep 2025 19:45 WIB) Pisa vs Udinese - Serie A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17939&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17939&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/Fth2bF4VOJMSX-0QWq6NgxIqejU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557261/e113dd.jpg",(14 Sep 2025 20:00 WIB) Atalanta vs Lecce - Serie A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19404&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/h2uSu_if44MegsAe8NMbTe2W6B0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563092/5c9809.jpg",(14 Sep 2025 21:10 WIB) Levante vs Real Betis - LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/SSe94ynoF8FMnb91v4abN1iOOwY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4559067/4b01d8.jpg",(14 Sep 2025 21:40 WIB) Telstar vs Fortuna Sittard - Eredivisie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6685&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6685&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/By92xczdZbHrRy08M17YL83IebM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562506/f96913.jpg",(14 Sep 2025 22:00 WIB) Man City vs Man United - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9182&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/kM7ERZGCq64e1acQuKS-CQMSL9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4562682/b8326d.jpg",(14 Sep 2025 22:30 WIB) (Data Zone) Man City vs Man United - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9183&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9183&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/MkjweVFbH64akMPdRc4JKXxqe5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4557262/99d49b.jpg",(14 Sep 2025 23:00 WIB) Sassuolo vs Lazio - Serie A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19404&type=dash
-
-#EXTINF:-1 group-title="🔵LIVE / EVENT ONLY🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/4V8SvX-BkbMtyX4aKBBbVT_nbZw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4563095/051716.jpg",(14 Sep 2025 23:25 WIB) Osasuna vs Rayo Vallecano - LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
-
 
 
 
