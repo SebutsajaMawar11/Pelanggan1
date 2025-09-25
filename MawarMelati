@@ -287,6 +287,12 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="Indonesia Channels",SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
 
 _______
 🔴 SCTV
@@ -303,16 +309,7 @@ _______
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
-
-
-
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="Indonesia Channels",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-
+____________________________
 
 
 
@@ -585,7 +582,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 ______
 BRI (A)
 
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI (A) - Super League (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI (A1) - Super League (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
@@ -593,14 +590,14 @@ https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
 
 
 
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",(22 Sep 2025 14:54 WIB) Arema FC vs PERSIB - BRI Super League
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",LIGA BRI A (A2) - Super League (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
 ###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
 
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",(22 Sep 2025 15:00 WIB) Jelang Kick Off - Arema FC vs PERSIB - BRI Super League
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",LIGA BRI (A2) - Super League (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19355&type=drm
