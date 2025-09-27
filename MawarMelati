@@ -1508,6 +1508,26 @@ ________________________________________________________________________________
 ====================================▶EVENT BOLA/LIVE◀====================================================
 
 
+____________
+M LIVE 5
+
+#EXTINF:-1 group-title="▶EVENT BOLA/LIVE◀" tvg-id="" tvg-logo="https://iili.io/FWIr6GV.md.png",M Live 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+__________
+M LIVE 6
+
+#EXTINF:-1 group-title="▶EVENT BOLA/LIVE◀" tvg-id="" tvg-logo="https://iili.io/FWIZOmP.md.png",M Live 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+
+
+
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀", LIVE AFF U23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
@@ -2088,18 +2108,13 @@ ________________________________________________________________________________
 
 ===========================================SPORTS 2 HD======================================================
 
+#EXTINF:-1 tvg-logo="https://mmatv-static-mvs-wtf.akamaized.net/thumbnail/preview/65c2228557b566830a64773b/maxres.jpeg" group-title="SPORTS 2 HD",MMA TV/PFL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2tBmF_qDeN3yYEbdlj-urFqByN59EITctS5QYskltfYiV2gihDudEE9Q&s=10" group-title="SPORTS 2 HD", AFROSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=afro&type=m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYaigtB9_RmK4YahWmT0t-9tUEBMVr8QaRK0CT1dtfGqOvriqAk4ABgXV&s=10" group-title="SPORTS 2 HD", ARRYADIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8
 
 
 
@@ -2446,35 +2461,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 1
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="Prima Sport 1" group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png", PRIMA SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Prima Sport 2" group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urbckf1656958338.png", PRIMA SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Prima Sport 3" group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pirzmo1656958353.png", PRIMA SPORTS 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Prima Sport 4" group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8yu0gp1656958366.png", PRIMA SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 
 
