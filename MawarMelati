@@ -84,11 +84,6 @@ ________________________________________________________________________________
 ================================== INDONESIA CHANNELS ====================================
 
 
-#EXTINF:-1 group-logo="https://i.ytimg.com/vi/nxoId-hTKuQ/hqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/OWQJdCowRmA/hq720.jpg" group-title="Indonesia Channels",🔴 LIVE CAMPURSARI KENCANA WUNGU
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759177229/ei/rZXaaOSgA6LF4t4P6YnAyQY/ip/160.22.128.18/id/nxoId-hTKuQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478320/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSX-HS7eb9IUtpcdMTHOEISAeOq1y91kNBTLkinvhvXiZxpD__EpMr3O7gPwbAI8rypzp6-mBy9v/spc/hcYD5dExSVZcAxP0AswU8EtZw1oC3Deuiltxat5w--8zz245MksJ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfeCEcdTeHcJXiZFsBkh4HB-1bS8hl7ywIVo0zOz200kCIQDXQPzGsHP1CWvw7IneRQFl0RUOmfEWdI8HSNhu2l6wMw%3D%3D/file/index.m3u8
-
-
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/wAe56VnLFDU/hqdefault.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wAe56VnLFDU/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE KENDEDES GRAND MUSIK
@@ -123,6 +118,13 @@ https://video-cgk1-2.xx.fbcdn.net/o1/v/t2/f2/m266/AQPXgA6DM89ez6QBJZBd7ia8kreg69
 #EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="Indonesia Channels",INFO...!!!
 #####https://video-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-cgk2-1.xx.fbcdn.net&_nc_ohc=CmGwyrm7Jf4Q7kNvwEoJEIQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&oh=00_AfWy7scEi55K7BZPyhuinDbINuCME-pVdL6RhTUOcVq-Lg&oe=689CF2F4&bitrate=291991&tag=sve_sd
+
+
+
+#EXTINF:-1 group-logo="https://i.ytimg.com/vi/nxoId-hTKuQ/hqdefault.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/OWQJdCowRmA/hq720.jpg" group-title="Indonesia Channels",🔴 LIVE CAMPURSARI KENCANA WUNGU
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759177229/ei/rZXaaOSgA6LF4t4P6YnAyQY/ip/160.22.128.18/id/nxoId-hTKuQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478320/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSX-HS7eb9IUtpcdMTHOEISAeOq1y91kNBTLkinvhvXiZxpD__EpMr3O7gPwbAI8rypzp6-mBy9v/spc/hcYD5dExSVZcAxP0AswU8EtZw1oC3Deuiltxat5w--8zz245MksJ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfeCEcdTeHcJXiZFsBkh4HB-1bS8hl7ywIVo0zOz200kCIQDXQPzGsHP1CWvw7IneRQFl0RUOmfEWdI8HSNhu2l6wMw%3D%3D/file/index.m3u8
+
 
 
 
