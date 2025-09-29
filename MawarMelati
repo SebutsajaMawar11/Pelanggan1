@@ -1913,13 +1913,18 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 ________________________________________________________________________________________________________________________________________________________________________
 
 
-====================================▶EVENT BOLA/LIVE◀====================================================
+====================================▶EVENT/LIVE◀====================================================
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="mewatchlive2.sg" tvg-logo="https://i.postimg.cc/13kdqk69/live2.png",M Live 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
 ____________
 M LIVE 5
 
-#EXTINF:-1 group-title="▶EVENT BOLA/LIVE◀" tvg-id="" tvg-logo="https://iili.io/FWIr6GV.md.png",M Live 5
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://iili.io/FWIr6GV.md.png",M Live 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -1928,7 +1933,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 __________
 M LIVE 6
 
-#EXTINF:-1 group-title="▶EVENT BOLA/LIVE◀" tvg-id="" tvg-logo="https://iili.io/FWIZOmP.md.png",M Live 6
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://iili.io/FWIZOmP.md.png",M Live 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
@@ -1936,7 +1941,7 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀", LIVE AFF U23
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #http://mwmpos04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
@@ -1946,7 +1951,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀",SCTV / INDOSIAR (LIVE BOLA)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",SCTV / INDOSIAR (LIVE BOLA)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
@@ -1958,18 +1963,18 @@ https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/indosiar.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀",LIVE 1
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 1
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
 
 
-######EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀",LIVE 1
+######EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 1
 #####EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #####EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 ####https://bintangstreaming.my.id/connect/index.m3u8?channel=feed2&type=m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀",LIVE 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed3&type=m3u8
@@ -1978,7 +1983,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=feed3&type=m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4p7otNAjRdWkZPBLdbdBLPl8QloLp_VjhrpgmnxZbWAH2LlS1E2WczK0&s=10" group-title="▶EVENT BOLA/LIVE◀",SCTV & INDOSIAR (BOLA)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4p7otNAjRdWkZPBLdbdBLPl8QloLp_VjhrpgmnxZbWAH2LlS1E2WczK0&s=10" group-title="▶EVENT/LIVE◀",SCTV & INDOSIAR (BOLA)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
@@ -1991,13 +1996,13 @@ http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
 
 
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀",🔴BANED...!!! (SERVER 1)
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",INDOSIAR (SERVER 1)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀",LIVE AFF U23 (SERVER 2)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE AFF U23 (SERVER 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
@@ -2005,12 +2010,12 @@ http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀", LIVE AFF U23 (SERVER 3)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23 (SERVER 3)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀", LIVE AFF U23 (SERVER 4)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23 (SERVER 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
@@ -2018,7 +2023,7 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
-#EXTINF:-1 group-title="▶EVENT BOLA/LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10",LIVE AFF U23 (SERVER 5)
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10",LIVE AFF U23 (SERVER 5)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
@@ -2028,18 +2033,18 @@ https://hotlivezz179602324.akainu.xyz/OtZZYo1ftmNgC2ptMmh9Zg/Fv2lucGIbhPi2caWYvF
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀",LIVE AFF U23 (SERVER 6)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE AFF U23 (SERVER 6)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT BOLA/LIVE◀",INDOSIAR LIVE (TESTED 1)
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀",INDOSIAR LIVE (TESTED 1)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT BOLA/LIVE◀", LIVE ONLY PIALA PRESIDEN 1
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀", LIVE ONLY PIALA PRESIDEN 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2049,7 +2054,7 @@ https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT BOLA/LIVE◀", LIVE ONLY PIALA PRESIDEN 2
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀", LIVE ONLY PIALA PRESIDEN 2
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
@@ -2058,20 +2063,20 @@ https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT BOLA/LIVE◀",PIALA PRESIDEN 3
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀",PIALA PRESIDEN 3
 #EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 
 
 
-#EXTINF:-1 group-title="▶EVENT BOLA/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR FHD(HD.1)
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR FHD(HD.1)
 http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
 
 ___________________________
 jala live
 
-########EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT BOLA/LIVE◀",INDOSIAR 720 (JALALIVE1)
+########EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",INDOSIAR 720 (JALALIVE1)
 #######EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 #######EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 ##########EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
@@ -2081,7 +2086,7 @@ ___________________________
 
 
 
-#EXTINF:-1 group-title="▶EVENT BOLA/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (HD.2)
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (HD.2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162138.ts
 
@@ -2090,7 +2095,7 @@ ___________________
 livesport
 
 
-#####EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT BOLA/LIVE◀",EVENT ONLY 480 (LIVESPORTS)
+#####EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",EVENT ONLY 480 (LIVESPORTS)
 ####EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
 ###EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
 #####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
@@ -2102,27 +2107,27 @@ _____________________
 
 
 
-#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="▶EVENT BOLA/LIVE◀",INDOSIAR_HD (HD.3)
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="▶EVENT/LIVE◀",INDOSIAR_HD (HD.3)
 http://iptvtree.net:8080/live/F25093/29838750/162138.ts
 
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT BOLA/LIVE◀",INDOSIAR-HD(HD.4)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT/LIVE◀",INDOSIAR-HD(HD.4)
 http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/1505849.ts
 
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT BOLA/LIVE◀",INDOSIAR-HD(HD.5)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT/LIVE◀",INDOSIAR-HD(HD.5)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT BOLA/LIVE◀",🔴BOLA INDOSIAR FHD
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",🔴BOLA INDOSIAR FHD
 #EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT BOLA/LIVE◀",🔴BOLA INDOSIAR (AKTIF SAAT LIVE)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",🔴BOLA INDOSIAR (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
 
