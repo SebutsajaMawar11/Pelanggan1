@@ -1915,7 +1915,7 @@ ________________________________________________________________________________
 
 ====================================▶EVENT/LIVE◀====================================================
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="mewatchlive2.sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279315292%27&EntityType=%27LinearSchedule%27&EntityId=%27a9a9ec83-4f91-44ac-beec-faca14708ad4%27&Width=1280&Height=720",M Live 2
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="mewatchlive2.sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279315292%27&EntityType=%27LinearSchedule%27&EntityId=%27a9a9ec83-4f91-44ac-beec-faca14708ad4%27&Width=1280&Height=720",M Live 2 (TERSEDIA SAAT LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
@@ -1924,7 +1924,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 ____________
 M LIVE 5
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290473%27&EntityType=%27LinearSchedule%27&EntityId=%27e173bb41-870b-435b-a1a8-25bac59911bc%27&Width=1280&Height=720",M Live 5
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290473%27&EntityType=%27LinearSchedule%27&EntityId=%27e173bb41-870b-435b-a1a8-25bac59911bc%27&Width=1280&Height=720",M Live 5 (TERSEDIA SAAT LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -1933,7 +1933,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 __________
 M LIVE 6
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290468%27&EntityType=%27LinearSchedule%27&EntityId=%27493abb2d-6040-400c-ac9a-fa2ae35a03e2%27&Width=1280&Height=720",M Live 6
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290468%27&EntityType=%27LinearSchedule%27&EntityId=%27493abb2d-6040-400c-ac9a-fa2ae35a03e2%27&Width=1280&Height=720",M Live 6 (TERSEDIA SAAT LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
