@@ -2612,6 +2612,23 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl2.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.postimg.cc/VkSTV3MF/images-2.jpg", ALKASS SPORT 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/186853
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.postimg.cc/VkSTV3MF/images-2.jpg", ALKASS SPORT 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/186854
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.postimg.cc/VkSTV3MF/images-2.jpg", ALKASS SPORT 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/356598
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.postimg.cc/VkSTV3MF/images-2.jpg", ALKASS SPORT 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/186856
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.postimg.cc/VkSTV3MF/images-2.jpg", ALKASS SPORT 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/186857
+
+
+
 
 
 
@@ -3123,16 +3140,16 @@ PRIMA SPORT
 
 
 
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="SPORTS 2 FHD" ,Prima Sport 1 
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1&quot; tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA" group-title="SPORTS 2 FHD", Prima Sport 1 
+#EXTVLCOPT:http-referrer=https://hulky116.lokix1.cfd/000/
+https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="SPORTS 2 FHD" ,Prima Sport 2 
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2&quot; tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="SPORTS 2 FHD", Prima Sport 2 
 #EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
