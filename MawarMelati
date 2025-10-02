@@ -2565,6 +2565,56 @@ ________________________________________________________________________________
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDcqJop58uo9S1iYnkc7Npv0qqeVSBz3iqw&s" group-title="SPORTS 2 HD", DAZN 01
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/znsa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=10" group-title="SPORTS 2 HD", DAZN /1
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=10" group-title="SPORTS 2 HD", DAZN 2
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=10" group-title="SPORTS 2 HD", DAZN 3
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000&quality=10" group-title="SPORTS 2 HD", DAZN 4
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn4.m3u8
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 1
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tnt1.m3u8
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 2
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tnt2.m3u8
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 3
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tnt3.m3u8
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 4
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tnt4.m3u8
+
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS 2 HD",Astro Premier League
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl1.m3u8
+#https://events3.liveboxpro.com/event/125.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS 2 HD",Astro Premier League 2
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl2.m3u8
+#https://events3.liveboxpro.com/event/126.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2tBmF_qDeN3yYEbdlj-urFqByN59EITctS5QYskltfYiV2gihDudEE9Q&s=10" group-title="SPORTS 2 HD", AFROSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=afro&type=m3u8
