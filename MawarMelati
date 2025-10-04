@@ -1557,47 +1557,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
-_______________________________________________________
-TNT SPORT TV
-
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="SPORTS",TNT Sports 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-#######https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="SPORTS",TNT Sports 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-######https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xCZT9xz/tntsports3.jpg" group-title="SPORTS",TNT Sports 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-######https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFZwwBN/tntsports4.jpg" group-title="SPORTS",TNT Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-#######https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
-
-
 ________________
 FUBO TV
 
@@ -1615,8 +1574,52 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
+
+_____________
+TNT SPORT
+
+
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 01
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjVkZWIxOTBiMWRhYzI4ZTQ2YzBiZGFkYTc2NjhiN2RlIiwia2V5IjoiZGRkMmIzNzI3MDJlNDJiMGQyNzA4YTcwYjkxZGVjOGQiLCJleHAiOjE3NTk2MTkxNjV9.2SA7PzQkSEhC54h7BYmmJap0xD9jwv68jwCrSd-YiDo
+https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2EyMDFhaXZvdHRsaW5lYXItYS5ha2FtYWloZC5uZXQvT1RUQi9saHItbml0cm8vY2xpZW50cy9kYXNoL2VuYy9rYXYxMG1kajkxL291dC92MS9iZDNiMGMzMTRmZmY0YmIxYWI0NjkzMzU4ZjNjZDJkMy9jZW5jLm1wZCIsImV4cCI6MTc1OTYxOTE2NX0.-0nqqH0yrBjcZClhpVlf1Fnaltkzx8I89MnVEJMStBE
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 02
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjBkOWVmYTgyODdhNTJhMjQ5N2EyODFmN2E5MDEyMjExIiwia2V5IjoiZTRmODMyZDM3Mjk0MzAxNGZlNWMzMDkyOGE5MGU1NDciLCJleHAiOjE3NTk2MTkxNjV9.FWSzjIA26VnibAqcpDsHwhdKaJxvd-99BdRsp4246kk
+https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2EyMDVhaXZvdHRsaW5lYXItYS5ha2FtYWloZC5uZXQvT1RUQi9saHItbml0cm8vbGl2ZS9jbGllbnRzL2Rhc2gvZW5jL2lycGxxdGNqbHYvb3V0L3YxL2Y4ZmExN2YwODc1NjRmNTFhYTRkNWM3MDBiZTQzZWM0L2NlbmMubXBkIiwiZXhwIjoxNzU5NjE5MTY1fQ.ILOVZRQGA9cx8eJiW7XW3De462tRWM7Vx3n2S5ojJEY
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 03
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjA4ZWZjN2ZiMTA3OTgxNjA4ZjdiNjRkYjVlYTYyNDY5Iiwia2V5IjoiM2E2ODQ0YmM5ZjBkOWQ5ZmQ5NjI2MzlkN2U0ZWI3NmEiLCJleHAiOjE3NTk2MTkxNjV9.Kj_1p2kG5W4icRT4rtK5x89EME3q7hVCG_YhB5t8HB0
+https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2EyMDNhaXZvdHRsaW5lYXItYS5ha2FtYWloZC5uZXQvT1RUQi9saHItbml0cm8vbGl2ZS9kYXNoL2VuYy9sc2Rhc2J2Z2x2L291dC92MS9iYjU0OGEzNjI2Y2Q0NzA4YWZiYjk0YTU4ZDcxZGNlOS9jZW5jLm1wZCIsImV4cCI6MTc1OTYxOTE2NX0.nY0Oz-yvUHHKfVOZfBn-we8nAySuXaHQQLeJGhtZxjQ
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 04
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjVjY2RjY2YwODE4ZDNkOWZmNmMyNjA3NmZjMTE1M2FjIiwia2V5IjoiZjhkN2ZkYTdlM2YxMWEyOWIzNDZhMzdlOThmNzQ5ZDQiLCJleHAiOjE3NTk2MTkxNjV9.l2y3FGn4kzdpaDheIlEdZfsao2UgxDi3Uj1MuCDtErE
+https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2EyMDRhaXZvdHRsaW5lYXItYS5ha2FtYWloZC5uZXQvT1RUQi9saHItbml0cm8vbGl2ZS9kYXNoL2VuYy9pMnBjanI0cGU1L291dC92MS85MTJlOWRiNTZkNzU0MDNiOGE5YWMwYTcxOTExMGYzNi9jZW5jLm1wZCIsImV4cCI6MTc1OTYxOTE2NX0.VtMe7JJj2_rGkSDpJCDk_2kTt-var1z9OaeqBxtilxA
+
+
+
 _____________
 ASTRO
+
 
 #EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/154.ts
@@ -6944,45 +6947,6 @@ https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.e
 https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2QydGp5cHh4eTc2OWZuLmNsb3VkZnJvbnQubmV0L291dC92MS80NmQ5Y2YzOWI5YTg0MTgzYjhkNTAyMmFjOGY0YmM0MS9pbmRleC5tcGQiLCJleHAiOjE3NTk2MTU3MzN9.QeeNWMM_YpmP2fPFMB5ZJHRF2gzkAQzj8pmGHvUnkMc
 
 
-
-
-
-____________Test2______________
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjVkZWIxOTBiMWRhYzI4ZTQ2YzBiZGFkYTc2NjhiN2RlIiwia2V5IjoiZGRkMmIzNzI3MDJlNDJiMGQyNzA4YTcwYjkxZGVjOGQiLCJleHAiOjE3NTk2MTkxNjV9.2SA7PzQkSEhC54h7BYmmJap0xD9jwv68jwCrSd-YiDo
-#EXTINF:-1 group-logo="https://gooo.blog/sports.png" tvg-logo="https://gooo.blog/free.jpg" group-title="TNT SPORTS",TNT SPOTS 1
-https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2EyMDFhaXZvdHRsaW5lYXItYS5ha2FtYWloZC5uZXQvT1RUQi9saHItbml0cm8vY2xpZW50cy9kYXNoL2VuYy9rYXYxMG1kajkxL291dC92MS9iZDNiMGMzMTRmZmY0YmIxYWI0NjkzMzU4ZjNjZDJkMy9jZW5jLm1wZCIsImV4cCI6MTc1OTYxOTE2NX0.-0nqqH0yrBjcZClhpVlf1Fnaltkzx8I89MnVEJMStBE
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjBkOWVmYTgyODdhNTJhMjQ5N2EyODFmN2E5MDEyMjExIiwia2V5IjoiZTRmODMyZDM3Mjk0MzAxNGZlNWMzMDkyOGE5MGU1NDciLCJleHAiOjE3NTk2MTkxNjV9.FWSzjIA26VnibAqcpDsHwhdKaJxvd-99BdRsp4246kk
-#EXTINF:-1 group-logo="https://gooo.blog/sports.png" tvg-logo="https://gooo.blog/free.jpg" group-title="TNT SPORTS",TNT SPOTS 2
-https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2EyMDVhaXZvdHRsaW5lYXItYS5ha2FtYWloZC5uZXQvT1RUQi9saHItbml0cm8vbGl2ZS9jbGllbnRzL2Rhc2gvZW5jL2lycGxxdGNqbHYvb3V0L3YxL2Y4ZmExN2YwODc1NjRmNTFhYTRkNWM3MDBiZTQzZWM0L2NlbmMubXBkIiwiZXhwIjoxNzU5NjE5MTY1fQ.ILOVZRQGA9cx8eJiW7XW3De462tRWM7Vx3n2S5ojJEY
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjA4ZWZjN2ZiMTA3OTgxNjA4ZjdiNjRkYjVlYTYyNDY5Iiwia2V5IjoiM2E2ODQ0YmM5ZjBkOWQ5ZmQ5NjI2MzlkN2U0ZWI3NmEiLCJleHAiOjE3NTk2MTkxNjV9.Kj_1p2kG5W4icRT4rtK5x89EME3q7hVCG_YhB5t8HB0
-#EXTINF:-1 group-logo="https://gooo.blog/sports.png" tvg-logo="https://gooo.blog/free.jpg" group-title="TNT SPORTS",TNT SPOTS 3
-https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2EyMDNhaXZvdHRsaW5lYXItYS5ha2FtYWloZC5uZXQvT1RUQi9saHItbml0cm8vbGl2ZS9kYXNoL2VuYy9sc2Rhc2J2Z2x2L291dC92MS9iYjU0OGEzNjI2Y2Q0NzA4YWZiYjk0YTU4ZDcxZGNlOS9jZW5jLm1wZCIsImV4cCI6MTc1OTYxOTE2NX0.nY0Oz-yvUHHKfVOZfBn-we8nAySuXaHQQLeJGhtZxjQ
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjVjY2RjY2YwODE4ZDNkOWZmNmMyNjA3NmZjMTE1M2FjIiwia2V5IjoiZjhkN2ZkYTdlM2YxMWEyOWIzNDZhMzdlOThmNzQ5ZDQiLCJleHAiOjE3NTk2MTkxNjV9.l2y3FGn4kzdpaDheIlEdZfsao2UgxDi3Uj1MuCDtErE
-#EXTINF:-1 group-logo="https://gooo.blog/sports.png" tvg-logo="https://gooo.blog/free.jpg" group-title="TNT SPORTS",TNT SPOTS 4
-https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2EyMDRhaXZvdHRsaW5lYXItYS5ha2FtYWloZC5uZXQvT1RUQi9saHItbml0cm8vbGl2ZS9kYXNoL2VuYy9pMnBjanI0cGU1L291dC92MS85MTJlOWRiNTZkNzU0MDNiOGE5YWMwYTcxOTExMGYzNi9jZW5jLm1wZCIsImV4cCI6MTc1OTYxOTE2NX0.VtMe7JJj2_rGkSDpJCDk_2kTt-var1z9OaeqBxtilxA
 
 
 
