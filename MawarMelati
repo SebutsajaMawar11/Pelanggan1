@@ -1383,17 +1383,41 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 
 __________________
-SPOTV1
+SPOTV1 normal
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPORTS",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#########https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+____________
+spotv bwww
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPORTS",SpoTV 01
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjMxOTdmN2Y1MDg2YzQzMTVhZjJiN2E5NGJjOTIwMWNiIiwia2V5IjoiMTc0NjJhNzQ3MzlhZTBkOTg1NTcwNWZmYzJjMGUxYjUiLCJleHAiOjE3NTk2MTU3MzN9.3ju94DXB_QEEyKLBnpc54tXlacKM3jAtezwz0IQrwlE
+https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2QzYjB2N2ZnZ3U1endtLmNsb3VkZnJvbnQubmV0L291dC92MS9iNDgxNGFlOTNjYTg0ZGQzYmI1YjBhZmY3NmNhMjYzZi9pbmRleC5tcGQiLCJleHAiOjE3NTk2MTU3MzN9.ZsostjkJpQtwuDYSGkaB6mkWOy3oLqB8OiskPUIEXDo
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS",SpoTV 02
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjE1MzlmMDQzMjQ5ZTQxM2Q5MTkwNjAzNmYzMDU4MzFlIiwia2V5IjoiNjcxZTI0ZmQ4ZDIzNGM3ZjM4ZDg1MDU1ODE1ZjkwMmEiLCJleHAiOjE3NTk2MTU3MzN9._MQedwybq4pemVCqqhK2ALYplYzIYcbKjy56jCMlCwU
+https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2QydGp5cHh4eTc2OWZuLmNsb3VkZnJvbnQubmV0L291dC92MS80NmQ5Y2YzOWI5YTg0MTgzYjhkNTAyMmFjOGY0YmM0MS9pbmRleC5tcGQiLCJleHAiOjE3NTk2MTU3MzN9.QeeNWMM_YpmP2fPFMB5ZJHRF2gzkAQzj8pmGHvUnkMc
+
+___________________
+
+
+
 
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS", SPOTV 2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+######http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS", SPOTV 2 (PRIME+)
@@ -6812,6 +6836,16 @@ _____________________________
 
 
 ==================================================🔵EVENT | MotoGP MANDALIKA🔵==================================================
+
+
+#EXTINF:-1 tvg-logo="https://teropongmedia.id/wp-content/uploads/2025/10/Capture-2.png" group-title="🔵EVENT | MotoGP MANDALIKA🔵",MotoGP Mandalika - SpoTV 02 (3-5 Okt)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjE1MzlmMDQzMjQ5ZTQxM2Q5MTkwNjAzNmYzMDU4MzFlIiwia2V5IjoiNjcxZTI0ZmQ4ZDIzNGM3ZjM4ZDg1MDU1ODE1ZjkwMmEiLCJleHAiOjE3NTk2MTU3MzN9._MQedwybq4pemVCqqhK2ALYplYzIYcbKjy56jCMlCwU
+https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2QydGp5cHh4eTc2OWZuLmNsb3VkZnJvbnQubmV0L291dC92MS80NmQ5Y2YzOWI5YTg0MTgzYjhkNTAyMmFjOGY0YmM0MS9pbmRleC5tcGQiLCJleHAiOjE3NTk2MTU3MzN9.QeeNWMM_YpmP2fPFMB5ZJHRF2gzkAQzj8pmGHvUnkMc
+
+
 
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://teropongmedia.id/wp-content/uploads/2025/10/Capture-2.png" group-title="🔵EVENT | MotoGP MANDALIKA🔵", MotoGP Mandalika - SPOTV 2 (3-5 Okt)
