@@ -597,147 +597,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 ==================================================📁LIVE / EVENT LOKAL==================================================
 
 
-______
-BRI (A)
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI (A1) - Super League (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
-
-
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",LIGA BRI A (A2) - Super League (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
-
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",LIGA BRI (A2) - Super League (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19355&type=drm
-###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19355&type=dash
-
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",(22 Sep 2025 15:15 WIB) Persikad vs Sriwijaya FC - Pegadaian Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
-###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
-
-#EXTINF:-1 group-title="#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",BRI Super League - (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
-
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",Pegadaian Championship - (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
-
-
-_____
-BRI 1)
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI s1 - Super League (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
-
-
-
-___
-Bri 2)
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",INDOSIAR auto s2- BRI Super League (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
-
-____
-pegadaian1)
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s1 - Pegadaian Championship (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
-
-
-_____
-pegadaian 2)
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s2 - Pegadaian Championship (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
-
-
-______
-🔴iki nyala🔴
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://cdn.grid.id/crop/19x33:732x380/x/photo/2025/09/02/screenshot-2025-09-02-180343png-20250902060409.png",Kualifikasi Piala Asia U-23 2026 (B)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7Mr7LW17UbhHIRzPNaZIMZrEvRA2pOdZBBwfTKkE7KM_3s-l7MLZLQZX&s=10", AFC U-23 Asian Cup (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
-
-
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYvAdYXz6gsJMrf12wi7a4YuDP85y292lbc8QQCju4sEzI9ARyNrLa1M&s=10",AFC U-23 Asian Cup 2026 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
-
-
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", INDOSIAR_SPORT  (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
-
-
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/08/11/3017177497.jpg" ch-number="1",INDOSIAR_AUTO (TERSEDIA SAAT LIVE)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19367&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
-
-
-
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_FHD (TERSEDIA SAAT LIVE)
-http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
-
-
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="📁LIVE / EVENT LOKAL",INDOSIAR_SD (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
-
-
-
-
-
 
 🔴🔴🔴🔴🔴__________ – ID LOKAL VIP / FHD – ____________🔴🔴🔴🔴🔴
 
@@ -1356,6 +1215,250 @@ https://popmi.my.id/tes.m3u8?id=7218
 ________________________________________________________________________________________________________________________________________________________________________
 
 
+
+====================================▶EVENT/LIVE◀====================================================
+
+__________
+M LIVE 2
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="mewatchlive2.sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279315292%27&EntityType=%27LinearSchedule%27&EntityId=%27a9a9ec83-4f91-44ac-beec-faca14708ad4%27&Width=1280&Height=720",M Live 2 (TERSEDIA SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
+____________
+M LIVE 5
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290473%27&EntityType=%27LinearSchedule%27&EntityId=%27e173bb41-870b-435b-a1a8-25bac59911bc%27&Width=1280&Height=720",M Live 5 (TERSEDIA SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+__________
+M LIVE 6
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290468%27&EntityType=%27LinearSchedule%27&EntityId=%27493abb2d-6040-400c-ac9a-fa2ae35a03e2%27&Width=1280&Height=720",M Live 6 (TERSEDIA SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+__________
+M LIVE SPL 1
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%279290461%27&EntityType=%27LinearSchedule%27&EntityId=%27747df98c-7221-461e-be41-88d79d172069%27&Width=1280&Height=720",M LIVE SPL 01 (TERSEDIA SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+__________
+M LIVE SPL 2
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%279302387%27&EntityType=%27Item%27&EntityId=%27278689%27&Width=420&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",M LIVE SPL 02 (TERSEDIA SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#http://mwmpos04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162138
+#http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",SCTV / INDOSIAR (LIVE BOLA)
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+####https://zozotv.xyz:443/live/tonot@562/z562/45.ts
+http://103.153.246.42:4022/udp/239.2.2.28:3000
+https://zozotv.xyz:443/live/tonot@562/z562/46.ts
+http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/indosiar.m3u8
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 1
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
+
+
+######EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 1
+#####EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#####EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+####https://bintangstreaming.my.id/connect/index.m3u8?channel=feed2&type=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=feed3&type=m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4p7otNAjRdWkZPBLdbdBLPl8QloLp_VjhrpgmnxZbWAH2LlS1E2WczK0&s=10" group-title="▶EVENT/LIVE◀",SCTV & INDOSIAR (BOLA)
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#####https://zozotv.xyz:443/live/tonot@562/z562/45.ts
+https://zozotv.xyz:443/live/tonot@562/z562/46.ts
+http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
+####https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/indosiar.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",INDOSIAR (SERVER 1)
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE AFF U23 (SERVER 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23 (SERVER 3)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23 (SERVER 4)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10",LIVE AFF U23 (SERVER 5)
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#########https://hotlivezz179026907.akainu.xyz/-kGjIn3bMa1qZLkv-zp5lQ/Fv2lucGIbhPi2caWYvF5Lg/1752593959314/live/may211/chunklist.m3u8
+https://hotlivezz179602324.akainu.xyz/OtZZYo1ftmNgC2ptMmh9Zg/Fv2lucGIbhPi2caWYvF5Lg/1752604847232/live/caSD/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE AFF U23 (SERVER 6)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀",INDOSIAR LIVE (TESTED 1)
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀", LIVE ONLY PIALA PRESIDEN 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://faiqtv.my.id/percobaanvidio/drm.php?id=19035&type=drm
+https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀", LIVE ONLY PIALA PRESIDEN 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀",PIALA PRESIDEN 3
+#EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
+https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+
+
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR FHD(HD.1)
+http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
+
+___________________________
+jala live
+
+########EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",INDOSIAR 720 (JALALIVE1)
+#######EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+#######EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
+##########EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
+#######https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=0dd9432afa8f6ec167ae8e33173206e2&txTime=686e5eeb
+___________________________
+
+
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (HD.2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162138.ts
+
+
+___________________
+livesport
+
+
+#####EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",EVENT ONLY 480 (LIVESPORTS)
+####EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
+###EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
+#####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
+###########https://twnx3-cf.boblcfwudz421.com/auth%3D45289a5c2148440732094fe002cafbbba19a68bc7f7eec6ea535d9a8cdc78716503d6de4e99bc4bbc8433a304159007bfa7ecddebf3b59b4d2285f942d8bdac9f899720837848ac9e160666062b1cd39454188c567176c78f558f225d6d8aa15ba5d3bf7dfc3e20904c9e3c691fb86e1fd7582fd5a101b41879b88fb590143e02b15567029bef49dbf98d568561402c6c54075b970d88ad9b48429d02fa651eac970587f237ee5a5a001d88e6cee61fbecbc3f20cb7eedaa4989ee466bcf3fcc5370e38e8ed6cac3034fa7ca034d37db8095383824cc3b1e2b60e1850e3edb8b%26cid%3DF8G5wbXzvbSjNCxTWG3bo250709%26_v%3D2%26_r%3DTgDmW8%26_vis%3D0d92454ddb04371db0d8832a95cfa7cbc19f6e7fd24085fe0e1ba2b120f47e87%26_vvs%3D53e2e7aacd00ddc2cccad50e23434de07105a10d3e7e0131b408e0a1c19b10f6/app/c359036.m3u8
+
+_____________________
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="▶EVENT/LIVE◀",INDOSIAR_HD (HD.3)
+http://iptvtree.net:8080/live/F25093/29838750/162138.ts
+
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT/LIVE◀",INDOSIAR-HD(HD.4)
+http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/1505849.ts
+
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT/LIVE◀",INDOSIAR-HD(HD.5)
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",🔴BOLA INDOSIAR FHD
+#EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
+https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",🔴BOLA INDOSIAR (AKTIF SAAT LIVE)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
+
+
+
+__________________________________________________________________________________________________________________________________________________________________________
+
+
+
 ================ SPORTS ==================
 
 
@@ -1944,628 +2047,15 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 ________________________________________________________________________________________________________________________________________________________________________
 
 
-====================================▶EVENT/LIVE◀====================================================
-
-__________
-M LIVE 2
-
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="mewatchlive2.sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279315292%27&EntityType=%27LinearSchedule%27&EntityId=%27a9a9ec83-4f91-44ac-beec-faca14708ad4%27&Width=1280&Height=720",M Live 2 (TERSEDIA SAAT LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-
-____________
-M LIVE 5
-
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290473%27&EntityType=%27LinearSchedule%27&EntityId=%27e173bb41-870b-435b-a1a8-25bac59911bc%27&Width=1280&Height=720",M Live 5 (TERSEDIA SAAT LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-__________
-M LIVE 6
-
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290468%27&EntityType=%27LinearSchedule%27&EntityId=%27493abb2d-6040-400c-ac9a-fa2ae35a03e2%27&Width=1280&Height=720",M Live 6 (TERSEDIA SAAT LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-__________
-M LIVE SPL 1
-
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%279290461%27&EntityType=%27LinearSchedule%27&EntityId=%27747df98c-7221-461e-be41-88d79d172069%27&Width=1280&Height=720",M LIVE SPL 01 (TERSEDIA SAAT LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-
-__________
-M LIVE SPL 2
-
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%279302387%27&EntityType=%27Item%27&EntityId=%27278689%27&Width=420&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",M LIVE SPL 02 (TERSEDIA SAAT LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#http://mwmpos04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162138
-#http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",SCTV / INDOSIAR (LIVE BOLA)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-####https://zozotv.xyz:443/live/tonot@562/z562/45.ts
-http://103.153.246.42:4022/udp/239.2.2.28:3000
-https://zozotv.xyz:443/live/tonot@562/z562/46.ts
-http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/indosiar.m3u8
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 1
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
-
-
-######EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 1
-#####EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#####EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-####https://bintangstreaming.my.id/connect/index.m3u8?channel=feed2&type=m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=feed3&type=m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4p7otNAjRdWkZPBLdbdBLPl8QloLp_VjhrpgmnxZbWAH2LlS1E2WczK0&s=10" group-title="▶EVENT/LIVE◀",SCTV & INDOSIAR (BOLA)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#####https://zozotv.xyz:443/live/tonot@562/z562/45.ts
-https://zozotv.xyz:443/live/tonot@562/z562/46.ts
-http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
-####https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/indosiar.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",INDOSIAR (SERVER 1)
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
-
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE AFF U23 (SERVER 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23 (SERVER 3)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23 (SERVER 4)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-
-
-
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10",LIVE AFF U23 (SERVER 5)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#########https://hotlivezz179026907.akainu.xyz/-kGjIn3bMa1qZLkv-zp5lQ/Fv2lucGIbhPi2caWYvF5Lg/1752593959314/live/may211/chunklist.m3u8
-https://hotlivezz179602324.akainu.xyz/OtZZYo1ftmNgC2ptMmh9Zg/Fv2lucGIbhPi2caWYvF5Lg/1752604847232/live/caSD/chunklist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE AFF U23 (SERVER 6)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀",INDOSIAR LIVE (TESTED 1)
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀", LIVE ONLY PIALA PRESIDEN 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://faiqtv.my.id/percobaanvidio/drm.php?id=19035&type=drm
-https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀", LIVE ONLY PIALA PRESIDEN 2
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀",PIALA PRESIDEN 3
-#EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
-https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
-
-
-
-
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR FHD(HD.1)
-http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
-
-___________________________
-jala live
-
-########EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",INDOSIAR 720 (JALALIVE1)
-#######EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#######EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
-##########EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
-#######https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=0dd9432afa8f6ec167ae8e33173206e2&txTime=686e5eeb
-___________________________
-
-
-
-
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (HD.2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162138.ts
-
-
-___________________
-livesport
-
-
-#####EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",EVENT ONLY 480 (LIVESPORTS)
-####EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
-###EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
-###########https://twnx3-cf.boblcfwudz421.com/auth%3D45289a5c2148440732094fe002cafbbba19a68bc7f7eec6ea535d9a8cdc78716503d6de4e99bc4bbc8433a304159007bfa7ecddebf3b59b4d2285f942d8bdac9f899720837848ac9e160666062b1cd39454188c567176c78f558f225d6d8aa15ba5d3bf7dfc3e20904c9e3c691fb86e1fd7582fd5a101b41879b88fb590143e02b15567029bef49dbf98d568561402c6c54075b970d88ad9b48429d02fa651eac970587f237ee5a5a001d88e6cee61fbecbc3f20cb7eedaa4989ee466bcf3fcc5370e38e8ed6cac3034fa7ca034d37db8095383824cc3b1e2b60e1850e3edb8b%26cid%3DF8G5wbXzvbSjNCxTWG3bo250709%26_v%3D2%26_r%3DTgDmW8%26_vis%3D0d92454ddb04371db0d8832a95cfa7cbc19f6e7fd24085fe0e1ba2b120f47e87%26_vvs%3D53e2e7aacd00ddc2cccad50e23434de07105a10d3e7e0131b408e0a1c19b10f6/app/c359036.m3u8
-
-_____________________
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="▶EVENT/LIVE◀",INDOSIAR_HD (HD.3)
-http://iptvtree.net:8080/live/F25093/29838750/162138.ts
-
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT/LIVE◀",INDOSIAR-HD(HD.4)
-http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/1505849.ts
-
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="▶EVENT/LIVE◀",INDOSIAR-HD(HD.5)
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",🔴BOLA INDOSIAR FHD
-#EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
-https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="▶EVENT/LIVE◀",🔴BOLA INDOSIAR (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
-
-
-
-__________________________________________________________________________________________________________________________________________________________________________
-
-
-
 
 =====================================================▶LIVE/EVENT◀=====================================================================
 
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-===============================▶VOLLEY / EVENT ONLY◀=========================================
-
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/07/996x664/1_8d97854.jpg",VOLLEY 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
-#######https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/07/996x664/1_8d97854.jpg",VOLLEY 2 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
-########https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://iili.io/FJbkjte.png",VOLLEY 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
-######https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
-
-_____
-🔴 LIVOLI DEVISI UTAMA)
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWFpWDH2GRdTHr8rjjFJ-ib1p5w4uCc02J75vwmbPNhoruarX8Ptmq8Rx&s=10", LiVOLI (Divisi Utama 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
-https://spacetv.my.id/index.mpd?id=19488&type=dash
-
-
-_______
-🔴 VOLI TV
-
-
-
-#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/VoliTV2023.png/revision/latest?cb=20231115114023" group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/VoliTV2023.png/revision/latest?cb=20231115114023" ch-number="1",🔴 VOLI TV (FHD)
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#########http://103.179.182.117:6768/hls/2/2.m3u8
-
-
-
-
-_______IKI NYALA______
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", AVC/VNL 1 (TERSEDIA SAAT LIVE)
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s" group-title="▶VOLLEY / EVENT ONLY◀", AVC/VNL 2 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18913&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
-
-
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttGcYmUhCc0G3QFHAugy_mKcDnNVNLjP_UTmoMgmZZ-iFYEA5qCLNe96F&s=10",AVC/VNL 3 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/KrZNRprXLrTDoHd54kRSVg/Fv2lucGIbhPi2caWYvF5Lg/1750245650456/live/may17/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttGcYmUhCc0G3QFHAugy_mKcDnNVNLjP_UTmoMgmZZ-iFYEA5qCLNe96F&s=10",AVC/VNL 4 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/vr984ubu8H09KjASXZVWeQ/Fv2lucGIbhPi2caWYvF5Lg/1749386843546/live/may21/chunklist.m3u8
-
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL (VNL)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.viva.id/vivawisata/1265x711/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="▶VOLLEY / EVENT ONLY◀",MOJI_LIVE VOLLEY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
-
-
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9MIpupHcWv8lEa5wx1W0qesfPmTXOEEHinQPsMrou-84pdQvFC6_E8A&s=10", VOLLEY 1 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://4gr3uomttgr31hctwgczdgqbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9MIpupHcWv8lEa5wx1W0qesfPmTXOEEHinQPsMrou-84pdQvFC6_E8A&s=10", VOLLEY 2 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s",VL 1 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/OLzg2pu_dRGwbD_rJo0GLg/Fv2lucGIbhPi2caWYvF5Lg/1749381629725/live/may211/chunklist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://iili.io/FJbkjte.png",VL 2 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/vr984ubu8H09KjASXZVWeQ/Fv2lucGIbhPi2caWYvF5Lg/1749386843546/live/may21/chunklist.m3u8
-
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/xdyyzyWr/images-2.jpg" group-title="▶VOLLEY / EVENT ONLY◀" ,VNL (LIVE 1)
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=1a3b4b940535c65afdebaf1d2a2445fe&wsABSTime=1749054890&wsSession=6339fa55ae0cedb8e17c9b14-174901169371934&wsIPSercert=a06d83423e5ce13fa3c7f7df3406480d&wsiphost=local&wsBindIP=1
-
-
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://i.postimg.cc/xdyyzyWr/images-2.jpg",VNL (LIVE 2)
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/-TBXU3hlSIcXpy2cVbyD8Q/Fv2lucGIbhPi2caWYvF5Lg/1747493404358/live/may6/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N7pT4xe_X2_RVgJrg0HoEucFhj7dqqKvVB8rNkrVNwy7F3lF40u3RAtq&s=10" group-title="▶VOLLEY / EVENT ONLY◀", VOLI TURKI FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
-#http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/32095.ts
-
-
-
-___________________________________________________________________________________________________________________________________
-
-
-
 ========================================================================▶LIVE EVENT◀========================================================================
 
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/hGKNsqK5xvRKM4NPi0mdLY1Ze7s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510903/7e2307.jpg",(21 Agt 2025 09:30 WIB) United States vs Thailand - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
-🔴🔴######https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/_QApwq5F4m2Ooeymj6Ui4VokrUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510896/f7cd03.jpg",(21 Agt 2025 09:50 WIB) Bulgaria vs Cuba - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/8W1mZknJ3uIi0ph0g33YO9BBNMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510909/95e866.jpg",(21 Agt 2025 09:50 WIB) Iran vs Kazakhstan - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/xw1XEzVwrD2cDlXW6OnEz1SIkZE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510904/34b876.jpg",(21 Agt 2025 12:30 WIB) China vs Turkey - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/GVkS0kr7og4PAR7EP5udUbhOrNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510897/a88940.jpg",(21 Agt 2025 12:50 WIB) Brazil vs Japan - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/OkLejaxLPilsmJApLPmBKEg0Y3Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510911/142775.jpg",(21 Agt 2025 12:50 WIB) Poland vs Puerto Rico - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/PWEq5vfpm3wx4KuqMMegWuhHP-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510569/e0e24d.jpg",(21 Agt 2025 15:20 WIB) Australia vs Thailand - ASEAN U16 Girls' Mandiri Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19407&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19407&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/OfJ9LY4cdrEL5zo1G_X0ZMMz4Jg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510898/75df2d.jpg",(21 Agt 2025 15:50 WIB) Czechia vs Colombia - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/6JrNcVB8UbcG_qzLs_5nwbaiz_o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510906/a7f264.jpg",(21 Agt 2025 15:50 WIB) Egypt vs Morocco - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/7qOFTZrnI7-sP94lWDnpiG49A1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510912/b37f2b.jpg",(21 Agt 2025 15:50 WIB) Canada vs South Korea - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/Poxe5XZhD5a-KeLUPUQ0gT3UqUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510899/d3b010.jpg",(21 Agt 2025 18:50 WIB) Argentina vs Ukraine - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/9Z-HNayYzIFbxk0-Ns4fkBxBUPs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510908/da5b89.jpg",(21 Agt 2025 18:50 WIB) Italy vs Indonesia - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/I9lXa-rbQqnoJmILhfLxbma_L5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510913/d51552.jpg",(21 Agt 2025 18:50 WIB) Tunisia vs France - FIVB Men's U21 World Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/uR2Ib53tqJy-kO_mhsE2mqE1qM0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510570/ef4388.jpg",(21 Agt 2025 19:20 WIB) Cambodia vs Vietnam - ASEAN U16 Girls' Mandiri Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19407&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19407&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/bHJt6W16Ef3WJhSOXazybSKraX4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4508836/ef47cd.jpg",(21 Agt 2025 20:00 WIB) CPKC Women's Open - Round 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18190&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18190&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/kkYuF_tyz56Nydie3kq0rEB-fW4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4508833/279215.jpg",(21 Agt 2025 22:00 WIB) WTA 250: Tennis In The Land - Quarter Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6786&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6786&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/pk8JGA5z9w352_qJibQ3FZRs9LQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510627/09251e.jpg",(21 Agt 2025 22:00 WIB) US Open Qualifying Tournament 2025 - Day 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/0CL-RHRFuH9HPPifyUlLEwYGd4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510628/9aaa3a.jpg",(22 Agt 2025 00:00 WIB) TOUR Championship - Round 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18189&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18189&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/4hCRj3o_1MXGSzxtPUvZ2kD--4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4508835/037c09.jpg",(22 Agt 2025 01:00 WIB) ATP 250: Winston-Salem Open 2025 - Quarter Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17875&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17875&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/-IwEP5Dqyp3PHmXPCX9HSLS8RWA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512935/08c711.jpg",(22 Agt 2025 01:00 WIB) FC Polissya Zhytomyr vs Fiorentina - UEFA Conference League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6685&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6685&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/4BlbTxoNx7lSUWd2tEjo7CX5xSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512936/e462d3.jpg",(22 Agt 2025 01:00 WIB) RC Strasbourg Alsace vs Brondby IF - UEFA Conference League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6686&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6686&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/X3UQzH7PkDZGEwW4KHclsZv2V0k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4508834/48be45.jpg",(22 Agt 2025 04:00 WIB) WTA 500: Abierto GNP Seguros - Quarter Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6786&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6786&type=dash
-
-
-
-#EXTINF:-1 group-title="▶LIVE EVENT◀" tvg-logo="https://thumbor.prod.vidiocdn.com/kygNjG7dYlrKHo5C_6YFRcYBzvk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510632/839308.jpg",(22 Agt 2025 05:20 WIB) WTA 250: Tennis In The Land - Quarter Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17505&type=drm
-🔴🔴#####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17505&type=dash
-
-
-
-
-_________________________________________________________________________________________________
-
-
-
-
 ==================================================▶LIGA EROPA◀==================================================
-
-
-
 
 __________________________________________________________________________________________________________________________________
 
