@@ -1420,7 +1420,7 @@ ___________________
 ######http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS", SPOTV 2 (PRIME+)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBykausbV7XqW_J8G2TaE1_F-tZLQ" group-title="SPORTS", SPOTV 2 (PRIME+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #EXTVLCOPT:http-origin=https://cignalplay.com
