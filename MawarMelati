@@ -6889,3 +6889,37 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 
 
 
+
+____________Test______________
+
+
+#EXTINF:-1 group-logo="https://gooo.blog/sports.png" tvg-logo="https://pic.xxxxxxx.my.id/119.png" group-title="LOKAL SPORTS",SpoTV 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjMxOTdmN2Y1MDg2YzQzMTVhZjJiN2E5NGJjOTIwMWNiIiwia2V5IjoiMTc0NjJhNzQ3MzlhZTBkOTg1NTcwNWZmYzJjMGUxYjUiLCJleHAiOjE3NTk2MTU3MzN9.3ju94DXB_QEEyKLBnpc54tXlacKM3jAtezwz0IQrwlE
+https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2QzYjB2N2ZnZ3U1endtLmNsb3VkZnJvbnQubmV0L291dC92MS9iNDgxNGFlOTNjYTg0ZGQzYmI1YjBhZmY3NmNhMjYzZi9pbmRleC5tcGQiLCJleHAiOjE3NTk2MTU3MzN9.ZsostjkJpQtwuDYSGkaB6mkWOy3oLqB8OiskPUIEXDo
+
+
+
+#EXTINF:-1 group-logo="https://gooo.blog/sports.png" tvg-logo="https://pic.xxxxxxx.my.id/120.png" group-title="LOKAL SPORTS",SpoTV 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjE1MzlmMDQzMjQ5ZTQxM2Q5MTkwNjAzNmYzMDU4MzFlIiwia2V5IjoiNjcxZTI0ZmQ4ZDIzNGM3ZjM4ZDg1MDU1ODE1ZjkwMmEiLCJleHAiOjE3NTk2MTU3MzN9._MQedwybq4pemVCqqhK2ALYplYzIYcbKjy56jCMlCwU
+https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2QydGp5cHh4eTc2OWZuLmNsb3VkZnJvbnQubmV0L291dC92MS80NmQ5Y2YzOWI5YTg0MTgzYjhkNTAyMmFjOGY0YmM0MS9pbmRleC5tcGQiLCJleHAiOjE3NTk2MTU3MzN9.QeeNWMM_YpmP2fPFMB5ZJHRF2gzkAQzj8pmGHvUnkMc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
