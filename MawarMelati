@@ -4979,18 +4979,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_lDyIgEXTNJQVipLPO9-8MOhVSSMVZV3wQ&s" group-title="HBO / MOVIES",Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://dl.dropboxusercontent.com/scl/fi/j5865bib5wy1i72ppk2hx/cinemax.m3u8?rlkey=qkzwmgpv6lhf8ccuplf39c21n
-
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
@@ -5069,13 +5057,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest.mpd
 
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img//jEuIgGn.png?v=1.0.0.1" group-title="HBO / MOVIES" tvg-id="CCM.id" tvg-name="Celestial Classic Movies", Celestial Classic Movies
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 
 
 
@@ -5167,47 +5148,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc720/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 
-_____________________________________________________________________________________
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="HBO / MOVIES",ETV Bioskop
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="HBO / MOVIES",ETV Bioskop 2
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="HBO / MOVIES",ETV Bioskop 3
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
-
-
 
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -5221,32 +5161,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="HBO / MOVIES",Rock Entertainment_FHD
 https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
-
-
-
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hT2TzOR.png?v=1.0.0.1" group-title="HBO / MOVIES" tvg-id="MyCinema.id" tvg-name="My Cinema", My Cinema_FHD
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?c
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h5wfdE9.png?v=1.0.0.1" group-title="HBO / MOVIES" tvg-id="MyFamily.id" tvg-name="My Family", My Family Channel_FHD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
-
-
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XQvrxhl.png?v=1.1.1.1" group-title="HBO / MOVIES" tvg-id="Flik.id" tvg-name="Flik", Flik_FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://wahyu1ptv.pages.dev/Flik-HD.m3u8
-#http://xtv.ooo:8080/live/387546/200900/350947.ts
-
 
 
 
