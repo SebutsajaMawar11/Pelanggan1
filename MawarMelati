@@ -1823,22 +1823,22 @@ _____________
 ASTRO
 
 
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS",Arena
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/154.ts
 
-#EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena 2
+#EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS",Arena 2
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/400.ts
 
-#EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SPORTS",Premier League 2
+#EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS",Premier League 2
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/157.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Premier League 3" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="SPORTS",Premier League 3
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS",Premier League 3
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/2204.ts
 
-#EXTINF:-1 tvg-id="Football" tvg-name="Football" tvg-logo="https://link.zozotv.xyz/pic/footballzozo.png" group-title="SPORTS",Football
+#EXTINF:-1 tvg-id="Football" tvg-name="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS",Football
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/158.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Sport Plus" tvg-logo="https://link.zozotv.xyz/pic/sportpluszozo.png" group-title="SPORTS",Sport Plus
+#EXTINF:-1 tvg-id="" tvg-name="Sport Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS",Sport Plus
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/482.ts
 
 
