@@ -1373,6 +1373,17 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/pontianak/foto/bank/images/live-sctv-liga-champions.jpg" group-title="▶EVENT/LIVE◀", SCTV_SPORTS (FHD)
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+http://filex.me:8080//live/Qasim1990/1990qasim/302301.ts
+
+
+
+
 #EXTINF:-1 tvg-id="PL" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg" group-title="▶EVENT/LIVE◀", DENSTV_SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
