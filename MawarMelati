@@ -2062,7 +2062,7 @@ https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.
 
 
 
-#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS" tvg-logo="https://i.imgur.com/0sNWg54.png" ch-number="92" group-logo="", Sports Connect
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS" tvg-logo="https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SportsConnection.jpg" group-logo="", Sports Connect
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/abr_satellitechannel/satch_sportsconnect_360p/chunks.m3u8
