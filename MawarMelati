@@ -2184,6 +2184,28 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tnt3.m3u8
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tnt4.m3u8
 
 
+____________
+skysport
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.movietele.it/wp-content/uploads/2015/11/sky-sport-motogp-logo-w640-e99-1280x720.jpg", SKY SPORTS_MotoGP
+http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://540k006f.tinifycdn.com/images/content/sky_sport_f1_logo_2x1.jpg", SKY SPORTS_F1
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&amp;stream=79479&amp;extension=ts&amp;play_token=xw5VJmHIZM
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://nomadstudio.ams3.digitaloceanspaces.com/images/Work-Case-Studies/Sky-Sports/SS_WORDS2-01.png", SKY SPORTS_PREMIER LEAGUE
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/135439
+  
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/a/ad/Sky_Sports_Football_ID_2017.png/revision/latest/scale-to-width-down/1200?cb=20200802163414", SKY SPORTS_FOOTBALL
+https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
+  
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i0.wp.com/tennisthreads.net/wp-content/uploads/2024/02/image_6452243.jpg?fit=768%2C432&ssl=1", SKY SPORTS_TENIS
+http://tv.8dott.xyz:80/live/samuel/samuel123456/356436.ts
+
+
+
+
+
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
