@@ -1629,12 +1629,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 ____________
 spotv bwww
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPORTS",SpoTV 01
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS",SpoTV 02
+#EXTINF:-1 group-logo="https://gooo.blog/sports.png" tvg-logo="https://pic.xxxxxxx.my.id/120.png" group-title="LOKAL \SPORTS",SpoTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjMxOTdmN2Y1MDg2YzQzMTVhZjJiN2E5NGJjOTIwMWNiIiwia2V5IjoiMTc0NjJhNzQ3MzlhZTBkOTg1NTcwNWZmYzJjMGUxYjUiLCJleHAiOjE3NTk2MTU3MzN9.3ju94DXB_QEEyKLBnpc54tXlacKM3jAtezwz0IQrwlE
-#######https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2QzYjB2N2ZnZ3U1endtLmNsb3VkZnJvbnQubmV0L291dC92MS9iNDgxNGFlOTNjYTg0ZGQzYmI1YjBhZmY3NmNhMjYzZi9pbmRleC5tcGQiLCJleHAiOjE3NTk2MTU3MzN9.ZsostjkJpQtwuDYSGkaB6mkWOy3oLqB8OiskPUIEXDo
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 
@@ -1651,7 +1652,7 @@ ___________________
 
 
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS", SPOTV 2
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS", SPOTV 2 (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
