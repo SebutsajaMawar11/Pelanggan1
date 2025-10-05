@@ -1846,7 +1846,7 @@ https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/482.ts
 _______
 FIFA TV
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ae/f0/79/aef0797e1e430ea6ced8baad14a32356.jpg" group-title="SPORTS",FIFA CHANNEL
+#EXTINF:-1 tvg-logo="https://kolamide.id/wp-content/uploads/2025/05/FIFA-EA-SPORTS.webp" group-title="SPORTS", FIFA+ SPORTS
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
 
@@ -1854,24 +1854,27 @@ https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 __________________
 DAZN TV
 
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="1" type="channel",DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="SPORTS" ch-number="1" type="channel",DAZN 1
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
 
+
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="2" type="channel",DAZN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="SPORTS" ch-number="2" type="channel",DAZN 2
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
 
+
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="3" type="channel",DAZN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="SPORTS" ch-number="3" type="channel",DAZN 3
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd
 
+
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="4" type="channel",DAZN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="SPORTS" ch-number="4" type="channel",DAZN 4
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
 
 
@@ -1880,7 +1883,7 @@ ____________
 SUKAN TV
 
 
-#EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORTS",SukanTV MALAYSIA
+#EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://malaysia-tv.net/wp-content/uploads/2025/03/Sukan-RTM-Live-Streaming-TV-HD.webp" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORTS",SukanTV MALAYSIA
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
@@ -1945,13 +1948,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 _______
 BOXING
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm78wpmUkKBkEwICRCTmEqP3ANfJ_nENwcJ9l14UcqksLIBmDuUL-7C3CHU9_cceC4huzqFnG5mIUfAKIfcAeTqOJGggeLSB8H1_SaqjqXgv7a1g_uITbL4cRfU1XGLDaRheiv3bxh9QuelLddkAD-FDVKluaLObmRzE7hSHO2Qxujo86RoafbAqIo6FLq/s700/IMPACT!%20WRESTLING.png",IMPACT! WRESTLING
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRGF0MhRj3UWbjk2NgbDF9Mh3m92NaOrulluwpGJtIWmIr-hWc0gOkM3f7kPcSbBFwGk39Nrzka-A_BO_HZcMHDoH_h4dNBmTbWKXVKT7pCWQhqQ33-zi4uyKDW71IFOJZ_X2lmr-xQa1tJf0z0oBBoRFBQzgpKgEKre3mZXwxW1vPan1B4k5kqdHt5dS3/s700/BELLATOR%20MMA.png" group-title="SPORTS", BELLATOR MMA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1oSvmJIy33ViJs6NG4jSzHoyl_0EfxvZL63ZWBrPFhRrlBfWhqjZRMXoSQ2dKt7G9NShq5jaYnk=w299-h165-ns-nd-rj" group-title="SPORTS", BELLATOR MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDqCiiLhXte7tR0PJabVKOStVKSuZ1xvRxasvPwPjtVUo7UncuM7sznQIhMm-a_76SaJ-tf-qGoNrNWXYGgYwxMs6mrGrkVmf1ncBQ9wVrMIXI7LEwiWrRRUPtBH8iu5AUdbRBfBBkAKK3aRjRGBvgPQ6FkNPehs2RwC-rFd7SrcDlZkV_jm4D1uuDadR8/s700/GLORY%20KICKBOXING.png",GLORY KICKBOXING
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iili.io/H3SUDv9.png",GLORY KICKBOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
@@ -1959,33 +1959,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ik3jNXcR5C9mDXf6WZwa_RoZ7X8Zr9EFAVQgsWSxoyr6VDjIqogRftWRtjvSfrLZu7KhVGw3N1V09v0ZPRnQIAqvp547uk9fCVkPsODP_4oy9ZfI2xGfrgySfWMo0cEHMRd0VR4MQazq-cmY74QJi_rH01vu0cCles4RQ5RITiYauwX6yIHxKo8d-KNi/s700/KOVO.png" group-title="SPORTS", TVRI LIVE 1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pQIYYZ3E5j8/maxresdefault.jpg" group-title="SPORTS", TVRI sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-
-
-__________
- ABU DHABI tv
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="SPORTS", ABU DHABI SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY9ef3TDcxhltX_B0Gx8ui7wOCMkhIg0hUSONxYQPdjVGJzAHe48ceEhauimTYDmvAKgm-BQbvNltuLtdXP_4knlXSbcV8a2dst8fPTSYNtOtiGmk_nWYcDw0K_ibYnHvxZcnqoCiXLh8tb78zdn85eMd3VhmmWzqFTETtUOR9i7-eCd8f_QUgymaqIk3M/s700/ABU%20DHABI%20SPORTS.png" group-title="SPORTS", ABU DHABI SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-#https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-#######https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
 
 
 ____________________
 PEACOK TV
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmWpTYFzfsZH7DXC2NHMo5QHTKn8uwQPuiQdUL5z_U2sKjoEkU4gpX35Rqk9xworkRv1Yz1gP2poXUngI8A_LIEfz84Fny4q5cn5iFbShpqSKzGv5n_Sjaz4khH8-lX35h3HXwpiZnk8uxl09x2Ved5BIp9GZKQBmuymDJaj4REVpDczWFPjr4S-3pnlv0/s700/PEACOCK%20TV.png" group-title="SPORTS", PEACOCK TV
+#EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg" group-title="SPORTS", PEACOCK TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
@@ -1996,21 +1980,21 @@ ______
 RAI TV
 
 
-#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://iili.io/Jmo4QWB.png" group-title="SPORTS",Rai 1
+#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://i.ytimg.com/vi/uZubw2eNxn8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSdeS5YoF3fuemvNb29VXm98h0mg" group-title="SPORTS",Rai 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d79467df269743b3aca99a9171c54878:a7d3bc19bd09db6b581833e4a6176c8f
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 
 
-#EXTINF:-1 tvg-id="Rai 2 HD.it" tvg-logo="https://iili.io/Jmo4ZiP.png" group-title="SPORTS",Rai 2
+#EXTINF:-1 tvg-id="Rai 2 HD.it" tvg-logo="https://www.davidemaggio.it/app/uploads/2012/06/Rai-21.jpg" group-title="SPORTS",Rai 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 
 
 
-#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://iili.io/d93woZP.png" group-title="SPORTS",Canale 5
+#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://www.sorrisi.com/wp-content/uploads/2018/04/logo-canale-5-886x494.jpg" group-title="SPORTS",Canale 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2019,14 +2003,14 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 
 
 
-#EXTINF:-1 tvg-id="Rete 4 HD.it" tvg-logo="https://iili.io/2rXHQsf.png" group-title="SPORTS",Rete 4
+#EXTINF:-1 tvg-id="Rete 4 HD.it" tvg-logo="https://www.blogo.it/app/uploads/sites/2/2016/07/rete-4-logo.jpg" group-title="SPORTS",Rete 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
  
  
  
-#EXTINF:-1 tvg-id="Italia 1 HD.it" tvg-logo="https://iili.io/d93wOtS.png" group-title="SPORTS",Italia 1
+#EXTINF:-1 tvg-id="Italia 1 HD.it" tvg-logo="https://digitaleterrestrefacile.it/wp-content/uploads/2020/11/ritrovare-italia-1-programmi-digitale-terrestre.jpg" group-title="SPORTS",Italia MediaSet1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2085,7 +2069,7 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/abr_satellitechan
 
 
 
-#EXTINF:-1 tvg-id="Tap Sports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="SPORTS",TAP Sports
+#EXTINF:-1 tvg-id="Tap Sports.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=412" group-title="SPORTS",TAP Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
