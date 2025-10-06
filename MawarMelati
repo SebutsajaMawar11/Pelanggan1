@@ -2187,22 +2187,24 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tnt4.m3u8
 ____________
 skysport
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.movietele.it/wp-content/uploads/2015/11/sky-sport-motogp-logo-w640-e99-1280x720.jpg", SKY SPORTS_MotoGP 01
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.movietele.it/wp-content/uploads/2015/11/sky-sport-motogp-logo-w640-e99-1280x720.jpg", SKY SPORTS_MotoGP A1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.movietele.it/wp-content/uploads/2015/11/sky-sport-motogp-logo-w640-e99-1280x720.jpg", SKY SPORTS_MotoGP 02
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.movietele.it/wp-content/uploads/2015/11/sky-sport-motogp-logo-w640-e99-1280x720.jpg", SKY SPORTS_MotoGP A2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://540k006f.tinifycdn.com/images/content/sky_sport_f1_logo_2x1.jpg", SKY SPORTS_F1 01
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://540k006f.tinifycdn.com/images/content/sky_sport_f1_logo_2x1.jpg", SKY SPORTS_F1 A1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&amp;stream=79479&amp;extension=ts&amp;play_token=xw5VJmHIZM
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://540k006f.tinifycdn.com/images/content/sky_sport_f1_logo_2x1.jpg", SKY SPORTS_F1 02
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://540k006f.tinifycdn.com/images/content/sky_sport_f1_logo_2x1.jpg", SKY SPORTS_F1 A2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 
 
