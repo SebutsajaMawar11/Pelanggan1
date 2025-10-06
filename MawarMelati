@@ -5504,10 +5504,6 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheFFtTweGkTgYliDYV4xwDOpla_yID6dshuD_Tjia0_uWkV_8FTGeDsnoDAaeQm6vidrGCJZTThhO5MbMfR-BPEYPerRjViAFMntoEguQFHmjP6jKKSccmCAcZpX6VYRmnKVNRCSmnmssnpF4KItl9vOGzzXHmtnmX6gbqk1F8IL6pdDtlmERNRT-b7QmB/s700/SEMARANG%20TV.png" group-title="DAERAH",SEMARANG TV
-http://116.254.112.74:80/hls/cakralive.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYXlHUeaEdHIaAiqVDxH9zNHxMh3aFJZnpatiPssihLANUNjwr2wdHACGQ-85bBf56g2nBKGkLieCEdls0Nt7whJUtod3Xq9gH0am1BiOSegREVNyuGuG1y9U3S8apdumb6rn1xToCJesBNUbjpLNNJ_DdfuI2vrLmDSZXGZWn-H6z6dktlIUpQ29416hn/s700/BETV.png" group-title="DAERAH" ,BETV IMT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch58.m3u8
@@ -5525,10 +5521,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZKAOeO_VOcxCoGjszU72zWNvWkGzUbFziKUL4erGhNjmvmXlgoLjdZZqfuKufckduNqlQ3ETiXHY9oPGu5AdAFcd4fXyqxY7Vre2ww7heR1yFD02Mo8GqvQaD30dQ_atNrUrdYAHfqkKvjwLmx4doV117ty1idq_NhJF4ssi7J1ajnIVIQrceEWElyrei/s700/JAWA%20POS%20TV.png" group-title="DAERAH" ,JAWA POS TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-ZNGdE8djeg-ekkAerLk0T3x7NxuqHpuvR38zSeF_wSiKPOZ1gJR2xgMndfxXULqRgcl8xZngMV3zLkSAFGgyI4C5ohGmNnyCqRPOnmEJzA4Iw7vP2HfYCYUZZcZU8afLfZ40XD-PelNKtOi3WHag_SkHm1C3VkifRjCkvvijNOwfdrDMB2H55bwxyAb5/s700/AKTV.png" group-title="DAERAH",AKTV
-https://e.siar.us/live/aktv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLVmkcqa9-gqMD2J1qPmaNwoq16HY2nZZpIihnNjSpfnH2uOTJkwekiZj2y8s4YeDkkKiVYuT5bAxFs6FZ0IAeKQLQ3uWdljH_bkzbkrEwdqOGjsRvli2-h7yJijdPWgW7C4fPaGTA9MZsNIGVJnRZIpeHDSF1J9DBDnOJsirBV1LEulMoTN0pAwFHg9dl/s700/DUTA%20TV.png" group-title="DAERAH",DUTA TV
@@ -5563,7 +5555,7 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYjO0i6aV_DsdjxU4NwJ7ZVAGWzZchd_EOScQ07EtQWJntwBMtYXPdOYJE0RQBz_eFQmwnOQ_lAc-gTpIUKbs4S7rlxgd5Xu-k_ZFunkQVYQBlCwIgwmC7xh6TAZWNXuMpQwCtzr64Ypg1IxOX7d6z0plkZ2SEDmM49mSPct7zOH1iFcRFTMt9z08EOp_A/s700/TVKU.png" group-title="DAERAH",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
-#http://103.30.1.14:8080/hls/live.m3u8
+
 
 
 
@@ -5574,12 +5566,6 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCR00fNkXKug9zvrt8WUc0QEsBW_g5L2BdFkmiMYAeGs4CT0CCnTS5ve3RQdVuWNijZUtlUEKcN7B18aV5dAQJ9lMyTo4KbmYVIe1pP3Q5Ma3eCK94GBz7gWiwwmDcwpwQpmMi1ssKNfduUpsLIMb0U9JyaFlSMWVUNpFGHMC7npPTLb4di1VwjipPAjyy/s700/RADAR%20LAMPUNG%20TV.png" group-title="DAERAH",RADAR LAMPUNG TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://103.140.188.211:1935/radarlampungtv/myStream/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1y-3tPdycdMwVhJC77HqH7zfP8L4GwrJ2yf5P0AO6e7WTuXCsq5FhZGOg6oz2qrensFWTqNOul8YNPGQAd8nPRCBF5O83oe1W7QFhG5VK_PSe3NwjJi3z8OjQwmsVM4sfcf98CSV8cCVMGFAdRqERAe7JEs7IiELy-tsmC_T3M5xI42M9GCnI94a3awR/s700/DTVI.png",DTVI
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://e.siar.us/live/dtvi.m3u8
 
 
 
@@ -5594,10 +5580,6 @@ https://tv.nasionaltv.com/ntvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjty2w0hwAD6RK683A1pV1x66S7SYoFmxEKvWQsVaycaEw3hqhhpp2uqv3WLWW0jp9TiaDiTGuH6vFsoUkoiCxpZuXnrSoTFVzr0f7OMdEGeC-BbRK-l7y_xO0c8y54AC-1Loc-dSlCRFfjeXxxVJqSk8XRfiyW9b3M84Kep0Gd2EtHD4BXG6FPHK_7G5Pk/s700/KILISUCI%20TV.png" group-title="DAERAH",KILISUCI TV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0AggXTEgJV4vxxejoxDrHVKZsuqCC5KuLRoOZy7yagGarQmOqjxouQyggaCVKFJ55f3qkL6k4gSsyI4sgXBOMUvagMsPDu_URkAsBTBFDWTiDeZ38hqdvLoh5y-Y530q44W7eVVa5dRmxrwwWlbznfs_X6zCfs4BJZFstI6sm2XC-D8Jk3UifKbnLdSxT/s700/JAYA%20TV.png" group-title="DAERAH",JAYA TV IMT
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch52.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii_uyzUPwSl51JIbksTd8-s1j-v9s_lf1Cf7slz272iX8TltUKZ7v19lbxSCftRWtsYDT9cEYmhXRTjTKKzRHG8iHFADYikjaBE856rIAtCZ7c5XtnQuvcmTlVbBcGLnviz-SiGUObDrRGok27BmYl7MqTftvE4ZX-u6VHxmoZZPwhQFIEYw7pqJKURSB7/s700/PKTV.png" group-title="DAERAH",PKTV
@@ -5643,11 +5625,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
 
-
-
-#EXTINF:-1 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/Nt7wqCG/mtatv.png",MTA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="MQTV.id" tvg-logo="https://i.ibb.co.com/3TyHPvF/mqtv.png",MQTV
