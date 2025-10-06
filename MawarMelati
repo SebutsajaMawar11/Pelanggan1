@@ -5456,36 +5456,36 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYjO0i6aV_DsdjxU4NwJ7ZVAGWzZchd_EOScQ07EtQWJntwBMtYXPdOYJE0RQBz_eFQmwnOQ_lAc-gTpIUKbs4S7rlxgd5Xu-k_ZFunkQVYQBlCwIgwmC7xh6TAZWNXuMpQwCtzr64Ypg1IxOX7d6z0plkZ2SEDmM49mSPct7zOH1iFcRFTMt9z08EOp_A/s700/TVKU.png" group-title="DAERAH",TVKU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ42xdnAAHpZ_OKxSQle2HRI0r1nVRLMZt5g&s" group-title="DAERAH",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTOHRDzIdtZH4gG-1bEAfXUSBINReta74kZPed8bfRWgY35vyWlz11EfWesXYBX9nnbELbKZSMo_8AK3TWWUxckOHt0BqRGeDVIdHIm5riIP9xXq3Fy9OvzpBmexdqWp3T15Lpme2gEYdBKPQ3n49mo0EaYbb3SvzjV_-gCjhIEMs3qivIERbVQnRFYBha/s700/JOGJA%20TV.png" group-title="DAERAH",JOGJA TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-vqBwWhhJFU/hq720.jpg" group-title="DAERAH",JOGJA TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCR00fNkXKug9zvrt8WUc0QEsBW_g5L2BdFkmiMYAeGs4CT0CCnTS5ve3RQdVuWNijZUtlUEKcN7B18aV5dAQJ9lMyTo4KbmYVIe1pP3Q5Ma3eCK94GBz7gWiwwmDcwpwQpmMi1ssKNfduUpsLIMb0U9JyaFlSMWVUNpFGHMC7npPTLb4di1VwjipPAjyy/s700/RADAR%20LAMPUNG%20TV.png" group-title="DAERAH",RADAR LAMPUNG TV
+#EXTINF:-1 tvg-logo="https://radartv.co.id/wp-content/uploads/2020/09/1601289479_maxresdefault_live-1024x576.jpg" group-title="DAERAH",RADAR LAMPUNG TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://103.140.188.211:1935/radarlampungtv/myStream/playlist.m3u8
 
 
 
 
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVX1W3AEhY7FxlUJiZmY2okldG5GT08CAbZoZ1opOTmPkWeGwYvfLd8V1sIlPS07j8Zq5bfphBg9hmdBs0fIddzCqs3Obch4x5gQlpi-G_2oaztPkzVPBqcybGQ9E-IdQbKKFgCj2a4SJlcCISMTDc0esGo12tkg6QQXs8LjxosW7xdKbj48zAJsphWWcC/s700/NASIONAL%20TV.png",NASIONAL TV
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.ytimg.com/vi/H3019n11Z28/maxresdefault.jpg",NASIONAL TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://tv.nasionaltv.com/ntvlive/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjty2w0hwAD6RK683A1pV1x66S7SYoFmxEKvWQsVaycaEw3hqhhpp2uqv3WLWW0jp9TiaDiTGuH6vFsoUkoiCxpZuXnrSoTFVzr0f7OMdEGeC-BbRK-l7y_xO0c8y54AC-1Loc-dSlCRFfjeXxxVJqSk8XRfiyW9b3M84Kep0Gd2EtHD4BXG6FPHK_7G5Pk/s700/KILISUCI%20TV.png" group-title="DAERAH",KILISUCI TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVfXAmeAGINjUMzSpzvFKxMOtCIZj0iBA4Hw&s" group-title="DAERAH",KILISUCI TV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii_uyzUPwSl51JIbksTd8-s1j-v9s_lf1Cf7slz272iX8TltUKZ7v19lbxSCftRWtsYDT9cEYmhXRTjTKKzRHG8iHFADYikjaBE856rIAtCZ7c5XtnQuvcmTlVbBcGLnviz-SiGUObDrRGok27BmYl7MqTftvE4ZX-u6VHxmoZZPwhQFIEYw7pqJKURSB7/s700/PKTV.png" group-title="DAERAH",PKTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kgNzPT7R7lo/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCjh85przf-7Ur4wee2jlTtA2Dr0g" group-title="DAERAH",PKTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 
 
