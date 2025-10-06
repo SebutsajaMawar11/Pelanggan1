@@ -5494,6 +5494,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 ================ RELIGI ==================
 
 
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.ytimg.com/vi/2OEh74F-VIk/hq720.jpg",Wesal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://images.indihometv.com/tvposter/alquran.png",Qur'an TV
@@ -5537,11 +5541,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.ytimg.com/vi/2OEh74F-VIk/hq720.jpg",Wesal TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-
-
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="tvsunnah.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1X0yH1I8mA33SujJKROmIE8iWegI_Yb3T1w&s",TV SUNNAH
@@ -5552,11 +5551,6 @@ https://streaming.yufid.com/hls/radiokitatv.m3u8
 #EXTINF:-114 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7SoxUKIFA9Y4TbmwbrLHV3RyklG4EPx8AQ&s",BahrainQuran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
-
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://play-lh.googleusercontent.com/yg-oGU8m_AWLNEOOrQ_yjMPJf8QWLDqWjj1H-eoITLRdQpH3QUZvhZCHH0YCsQRXCQ=w240-h480-rw",ARTVISI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.yufid.com/hls/artvisi.m3u8
 
 
 
@@ -5570,6 +5564,11 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://play-lh.googleusercontent.com/yg-oGU8m_AWLNEOOrQ_yjMPJf8QWLDqWjj1H-eoITLRdQpH3QUZvhZCHH0YCsQRXCQ=w240-h480-rw",ARTVISI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.yufid.com/hls/artvisi.m3u8
 
 
 
