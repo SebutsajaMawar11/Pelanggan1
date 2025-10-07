@@ -5677,7 +5677,7 @@ __________________________________________________
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/musikindo.png" group-title="MUSIC", Musik Indonesia
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017ec528dc550e98/bca939f249ba4f6d8af93435d18d37a5.jpg" group-title="MUSIC", Musik Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -5686,18 +5686,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS4WC3CI-sRu_zbICv9dB-0frZh7ASwTRz_jkbz4iCcu64pq905gP7so9X1M9oBuXLGJIpl2UxIohQRMQC1CL0byBnpU_6avW5LvLcCjiG2PB0IWOtn2-6dbmQCgkGmtau5k2iV8BnXgQF6RVgUbgr38UDvRRcKWB14Z6WRn586zmWjvsG5SX0sqAFf7AI/s700/BAHANA.png",BAHANA RADIO MUSIC
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/5/19875.v12.png",BAHANA FM MUSIC
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUgBg5FPryaJz74nVcZK8umSf84YP4jjVsJPCZCUiPK4hQuoS5m8eSN4moWBma_ekg6biBFp_tcsurvsYWkZEU7zdGjOV6WLShRd-q5Pg9lKy6kvbFhjTpTx0eUt_-QI5IqNKAJiD59ADOG-yhGIHT3QlPW_h_qcp-3PPFxU265Ji0_bsboK10FiuEd8Bk/s700/MALEO%20TV.png",MALEO TV
-#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv1vf4oYMXaqJWbZXJy1oZzhzzwNKXYlzpsZyB2PISNWaL3jR01G8EiAls8OywWbIHTnn4Ht5KpDk2FE_ylAFwG2NNN9qhAc5GZ_c1v0IJwh7BKbc5w0nne1sEG0OxMR342yIuj_p5KuEJkJ9YZT38i6q8oWoQcVU8Goifjeq1ml4fKYKXz0tT-LjNYPJG/s700/CITRA%20DANGDUT.png",CITRA DANGDUT
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvaeo_vWUDEUd0eGVEsxYuMUpA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg",CITRA DANGDUT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
@@ -5705,47 +5700,27 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv1vf4oYMXaqJWbZXJy1oZzhzzwNKXYlzpsZyB2PISNWaL3jR01G8EiAls8OywWbIHTnn4Ht5KpDk2FE_ylAFwG2NNN9qhAc5GZ_c1v0IJwh7BKbc5w0nne1sEG0OxMR342yIuj_p5KuEJkJ9YZT38i6q8oWoQcVU8Goifjeq1ml4fKYKXz0tT-LjNYPJG/s700/CITRA%20DANGDUT.png",CITRA DANGDUT FHD
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvaeo_vWUDEUd0eGVEsxYuMUpA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg",CITRA DANGDUT FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd29wXb2-vddaGfok9d7cxHHcvHuMWdCD5TiNQKFiheJaQHJFeQe60qxRfHsv8T08JpJlzmS4BuPZMlCcUfx5poQEDHQalbzMcsxCUqmv3QvmkJXAMEKuk-O4RH_UrY89cH-TZRTOWTqlGXMD5lLbESsMP6HGrdJ750fZSSk7EHj4LoMCazkRtOBx8R9HE/s700/IMTV.png",IMTV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nwEOUy-lkSLds4VpJE5zwbgKoNG-BuYmrOBwhsxerLdgjw0rsa6iLPf8n8QRhCdy2QE&usqp=CAU",IMTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJFYxAIRJ-ANQNTChQK0JaPttzAuleY-uAzo3ylQxfbeK4Siwm0m0J9xTk4NwaCYueYVfezY9WjSEJOzPrJ_ytpFdQnzd8ysxmjcFg0QO-lcllckbI1cISZmn_o8DebVsXuyui8yKWYre1FdKO3xPgjIHS94zyUSK5uSBUtRzNTP3I_wGkOJEy8k_X0Zqa/s700/POP%20MUSIC.png",POP MUSIC
-#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSeXOiuCwywCJVSG4lZY072482du66sGdgSEBy6RNXZ4SnPL4bCl2OKuYM75lChRw7Qod_FY3Ombldwm1WKTM5dfuV6aMizFK48qNHFBlazCDmWhyzTTwzVc6gBVNcwjeTvNXlmkIsF4Ymm7V6Ncf08CdW9A8o4cD11Emu0cU9hWyRRRXGrhgO24RDPVxs/s700/SPIRIT%20TV.png" group-title="MUSIC",SPIRIT TV
+#EXTINF:-1 tvg-logo="https://assets.spirittv.de/images/spirit-tv-twitter-card.png" group-title="MUSIC",SPIRIT TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
 
 
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWF5iy7pz8qWStADdt3lRs1bQb465KYE7Yg&s", IMTV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="MUSIC",Music TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
-
-
-
-#EXTINF:-1 tvg-id="MTV90s" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/950/49950-SNAPSHOT-l.png" group-title="MUSIC",MTV 90's
+#EXTINF:-1 tvg-id="MTV90s" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_banners/BDZAUIAM/1394-mtv-90.png" group-title="MUSIC",MTV 90's
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
@@ -5753,7 +5728,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="MUSIC",MTV Live HD
+#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://theident.gallery/mtvlivehd/2012/MTVLIVE-VIDEO-2012-ID-BAND-1-8.webp" group-title="MUSIC",MTV Live HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
@@ -5761,53 +5736,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/95/LogoBahanaFMJKT.png/250px-LogoBahanaFMJKT.png",BAHANA RADIO MUSIC
-https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_Musik_Indonesia.png",MUSIK INDONESIA TRV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#https://streaming.indihometv.com/joss/134/musikindo720/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://cubmu.com
-https://cdnjkt913.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
-
-
-
-EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3CAq9eTM4HTtcwK61iCVQU4-nKEy5HwkdA&s",POP MUSIC
-#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkK0PlFl7XgwyF-jysWqsmXjlTWemZTWCkA&s", PRAMBORS INDI
-https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqDgISmgY9Nx1XWHO567adwvD0rbZWE-mOYw&s" group-title="MUSIC", SPIRIT TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Ibiza.png" group-title="MUSIC", IbizaTV
+#EXTINF: -1 tvg-logo="https://filtermusic.net/_astro/radios-live-radio_GWqp9.webp" group-title="MUSIC", IbizaTV
 https://wahyu1ptv.pages.dev/Ibiza.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/FreshDance.png" group-title="MUSIC", FreshDance
+#EXTINF: -1 tvg-logo="https://www.radioplayeruk.com/img/logs/freshdance.png" group-title="MUSIC", FreshDance
 https://wahyu1ptv.pages.dev/FreshDance.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetalTV.png" group-title="MUSIC", MetalTV
-https://wahyu1ptv.pages.dev/MetalTV.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJbiS3C_0Y9sh0vzG0koXG_R3d5gwSaRVJwA&s" group-title="MUSIC", MTV LIVE
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/hd/0ca08b14285791.560366cfdc064.png" group-title="MUSIC", MTV LIVE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
@@ -5815,81 +5756,62 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7NcEh8p4tABtq9Vc5824eoIy3IFsmuX4Y9A&s",K-POP TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ytimg.com/vi/aS1O3MgGuz0/hq720.jpg",K-POP TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.24hrkpop.com/hls/3/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicUPRq5NTdA-qyBs8bPYWVqBgemzUKWjgmw&s" group-title="MUSIC", RELOAD MUSIC
+#EXTINF:-1 tvg-logo="https://geo-media.beatport.com/image_size/590x404/ece428f9-f4bb-4eae-b1d9-63865fab4e19.jpg" group-title="MUSIC", RELOAD MUSIC
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIYUOH3bOfDHZs0oo3dsES_DJTBppUI9fqw&s", DEEP BLUE
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCO0QmlhBypNZ62weotFyjig
 
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/thumbnail.jpg", MTV BIGGEST POP
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images.pluto.tv/channels/652e766f3fd33c0008161257/featuredImage.jpg", MTV BIGGEST POP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3fL2sKk3QFw_aM4ZDLHbEetIr3xTNSwUHg&s", MTV ROCKS
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images.squarespace-cdn.com/content/6101446d22a6616afa789c00/1627473062756-HGKKEM89KNOGCT4953Z0/TJ-MTV-Rocks-TV30-WIP_05+%280-00-01-09%29.png?format=1500w&content-type=image%2Fpng", MTV ROCKS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_i-LBoYAOUGVnETGCHWyUr84TpxrmTXQ3A&s", MTV FLOW LATINO
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV05LuHSuWBQOZNeLhciQZE291j2kReD90xQ&s", MTV FLOW LATINO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxd5VOoKxpTTH9g4Be60ZLNXZdYVfh2A2MA&s", NOW ROCK
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYpQoeuhRE83jJrGmAAWpqLhGVpMQ1Yp3fA&s", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwOtCHMfQRz1O-0aokh2OoJI02yrXY5Gq-w&s", NEW KPOP
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ytimg.com/vi/cE1ONL8DyDU/hq720.jpg", NEW KPOP
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0apztKifh384hR-Rz4HGXC_7xi6cUqTPuA&s", DANCE TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://m.media-amazon.com/images/I/91ccSv90GmS.png", DANCE TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KpopTV.png" group-title="MUSIC", K-PopTV
-https://wahyu1ptv.pages.dev/kPopTV.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KPopTvPlay.png" group-title="MUSIC",K-PopTvPlay
-https://wahyu1ptv.pages.dev/KPopTvPlay.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/K-ContentsVoyage.png" group-title="MUSIC", K-ContentsVoyage
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/btxWKdCx2w0/hq720.jpg" group-title="MUSIC", K-ContentsVoyage
 https://wahyu1ptv.pages.dev/K-ContentsVoyage.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/kPopCV.png" group-title="MUSIC",K-PopShowChampion
+#EXTINF: -1 tvg-logo="https://stat.ameba.jp/user_images/20220331/09/skz20000320hj/ef/ef/j/o1080060915095605874.jpg" group-title="MUSIC",K-PopShowChampion
 https://wahyu1ptv.pages.dev/kPopCV.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/kPopCjENM.png" group-title="MUSIC", K-PopBy1
+#EXTINF: -1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/9561f9100698e588520d321ab1995d08.jpg" group-title="MUSIC", K-Pop M2
 https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Liberty%20K-Pop.png" group-title="MUSIC", LibertyK-Pop
-https://wahyu1ptv.pages.dev/LibertyKpOp-HD.m3u8
 
 
 
