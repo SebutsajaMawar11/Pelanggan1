@@ -5748,7 +5748,7 @@ https://wahyu1ptv.pages.dev/FreshDance.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxCG5y1nkFMxIWAKSRZSExmVe9INDp0yGZQ&s" group-title="MUSIC", MTV LIVE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxCG5y1nkFMxIWAKSRZSExmVe9INDp0yGZQ&s" group-title="MUSIC", MTV HITS HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
