@@ -2194,7 +2194,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=afro&type=m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS 2 HD" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGRZmxAO45TLWXhJWVSBLKX9j63HSCsBXdYrFYNCICumTsvTfmT5u1Fw&s=10", Bahrain Sport 1 
+#EXTINF:-1 tvg-id="" group-title="SPORTS 2 HD" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQqO9BvU4EspQHBK28rBD5cHCPDm21jMGDtw&s", Bahrain Sport 1 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
@@ -2202,7 +2202,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
 
 
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS 2 HD", BEIN SPORTS 1 MY
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://thumbor.prod.vidiocdn.com/z_Bp09B2fH0A4wxNa1oMqTPLxWo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" group-title="SPORTS 2 HD", BEIN SPORTS 01
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2212,7 +2212,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 
 
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS 2 HD", BEIN SPORTS 2 MY
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports2" tvg-logo="https://thumbor.prod.vidiocdn.com/QSKgq95WmEkvpplQANanyIBvSQA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg" group-title="SPORTS 2 HD", BEIN SPORTS 02
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2222,7 +2222,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 
 
 
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORTS 2 HD",BEIN SPORTS 3 MY
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://thumbor.prod.vidiocdn.com/z71mHVArri6hQ0V6J32WlsKWYYY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg" group-title="SPORTS 2 HD",BEIN SPORTS 03
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
