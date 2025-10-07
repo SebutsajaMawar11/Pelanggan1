@@ -5728,7 +5728,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://theident.gallery/mtvlivehd/2012/MTVLIVE-VIDEO-2012-ID-BAND-1-8.webp" group-title="MUSIC",MTV Live HD
+#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/1446519160_00-artcard-mtvlivehd-november.jpg" group-title="MUSIC",MTV Live HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
