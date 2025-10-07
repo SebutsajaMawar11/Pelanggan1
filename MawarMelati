@@ -2656,7 +2656,7 @@ ___________
 UNIFI TV
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORTS 2 FHD", UNIFI SPORTS
+#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/12/389-s.webp" group-title="SPORTS 2 FHD", UNIFI SPORTS
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
@@ -2668,25 +2668,25 @@ PRIMA SPORT
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1&quot; tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA" group-title="SPORTS 2 FHD", Prima Sport 1 
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1&quot; tvg-logo="https://i.ytimg.com/vi/6A0Aa_5tIc0/mqdefault.jpg" group-title="SPORTS 2 FHD", Prima Sport 1 
 #EXTVLCOPT:http-referrer=https://hulky116.lokix1.cfd/000/
 https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2&quot; tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="SPORTS 2 FHD", Prima Sport 2 
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2&quot; tvg-logo="https://i.ytimg.com/vi/_gJCS-C_Kgc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEwgZSheMA8=&rs=AOn4CLBa1SC1gOj_a0hviQBZwAQCgoXZzw" group-title="SPORTS 2 FHD", Prima Sport 2 
 #EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="SPORTS 2 FHD" ,Prima Sport 3 
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25UT3ORm_VB064OxhS9tNS2EPsZI82ua4eQ&s" group-title="SPORTS 2 FHD" ,Prima Sport 3 
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
 https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="SPORTS 2 FHD" ,Prima Sport 4 
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Prima_Sport_4_Station_ID.png/revision/latest/scale-to-width-down/250?cb=20230326135104" group-title="SPORTS 2 FHD" ,Prima Sport 4 
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
