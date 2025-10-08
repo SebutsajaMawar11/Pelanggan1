@@ -76,6 +76,11 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/10/06/17259-prediksi-timnas-indonesia-vs-arab-saudi.jpg" group-title="🔵TIMNAS DAY",GTV HD (TIMNAS)
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.jurnalzone.id/wp-content/uploads/2025/10/Timnas-Indonesia-vs-Arab-Saudi-Round-4.webp" group-title="🔵TIMNAS DAY",BEINSPORT 2 (TIMNAS)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
