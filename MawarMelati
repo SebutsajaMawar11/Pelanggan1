@@ -2738,6 +2738,25 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
+
+____
+one sports
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1080" group-title="SPORTS 2 FHD", ONE SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/onesports_qp.m3u8
+#http://iptvtree.net:8080/F28312/cc1dc138/299947
+http://ip96.uk:8080//adilmus03/002870/290887
+
+
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=412" group-title="SPORTS 2 FHD", ONE SPORTS+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+http://iptvtree.net:8080/F28312/cc1dc138/290365
+#https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+
 ______________
 DAZN TV
 
@@ -4420,8 +4439,31 @@ https://zozotv.xyz:443/movie/rohaiza@4424/rohaiza@4424/1923.mp4
 
 ==================================================FILM HOROR==================================================
 
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://cdn-brilio-net.akamaized.net/webp/news/2018/02/28/139563/1200xauto-segera-tayang-ini-5-kisah-menyeramkan-di-balik-layar-film-nini-thowok-180228q.jpg", Nini Thowok
+https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="" group-title="FILM HOROR" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/um0ezs2daaKr9zW3weK2z2oNUT8.jpg",Pengantin Iblis
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://media.suara.com/pictures/970x544/2018/03/08/59530-poster-film-titisan-setan.jpg",Titisan Setan
+https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://www.harapanrakyat.com/wp-content/uploads/2021/03/Sinopsis-Titisan-Setan-2-Ulah-Perempuan-Misterius-yang-Merugikan.jpg", Titisan Setan 2
+https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://thumbor.prod.vidiocdn.com/dG0S3e8n5ZLry7MJBy8PkLsz13Q=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/7539224/sinopsis-kabut-2021-film-horor-indonesia-13-1ffad2.jpg", Kabut
+https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://mmc.tirto.id/image/2022/10/28/film-rumah-kaliurang_ratio-16x9.jpg", Rumah Kaliurang
+https://www.googleapis.com/drive/v3/files/1qH3QMgAj-NLg3uLcN3LFLZweLXcdG-Uq?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+#EXTINF:-1 type="" group-title="FILM HOROR" tvg-logo="https://cdn.ngopibareng.id/uploads/2025/2025-01-29/sinopsis-film-pengantin-iblis-utang-dibayar-nyawa--thumbnail-245.webp",Pengantin Iblis
 https://playerx.rpmstream.online/hls/KbKGsH3b9pt2NZVOAXFK-A/gee/cvax3f5w/6sy3gk/tt/master.m3u8|referer=https://playerx.rpmstream.online/&origin=https://playerx.rpmstream.online&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 
@@ -4475,7 +4517,7 @@ https://pixeldrain.com/api/file/tVDXN7EM?download
 
 
 
-#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi_webp/wKIlxjD0k4w/sddefault.webp",Kuyang
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/kuyang-the-movie-hadirkan-teror-mengeri-dd901d.jpg",Kuyang
 https://pixeldrain.com/api/file/BPrv72bw?download
 
 
@@ -4490,7 +4532,7 @@ https://pixeldrain.com/api/file/f9HdvnRd?download
 
 
 
-#EXTINF:-1 type="movie" tvg-logo="https://scontent.fkul1-2.fna.fbcdn.net/v/t39.30808-6/490064166_30177526968513257_6981477372389530132_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=xpY9htL-flgQ7kNvwG1rcsi&_nc_oc=AdmZ_BKRLDMt9Mpqc5EA4iCj_pxPYqTbGGyKw2BQx8kCtA3fUcnfJeqNsagrYhsrmD0&_nc_zt=23&_nc_ht=scontent.fkul1-2.fna&_nc_gid=NtgnSwev3tHHgZCA-mFT0w&oh=00_AfNbAZaphcPeGk0m37MPfaKcC7Q9PH-sstN7Wjty6ENwwQ&oe=68520497" group-title="FILM HOROR",PULUNG GANTUNG (FHD)
+#EXTINF:-1 type="movie" tvg-logo="https://assets.radartasik.id/main/2025/02/Pulung-Gantung-FotoJet-1200x675.webp" group-title="FILM HOROR",PULUNG GANTUNG (FHD)
 https://fs22.1cloudfile.com/4aPby/Pulung.Gantung.2024.1080p.WEB-DL.AAC5.1.H.264-PandaFlix.mkv?download_token=2997747b5175c46fc70f191bd50a62bdcb4d3e50d610168cd211d28600cecd90
 
 
@@ -4501,13 +4543,13 @@ https://pixeldrain.com/api/file/zSNxqv5q?download
 
 
 
-#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi_webp/5V7EmXGeIUA/sddefault.webp",Sinden Gaib
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://thumbor.prod.vidiocdn.com/ETjcVDUjvHRzNqFJh1WBLxye92g=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8084625/sinopsis-jagat-alam-gaib-sinden-gaib-2024-rekomendasi-film-horor-indonesia-4b2bcb.jpg",Sinden Gaib
 https://pixeldrain.com/api/file/ci2qdnsA?download
 
 
 
 
-#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi_webp/_pTmYCDQ0aI/sddefault.webp",Trinil - kembalikan tubuhku
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://thumbor.prod.vidiocdn.com/q8EGRNte7XGed1vedTqTcWabjkg=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8011821/trinil-48a2f1.jpg",Trinil - kembalikan tubuhku
 https://pixeldrain.com/api/file/gu6tTkv4?download
 
 
@@ -4571,7 +4613,7 @@ https://drive.usercontent.google.com/download?id=1YslB3-jUVIsLr9EDSjaukX6dpwKZxX
 
 
 
-#EXTINF:-1 tvg-logo="https://lsf.go.id/wp-content/uploads/2022/02/Menjelang-Magrib.jpg"group-title="FILM HOROR",Menjelang Magrib
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3eDxKOXvgZ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABI6ZgMJk_VH1dsUreoV70UfLG8w"group-title="FILM HOROR",Menjelang Magrib
 https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
