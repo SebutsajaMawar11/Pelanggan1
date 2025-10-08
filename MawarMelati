@@ -76,6 +76,14 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://www.jurnalzone.id/wp-content/uploads/2025/10/Timnas-Indonesia-vs-Arab-Saudi-Round-4.webp" group-title="🔵TIMNAS DAY",BEINSPORT 2 (TIMNAS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/bEIN2.m3u8
+
+
+
 #EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN 1 HD" tvg-logo="https://asset-2.tribunnews.com/cirebon/foto/bank/images/hbgyt6.jpg" group-title="🔵TIMNAS DAY", ESPN 1 HD (TIMNAS)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14920
 
