@@ -1237,6 +1237,25 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://img.okezone.com/content/2025/10/08/51/3175363/link_live_streaming_timnas_indonesia_vs_timnas_arab_saudi_di_kualifikasi_piala_dunia_2026_zona_asia_malam_ini_ada_di_akhir_artikel-G6Du_large.jpg" group-title="🔵TIMNAS DAY",RCTI LIVE SPORTS
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
+https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
+######http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+#http://103.179.182.117:6768/hls/51/51.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="🔵TIMNAS DAY" tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdns.klimg.com/mav-prod-resized/0x0/ori/image_bank/2024/11/19/141139.028-prediksi-timnas-indonesia-vs-arab-saudi-19-november-2024-di-kualifikasi-piala-dunia-2026-1.jpg",SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
