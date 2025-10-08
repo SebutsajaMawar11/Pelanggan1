@@ -76,6 +76,9 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN 1 HD" tvg-logo="https://asset-2.tribunnews.com/cirebon/foto/bank/images/hbgyt6.jpg" group-title="🔵TIMNAS DAY", ESPN 1 HD (TIMNAS)
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14920
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCb-O--NrnH9nqwdV8namJXPICcuR2XjD8gwav7xApVeOv9ggOdWbnHhBpI2HD-1bKPGU&usqp=CAU" group-title="🔵TIMNAS DAY",K+ Sports 1 (TIMNAS)
 http://203.80.165.14:30168/stream/channelid/1800362794?profile=pass
