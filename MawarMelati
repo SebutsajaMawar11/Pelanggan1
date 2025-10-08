@@ -77,6 +77,11 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCb-O--NrnH9nqwdV8namJXPICcuR2XjD8gwav7xApVeOv9ggOdWbnHhBpI2HD-1bKPGU&usqp=CAU" group-title="🔵TIMNAS DAY",K+ Sports 1 (TIMNAS)
+http://203.80.165.14:30168/stream/channelid/1800362794?profile=pass
+
+
+
 #EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://asset-2.tribunnews.com/cirebon/foto/bank/images/hbgyt6.jpg" group-title="🔵TIMNAS DAY", TIMNAS DAY_ARENA 2 (FHD)
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/400.ts
 
