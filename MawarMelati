@@ -41,7 +41,7 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/cirebon/foto/bank/images/hbgyt6.jpg" group-title="🔵TIMNAS DAY",RCTI+ LIVE SPORTS (TIMNAS)
+#EXTINF:-1 tvg-logo="https://img.okezone.com/content/2025/10/08/51/3175363/link_live_streaming_timnas_indonesia_vs_timnas_arab_saudi_di_kualifikasi_piala_dunia_2026_zona_asia_malam_ini_ada_di_akhir_artikel-G6Du_large.jpg" group-title="🔵TIMNAS DAY",RCTI+ LIVE SPORTS (TIMNAS)
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
