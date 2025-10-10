@@ -10,11 +10,10 @@
 
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-
 MAU NGAPAIN BOSSSSSS......?????
 SALING MENGHARGAI YAAAA....
-YOK MAMPIR SINI    :      https://t.me/mawar_developer
 DAN MENDING KITA SALING DISKUSI :)
+YOK MAMPIR SINI    :      https://t.me/mawar_developer
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
@@ -2687,18 +2686,19 @@ ____
 one sports
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1080" group-title="SPORTS 2 FHD", ONE SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/onesports_qp.m3u8
-#http://iptvtree.net:8080/F28312/cc1dc138/299947
-http://ip96.uk:8080//adilmus03/002870/290887
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=412" group-title="SPORTS 2 FHD", ONE SPORTS+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-http://iptvtree.net:8080/F28312/cc1dc138/290365
-#https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 
 ______________
