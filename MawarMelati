@@ -2162,6 +2162,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
+#EXTINF:-1 tvg-id="Sports" tvg-name="Sports" group-title="SPORTS 2 HD" tvg-logo="https://cdn3.whatculture.com/images/2019/04/e9aca07490fa72b2-600x338.jpg", W_NETWORK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDcqJop58uo9S1iYnkc7Npv0qqeVSBz3iqw&s" group-title="SPORTS 2 HD", DAZN 01
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/znsa.m3u8
