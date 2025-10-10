@@ -58,7 +58,18 @@ DAN MENDING KITA SALING DISKUSI :)
 #EXTINF:-1 group-title="XXXXXXXXXXXXX" tvg-logo="XXXXXXXXXXXXXXXXX", (XXXXXXXXX)
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/H47mQY3vE9k/maxresdefault.jpg" group-title="🔵TIMNAS DAY", INDOSIAR_SPORTS HD1
+http://ktpremium.online:2095/live/Halim8781/Halim8781/73617.ts
 
+
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/238/2025/10/10/Whats_App_Image_2025_10_09_at_16_08_02_d22066936d-1-3463649806.jpeg" group-title="🔵TIMNAS DAY", INDOSIAR_SPORTS HD2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
+
+
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLANET_Timnas-U17-Matchday-rcxvc2eu2gok3xbf6d563pcpzr645g2l7iqexiyo7i.jpg" group-title="🔵TIMNAS DAY", INDOSIAR HD3
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/11
 
 
 
