@@ -1470,7 +1470,13 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 http://filex.me:8080//live/Qasim1990/1990qasim/302301.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6VrE_PMJy84/mqdefault.jpg" group-title="▶EVENT/LIVE◀", iNEWS TV SPORTS
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="▶EVENT/LIVE◀", RCTI SPORTS HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6VrE_PMJy84/mqdefault.jpg" group-title="▶EVENT/LIVE◀", iNEWS TV SPORTS HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/12
 
