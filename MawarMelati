@@ -73,6 +73,11 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/11
 
 
 
+#EXTINF:-1 tvg-logo="https://www.jurnalzone.id/wp-content/uploads/2025/10/Timnas-Indonesia-U23-Live.webp" group-title="🔵TIMNAS DAY", INDOSIAR_SPORTS HD4
+http://filex.tv:8080//live/shafiq02/1234/302264.ts
+
+
+
 
 #EXTINF:0 tvg-logo="https://asset-2.tribunnews.com/cirebon/foto/bank/images/hbgyt6.jpg" group-title="🔵TIMNAS DAY", RCTI+
 #EXTM3U
