@@ -1470,6 +1470,13 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 http://filex.me:8080//live/Qasim1990/1990qasim/302301.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6VrE_PMJy84/mqdefault.jpg" group-title="▶EVENT/LIVE◀", iNEWS TV SPORTS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/12
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="PL" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg" group-title="▶EVENT/LIVE◀", DENSTV_SPORTS
@@ -2683,23 +2690,22 @@ ______________
 DAZN TV
 
 #EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 01
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
 
 
 #EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 02
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
+
 
 
 #EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 03
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
+
 
 
 #EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 04
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
+
 
 
 #EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 05
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
+
 
 
 
