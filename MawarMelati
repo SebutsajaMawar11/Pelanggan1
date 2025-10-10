@@ -1438,13 +1438,13 @@ M LIVE SPL 1
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 __________
-M LIVE SPL 2
+livolitv
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%279302387%27&EntityType=%27Item%27&EntityId=%27278689%27&Width=420&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",M LIVE SPL 02 (TERSEDIA SAAT LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/10/996x664/livoli_124b3cc.jpg" group-title="▶EVENT/LIVE◀", LiVOLI TV (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&amp;type=drm
+https://spacetv.my.id/index.mpd?id=19488&amp;type=dash
 
 
 
