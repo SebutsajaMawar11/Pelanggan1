@@ -4384,14 +4384,17 @@ https://zozotv.xyz:443/movie/rohaiza@4424/rohaiza@4424/1923.mp4
 
 
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/ogig_TEeJOIJs7JMqhydQwsgdwM=/1200x675/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1501379/original/078796300_1486550710-Gunung_Kawi.jpg" group-title="FILM HOROR", GUNUNG KAWI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575732.mkv
 
 
-#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://media.suara.com/pictures/970x544/2018/03/08/59530-poster-film-titisan-setan.jpg",Titisan Setan
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://media.suara.com/pictures/970x544/2018/03/08/59530-poster-film-titisan-setan.jpg",Titisan Setan 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 #EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://www.harapanrakyat.com/wp-content/uploads/2021/03/Sinopsis-Titisan-Setan-2-Ulah-Perempuan-Misterius-yang-Merugikan.jpg", Titisan Setan 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
