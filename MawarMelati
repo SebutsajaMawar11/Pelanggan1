@@ -57,6 +57,86 @@ YOK MAMPIR SINI    :      https://t.me/mawar_developer
 #EXTINF:-1 group-title="XXXXXXXXXXXXX" tvg-logo="XXXXXXXXXXXXXXXXX", (XXXXXXXXX)
 
 
+
+
+#EXTINF:0 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/262/2025/10/11/Indonesia-vs-Irak-2667224167.jpg" group-title="🔵TIMNAS DAY", RCTI+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://obrolanbisnis.com/wp-content/uploads/2025/10/Irak-vs-Indonesia.jpg.webp" group-title="🔵TIMNAS DAY",RCTI+ LIVE SPORTS (TIMNAS)
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
+
+
+
+
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/10/image_380x226_68ea0fb90db6a.jpg" group-title="🔵TIMNAS DAY",RCTI LIVE SPORTS
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
+@###https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
+######http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+#http://103.179.182.117:6768/hls/51/51.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://debatbola.com/wp-content/uploads/2025/10/Prediksi-Irak-vs-Indonesia-12-Oktober-2025.jpg" group-title="🔵TIMNAS DAY", RCTI+ (TIMNAS)
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
+
+
+
+#EXTINF:-1 group-title="🔵TIMNAS DAY" tvg-logo="https://image.idntimes.com/post/20251008/upload_7ab057c990eb79cbf8f1ad109f8315c2_577a3692-761d-4b95-be79-acbcf23e4b8f.jpg?tr=w-1200,f-webp,q-75&width=1200&format=webp&quality=75", RCTI HD
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36    
+#https://fhlsport200.tbafs39a1.xyz/token-IEB4z7KSIP%2BG6GItkfY6kWyFlJrahynjOXOvwKhMFTb65bfLHUFdD4MvrhZIVUhJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/hd-zh-1-4405655.m3u8?txSecret=c0786c8657d6edafa92cfc680a6e1778&amp;txTime=68DD1906
+#https://bit.ly/DonzTelevisionOffline
+
+
+
+#EXTINF:-1 tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Whats_App_Image_2025_10_10_at_13_00_59_b43c3300d7.jpeg" group-title="🔵TIMNAS DAY",GTV HD (TIMNAS)
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
+
+
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2024/06/05/cover-fokus-timnas-indonesia-vs-irak_169.jpeg?w=980" group-title="🔵TIMNAS DAY", iNEWS TV SPORTS HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/12
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/H47mQY3vE9k/maxresdefault.jpg" group-title="🔵TIMNAS DAY", INDOSIAR_SPORTS HD1
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/11
 
@@ -76,52 +156,6 @@ http://filex.tv:8080//live/shafiq02/1234/302264.ts
 
 
 
-
-#EXTINF:0 tvg-logo="https://asset-2.tribunnews.com/cirebon/foto/bank/images/hbgyt6.jpg" group-title="🔵TIMNAS DAY", RCTI+
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
-
-
-
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://www.jurnalzone.id/wp-content/uploads/2025/10/Timnas-Indonesia-vs-Arab-Saudi-Round-4.webp" group-title="🔵TIMNAS DAY",RCTI LIVE SPORTS
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
-@###https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
-######http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-#http://103.179.182.117:6768/hls/51/51.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://img.okezone.com/content/2025/10/08/51/3175363/link_live_streaming_timnas_indonesia_vs_timnas_arab_saudi_di_kualifikasi_piala_dunia_2026_zona_asia_malam_ini_ada_di_akhir_artikel-G6Du_large.jpg" group-title="🔵TIMNAS DAY",RCTI+ LIVE SPORTS (TIMNAS)
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/cirebon/foto/bank/images/hbgyt6.jpg" group-title="🔵TIMNAS DAY",SpotStars2 HD (TIMNAS)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 
@@ -133,34 +167,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-
-#EXTINF:-1 group-title="🔵TIMNAS DAY" tvg-logo="https://www.jurnalzone.id/wp-content/uploads/2025/10/Timnas-Indonesia-vs-Arab-Saudi-Round-4.webp", RCTI HD
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
-#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
-#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36    
-#https://fhlsport200.tbafs39a1.xyz/token-IEB4z7KSIP%2BG6GItkfY6kWyFlJrahynjOXOvwKhMFTb65bfLHUFdD4MvrhZIVUhJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/hd-zh-1-4405655.m3u8?txSecret=c0786c8657d6edafa92cfc680a6e1778&amp;txTime=68DD1906
-#https://bit.ly/DonzTelevisionOffline
-
-
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCb-O--NrnH9nqwdV8namJXPICcuR2XjD8gwav7xApVeOv9ggOdWbnHhBpI2HD-1bKPGU&usqp=CAU" group-title="🔵TIMNAS DAY", RCTI+ (TIMNAS)
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/10/06/17259-prediksi-timnas-indonesia-vs-arab-saudi.jpg" group-title="🔵TIMNAS DAY",GTV HD (TIMNAS)
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
-
 
 
 
