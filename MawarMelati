@@ -1454,11 +1454,23 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 __________
 livolitv
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/10/996x664/livoli_124b3cc.jpg" group-title="▶EVENT/LIVE◀", LiVOLI TV (TERSEDIA SAAT LIVE)
+
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWFpWDH2GRdTHr8rjjFJ-ib1p5w4uCc02J75vwmbPNhoruarX8Ptmq8Rx&s=10",LiVOLI TV 01 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
+https://spacetv.my.id/index.mpd?id=19488&type=dash
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/10/996x664/livoli_124b3cc.jpg" group-title="▶EVENT/LIVE◀", LiVOLI TV 02 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&amp;type=drm
-https://spacetv.my.id/index.mpd?id=19488&amp;type=dash
+####https://spacetv.my.id/index.mpd?id=19488&amp;type=dash
 
 
 
