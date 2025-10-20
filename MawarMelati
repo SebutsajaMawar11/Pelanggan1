@@ -352,7 +352,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760987950/ei/z
 
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE CAMPURSARI ROMO WILIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE CAMPURSARI KENCANA WUNGU
 
 
 
@@ -360,7 +360,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760987950/ei/z
 
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE XXXXXXXX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE SM MUSIK (CAMPURSARI)
+
+
+
+
+#EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE LARIS MANIS AUDIO (DUWE GAWE)
 
 
 
