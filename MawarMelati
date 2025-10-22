@@ -1876,6 +1876,28 @@ https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1110/CMA
 
 
 
+_________
+sport_tv
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxoqqrV2-17TZgXPO8IpFyJQPkwooOqVwxg&s" group-title="SPORTS", SPORTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+
+#EXTINF:-1 tvg-id="SporTV 2.br" tvg-logo="https://i.pinimg.com/736x/e4/b9/2f/e4b92f0e1603a9366143eab0b60d34be.jpg" group-title="SPORTS", SPORTV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+
+#EXTINF:-1 tvg-id="SporTV 3.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW88YZNoyKYB6cB7vTIp3RAb7tg2adCwrXaQ&s" group-title="SPORTS", SPORTV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+
+
 _____________
 ASTRO
 
@@ -5455,8 +5477,18 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.ytimg.com/vi/2OEh74F-VIk/hq720.jpg",Wesal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#####https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgb9z2xzIvdPOAakcjq7xke72PuU_1v71HnSXIMwgpIQ5HjV8dQMQTW_U&s=10" group-title="RELIGI" ,TVMU HD
+https://e.siar.us/live/tvmu.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Zte5Qug5tmo/maxresdefault.jpg" group-title="RELIGI", SurauTV
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://web.semar.my.id/muitv.jpg" ,MUI TV
+https://mui.siar.us/mui/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://images.indihometv.com/tvposter/alquran.png",Qur'an TV
