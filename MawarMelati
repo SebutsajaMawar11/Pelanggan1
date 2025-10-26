@@ -131,7 +131,7 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/33
 
 
 
-#EXTINF:-1 group-title="MOTOGP | SEPANG CIRCUIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPngYlu_QqLiGsyjD3aZSu5Lp3tMRS7krNA&s",MotoGP_SEPANG 04
+#EXTINF:-1 group-title="MOTOGP | SEPANG CIRCUIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPngYlu_QqLiGsyjD3aZSu5Lp3tMRS7krNA&s",MotoGP_SEPANG (skysport)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
 
