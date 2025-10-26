@@ -100,7 +100,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 ====================================================== MOTOGP | SEPANG CIRCUIT ======================================================
 
-#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/banjarmasin/foto/bank/images/Jam-tayang-dan-Jadwal-MotoGP-Malaysia-2025-Live-Trans7-Hari-Ini.jpg" group-title="MOTOGP | SEPANG CIRCUIT", MotoGP_SEPANG 01`
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/banjarmasin/foto/bank/images/Jam-tayang-dan-Jadwal-MotoGP-Malaysia-2025-Live-Trans7-Hari-Ini.jpg" group-title="MOTOGP | SEPANG CIRCUIT", MotoGP_SEPANG (SpoTV2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -108,7 +108,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.autos.id/wp-content/uploads/2025/07/sepang.jpg" group-title="MOTOGP | SEPANG CIRCUIT",MotoGP_SEPANG 02
+#EXTINF:-1 tvg-logo="https://www.autos.id/wp-content/uploads/2025/07/sepang.jpg" group-title="MOTOGP | SEPANG CIRCUIT",MotoGP_SEPANG (TNT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -118,15 +118,14 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1&quot; tvg-logo="https://www.ranahriau.com/foto_berita/334831IMG_20250904_212311.jpg" group-title="MOTOGP | SEPANG CIRCUIT",MotoGP_SEPANG 03
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1&quot; tvg-logo="https://www.ranahriau.com/foto_berita/334831IMG_20250904_212311.jpg" group-title="MOTOGP | SEPANG CIRCUIT",MotoGP_SEPANG (Prima1)
 #EXTVLCOPT:http-referrer=https://hulky116.lokix1.cfd/000/
 https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeU_siUIkdyypeIT-wBh4-Ve.png" group-title="MOTOGP | SEPANG CIRCUIT",Trans 7
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/banjarmasin/foto/bank/images/Ini-link-dan-cara-Live-Streaming-TV-Online-MotoGP-Catalunya-2025-siaran-gratis-Trans7-hari-ini.jpg" group-title="MOTOGP | SEPANG CIRCUIT",MotoGP_SEPANG (Trans 7)
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/33
 
 
