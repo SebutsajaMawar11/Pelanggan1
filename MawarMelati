@@ -1193,6 +1193,15 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT/LIVE◀,MOJI TV VOLLY
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/moji.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/pontianak/foto/bank/images/live-sctv-liga-champions.jpg" group-title="▶EVENT/LIVE◀", SCTV_SPORTS (FHD)
 #EXT-X-TARGETDURATION:1
@@ -2542,6 +2551,51 @@ https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=17938&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lwt5imYSHerJCDxgceftlfOw9D0P6JbVXQ&s" group-title="SPORTS 2 HD",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=17939&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n9PlqkddBSErYojBXYMIRmrnw7M=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
+https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9182&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9182&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORTS 2 HD", Champions Golf 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18189&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=18189&type=dash
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORTS 2 HD", Champions Golf 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18190&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
+
+
+
+
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
@@ -2871,6 +2925,17 @@ https://cloud.hownetwork.xyz/xxx/NhAsYycVFiIpfB8jL1V7anJKfGMnFQIzIygoFBwANGskSy1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="▶VOD ALL◀" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7BkDJ4DfjkEG6NRJPeyw9w2iRFx.jpg",Rosario
 https://cloud.hownetwork.xyz/xxx/MBc6LzcQGGxwYUV5bkczOiYUFhYaSBF3ITNHLSE/32/480.m3u8
+
+
+________________________________________
+
+#EXTINF:-1 tvg-id="dubID017" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFhMDk4OTctN2NhNC00YTk2LTk5ZmMtZDY2NzdlOWI1NWY0XkEyXkFqcGc@._V1_.jpg" group-title="▶VOD ALL◀",Shaolin Soccer (2001) Remastered Dub Indo
+https://files.dubbindo.site/upload/videos/2025/05/lOMB4VJUEXwozpU6ggCK_27_b2098cd2f2ac87ab3f750a98e7790ddc_video_720p_converted.mp4
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="▶VOD ALL◀" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGRmYjNlNjMtMzIxOS00ZDY2LTk5NjAtZTQ2MGZlNWJjZDViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", monster island
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Monster.Island.2024.1080p.NF.WEB-DL.DDP5.1.H.264-EQRTZ.mkv
+
+________________________________________
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -3390,6 +3455,111 @@ https://storage.dewanonton.online/hls/92e0db53-a875-4a3a-a9da-b5923cf2ec3d.mp4/i
 
 
 
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/lebILB4XqI60dUkJWYYsnaTm24D_big.jpg" group-title="▶VOD INDO◀",Ipar Adalah Maut
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401483749.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/cMM6gESlyjT1SgoR6jLg8RtvAqL_big.jpg" group-title="▶VOD INDO◀",1 Imam 2 Makmum
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401774605.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/mH7uHT4wpMEXy6weQIojuISRdlv_big.jpg" group-title="▶VOD INDO◀",3: Alif Lam Mim
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401132257.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/s7z1cxT9fkWsNXbQG5u3UiGQ7JP_big.jpg" group-title="▶VOD INDO◀",Bukannya Aku Tidak Mau Nikah
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400738423.mkv
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/9fdGmkXZQL1nPuWS5JyrWvIgWLy_big.jpg" group-title="▶VOD INDO◀",Cinta Dari Timor
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401566071.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/5F4a9rVCjpA9H9SOmO2ZyzDrbr7_big.jpg" group-title="▶VOD INDO◀",Cinta Kiblat
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401257423.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/3mkwshiag071SZ6qN1HMuIvJErL_big.jpg" group-title="▶VOD INDO◀",Cinta Tak Pernah Tepat Waktu
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401774607.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/7DQvdyprt1UKeXPDvtaG7LGoU7a_big.jpg" group-title="▶VOD INDO◀",Dewi
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401491805.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/fTts4tx5j5NdPzcdEnWpD39ZKYO_big.jpg" group-title="▶VOD INDO◀", Bangsal isolasi
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401539349.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/wBzwD51qtVXGmSjczMHrdYmJAb_big.jpg" group-title="▶VOD INDO◀",Journey of Love
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401308180.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/eIj5HFaVjFnv89wShLe2hsSPugR_big.jpg" group-title="▶VOD INDO◀",Kapan Hamil?
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400937520.mkv
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/dqDlkLV8MRy4E1i8XQryja0yqLR_big.jpg" group-title="▶VOD INDO◀",Keluarga Cemara
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401513889.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/1ZdMZJEXj5Eosx6wIcnHlbN5vIp_big.jpg" group-title="▶VOD INDO◀",Keluarga Suami Adalah Hama
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401773849.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/dLBQQQzGW2imj8untCtjQTFOIyX_big.jpg" group-title="▶VOD INDO◀",Kereta
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401118013.mkv
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/rbsyEdtp6Q5kjLJVngv1tmWqMGF_big.jpg" group-title="▶VOD INDO◀",Kesempatan Keduda
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401513890.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/2RWweAPdSSFzsCtxvjydldneUM6_big.jpg" group-title="▶VOD INDO◀",Komang
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401774611.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/d3baYARR6ZARpBA0s2ln55vCBef_big.jpg" group-title="▶VOD INDO◀",Kun Ana Wa Anta
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400677781.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/yOtRTm7hBpHbbIdU5Jn8m1mMzTC_big.jpg" group-title="▶VOD INDO◀",Lokananta
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401491808.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/rKOOWoRrQ7WfRchz7zo3401mn2y_big.jpg" group-title="▶VOD INDO◀",Made in Bali
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401774613.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/sa2pI1lcqG1OqGaVec24fmQ1XNp_big.jpg" group-title="▶VOD INDO◀",Malaikat Tanpa Sayap
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400987223.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/opge1KuH5QIVvZjVUGaI4MYjK1o_big.jpg" group-title="▶VOD INDO◀",Melukis Harapan Di Langit India
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401721892.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/io9FL6VlAbezbhVx2JpXZFCRrI_big.jpg" group-title="▶VOD INDO◀",Mrs. Tejo goes to Jakarta
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401460705.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/rP8tQuiLF7t2DcYUYl7zjm6lS0o_big.jpg" group-title="▶VOD INDO◀",Mungkin Esok Lusa Atau Nanti
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401483753.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/oEWtL2Rr5AuufFq57BjB7YZvLKv_big.jpg" group-title="▶VOD INDO◀",Norma: Antara Mertua dan Menantu
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401775993.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/aCHui0UMV5vFnGit4YPQH6f7T4w_big.jpg" group-title="▶VOD INDO◀",Pintu Pintu Surga
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401709907.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/shQW1KFEAEHCX9GytczYCDSXG6L_big.jpg" group-title="▶VOD INDO◀",Promised Hearts
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754477.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/rFowUCM6AeRJyMgcAlIigfc0Rmd_big.jpg" group-title="▶VOD INDO◀",Puspa Indah Taman Hati
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400964884.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/b3lPPjqBaFc9LVyf1WkmgAiaomk_big.jpg" group-title="▶VOD INDO◀",Sarung Untuk Bapak
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401774620.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/jjqYCOdSiJTHvKvRCmXQaON9Zrf_big.jpg" group-title="▶VOD INDO◀",Satu Hari Nanti
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401487083.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/vxeQoTraYLLwY8q8yGzR8hLO2WE_big.jpg" group-title="▶VOD INDO◀",Suami Yang Lain
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587915.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/p9774Dj9TlUBT7VE1gNj6S4lj23_big.jpg" group-title="▶VOD INDO◀",Surga Di Telapak Kaki Bapak
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401776000.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/jM3GDA1ULTujSkbMVShVpL0rYLP_big.jpg" group-title="▶VOD INDO◀",Tabayyun
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754481.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/5kQOAkE5lzSFLj6OLpb6aXo4EhO_big.jpg" group-title="▶VOD INDO◀",Tepatilah Janji
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401491813.mp4
+
+
+__________________________________________________________________________________________
+
+
+
 #EXTINF:-1 type="" group-title="▶VOD INDO◀" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qO0mbZj4mJfxpWPbrAb1Zr6F2zW.jpg",Kupu-Kupu Kertas
 https://play.upns.xyz/hls/XHrSR67JJ4hHWM4ns1h9pA/ic/ghsd6sxi/c5rvnz/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
@@ -3452,6 +3622,164 @@ https://www.googleapis.com/drive/v3/files/1sPQAHnuB8-Jh4hOh-87nhsuqHa1CbzC7?alt=
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
+
+
+
+#EXTINF:-1 tvg-id="dubID022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Poster_Pengantin_Setan.jpg" group-title="FILM HOROR",Pengantin Setan
+https://files.dubbindo.site/upload/videos/2025/05/PPEQMCL9Jk6tkKTAd8LE_29_2d2637b8c1a3bef30603a3b106ff141d_video_720p_converted.mp4
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGi4IgSxjGg4Uktz35q76FcRTsjKcmM86mJcdnsoP3Aw&s=10", Pembantaian Dukun Santet (2025)
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pembantaian.Dukun.Santet.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv?
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/zoEa7rP7M9vx1ogLudwPwTjyXKX_big.jpg" group-title="FILM HOROR",Aku Tahu Kapan Kamu Mati - Desa Bunuh Diri
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401082271.mp4
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlYzAwNjYtYmUxMS00ZWE1LWI4NzYtOTkzN2RkMTBkNzJiXkEyXkFqcGc@._V1_.jpg", Almarhum
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Almarhum.2025.1080p.NF.WEB-DL.AAC2.0.H265-Lucasan.mkv
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2ZDM1ZTEtNjcwNi00Njc5LWIzNDktMTVkNTlkMDViZGI4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg", haunting of mount gede-hantu gunung gede(PETAKA GUNUNG GEDE)
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Haunting.of.Mount.Gede.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVXTll5ZSE9_e1sT_6djvCTJf-ewPrwseh8pcu1FJ0odbm2BD-sVoNw_D&s=10", pabrik gula (UNCUT)
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pabrik.Gula.2025.1080p.NF.WEB-DL.DDP5.1.H.264-SEIKEL.mkv
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIwN2M5NjQtYmU5MS00MjBhLWE2YTctOGY4NTQxMGEyOTM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", rumah teteh story of helena
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Rumah.Teteh.Story.of.Helena.2025.1080p.WEB-DL.DDP5.1.H.264-KQRM.mkv
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU3ZjJiN2UtYTQ2ZC00NjE0LWJmMmQtY2NhYWVhZTZmZTY5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg", the last 7 day
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/The.Last.7.Days.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d4/Poster_Badarawuhi.jpg", Bandarawuhi Di Desa Penari (2024)
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.kingtv (Linux;Android) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referer=www.dropbox.com
+https://www.dropbox.com/scl/fi/hco4t21ahuvljui4qqj4a/Dancing-Village-The-Curse-Begins-2024.mp4?rlkey=rkwgld4gwv7s2u6tienjkeu4y&st=1uajkzq7&dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdPBOjxuNXr2mi9V0G-RpFI5JReMB01CHfwQ&s" group-title="FILM HOROR", Pemandi Jenazah (2024)
+https://files.dubbindo.site/upload/videos/2024/07/SU3G2PGmYFPBK7L3ky6s_05_e7ce2c68130d5bd85b48ca4245268011_video_240p_converted.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODc4NTgzNGItMGUxOS00MDY2LWFjNDEtMmIzNzQyYWEwOTViXkEyXkFqcGc@._V1_.jpg" group-title="FILM HOROR",Alas Pati: Hutan Mati
+https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/TtKU7tDS10gbtw--Y6mSVpQzJFYmX8mRuluw2zXqVEAsmFHRLfLOGQEzdTrvtcEi7lSzIEj0BvNYZQovYyZ_Z6Gbni4RrVeDTgdPuxa9yZ2noIhr" group-title="FILM HOROR",Belenggu
+https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2YzMjEwM2MtMTk3Yy00ZDcyLTg4MGUtYjFiMDhlMWIwOGIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILM HOROR",Nini Thowok
+https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/ulKWRfIn4okrZTNgFFLaayAYcEX_big.jpg" group-title="FILM HOROR.",Dasim
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401774608.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/l608gJH0S5JQf9nK17pHw9bJ2xp_big.jpg" group-title="FILM HOROR", Iblis dalam kandungan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401756243.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/nPMPiDkAI2n4u3vFBuAZnZgmMLS_big.jpg" group-title="FILM HOROR",Diwe: Hutan Larangan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401354261.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/qwfVe3no1A2sWtvP2tjYnsEe52i_big.jpg" group-title="FILM HOROR",Rumah dinas bapak
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754970.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/ef8ENLdYbuxh9854EWq0ghVh9tB_big.jpg" group-title="FILM HOROR",Gasing Tengkorak
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401511635.mkv
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/bi7e8dhSlHvi5AdrwJDMw0GqN1w_big.jpg" group-title="FILM HOROR",Gundik
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401773848.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/yLVjTTDdIwbLJWlPNQI4PoZMnfa_big.jpg" group-title="FILM HOROR",Hantu Baru
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401082274.mkv
+
+#EXTINF:-1  tvg-logo="https://lo1.in/VOD/Hantu.Budeg.jpg" group-title="FILM HOROR",Hantu Budeg
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401448957.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/1Adi9qE0UBDHN8JHw4HSwPrduUD_big.jpg" group-title="FILM HOROR",Iblis Dalam Darah
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401756242.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/djqS6u3COhEkm40CXJZA5Jx9jDS_big.jpg" group-title="FILM HOROR",Jabang Mayit
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401775989.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/brdRWIUwCj32O3b9rTmtDWnatIr_big.jpg" group-title="FILM HOROR",Jagal Teluh
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754472.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/8cCA4pKow6wxuwbpSAgIC2K7AGg_big.jpg" group-title="FILM HOROR",Jalan Pulang
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754473.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/dBgprGvZqZrnvORKbGERuN4Z81A_big.jpg" group-title="FILM HOROR",Jangan Dengerin Sendiri
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401460714.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/3QacSRFWBtyiSNxa4mB7jLcGSON_big.jpg" group-title="FILM HOROR",Janji Darah
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401483750.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/70MHZTOxUSDJtZK5UlkXUZSn0eA_big.jpg" group-title="FILM HOROR",Jin Qorin
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401756244.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/czH1lQXWzGw8wpsLrYiIMyQWElZ_big.jpg" group-title="FILM HOROR",Kalung Jelangkung
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400667672.mkv
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/kzh0PKqRPcLAsuE8YoEUczowxUJ_big.jpg" group-title="FILM HOROR",Kampung Keramat
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754972.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/xsKvu7FPLcYUulsBPhBDYknlnRX_big.jpg" group-title="FILM HOROR",Kemah Terlarang: Kesurupan Massal
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401592161.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/88b6aFvoLyl4uNJeRxLp4iIJd4o_big.jpg" group-title="FILM HOROR",Kromoleo: The Haunting
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401553146.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/edt91KtRMAkPzxEHMIGw8uct2NJ_big.jpg" group-title="FILM HOROR",Kutukan Calon Arang
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754973.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/AniSTzM5aY29U445mlYKpunPkif_big.jpg" group-title="FILM HOROR",Lampir
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401375027.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/hLRiLw7gmLiCMtVmgMNpyAkrP7L_big.jpg" group-title="FILM HOROR",Mantra Surugana
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400982898.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/pIoqGkcroogisQBDe8Xo9QNfARK_big.jpg" group-title="FILM HOROR",Marni: The Story of Wewe Gombel
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401483752.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/sFp2q0Vi0xzNHCiAzgIWyI0faUH_big.jpg" group-title="FILM HOROR",Mawang: Jangan Sebut Namanya
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401507245.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/6EcJx7P9yi6NfiLIUKqzA91Xj6c_big.jpg" group-title="FILM HOROR",Perewangan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754984.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/nusIBD4dKrwpLJU7RuNKYh6u0mK_big.jpg" group-title="FILM HOROR",Respati - malam pencabut nyawa
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401435168.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/hEB6TvSfNqvdiCes4s7wjub4Zon_big.jpg" group-title="FILM HOROR",Ronggeng Kematian
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401755062.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/8JtwXnrWrS9kMX7ejZIHkQ7iwVK_big.jpg" group-title="FILM HOROR",Sakaratul Maut
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754978.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/cWCdUrdBgX4G4v7SKscGyvw2FeR_big.jpg" group-title="FILM HOROR",Santet Segoro Pitu
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754979.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/llZca2miwygKwuyWUpyONCL6VAR_big.jpg" group-title="FILM HOROR",Singsot: Siulan Kematian
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401721890.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/pgyMNf595daUBwpryg7XW1kzRJF_big.jpg" group-title="FILM HOROR",Sorop
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754980.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/yAvhSlj1aciZALwtXNvaSoSwJL4_big.jpg" group-title="FILM HOROR",Sosok Ketiga
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400937521.mkv
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/cOBX9x98TUSJFM6gfY7eDjZwIuh_big.jpg" group-title="FILM HOROR",Sumala
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401585133.mp4
+
+#EXTINF:-1  tvg-logo="http://a985.xyz:900/images/yS0FPDYLRIrqF2lSX2NG2qLezgO_big.jpg" group-title="FILM HOROR",Tasbih Kosong
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400947070.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/pE53v1b5pg1O7L2lpABF5JWc2sF_big.jpg" group-title="FILM HOROR",Tembang Lingsir
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401460602.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/mfZmaNJonng2yv6ZynxI1ZEhYtW_big.jpg" group-title="FILM HOROR",Temurun
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401440707.mp4
+
+#EXTINF:-1  tvg-logo="http://wtv.la:900/images/3NYB2u6BOrG2GvxKGOwgJ0A60A0_big.jpg" group-title="FILM HOROR",Sebelum 7 hari
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401752892.mp4
+
+
+
+___________________________________________________________________________________________________________________________________________
 
 
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/ogig_TEeJOIJs7JMqhydQwsgdwM=/1200x675/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1501379/original/078796300_1486550710-Gunung_Kawi.jpg" group-title="FILM HOROR", GUNUNG KAWI
