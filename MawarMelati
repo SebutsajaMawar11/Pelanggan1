@@ -3628,7 +3628,7 @@ https://www.googleapis.com/drive/v3/files/1sPQAHnuB8-Jh4hOh-87nhsuqHa1CbzC7?alt=
 #EXTINF:-1 tvg-id="dubID022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Poster_Pengantin_Setan.jpg" group-title="FILM HOROR",Pengantin Setan
 https://files.dubbindo.site/upload/videos/2025/05/PPEQMCL9Jk6tkKTAd8LE_29_2d2637b8c1a3bef30603a3b106ff141d_video_720p_converted.mp4
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGi4IgSxjGg4Uktz35q76FcRTsjKcmM86mJcdnsoP3Aw&s=10", Pembantaian Dukun Santet (2025)
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGi4IgSxjGg4Uktz35q76FcRTsjKcmM86mJcdnsoP3Aw&s=10", Pembantaian Dukun Santet
 https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pembantaian.Dukun.Santet.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv?
 
 #EXTINF:-1  tvg-logo="http://a985.xyz:900/images/zoEa7rP7M9vx1ogLudwPwTjyXKX_big.jpg" group-title="FILM HOROR",Aku Tahu Kapan Kamu Mati - Desa Bunuh Diri
@@ -3649,12 +3649,12 @@ https://vod1.suwalbolong.workers.dev/0:/2025/indo/Rumah.Teteh.Story.of.Helena.20
 #EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU3ZjJiN2UtYTQ2ZC00NjE0LWJmMmQtY2NhYWVhZTZmZTY5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg", the last 7 day
 https://vod1.suwalbolong.workers.dev/0:/2025/indo/The.Last.7.Days.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
 
-#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d4/Poster_Badarawuhi.jpg", Bandarawuhi Di Desa Penari (2024)
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d4/Poster_Badarawuhi.jpg", Bandarawuhi Di Desa Penari
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.kingtv (Linux;Android) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=www.dropbox.com
 https://www.dropbox.com/scl/fi/hco4t21ahuvljui4qqj4a/Dancing-Village-The-Curse-Begins-2024.mp4?rlkey=rkwgld4gwv7s2u6tienjkeu4y&st=1uajkzq7&dl=1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdPBOjxuNXr2mi9V0G-RpFI5JReMB01CHfwQ&s" group-title="FILM HOROR", Pemandi Jenazah (2024)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdPBOjxuNXr2mi9V0G-RpFI5JReMB01CHfwQ&s" group-title="FILM HOROR", Pemandi Jenazah
 https://files.dubbindo.site/upload/videos/2024/07/SU3G2PGmYFPBK7L3ky6s_05_e7ce2c68130d5bd85b48ca4245268011_video_240p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODc4NTgzNGItMGUxOS00MDY2LWFjNDEtMmIzNzQyYWEwOTViXkEyXkFqcGc@._V1_.jpg" group-title="FILM HOROR",Alas Pati: Hutan Mati
