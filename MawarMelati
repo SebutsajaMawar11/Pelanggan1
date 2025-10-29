@@ -3466,10 +3466,6 @@ http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401483749.mp4
 https://files.dubbindo.site/upload/videos/2022/10/kqozT5l4WPDGqDs81php_13_f6408683957886c983e08c24e0960a28_video_360p_converted.mp4
 
 
-#EXTINF:-1  tvg-logo="https://dewimagazine.b-cdn.net/web/img/images/MV5BMWJjZDZjODctZjc5ZC00MGUyLTgz.original.jpegquality-90_3xFF3w6.jpg" group-title="▶VOD INDO◀", BEBAS
-https://www.googleapis.com/drive/v3/files/1Z4kEu9F1XCPMOyNw9wZukdd3djMK5EYB?alt=media&key=AIzaSyDDCC8bru6M3f-tKoGp-0DHNgXG4nSTeqM
-
-
 #EXTINF:-1  tvg-logo="https://yogya.co/wp-content/uploads/poster-kabut-berduri.webp" group-title="▶VOD INDO◀", KABUT BERDURI
 https://www.googleapis.com/drive/v3/files/19SnBFl1Xo3urKqQKc_1rMv7dxCiM9sd9?alt=media&key=AIzaSyDDCC8bru6M3f-tKoGp-0DHNgXG4nSTeqM
 
@@ -3490,13 +3486,21 @@ https://www.googleapis.com/drive/v3/files/1lKKm8b4IPcbCHoWOBiUqQ6MBk_8m5g5M?alt=
 https://files.dubbindo.site/upload/videos/2025/06/77pPrcybDsRKK2os5lCp_04_b91595c4b2b9b17d786192c4eec5f733_video_720p_converted.mp4
 
 
+#EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/otf/720x0/2024/09/25/film-tulang-belulang-tulang_ratio-16x9.jpg" group-title="▶VOD INDO◀", TULANG BELULANG TULANG
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563381.mp4
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/LebyeKG7oqc/maxresdefault.jpg" group-title="▶VOD INDO◀", UANG PANAI 2
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563382.mp4
+
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/byfeQ_v0MAs/maxresdefault.jpg" group-title="▶VOD INDO◀", IPAR ADALAH MAUT
 
 
 
-
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/byfeQ_v0MAs/maxresdefault.jpg" group-title="▶VOD INDO◀", IPAR ADALAH MAUT
 
 
 
