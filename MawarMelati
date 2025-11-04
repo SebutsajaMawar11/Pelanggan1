@@ -1359,7 +1359,7 @@ ___________________
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBykausbV7XqW_J8G2TaE1_F-tZLQ" group-title="SPORTS", SPOTV 2 (CIGNAL)
+#EXTINF:-1 tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/01/SPOTV-2-Live-Streaming-310x165.webp" group-title="SPORTS", SPOTV 2 (CIGNAL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -1368,13 +1368,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS",SpoTV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 _____
