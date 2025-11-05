@@ -4282,7 +4282,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://linktr.ee/og/image/maxstream.tv.jpg" group-title="HBO / MOVIES", MAXSTREAM_TV
-#####https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&amp;uid=&amp;expp=
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&amp;uid=&amp;expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
@@ -4477,9 +4477,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://keeplay.net/wp-content/uploads/2023/08/My-Cinema-Europe-%E7%B7%9A%E4%B8%8ALIVE%E8%BD%89%E6%92%AD.png" group-title="HBO / MOVIES" tvg-id="My Cinema Europe" tvg-name="My Cinema Europe", MY CHINEMA EUROPE
-http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-logo="https://keeplay.net/wp-content/uploads/2023/08/My-Cinema-Europe-%E7%B7%9A%E4%B8%8ALIVE%E8%BD%89%E6%92%AD.png" group-title="HBO / MOVIES" tvg-id="My Cinema Europe" tvg-name="My Cinema Europe", MY CHINEMA_EUROPE
+https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Cinema_Europe_HD
 
 
 
@@ -4505,7 +4506,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2023/01/thumbnail_Channel-Package-Blue.jpeg" group-title="HBO / MOVIES" tvg-id="HITSNow.id" tvg-name="HITS NOW", HITS NOW
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
 
