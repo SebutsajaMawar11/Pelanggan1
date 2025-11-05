@@ -4274,10 +4274,16 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 
 
 
-#EXTINF:-1 tvg-logo="https://linktr.ee/og/image/maxstream.tv.jpg" group-title="HBO / MOVIES", MAXSTREAM TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&amp;uid=&amp;expp=
+#EXTINF:-1 tvg-logo="https://linktr.ee/og/image/maxstream.tv.jpg" group-title="HBO / MOVIES", MAXSTREAM_TV
+#####https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&amp;uid=&amp;expp=
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
 
