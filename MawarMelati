@@ -4451,7 +4451,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://a-cdn.sindonews.net/dyn/620/content/2015/01/28/152/956748/kisah-kriminal-seru-di-celestial-movie-TTv-thumb.jpg" group-title="HBO / MOVIES" tvg-id="CelestialMovies.id" tvg-name="Celestial Movies", CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vXzVjqgdTDY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDiqO0XSOi4-ts7FSEblBfsChkOtw", group-title="HBO / MOVIES", CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #EXTVLCOPT:network-caching=1000
