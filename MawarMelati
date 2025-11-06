@@ -4772,15 +4772,9 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s2svYxfRpqU/maxresdefault.jpg" group-title="DAERAH",JiTV DAERAH
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017ec407d96b7362/9c255af117004d72b8c8b45ebc64aedb.png" group-title="DAERAH",JTV DAERAH
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017ec407d96b7362/9c255af117004d72b8c8b45ebc64aedb.png" group-title="DAERAH",JTV 01
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
 
 
@@ -4815,7 +4809,7 @@ https://e.siar.us/live/surabayatv.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8KpAM4Yn2ws/maxresdefault.jpg" group-title="DAERAH",BANJAR TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCvsLVdq-Sg7So97sa-h62CEbdQncG0-q-jrE4hZlYx9MJX4lzkDVaf5ktJksQVnDMeg&usqp=CAU" group-title="DAERAH",BANJAR TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 
@@ -4833,8 +4827,7 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #https://flv.intechmedia.net/live/ch62.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fKm7h36tg0I/maxresdefault.jpg" group-title="DAERAH" ,JAWA POS TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fKm7h36tg0I/maxresdefault.jpg" group-title="DAERAH" ,JAWA POS TV⭐⭐⭐⭐⭐⭐
 
 
 
