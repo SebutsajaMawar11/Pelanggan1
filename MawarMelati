@@ -2902,9 +2902,15 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+##########EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+############EXTINF:-1 type="" group-title="▶VOD ALL◀" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3Py1TT9hDyCcDV3N3ihh3HUGihz.jpg",The Mystery of the Silk
+##########https://cloud.hownetwork.xyz/xxx/NhAsYygABDUnIw5hLFZ7LCodZD0sFRw5KyRaNSodJTArVTEnaBEWL288Hi0tHWRocE1kOSAbEy0dCSgoc1Jma3seKg/32/480.m3u8
+
+
 #EXTINF:-1 type="" group-title="▶VOD ALL◀" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3Py1TT9hDyCcDV3N3ihh3HUGihz.jpg",The Mystery of the Silk
-https://cloud.hownetwork.xyz/xxx/NhAsYygABDUnIw5hLFZ7LCodZD0sFRw5KyRaNSodJTArVTEnaBEWL288Hi0tHWRocE1kOSAbEy0dCSgoc1Jma3seKg/32/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+https://cloud.hownetwork.xyz/zzz/NhAsYygABDUnIw5hLFZ7LCodZD0sFRw5KyRaNSodJTArVTEnaBEWL288Hi0tHWRocE1kOSAbEy0dCSgoc1Jma3seKg/32/480.m3u8
 
 
 
