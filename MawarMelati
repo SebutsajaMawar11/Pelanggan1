@@ -3588,7 +3588,12 @@ https://playerngefilm21.rpmlive.online/hls/hpiuTm8RHvRwDu-eap3a_A/3vi/h9kqslgj/g
 --------------------------------⭐⭐⭐⭐⭐⭐TEST VOD⭐⭐⭐⭐⭐⭐----------------------------------------------------
 
 #EXTINF:-1  tvg-logo="https://cdn.teater.co/imgs/banner-pengepungan-di-bukit-duri-2025_600_880.webp" group-title="▶VOD INDO◀", PENGEPUNGAN DI BUKIT DURI
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pengepungan.Bukit.Duri.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-BiOMA-[MOVIES 21].mkv
+https://playerngefilm21.rpmlive.online/hls/JP8Hvgw4citq_s_ezO_tKg/gee/dq8wrwe6/t1bvkc/tt/master.m3u8?v=1758651105
+#######https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pengepungan.Bukit.Duri.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-BiOMA-[MOVIES 21].mkv
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/_GIL6gebvX4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDkHxmttXT9vHrOl9BAexpbXn6zbw", group-title="▶VOD INDO◀", KELUARGA SUPER IRIT
+https://playerngefilm21.rpmlive.online/hls/oVnYpx6YEkGOG5_Qr1pxmQ/ck/6sprig6z/xsfgj5/tt/index-f1-v1-a1.m3u8?v=1758651105
 
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/ce950m-_jaQ/maxresdefault.jpg", group-title="▶VOD INDO◀", RUMAH UNTUK ALIE
@@ -3852,6 +3857,26 @@ https://vod1.suwalbolong.workers.dev/0:/2025/indo/Almarhum.2025.1080p.NF.WEB-DL.
 
 #EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2025/02/08/213356535.jpg", PETAKA GUNUNG GEDE (FHD)
 https://vod1.suwalbolong.workers.dev/0:/2025/indo/Haunting.of.Mount.Gede.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/aiC-bbBe-ck/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBT89ID6c1WSdSTZsdQKa_1dyo2kA", group-title="FILM HOROR", GOWOK (18+)
+https://playerngefilm21.rpmlive.online/hls/z9o2gM69UHwhbyVF9EtNJA/np/qt5y8p1c/vbo65f/tt/master.m3u8?v=1758651105
+
+
+#EXTINF:-1  tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/04/14/film-dendam-malam-kelam-1744609455198_169.jpeg?w=1200", group-title="FILM HOROR", DENDAM MALAM KELAM
+https://playerngefilm21.rpmlive.online/hls/2rRhWXn58qKUi_-rI_JS9w/3vi/qt5y8p1c/gltfni/tt/master.m3u8?v=1758651105
+
+
+#EXTINF:-1  tvg-logo="https://asset-2.tribunnews.com/palu/foto/bank/images/Sinopsis-Film-horor-Indonesia-berjudul-Utusan-Iblis-Dia-Yang-Berada-di-Antara-Kita.jpg", group-title="FILM HOROR", UTUSAN IBLIS - DIA YANG BERADA DI ANTARA KITA
+https://playerngefilm21.rpmlive.online/hls/XUduEXQmr1FAqVGmJF3WvQ/ox/h9kqslgi/ikqqqz/tt/master.m3u8?v=1758651105
+
+
+#EXTINF:-1  tvg-logo="https://cms.disway.id/uploads/667820e646679f0dc62537e3dc64c37f.png", group-title="FILM HOROR", ANGKARA MURKA
+https://playerngefilm21.rpmlive.online/hls/ENVFjtQpi3t8kGxMxOkdVQ/s93/85vbczxn/iku9mm/tt/master.m3u8?v=1758651105
+
+
+#EXTINF:-1  tvg-logo="https://media.kompas.tv/library/image/content_article/article_img/20250422153321.webp", group-title="FILM HOROR", GODAAN SETAN YANG TERKUTUK
+https://playerngefilm21.rpmlive.online/hls/44Yu7LEqOS6uCRssQFDieg/luy/h9kqslgi/69jup9/tt/master.m3u8?v=1758651105
 
 
 ---------------------------------------------------------------------------
