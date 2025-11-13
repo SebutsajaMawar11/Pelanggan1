@@ -566,7 +566,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid
 
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/386/437386-SNAPSHOT-m.png",SindoNews
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+#####https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 
 
@@ -1582,21 +1586,14 @@ __________
 espn
 
 #EXTINF:-1 tvg-id="ESPN 1" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS", ESPN 01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
+
 
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS", ESPN 02
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd
 
 
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS" tvg-id="espn.id" ch-number="58" tvg-name="ESPN 3", ESPN 03
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/default.mpd
+
 
 
 ______________
@@ -2036,63 +2033,21 @@ CAMPION
 
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS",Champions TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=dash
+
 
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lwt5imYSHerJCDxgceftlfOw9D0P6JbVXQ&s" group-title="SPORTS",Champions TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=6686&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=6686&type=dash 
+
 
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/n9PlqkddBSErYojBXYMIRmrnw7M=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="SPORTS",Champions TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
 
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="SPORTS",Champions TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
 
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS",Champions TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
+
 
 
 
@@ -3599,6 +3554,48 @@ https://playerngefilm21.rpmlive.online/hls/oVnYpx6YEkGOG5_Qr1pxmQ/ck/6sprig6z/xs
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/ce950m-_jaQ/maxresdefault.jpg", group-title="▶VOD INDO◀", RUMAH UNTUK ALIE
 https://playerngefilm21.rpmlive.online/hls/XxeZ58UymdlB-V0Ysqjx6A/epu/xieumls5/qv6uu5/tt/master.m3u8?v=1758651105
+
+
+---------------------------------------------
+
+#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/bbKJwK3pkU_QcqX1zY4cR14gORM=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8916803/jalinan-terlarang-vidio-original-series-official-trailer-c03871.jpg" group-title="▶VOD INDO◀", JALINAN TERLARANG - EPS. 1
+https://ok.ru/videoembed/10221778438777
+
+
+#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/bbKJwK3pkU_QcqX1zY4cR14gORM=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8916803/jalinan-terlarang-vidio-original-series-official-trailer-c03871.jpg" group-title="▶VOD INDO◀", JALINAN TERLARANG - EPS. 2
+https://ok.ru/videoembed/10221811599993
+
+
+#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/bbKJwK3pkU_QcqX1zY4cR14gORM=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8916803/jalinan-terlarang-vidio-original-series-official-trailer-c03871.jpg" group-title="▶VOD INDO◀", JALINAN TERLARANG - EPS. 3
+https://ok.ru/videoembed/10221811927673
+
+
+#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/bbKJwK3pkU_QcqX1zY4cR14gORM=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8916803/jalinan-terlarang-vidio-original-series-official-trailer-c03871.jpg" group-title="▶VOD INDO◀", JALINAN TERLARANG - EPS. 4
+https://ok.ru/videoembed/10221811731065
+
+
+#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/bbKJwK3pkU_QcqX1zY4cR14gORM=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8916803/jalinan-terlarang-vidio-original-series-official-trailer-c03871.jpg" group-title="▶VOD INDO◀", JALINAN TERLARANG - EPS. 5
+https://ok.ru/videoembed/10221812386425
+
+
+#EXTINF:-1  tvg-logo="", group-title="▶VOD INDO◀", PUNK IN LOVE
+https://tiviku69.github.io/apk/m3u/t42.m3u8
+
+
+#EXTINF:-1  tvg-logo="", group-title="▶VOD INDO◀", SAUR SEPUH V - ISTANA ATAP LANGIT
+https://filmovie.github.io/film/urt/hu76i.m3u8
+
+
+#EXTINF:-1  tvg-logo="", group-title="▶VOD INDO◀", PENGEPUNGAN DI BUKIT DURI
+https://tiviku69.github.io/apk/m3u/t7.m3u8
+
+
+#EXTINF:-1  tvg-logo="", group-title="▶VOD INDO◀", ABADI NAN JAYA
+https://tiviku69.github.io/apk/m3u/t14.m3u8
+
+------------------------------------------------------------------
+
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/TurM4cj-QAY/maxresdefault.jpg", group-title="▶VOD INDO◀", KOMANG
