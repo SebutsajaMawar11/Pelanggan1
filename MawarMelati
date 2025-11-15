@@ -589,17 +589,27 @@ _____________🔴 VIDIO _______________
 ______________________________________________________________________________________________________
 INDOSIAR
 
-#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",INDOSIAR_SPORT (AUTO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",INDOSIAR_SPORT (A1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc5895799dc521e5d61ccedd4d4f1ebb:b5ecf7d95b70fbff640bf2124a63f2f3
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19679/file/drm/dash/stream.mpd?hdntl=exp=1763223390~acl=%2fstream%2f19679%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=193459917~data=hdntl~hmac=05d101d4e6e70e670f7d0220613faa450ade49c30b151d1b144a0605471f6ed5
+
+
+
+
+
+🔴🔴#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+🔴🔴#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+🔴🔴#KODIPROP:mimetype=application/dash+xml
+🔴🔴#KODIPROP:inputstream=inputstream.adaptive
+🔴🔴#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+🔴🔴#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+🔴🔴#KODIPROP:inputstream.adaptive.manifest_type=dash
+🔴🔴#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+🔴🔴#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+🔴🔴https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 ______________________________________________________________________________________________________
 
