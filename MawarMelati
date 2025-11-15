@@ -1225,9 +1225,12 @@ livolitv
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.indosiar.com/tag/2025/07/13/140198/bri-super-league-202526-rev3.jpg" group-title="▶EVENT/LIVE◀", INDOSIAR_SPORTS (FHD)
+#EXTINF:-1 tvg-logo="https://cdn.indosiar.com/tag/2025/07/13/140198/bri-super-league-202526-rev3.jpg" group-title="▶EVENT/LIVE◀", INDOSIAR_SPORTS (HD)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
+
+#####https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 
 
 
