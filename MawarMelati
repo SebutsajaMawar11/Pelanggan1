@@ -5875,12 +5875,12 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
-#EXTINF:-1  tvg-logo="", group-title="test", rcti hd
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTINF:-1  tvg-logo="", group-title="test", rcti
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34322
 
-#EXTINF:-1  tvg-logo="", group-title="test", rcti hd
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTINF:-1  tvg-logo="", group-title="test", rcti
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34421
 
 #EXTINF:-1  tvg-logo="", group-title="test", sctv
