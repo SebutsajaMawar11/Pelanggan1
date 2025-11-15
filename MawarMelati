@@ -5875,6 +5875,81 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
+#EXTINF:-1  tvg-logo="", group-title="test", rcti
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34322
+
+#EXTINF:-1  tvg-logo="", group-title="test", rcti hd
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34421
+
+#EXTINF:-1  tvg-logo="", group-title="test", sctv
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34323
+
+#EXTINF:-1  tvg-logo="", group-title="test", net tv
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34321
+
+#EXTINF:-1  tvg-logo="", group-title="test", trans tv
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34324
+
+#EXTINF:-1  tvg-logo="", group-title="test", trans7
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34325
+
+#EXTINF:-1  tvg-logo="", group-title="test", trans 7 hd
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34409
+
+#EXTINF:-1  tvg-logo="", group-title="test", mnc tv
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34326
+
+#EXTINF:-1  tvg-logo="", group-title="test", indosiar
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34327
+
+#EXTINF:-1  tvg-logo="", group-title="test", antv
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34328
+
+#EXTINF:-1  tvg-logo="", group-title="test", tv one
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34329
+
+#EXTINF:-1  tvg-logo="", group-title="test", metro tv
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34330
+
+#EXTINF:-1  tvg-logo="", group-title="test", gtv
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34331
+
+#EXTINF:-1  tvg-logo="", group-title="test", kompas tv
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34332
+
+#EXTINF:-1  tvg-logo="", group-title="test", inews tv
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34335
+
+#EXTINF:-1  tvg-logo="", group-title="test", spotv 1
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34406
+
+#EXTINF:-1  tvg-logo="", group-title="test", spotv 2
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34405
+
+
+
+#EXTINF:-1  tvg-logo="", group-title="test", 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-logo="https://gooo.blog/sports.png" tvg-logo="https://pic.xxxxxxx.my.id/119.png" group-title="LOKAL SPORTS",SpoTV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
