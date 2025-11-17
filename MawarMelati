@@ -2897,26 +2897,34 @@ https://tiviku69.github.io/apk/m3u/33.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tiviku69.github.io/apk/m3u/t3.m3u8
 
+----------------------
+
+#EXTINF:-1  tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/17/2023/12/27/Bioskop-Trans-TV-Hari-Ini-27-Desember-2023-Sinopsis-Film-The-Invincible-Dragon-Keadilan-Keberanian-dan-Konsekuensi-dari-Dendam-Pribadi-4040553141.jpg" group-title="📁 MOVIES - REQUEST", THE INVINCIBLE DRAGON
+https://www.googleapis.com/drive/v3/files/19uyGdVlHea9JED5CF4Iq5Rs3PpQMKsNS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-
-#EXTINF:-1  tvg-logo="" group-title="",
-
-
-
-#EXTINF:-1  tvg-logo="" group-title="",
+#EXTINF:-1  tvg-logo="https://material.asset.catchplay.com/SNY-ID-002-A1114/artworks/posters/SNY-ID-002-A1114-P1200.jpg?hash=1639559151475" group-title="📁 MOVIES - REQUEST", KINGDOM
+https://www.googleapis.com/drive/v3/files/1vtbYgCiSL5uBVeR7g5AW4d6chg5hnAbE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-
-#EXTINF:-1  tvg-logo="" group-title="",
-
-
-
-#EXTINF:-1  tvg-logo="" group-title="",
+#EXTINF:-1  tvg-logo="https://resizing.flixster.com/-8n07NueWN7mkGQDM4P1DLrerHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17084000_v_h8_ad.jpg" group-title="📁 MOVIES - REQUEST", THE KNIGHT OF SHADOWS - BETWEEN YIN AND YANG
+https://www.googleapis.com/drive/v3/files/1VeY_dRJQmRl8HQWw7Kpuv1eJR5fO2Zti?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-#EXTINF:-1  tvg-logo="" group-title="",
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/v3kTpkfxmZM/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", TRANSIT 17
+https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+
+#EXTINF:-1  tvg-logo="https://imgapps.okezone.com/dynamic/content/2023/06/23/206/2835958/sinopsis-film-ad-astra-brad-pitt-jelajah-ruang-angkasa-demi-ayah-JLu7zYLeh0.jpg?w=350" group-title="📁 MOVIES - REQUEST", AD ASTRA
+https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a226ce507e213fa044c05e9c28b98b641f210cac210b9ce7c70c70b84d8d0bc0.jpg" group-title="📁 MOVIES - REQUEST", MUMMY REBORN
+https://www.googleapis.com/drive/v3/files/15qvAVRKyU-_BWAw7JAp47B46HuNxUsZ2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/pi_-0lE2S2E/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", BADLAND
+https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 #EXTINF:-1  tvg-logo="" group-title="",
