@@ -4921,9 +4921,19 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0tD-Y-CKNn0/maxresdefault.jpg", group-title="▶ KNOWLEDGE/DC", ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=kc9cVSGtJkA
+
+
+_____
+INDIHOME
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0tD-Y-CKNn0/maxresdefault.jpg", group-title="▶ KNOWLEDGE/DC", ANIMAL PLANET⭐⭐⭐⭐
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
+#########https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
 
 
 #EXTINF:-1 tvg-logo="https://thedrum-media.imgix.net//thedrum-prod/s3/news/tmp/116055/maxresdefault-1.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format", group-title="▶ KNOWLEDGE/DC", DISCOVERY CHANNEL 
@@ -4936,7 +4946,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest_w146586998
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9Dt3zlA0V_2WVXhqtPLQs10UYwX0vP6sPVzf7qq-mytQa8uHKtSficalFLq9OLyhrJc&usqp=CAU", group-title="▶ KNOWLEDGE/DC", DISCOVERY ASIA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=THooYCltViI
 
 
 
