@@ -3676,6 +3676,13 @@ https://playerngefilm21.rpmlive.online/hls/JP8Hvgw4citq_s_ezO_tKg/gee/dq8wrwe6/t
 #######https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pengepungan.Bukit.Duri.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-BiOMA-[MOVIES 21].mkv
 
 
+
+#EXTINF:-1  tvg-logo="https://cdn1.sisiplus.co.id/media/sisiplus/asset/uploads/artikel/GzUOBZBIggPsxyY7odZC2JXqTOefkBgEeL4c4DLk.jpg" group-title="▶VOD INDO◀", AGAK LAEN (KOMEDI HORROR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2741.mp4
+
+
+
 #EXTINF:-1 tvg-logo="https://material.asset.catchplay.com/MDP-IN-001-A0014/artworks/posters/MDP-IN-001-A0014-P1200.jpg?hash=1763126081", group-title="▶VOD INDO◀", PREMAN IN LOVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://www.googleapis.com/drive/v3/files/1VqF1X9yTwC_zopFNRKVfltXkqR2uqdY4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
