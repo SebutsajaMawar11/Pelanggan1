@@ -3959,6 +3959,11 @@ https://www.googleapis.com/drive/v3/files/1sPQAHnuB8-Jh4hOh-87nhsuqHa1CbzC7?alt=
 https://playerngefilm21.rpmlive.online/hls/MI88vJhvdRWLvnmc52kRFA/hld/ghsd6ax6y/pnqf3g/tt/master.m3u8?v=1758651105
 
 
+#EXTINF:-1  tvg-logo="⭐⭐⭐⭐" group-title="FILM HOROR", ⭐⭐⭐⭐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
 #EXTINF:-1 tvg-id="dubID022" tvg-logo="https://img.inews.co.id/media/600/files/networks/2025/01/16/f9e9c_pengantin-setan.png" group-title="FILM HOROR",PENGANTIN SETAN
 https://files.dubbindo.site/upload/videos/2025/05/PPEQMCL9Jk6tkKTAd8LE_29_2d2637b8c1a3bef30603a3b106ff141d_video_720p_converted.mp4
 
