@@ -2171,26 +2171,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDcqJop58uo9S1iYnkc7Npv0qqeVSBz3iqw&s" group-title="SPORTS 2 HD", DAZN 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/znsa.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=10" group-title="SPORTS 2 HD", DAZN /1⭐⭐⭐
-⭐⭐⭐https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=10" group-title="SPORTS 2 HD", DAZN 2⭐⭐⭐
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn2.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=10" group-title="SPORTS 2 HD", DAZN 3⭐⭐⭐
-⭐⭐⭐#######https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000&quality=10" group-title="SPORTS 2 HD", DAZN 4⭐⭐⭐
-⭐⭐⭐#######https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn4.m3u8
-
-
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://line.extraott-iptv.com:88/2755789541/1300714776/13780
@@ -2674,6 +2654,32 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+
+---------------------
+dazn tv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDcqJop58uo9S1iYnkc7Npv0qqeVSBz3iqw&s" group-title="SPORTS 2 HD", DAZN 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/znsa.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=10" group-title="SPORTS 2 HD", DAZN /1⭐⭐⭐
+⭐⭐⭐https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=10" group-title="SPORTS 2 HD", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=10" group-title="SPORTS 2 HD", DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000&quality=10" group-title="SPORTS 2 HD", DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://supersonictv.live:8080/006779/439866/7632
 
 
 
