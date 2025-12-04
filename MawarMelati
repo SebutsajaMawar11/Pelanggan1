@@ -2080,15 +2080,15 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 ______
 DUBAI SPORT
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pic.rutubelist.ru/video/2025-09-29/8f/a3/8fa3fd232ed6f663788c46c29c38ac86.jpg",DUBAI SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mercatoday.com/wp-content/uploads/2024/12/dubai-sports-khaleeji-780x470.jpg", DUBAI SPORTS 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pic.rutubelist.ru/video/2025-09-29/8f/a3/8fa3fd232ed6f663788c46c29c38ac86.jpg",DUBAI SPORTS 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mercatoday.com/wp-content/uploads/2024/12/dubai-sports-khaleeji-780x470.jpg", DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pic.rutubelist.ru/video/2025-09-29/8f/a3/8fa3fd232ed6f663788c46c29c38ac86.jpg",DUBAI SPORTS 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mercatoday.com/wp-content/uploads/2024/12/dubai-sports-khaleeji-780x470.jpg", DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
 
