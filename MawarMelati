@@ -2930,16 +2930,19 @@ ZIGO TV
 ______________
 SuperSport TV
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCsgPYng4b2PTAkf8j7ubEsYoWKI5wBpSERz8H1hNKb5chdEvrsY3L5iMUt2ax1NB1aU&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 01⭐⭐⭐
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCsgPYng4b2PTAkf8j7ubEsYoWKI5wBpSERz8H1hNKb5chdEvrsY3L5iMUt2ax1NB1aU&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/superSport1-HD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalF6WgbNRHUPxHhmmPaBJPOCz5l5MoFagVA&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/superSport2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalF6WgbNRHUPxHhmmPaBJPOCz5l5MoFagVA&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 02⭐⭐⭐
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwmQu0cALfjfxO1W5GHYrgFpCrkmDoI1cyA&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 03⭐⭐⭐
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwmQu0cALfjfxO1W5GHYrgFpCrkmDoI1cyA&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/superSport3-HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRfm5cGxg4fpR0Q0zIB_nd1EKp1eKh2jnKQ&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 04⭐⭐⭐
