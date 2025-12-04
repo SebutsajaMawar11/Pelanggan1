@@ -2233,6 +2233,23 @@ http://65.108.239.207/t3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://65.108.239.207/t4/index.m3u8
 
+------------------
+hubsport
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJkxMMOMlGYOOf3izLcmBstTdCwnR1WGpQKA&s", HUB_SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/hubsport-1.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png", HUB_SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/hubsport-2.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png", HUB_SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/hubsport-3.m3u8
+
 
 ---------
 arena sport
