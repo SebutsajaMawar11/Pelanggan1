@@ -2684,7 +2684,7 @@ http://supersonictv.live:8080/006779/439866/7632
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="SPORTS 2 HD", FOXSPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3MGm2necbhhx96iLp19DniVAOV4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7648/fox-1-bead8c.jpg" group-title="SPORTS 2 HD", FOXSPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2693,7 +2693,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fvP8vKX/fxsp2mx.png" group-title="SPORTS 2 HD", FOXSPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3MGm2necbhhx96iLp19DniVAOV4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7648/fox-1-bead8c.jpg" group-title="SPORTS 2 HD", FOXSPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2702,7 +2702,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="SPORTS 2 HD", FOXSPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3MGm2necbhhx96iLp19DniVAOV4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7648/fox-1-bead8c.jpg" group-title="SPORTS 2 HD", FOXSPORTS 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2711,7 +2711,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="SPORTS 2 HD", FOXSPORTS PREMIUM 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Y46GkNTpbkk/hq720.jpg" group-title="SPORTS 2 HD", FOXSPORTS PREMIUM 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
