@@ -6323,7 +6323,17 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 
-#EXTINF:-1  tvg-logo="", group-title="test", 111111222222
+#EXTINF:-1  tvg-logo="", group-title="test", tesssssss
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:20545
+#EXTINF:4,
+220545.ts
+#EXTINF:2,
+220546.ts
+#EXTINF:4,
+220547.ts
 
 
 
