@@ -1251,6 +1251,64 @@ M LIVE SPL 1
 #KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
+-------------------------------------------------------
+SEA_GAMES
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH01)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+#https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg",SEA GAMES (CH02) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
+#https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg",SEA GAMES (CH03)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+#https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://pict.sindonews.net/dyn/850/pena/news/2025/12/03/51/1651169/sea-games-2025-resmi-dimulai-saksikan-seru-pertandingannya-di-vision-qal.jpg", SEA GAMES (SPORT01)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://pict.sindonews.net/dyn/850/pena/news/2025/12/03/51/1651169/sea-games-2025-resmi-dimulai-saksikan-seru-pertandingannya-di-vision-qal.jpg", SEA GAMES (SPORT02)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://pict.sindonews.net/dyn/850/pena/news/2025/12/03/51/1651169/sea-games-2025-resmi-dimulai-saksikan-seru-pertandingannya-di-vision-qal.jpg", SEA GAMES (SPORT03)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+
+
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://pict.sindonews.net/dyn/850/pena/news/2025/12/03/51/1651169/sea-games-2025-resmi-dimulai-saksikan-seru-pertandingannya-di-vision-qal.jpg",SEA GAMES (SPORT04)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
+
+
+---------------------------------------------------
+
 __________
 livolitv
 
