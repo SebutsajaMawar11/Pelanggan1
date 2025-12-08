@@ -1261,21 +1261,21 @@ SEA_GAMES
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg",SEA GAMES (CH02) 
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH02) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 #https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg",SEA GAMES (CH03)
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH03)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 #https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://pict.sindonews.net/dyn/850/pena/news/2025/12/03/51/1651169/sea-games-2025-resmi-dimulai-saksikan-seru-pertandingannya-di-vision-qal.jpg", SEA GAMES (SPORT01)
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT01)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1283,7 +1283,7 @@ https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.m
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://pict.sindonews.net/dyn/850/pena/news/2025/12/03/51/1651169/sea-games-2025-resmi-dimulai-saksikan-seru-pertandingannya-di-vision-qal.jpg", SEA GAMES (SPORT02)
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT02)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1291,7 +1291,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://pict.sindonews.net/dyn/850/pena/news/2025/12/03/51/1651169/sea-games-2025-resmi-dimulai-saksikan-seru-pertandingannya-di-vision-qal.jpg", SEA GAMES (SPORT03)
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT03)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1299,7 +1299,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://pict.sindonews.net/dyn/850/pena/news/2025/12/03/51/1651169/sea-games-2025-resmi-dimulai-saksikan-seru-pertandingannya-di-vision-qal.jpg",SEA GAMES (SPORT04)
+#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT04)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
