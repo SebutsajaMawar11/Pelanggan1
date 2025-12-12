@@ -1220,7 +1220,7 @@ ________________________________________________________________________________
 __________
 M LIVE 2
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="mewatchlive2.sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279315292%27&EntityType=%27LinearSchedule%27&EntityId=%27a9a9ec83-4f91-44ac-beec-faca14708ad4%27&Width=1280&Height=720",M Live 2 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-id="mewatchlive2.sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279315292%27&EntityType=%27LinearSchedule%27&EntityId=%27a9a9ec83-4f91-44ac-beec-faca14708ad4%27&Width=1280&Height=720",M Live 2 (TERSEDIA SAAT LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
@@ -1229,7 +1229,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 ____________
 M LIVE 5
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290473%27&EntityType=%27LinearSchedule%27&EntityId=%27e173bb41-870b-435b-a1a8-25bac59911bc%27&Width=1280&Height=720",M Live 5 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290473%27&EntityType=%27LinearSchedule%27&EntityId=%27e173bb41-870b-435b-a1a8-25bac59911bc%27&Width=1280&Height=720",M Live 5 (TERSEDIA SAAT LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -1238,7 +1238,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 __________
 M LIVE 6
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290468%27&EntityType=%27LinearSchedule%27&EntityId=%27493abb2d-6040-400c-ac9a-fa2ae35a03e2%27&Width=1280&Height=720",M Live 6 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279290468%27&EntityType=%27LinearSchedule%27&EntityId=%27493abb2d-6040-400c-ac9a-fa2ae35a03e2%27&Width=1280&Height=720",M Live 6 (TERSEDIA SAAT LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
@@ -1246,7 +1246,7 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 __________
 M LIVE SPL 1
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%279290461%27&EntityType=%27LinearSchedule%27&EntityId=%27747df98c-7221-461e-be41-88d79d172069%27&Width=1280&Height=720",M LIVE SPL 01 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%279290461%27&EntityType=%27LinearSchedule%27&EntityId=%27747df98c-7221-461e-be41-88d79d172069%27&Width=1280&Height=720",M LIVE SPL 01 (TERSEDIA SAAT LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
@@ -1254,40 +1254,40 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 -------------------------------------------------------
 SEA_GAMES
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH01)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH01)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 #https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH02) 
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH02) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 #https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH03)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH03)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 #https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH04)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH04)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH05)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH05)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH06)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH06)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
@@ -1295,7 +1295,7 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 ---------------------------------------------------
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT01)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT01)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1303,7 +1303,7 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT02)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT02)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1311,7 +1311,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT03)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT03)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1319,7 +1319,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT04)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT04)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1335,7 +1335,7 @@ livolitv
 
 
 
-#EXTINF:-1 group-title="▶EVENT/LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWFpWDH2GRdTHr8rjjFJ-ib1p5w4uCc02J75vwmbPNhoruarX8Ptmq8Rx&s=10",LiVOLI TV 01 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWFpWDH2GRdTHr8rjjFJ-ib1p5w4uCc02J75vwmbPNhoruarX8Ptmq8Rx&s=10",LiVOLI TV 01 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
@@ -1344,7 +1344,7 @@ livolitv
 
 
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/10/996x664/livoli_124b3cc.jpg" group-title="▶EVENT/LIVE◀", LiVOLI TV 02 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/10/996x664/livoli_124b3cc.jpg" group-title="▶EVENT 1 / LIVE◀", LiVOLI TV 02 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&amp;type=drm
@@ -1353,7 +1353,7 @@ livolitv
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.indosiar.com/tag/2025/07/13/140198/bri-super-league-202526-rev3.jpg" group-title="▶EVENT/LIVE◀", INDOSIAR_SPORTS (FHD)
+#EXTINF:-1 tvg-logo="https://cdn.indosiar.com/tag/2025/07/13/140198/bri-super-league-202526-rev3.jpg" group-title="▶EVENT 1 / LIVE◀", INDOSIAR_SPORTS (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/indosiar1.m3u8
@@ -1363,12 +1363,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/in
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT/LIVE◀", MOJI_SPORTS (FHD)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT 1 / LIVE◀", MOJI_SPORTS (FHD)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT/LIVE◀", MOJI TV VOLLY
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT 1 / LIVE◀", MOJI TV VOLLY
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 #EXTVLCOPT:http-referrer=https://github.com/
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
@@ -1376,7 +1376,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/pontianak/foto/bank/images/live-sctv-liga-champions.jpg" group-title="▶EVENT/LIVE◀", SCTV_SPORTS (FHD)
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/pontianak/foto/bank/images/live-sctv-liga-champions.jpg" group-title="▶EVENT 1 / LIVE◀", SCTV_SPORTS (FHD)
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-I-FRAMES-ONLY
@@ -1385,7 +1385,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 http://filex.me:8080//live/Qasim1990/1990qasim/302301.ts
 
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="▶EVENT/LIVE◀", RCTI_SPORTS HD
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="▶EVENT 1 / LIVE◀", RCTI_SPORTS HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34322
@@ -1393,30 +1393,19 @@ http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34322
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6VrE_PMJy84/mqdefault.jpg" group-title="▶EVENT/LIVE◀", iNEWS TV SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6VrE_PMJy84/mqdefault.jpg" group-title="▶EVENT 1 / LIVE◀", iNEWS TV SPORTS HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 
 
-#EXTINF:-1 tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2022/06/MotoGP-agrees-on-four-year-media-deal-with-Trans7.jpg" group-title="▶EVENT/LIVE◀", TRANS 7_MOTOGP (FHD)
+#EXTINF:-1 tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2022/06/MotoGP-agrees-on-four-year-media-deal-with-Trans7.jpg" group-title="▶EVENT 1 / LIVE◀", TRANS 7_MOTOGP (FHD)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://103.46.10.145:9981/stream/channelid/2132733942?ticket=B88E6FE9C3A70B477C091238B68BAAA31F99831C&profile=pass
 
 
 
 
-#EXTINF:-1 tvg-id="PL" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg" group-title="▶EVENT/LIVE◀", DENSTV_SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀", LIVE AFF U23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #http://mwmpos04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
@@ -1426,7 +1415,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",SCTV / INDOSIAR (LIVE BOLA)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀",SCTV / INDOSIAR (LIVE BOLA)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
@@ -1436,13 +1425,13 @@ http://103.153.246.42:4022/udp/239.2.2.28:3000
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 1
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀",LIVE 1
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed3&type=m3u8
@@ -1451,24 +1440,24 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=feed3&type=m3u8
 
 
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",INDOSIAR (SERVER 1)
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀",INDOSIAR (SERVER 1)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀", LIVE AFF U23 (SERVER 2)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀", LIVE AFF U23 (SERVER 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT/LIVE◀",LIVE AFF U23 (SERVER 3)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀",LIVE AFF U23 (SERVER 3)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT/LIVE◀",INDOSIAR LIVE (TESTED 1)
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8Lz48XqxOUtsy3H1Z_tO5eBxdVysSgxvrJ7V10KLZGgwyrOhU2wiJ4&s=10" group-title="▶EVENT 1 / LIVE◀",INDOSIAR LIVE (TESTED 1)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
@@ -1484,51 +1473,41 @@ ________________________________________________________________________________
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 01
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://liveplay.camel4.live/live/sd-6MvYLyM5zpr6wBXqaw.flv?txSecret=c90b3b00e357dd1821b03fc30c01c472&txTime=693AA16F&lat=9000
-https://shorter.me/bJUIS
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 02
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://shorter.me/4RyUK
-https://liveplay.camel4.live/live/sd-6MvYMCLsNMwBt2pWns.flv?txSecret=4cd2546e428666965d80ac6d1e375495&txTime=693AA1E0&lat=9000
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 03
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.live8818.com/nami/sd-6MvYMCLsNFLkGbM6HR.m3u8
 
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 04 (SBS SPORT)
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251211022F93
-https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/tixetjxqurxam3hpkbnpacxrk1ckugf4lctc/playlist.m3u8?hdnts=st=1765446585~exp=1765478995~acl=*/tixetjxqurxam3hpkbnpacxrk1ckugf4lctc/*~hmac=810dfdf57d6596cd8073b89527104902e0541a0d31f600bc3877b17eb92f2b51
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 05 (KBSN SPORT)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251211022M92
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/c8g7bfdx1vrhvzoqehxie7g2m1ckvrwrdw62/playlist.m3u8?hdnts=st=1765446546~exp=1765478956~acl=*/c8g7bfdx1vrhvzoqehxie7g2m1ckvrwrdw62/*~hmac=71b8d3799d8528bde5bd1cca2be5174a7b72624820ea786c0f20463ed1c7912c
-
 
 
 ----------------------------------------
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 06 (THAP CAMTV)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
-https://hotlivezz179266008.akainu.xyz/BYCWgJ-6eaqXG4VxQ-0vkA/Fv2lucGIbhPi2caWYvF5Lg/1765322699807/live/bangHD/chunklist.m3u8
 
 
+///////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 07 (THAP CAMTV)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 01 TERSEDIA SAAT LIVE (THAP CAMTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
@@ -1540,71 +1519,70 @@ https://hotlivezz179266008.akainu.xyz/3vwVKfwL3Jhl0qPwOyxMXg/Fv2lucGIbhPi2caWYvF
 ---------------------------------------------------
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 08
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 02 TERSEDIA SAAT LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
 https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 09
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 10 (XOILAX TV)
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 03 TERSEDIA SAAT LIVE (XOILAX TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
 https://hotlivezz179026907.akainu.xyz/_qerOOU0ehWTS-0PLjmFVQ/Fv2lucGIbhPi2caWYvF5Lg/1758036656540/live/may6/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 11 (XOILACZ.LIVE)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 04 TERSEDIA SAAT LIVE (XOILACZ.LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://shorter.me/jzOKS
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 12 (XOILACZ.LIVE)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 05 TERSEDIA SAAT LIVE (XOILACZ.LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://shorter.me/itR59
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 13 (XOILACZ.LIVE)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 06 TERSEDIA SAAT LIVE (XOILACZ.LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://shorter.me/pcR93
 
 ----------------------------------------
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 14 (THAP CAMTV)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 07 TERSEDIA SAAT LIVE (THAP CAMTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
 https://hotlivezz179026907.akainu.xyz/x7SKbxLHqFMdyALwgjA4zA/Fv2lucGIbhPi2caWYvF5Lg/1758109276955/live/may20/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 15 (THAP CAMTV)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 08 TERSEDIA SAAT LIVE (THAP CAMTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
 https://hotlivezz179026907.akainu.xyz/W7gFaWSJ7vw77y_0XZVbjA/Fv2lucGIbhPi2caWYvF5Lg/1757777806656/live/may21/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 16 (THAP CAMTV)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 09 TERSEDIA SAAT LIVE (THAP CAMTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
 https://hotlivezz179026907.akainu.xyz/_BCVBkbBA0umdgOuDmW2nw/Fv2lucGIbhPi2caWYvF5Lg/1764100081879/live/may24/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 17 (FPT PLAYTV)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 10 TERSEDIA SAAT LIVE (FPT PLAYTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
 https://hotlivezz179026907.akainu.xyz/Z_oaKeXpeNJK7PanUGPuog/Fv2lucGIbhPi2caWYvF5Lg/1758036764025/live/may61/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 18 (THAP CAMTV)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 11 TERSEDIA SAAT LIVE (THAP CAMTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
@@ -1612,7 +1590,7 @@ https://hotlivezz179026907.akainu.xyz/cEcZ7pU11uzA8tMVkb7rHg/Fv2lucGIbhPi2caWYvF
 
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 19 (THAP CAMTV)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 12 TERSEDIA SAAT LIVE (THAP CAMTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
