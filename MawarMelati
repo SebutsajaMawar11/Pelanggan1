@@ -1475,7 +1475,7 @@ ________________________________________________________________________________
 
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A1
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1484,7 +1484,7 @@ ________________________________________________________________________________
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A2
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A2 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1493,7 +1493,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A3
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A3 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1502,7 +1502,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A4
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A4 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1511,7 +1511,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A5
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A5 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1520,7 +1520,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A6
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A6 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1529,7 +1529,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A7
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A7 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1538,7 +1538,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A8
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A8 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1547,7 +1547,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A9
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A9 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
