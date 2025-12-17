@@ -84,9 +84,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765971522/ei/4
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴LIVE KARAWITAN PRI RAOS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴LIVE POLL MUSIC (LOADING ...)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765912263/ei/Z1pBacPkJ62V4t4P6ryxYQ/ip/2404%3Ac0%3A7450%3A0%3A0%3A0%3A2b66%3A7f54/id/FiHCGlq66Ks.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3B-iW8c5sVA0ndRIJ9EHC4WTVbwyU0u7dVTJ7TEMgZtYwtKUJvy_waID7O7ECxJnibvRh4WSP9o/spc/wH4Qq0VcdZA2JeKB3Ndl4YcZTFjGx1yyASkWEnifPfHW0vkX4813qYHFukRxLlfx9bcQMg/vprv/1/go/1/ns/E3VdVDKhp0JvmiF-oLISbhcR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/oyXaWBsPEPma2rDfT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAudIKN2x5GhZHBZIX3N6Um8CU_JKNPeBe4j2Kk55Q4oCIEcr-FRhLJaMVGRv7cqDYmbdljSIU_cZ4_uLlIvWwwrY/file/index.m3u8
+#EXTVLCOPT:http-referrer=http://dens.tv
+#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+
 
 
 
