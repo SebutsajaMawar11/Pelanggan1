@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+http://tv.casindo.org/hls/45/45.m3u8
+####http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
