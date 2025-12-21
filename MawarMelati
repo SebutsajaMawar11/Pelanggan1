@@ -1454,6 +1454,24 @@ http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 
 
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://filex.tv:8080//live/shafiq02/1234/302264.ts
+
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://c.beyye.shop/hls/FYYY.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://shorter.me/mviHP
+
+
+
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀", LIVE AFF U23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
