@@ -4281,7 +4281,9 @@ https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/Vi
 --------------------------------⭐⭐⭐⭐⭐⭐TEST VOD⭐⭐⭐⭐⭐⭐----------------------------------------------------
 
 #EXTINF:-1  tvg-logo="https://cdn.teater.co/imgs/banner-pengepungan-di-bukit-duri-2025_600_880.webp" group-title="▶VOD INDO◀", PENGEPUNGAN DI BUKIT DURI
-https://playerngefilm21.rpmlive.online/hls/JP8Hvgw4citq_s_ezO_tKg/gee/dq8wrwe6/t1bvkc/tt/master.m3u8?v=1758651105
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/Vid-PengepunganDiBukitDuri.m3u8
+#####https://playerngefilm21.rpmlive.online/hls/JP8Hvgw4citq_s_ezO_tKg/gee/dq8wrwe6/t1bvkc/tt/master.m3u8?v=1758651105
 #######https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pengepungan.Bukit.Duri.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-BiOMA-[MOVIES 21].mkv
 
 
@@ -4314,11 +4316,13 @@ https://filmovie.github.io/film/urt/hu76i.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0vAoiJL17O3E2ziugIx9yf2YVYvXl7M5Sg&s", group-title="▶VOD INDO◀", PENGEPUNGAN DI BUKIT DURI
-https://tiviku69.github.io/apk/m3u/t7.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/Vid-PengepunganDiBukitDuri.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/230/2025/10/26/abadi-nan-jaya-1669536290.jpg", group-title="▶VOD INDO◀", ABADI NAN JAYA
-https://tiviku69.github.io/apk/m3u/t14.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/VidAbadinanJaya.m3u8
 
 ------------------------------------------------------------------
 
