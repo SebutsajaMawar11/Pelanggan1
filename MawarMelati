@@ -1404,8 +1404,14 @@ https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/kpuj3xkrw4srgqwqfhbeyz
 
 #EXTINF:-1 tvg-logo="https://cdn.indosiar.com/tag/2025/07/13/140198/bri-super-league-202526-rev3.jpg" group-title="▶EVENT 1 / LIVE◀", INDOSIAR_SPORTS (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/indosiar1.m3u8
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/indosiar2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://api.mynex.co.id/assets/article/20250906_044901.jpg" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
+
+
 
 ###http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 #####https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
@@ -1446,11 +1452,6 @@ http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34322
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 
-
-
-#EXTINF:-1 tvg-logo="https://api.mynex.co.id/assets/article/20250906_044901.jpg" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
 
 
 
