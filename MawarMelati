@@ -1381,6 +1381,16 @@ livolitv
 https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/volitv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/SEA-V-League-menjadi-agenda-selanjutnya-t3etwtwww.jpg" group-title="▶EVENT 1 / LIVE◀", V-LEAGUE - SBS SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.sports.naver.com
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251221022F111
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/kpuj3xkrw4srgqwqfhbeyz3ze2fni72d0hez/playlist.m3u8?hdnts=st=1766300244~exp=1766332654~acl=*/kpuj3xkrw4srgqwqfhbeyz3ze2fni72d0hez/*~hmac=25018d038b1fd5d17bb79428d35dd49362ae4bca300e7beec7636aeee87aecf4
+
+
+---------------------------------------------------
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/10/996x664/livoli_124b3cc.jpg" group-title="▶EVENT 1 / LIVE◀", LiVOLI TV 02 (TERSEDIA SAAT LIVE)
