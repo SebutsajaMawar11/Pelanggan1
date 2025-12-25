@@ -7048,37 +7048,7 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 
-#EXTINF:-1 group-title="EVENT 025/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 14:00 WIB Hyundai E&C Hillstate W vs Daejeon KGC W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251225022F117
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/w8onxwrzngsvsop74mhmu2zg01odmvm63kem/playlist.m3u8?hdnts=st=1766645266~exp=1766677676~acl=*/w8onxwrzngsvsop74mhmu2zg01odmvm63kem/*~hmac=9c5957fe0065da57cc5aaca51f529cd7008d1e02db49b8ba73644e6fcd87078b
 
-<================================================>
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 025/DESEMBER/2025" tvg-logo="https://shorter.me/VBbXc", 17:30 WIB Vietnam vs Myanmar
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 025/DESEMBER/2025" tvg-logo="https://shorter.me/ragIN", 14:00 WIB Malaysia vs Indonesia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="EVENT 025/DESEMBER/2025" tvg-logo="https://shorter.me/ragIN", 20:00 WIB Vietnam vs Thailand
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 
