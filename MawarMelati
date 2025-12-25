@@ -1384,8 +1384,16 @@ https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/vo
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/SEA-V-League-menjadi-agenda-selanjutnya-t3etwtwww.jpg" group-title="▶EVENT 1 / LIVE◀", V-LEAGUE - SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251225022F117
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/w8onxwrzngsvsop74mhmu2zg01odmvm63kem/playlist.m3u8?hdnts=st=1766645266~exp=1766677676~acl=*/w8onxwrzngsvsop74mhmu2zg01odmvm63kem/*~hmac=9c5957fe0065da57cc5aaca51f529cd7008d1e02db49b8ba73644e6fcd87078b
+
+
+===============================================
+
+
+#EXTVLCOPT:http-origin=https://m.sports.naver.com
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251221022F111
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/kpuj3xkrw4srgqwqfhbeyz3ze2fni72d0hez/playlist.m3u8?hdnts=st=1766300244~exp=1766332654~acl=*/kpuj3xkrw4srgqwqfhbeyz3ze2fni72d0hez/*~hmac=25018d038b1fd5d17bb79428d35dd49362ae4bca300e7beec7636aeee87aecf4
+######https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/kpuj3xkrw4srgqwqfhbeyz3ze2fni72d0hez/playlist.m3u8?hdnts=st=1766300244~exp=1766332654~acl=*/kpuj3xkrw4srgqwqfhbeyz3ze2fni72d0hez/*~hmac=25018d038b1fd5d17bb79428d35dd49362ae4bca300e7beec7636aeee87aecf4
 
 
 ---------------------------------------------------
