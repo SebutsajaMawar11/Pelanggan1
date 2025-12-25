@@ -1381,12 +1381,20 @@ livolitv
 https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/volitv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/SEA-V-League-menjadi-agenda-selanjutnya-t3etwtwww.jpg" group-title="▶EVENT 1 / LIVE◀", V-LEAGUE - SBS SPORTS
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/SEA-V-League-menjadi-agenda-selanjutnya-t3etwtwww.jpg" group-title="▶EVENT 1 / LIVE◀", V-LEAGUE 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251225022F117
 https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/w8onxwrzngsvsop74mhmu2zg01odmvm63kem/playlist.m3u8?hdnts=st=1766645266~exp=1766677676~acl=*/w8onxwrzngsvsop74mhmu2zg01odmvm63kem/*~hmac=9c5957fe0065da57cc5aaca51f529cd7008d1e02db49b8ba73644e6fcd87078b
 
+
+
+
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/SEA-V-League-menjadi-agenda-selanjutnya-t3etwtwww.jpg" group-title="▶EVENT 1 / LIVE◀", V-LEAGUE 2 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.sports.naver.com
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251225022F117
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/wz9kmmqglvnt1spalrelaefzv2ucqtxdn5gf/playlist.m3u8?hdnts=st=1766655050~exp=1766687460~acl=*/wz9kmmqglvnt1spalrelaefzv2ucqtxdn5gf/*~hmac=8cdce7713fa39e52814b205ee74199fd6795bc3aface6ac9fe0e3a27df6f2040
 
 ===============================================
 
