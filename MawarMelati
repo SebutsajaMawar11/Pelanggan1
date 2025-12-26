@@ -2752,6 +2752,24 @@ https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/hu
 https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/hubsport-3.m3u8
 
 
+-------
+starzplaysport
+
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/1200w/livechannels/STARZPLAYSPORTS01Y2025M/STARZPLAYSPORTS01Y2025M-landscape-poster-v1.jpg", group-title="SPORTS 2 HD", STARZPLAY SPORT 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/254310.ts
+
+
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/600w/livechannels/STARZPLAYSPORTS02Y2025M/STARZPLAYSPORTS02Y2025M-landscape-poster-v1.jpg", group-title="SPORTS 2 HD", STARZPLAY SPORT 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/254309.ts
+
+
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/600w/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg", group-title="SPORTS 2 HD", STARZPLAY SPORT 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/252862.ts
+
+
 ---------
 arena sport
 
@@ -7100,19 +7118,9 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/1200w/livechannels/STARZPLAYSPORTS01Y2025M/STARZPLAYSPORTS01Y2025M-landscape-poster-v1.jpg", group-title="▶◀", STARZPLAY SPORT 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/Starzplaysport1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/600w/livechannels/STARZPLAYSPORTS02Y2025M/STARZPLAYSPORTS02Y2025M-landscape-poster-v1.jpg", group-title="▶◀", STARZPLAY SPORT 02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://forip.in/live/uqywlyae2l/6hkmudi7zk/254309.ts
 
-
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/600w/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg", group-title="▶◀", STARZPLAY SPORT 03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/Starzplaysport3.m3u8
 
 
 
