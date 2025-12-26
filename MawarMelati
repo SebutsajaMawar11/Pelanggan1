@@ -1384,8 +1384,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/vo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251225022F117
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/w8onxwrzngsvsop74mhmu2zg01odmvm63kem/playlist.m3u8?hdnts=st=1766645266~exp=1766677676~acl=*/w8onxwrzngsvsop74mhmu2zg01odmvm63kem/*~hmac=9c5957fe0065da57cc5aaca51f529cd7008d1e02db49b8ba73644e6fcd87078b
-
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/1rj5xnzm6kexfiuul0i27kcjj8xdbuch6cj9/playlist.m3u8?hdnts=st=1766746682~exp=1766779092~acl=*/1rj5xnzm6kexfiuul0i27kcjj8xdbuch6cj9/*~hmac=3323c08eafd0ed9b6c11081c2acf25ffd6b556920f8adbbe503271906474e2e0
 
 
 
@@ -1393,7 +1392,8 @@ https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/w8onxwrzngsvsop74mhmu2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251225022F117
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/wz9kmmqglvnt1spalrelaefzv2ucqtxdn5gf/playlist.m3u8?hdnts=st=1766655050~exp=1766687460~acl=*/wz9kmmqglvnt1spalrelaefzv2ucqtxdn5gf/*~hmac=8cdce7713fa39e52814b205ee74199fd6795bc3aface6ac9fe0e3a27df6f2040
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/rkbrn6sjp99rxtiv9ki5spzn31oio7rwaeez/playlist.m3u8?hdnts=st=1766746765~exp=1766779175~acl=*/rkbrn6sjp99rxtiv9ki5spzn31oio7rwaeez/*~hmac=f9d2e89052b2cc96e23a50f1d46e1645bc49f19fa1984b522cfa2cd8e4d1a3d6
+
 
 ===============================================
 
