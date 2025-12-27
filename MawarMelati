@@ -3725,6 +3725,13 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://images.thedirect.com/media/article_full/avatar-3-fire-and-ash-gets-unsurprising-rating-ahead-of-2025-release_.jpg" group-title="📁 MOVIES - REQUEST", AVATAR - FIRE AND ASH (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDavatarFireAndAsh.m3u8
+
+
+---------------------
+
 #EXTINF:-1  tvg-logo="https://images.motherandbeyond.id/unsafe/0x0/smart/media/assetmb/body_0038c5fc39d04e96a966f4e13b90f96c.jpg" group-title="📁 MOVIES - REQUEST", AVATAR 1 - THE LAST AIRBENDER (AANG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://filmovie.github.io/oq90jy/fmtvonytq996/fm.m3u8
