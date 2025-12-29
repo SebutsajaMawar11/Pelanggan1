@@ -2835,7 +2835,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/hu
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.vimeocdn.com/video/2065869551-a10b35c7e1255ea89bed6d0a56e4050f434b42d293f628b486d28740c4bda607-d?f=webp", HUB_SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:AD:3B:D0&extension=ts&stream=941572
-https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/hubsport-2.m3u8
+###https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/hubsport-2.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.vimeocdn.com/video/2065870772-0780cc782fc50cc68844944b08344293df30afa35f3b8721a0941d56bf2a3743-d?f=webp", HUB_SPORTS 3
