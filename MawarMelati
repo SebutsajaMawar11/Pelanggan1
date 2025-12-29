@@ -5074,6 +5074,11 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 
 
 
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://stro.tv/uploads/img/6870f7a1a8e2a.jpg", SUMIATI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsumiati.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/X5UYUQwQlLo/maxresdefault.jpg", group-title="FILM HOROR", PENJAGAL IBLIS - DOSA TURUNAN⭐⭐⭐⭐
 
 
@@ -5463,10 +5468,6 @@ http://ktpremium.online:2095/movie/Halim8781/Halim8781/929400.mp4
 
 #EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://pic.bstarstatic.com/ugc/e6f2862cb56c67e250841d4570f27635.jpg", JERITAN MALAM
 http://ktpremium.online:2095/movie/Halim8781/Halim8781/26619.mp4
-
-
-#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://stro.tv/uploads/img/6870f7a1a8e2a.jpg", SUMIATI
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/27509.mp4
 
 
 #EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c9fa7e7322fab4d011a8d628e3c48baf9f2586520296e87c1220e6101171054e.jpg", DANAU HITAM
