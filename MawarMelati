@@ -4691,6 +4691,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDWiroSableng212.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nLjzzjfwwvg/hq720.jpg", group-title="▶VOD INDO◀", PANGGIL AKU AYAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpanggilAkuAyah.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500_and_h282_face/u6B4OIoT4lnWqIxy3lEEVcnleY4.jpg", group-title="▶VOD INDO◀", 5 CM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5073,6 +5079,11 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDregoNyowo.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://image.idntimes.com/post/20250220/whatsapp-image-2025-02-20-at-111011-1-a00efad42421bf768fd2e39503b7fe47.jpeg", group-title="FILM HOROR", JABANG MAYIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjabangMayit.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rnIpDQm1o8M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCgAlvcvXuDwo1V34UBPArXzUliWQ", group-title="FILM HOROR", KAMPUNG JABANG MAYIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkampungJabangMayit.m3u8
@@ -5091,6 +5102,11 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 #EXTINF:-1 tvg-logo="https://referensirakyat.co.id/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-29-at-12.21.01.jpeg", group-title="FILM HOROR", SIHIR PELAKOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsihirPelakor.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0hSptYxWB3E/maxresdefault.jpg", group-title="FILM HOROR", PENGABDI SETAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpengabdiSetan.m3u8
 
 
 
