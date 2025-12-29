@@ -5073,6 +5073,10 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDnarikSukmo.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/132/2025/04/01/Lampor-Keranda-Terbang-2019-movievaganza-trans7-932156416.jpg", group-title="FILM HOROR", LAMPOR - KERANDA TERBANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlamporKerandaTerbang.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://referensirakyat.co.id/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-29-at-12.21.01.jpeg", group-title="FILM HOROR", SIHIR PELAKOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5126,10 +5130,6 @@ https://playerngefilm21.rpmlive.online/hls/z9o2gM69UHwhbyVF9EtNJA/np/qt5y8p1c/vb
 #EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/2025/07/26/film-pamali-tumbal_ratio-16x9.jpg", group-title="FILM HOROR", PAMALI
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/ilp61.m3u8
 
-
-
-#EXTINF:-1  tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/132/2025/04/01/Lampor-Keranda-Terbang-2019-movievaganza-trans7-932156416.jpg", group-title="FILM HOROR", LAMPOR - KERANDA TERBANG
-https://tiviku69.github.io/apk/m3u/t15.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/otf/720x0/2023/02/02/jailangkung-sandekala_ratio-16x9.jpg", group-title="FILM HOROR", JAELANGKUNG SANDEKALA
