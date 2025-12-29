@@ -4151,7 +4151,7 @@ https://cloud.hownetwork.xyz/xxx/LhEvK2gRFi8lIlouOh03dTEQJjpoDR8kbz4bKG5HNyFvSnl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="▶VOD ALL◀" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg",Home Sweet Home: Rebirth
 https://cloud.hownetwork.xyz/xxx/KhckK2gKACQnJVokLF0zdTAdKyc3DR9scGFFeW5SOi0wGTARHSYRInA3EyomCQ/32/480.m3u8
-f
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="▶VOD ALL◀" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uX6FaNE86a4Xnf1mFFEryvjqB1D.jpg",Shadow Force
@@ -5062,10 +5062,11 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 
 
 
-#EXTINF:-1 tvg-logo="https://referensirakyat.co.id/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-29-at-12.21.01.jpeg", group-title="FILM HOROR", SIHIR PELAKOR
+#EXTINF:-1 tvg-logo="https://referensirakyat.co.id/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-29-at-12.21.01.jpeg", group-title="FILM HOROR", SIHIR_PELAKOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-######https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsihirPelakor.m3u8
 https://dario83027.takeplcdn.fit/d/e2zagtcyo7hvw4m6gkv5xky43cwseifftxs7aq3flwmmx77kqsdiytqvaslznzprrmvhz2b7/Sihir.Pelakor.2025.720p.WEB.AAC.x264.MSM.mkv
+######https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsihirPelakor.m3u8
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/X5UYUQwQlLo/maxresdefault.jpg", group-title="FILM HOROR", PENJAGAL IBLIS - DOSA TURUNAN⭐⭐⭐⭐
