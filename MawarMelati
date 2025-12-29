@@ -1409,8 +1409,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/vo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251225022F117
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/1rj5xnzm6kexfiuul0i27kcjj8xdbuch6cj9/playlist.m3u8?hdnts=st=1766746682~exp=1766779092~acl=*/1rj5xnzm6kexfiuul0i27kcjj8xdbuch6cj9/*~hmac=3323c08eafd0ed9b6c11081c2acf25ffd6b556920f8adbbe503271906474e2e0
-
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/uvkiqtz5axawskdvrq3vbgee91rw60xfw3s9/480.stream/hdntl=exp=1767036799~acl=*%2fuvkiqtz5axawskdvrq3vbgee91rw60xfw3s9%2f*~data=hdntl~hmac=529340314c163d2b140a18e2eabdef566442b483b0ab83a4452b809776ed5078/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/SEA-V-League-menjadi-agenda-selanjutnya-t3etwtwww.jpg" group-title="▶EVENT 1 / LIVE◀", V-LEAGUE 2 (TERSEDIA SAAT LIVE)
