@@ -478,6 +478,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/517/59517-SNAPSHOT-m.png" group-title="Indonesia Channels", ANTV_FHD (SPORTS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=782&type=hls
+https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
 #######https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/antv-digital1.m3u8
 ######http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
 
@@ -2534,10 +2537,10 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 __________
 UNIFISPORT
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",UNIFI SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",UNIFI SPORTS⭐⭐⭐
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#####https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ________
 
@@ -2552,11 +2555,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 _______
 BOXING
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1oSvmJIy33ViJs6NG4jSzHoyl_0EfxvZL63ZWBrPFhRrlBfWhqjZRMXoSQ2dKt7G9NShq5jaYnk=w299-h165-ns-nd-rj" group-title="SPORTS", BELLATOR MMA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1oSvmJIy33ViJs6NG4jSzHoyl_0EfxvZL63ZWBrPFhRrlBfWhqjZRMXoSQ2dKt7G9NShq5jaYnk=w299-h165-ns-nd-rj" group-title="SPORTS", BELLATOR MMA⭐⭐⭐
+###http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iili.io/H3SUDv9.png",GLORY KICKBOXING
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iili.io/H3SUDv9.png",GLORY KICKBOXING⭐⭐⭐
+####http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -3885,9 +3888,9 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.thedirect.com/media/article_full/avatar-3-fire-and-ash-gets-unsurprising-rating-ahead-of-2025-release_.jpg" group-title="📁 MOVIES - REQUEST", AVATAR - FIRE AND ASH (2025)
+#EXTINF:-1 tvg-logo="https://images.thedirect.com/media/article_full/avatar-3-fire-and-ash-gets-unsurprising-rating-ahead-of-2025-release_.jpg" group-title="📁 MOVIES - REQUEST", AVATAR - FIRE AND ASH (2025)⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDavatarFireAndAsh.m3u8
+####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDavatarFireAndAsh.m3u8
 
 
 ---------------------
