@@ -2740,6 +2740,10 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/P
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://swerve.tv/wp-content/uploads/2025/06/Swerve-Combat.png" group-title="SPORTS 2 HD", SWERVE COMBAT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+
 
 #EXTINF:-1 tvg-id="Sports" tvg-name="Sports" group-title="SPORTS 2 HD" tvg-logo="https://cdn3.whatculture.com/images/2019/04/e9aca07490fa72b2-600x338.jpg", W_NETWORK TV⭐⭐⭐
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3467,8 +3471,8 @@ ___________
 UNIFI TV
 
 
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/12/389-s.webp" group-title="SPORTS 2 FHD", UNIFI SPORTS
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/12/389-s.webp" group-title="SPORTS 2 FHD", UNIFI SPORTS⭐⭐⭐
+#####https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 
