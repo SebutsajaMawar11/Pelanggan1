@@ -5722,22 +5722,22 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=l
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/m06YEnzGgZGOmPOcpxjhoffZP73kNNvcQMNDMCmlThQ8D8w7u7puSilr5QPks4eJ660=w1200-h675-c-rj" group-title="DAERAH", STARA TV - MALANG
-#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://malang.staratv.id/hls/0/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/epDCZ7pvdCg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFsgXyhlMA8=&rs=AOn4CLCvoRpPaHbsNQsnTIyggxc7bel8zw" group-title="DAERAH", STARA TV - BANDUNG
-#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://bandung.staratv.id/hls/0/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/25IPSEVRt6HWIUt4zQIoxf_I0QaVC3algKk1M8iDb24T_CKIxVqFcmDet5UptwXRN5sl=w240-h480-rw" group-title="DAERAH", STARA TV - CIANJUR
-#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cianjur.staratv.id/hls/0/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/S6XJcMCiFpxXIt8Ww-HlmyXvJ0-x7sS0U0RlaxFAhFndhAJtqQN-hGrDDIvfPykoDbqUvx8g0GEaV32Mn5eZfQ" group-title="DAERAH", STARA TV - MAJALENGKA
-#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://stream.staratv.id/hls/0/stream.m3u8
 
 
