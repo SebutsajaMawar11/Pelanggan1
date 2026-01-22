@@ -5718,6 +5718,34 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/m06YEnzGgZGOmPOcpxjhoffZP73kNNvcQMNDMCmlThQ8D8w7u7puSilr5QPks4eJ660=w1200-h675-c-rj" group-title="DAERAH", STARA TV - MALANG
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://malang.staratv.id/hls/0/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/epDCZ7pvdCg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFsgXyhlMA8=&rs=AOn4CLCvoRpPaHbsNQsnTIyggxc7bel8zw" group-title="DAERAH", STARA TV - BANDUNG
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://bandung.staratv.id/hls/0/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/25IPSEVRt6HWIUt4zQIoxf_I0QaVC3algKk1M8iDb24T_CKIxVqFcmDet5UptwXRN5sl=w240-h480-rw" group-title="DAERAH", STARA TV - CIANJUR
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://cianjur.staratv.id/hls/0/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/S6XJcMCiFpxXIt8Ww-HlmyXvJ0-x7sS0U0RlaxFAhFndhAJtqQN-hGrDDIvfPykoDbqUvx8g0GEaV32Mn5eZfQ" group-title="DAERAH", STARA TV - MAJALENGKA
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://stream.staratv.id/hls/0/stream.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017ec407d96b7362/9c255af117004d72b8c8b45ebc64aedb.png" group-title="DAERAH",JTV DAERAH
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
 
