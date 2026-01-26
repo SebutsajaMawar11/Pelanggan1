@@ -542,19 +542,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="Indonesia Channels", RCTI+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="Indonesia Channels", RCTI _ SPORT
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 
 _______________________________________
-
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI 02 HD
-https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-
 
 
 
@@ -6998,11 +6990,6 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://linggaupos.bacakoran.co/upload/cde7d33f434323308cd938fa11d9871c.jpg" group-title="🔵TIMNAS DAY", RCTI+ (AUTO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
 
