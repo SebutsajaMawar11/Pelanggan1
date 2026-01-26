@@ -532,7 +532,7 @@ ______________________________________________
 
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/514/59514-SNAPSHOT-m.png" group-title="Indonesia Channels",RCTI+ HD
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/514/59514-SNAPSHOT-m.png" group-title="Indonesia Channels",RCTI HD (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -542,9 +542,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="Indonesia Channels", RCTI_SPORTS (FHD)
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="Indonesia Channels", RCTI+
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+###http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 
 _______________________________________
 
