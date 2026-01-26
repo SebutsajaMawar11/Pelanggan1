@@ -3690,17 +3690,15 @@ http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A1)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (a1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://filex.tv:8080//live/shafiq02/1234/302264.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A2)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (a2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://d.dvzzdzsa.shop/hls/VVVVQQ.m3u8
+https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=4122045
 
 
 
