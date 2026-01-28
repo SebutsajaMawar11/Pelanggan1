@@ -6987,6 +6987,8 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 #EXTINF:-1 tvg-logo="🔴🔴🔴" group-title="Test", 🔴test1 inspk (link ori2)///
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://moviebox.restapi.site
 https://moviebox.restapi.site/get/data/stream?url=https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fresource%2Fca73b8ef4090ea61098d17aa6f148819.mp4%3Fsign%3D0f764a845474d2da1f31d0898e8ff2a4%26t%3D1769596248
 
 
@@ -6999,6 +7001,32 @@ https://moviebox.restapi.site/get/data/stream?url=https%3A%2F%2Fbcdnxw.hakunayma
 #EXTINF:-1 tvg-logo="🔴🔴🔴" group-title="Test", 🔴 test ori (ke2)////
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtessst2.m3u8
 https://zeldvorik.ru/rebahin21/player.php?id=5845923312068608848
+
+
+
+#EXTINF:-1 tvg-logo="🔴🔴🔴" group-title="Test", 🔴
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://zeldvorik.ru/
+https://moviebox.restapi.site/get/data/stream?url=https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fresource%2Fca73b8ef4090ea61098d17aa6f148819.mp4%3Fsign%3Dc1a9f9db20920b4b7e3f680c4716839e%26t%3D1769599405
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
