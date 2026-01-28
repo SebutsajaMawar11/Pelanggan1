@@ -7017,7 +7017,8 @@ https://minochinos.com/stream/qyzW-G1WL8s8kQfPVtXWlw/hjkrhuihghfvu/1769663754/35
 
 
 
-#EXTINF:-1 tvg-logo="🔴🔴🔴" group-title="Test", 🔴XXXXXXXXXXXXXX 06🔴
+#EXTINF:-1 tvg-logo="🔴🔴🔴" group-title="Test", 🔴XXXXXXXXXXXXXX 06🔴AAA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1192984,RESOLUTION=1280x720,FRAME-RATE=24.006,CODECS="avc1.64001f,mp4a.40.2"
 https://minochinos.com/stream/qyzW-G1WL8s8kQfPVtXWlw/hjkrhuihghfvu/1769663754/35993451/master.m3u8
 
