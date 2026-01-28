@@ -7014,8 +7014,9 @@ https://moviebox.restapi.site/get/data/stream?url=https%3A%2F%2Fbcdnxw.hakunayma
 
 
 
-
-
+#EXTINF:-1 tvg-logo="🔴🔴🔴" group-title="Test", 🔴cocote tg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://moviebox.restapi.site/get/data/stream?url=https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fresource%2F5289102879908b0857e9ce490fe21949.mp4%3Fsign%3D260df2f068f56b9cc6b30ee6b1157d6a%26t%3D1769598990
 
 
 
