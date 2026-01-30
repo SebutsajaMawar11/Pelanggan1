@@ -2692,8 +2692,9 @@ http://65.108.239.207/smart2/index.m3u8
 ------------------------------
 alkas tv
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1⭐⭐⭐⭐
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkassSport1.m3u8
 
 
 
