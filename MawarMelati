@@ -1465,9 +1465,57 @@ https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudH
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-==========================================================📁 LOKAL VIP | AUTO============================================================================
+=====================================================================================🔴 EVENT / PROLIGA========================================================================================================
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+
+
+
+
+#EXTINF:-1 group-title="🔴 EVENT / PROLIGA" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/01/28/3580151178.jpg", VOLI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
+
+
+
+#EXTINF:-1 tvg-logo="https://g-sports.id/wp-content/uploads/2024/12/PROLIGA-2025-grafis-Menk-Karmawan-G-Sports.id_.jpg" group-title="🔴 EVENT / PROLIGA",🔴 LIVE PROLIGA 1 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+
+
+#EXTINF:-1 tvg-logo="https://ihram.co.id/wp-content/uploads/2026/01/klasemen-proliga-putri-2026-megawati-hangestri-cs-raih-tiga-poin-perdana-geser-electric-pln-300x169.webp" group-title="🔴 EVENT / PROLIGA",🔴 LIVE PROLIGA 2 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/76/2026/01/17/2_20260117_151307_0000-3783674437.png" group-title="🔴 EVENT / PROLIGA",🔴 LIVE PROLIGA 3 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/76/2026/01/17/2_20260117_151307_0000-3783674437.png" group-title="🔴 EVENT / PROLIGA",🔴 LIVE PROLIGA 4 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+
+
+#EXTINF:-1 tvg-logo="https://www.nismedia.id/wp-content/uploads/2025/12/Catat-Tanggalnya-Ini-Daftar-Lengkap-Tim-dan-Jadwal-Proliga-2026-dari-Penyisihan-hingga-Final-300x158.jpg" group-title="🔴 EVENT / PROLIGA",🔴 LIVE PROLIGA 5 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+
+
+
+
+
 
 
 
