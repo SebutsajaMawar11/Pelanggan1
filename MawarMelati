@@ -7078,8 +7078,9 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 
-#EXTINF:-1 tvg-logo="🔴🔴🔴" group-title="Test", 🔴XXXXXXXXXXXXXX 01🔴
-#########https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmendadakDangdut.m3u8
+#EXTINF:-1 tvg-logo="🔴🔴🔴" group-title="Test", 🔴test 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769886066/ei/Ev19abyeBJ2MvcAPwsLg-QI/ip/160.22.128.18/id/IAscLD-rhno.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AW-iu_rstWV6OP0elgAJ22efQhXZgKf7JVcZKK0I3XuJXUqd5l5ZMfFQS5gvbs23Zq9tZ7xxwA/spc/q5xjPIV_3Nfy7XpuAGIV6qBOi5d5uDL5_jxa_sO1t4or7OBNHWNMBbc/vprv/1/go/1/ns/xTwAtL-E10Q4m55P-XfoCFMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/3ut3uA64GoDA7fv/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAJyHBwMuwANZl3OJz7QM84sxGRolNwZlmHJBgUi6Oj2XAiEAq9DG9-HZcqZHfa8f1U0fqcLrMPCm5cOeEhHUkJyyrGU%3D/file/index.m3u8
 
 
 
