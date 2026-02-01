@@ -4539,6 +4539,40 @@ https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/api/wm/2023/09/25/poster-film-imam-tanpa-makmum_169.jpeg?w=1200" group-title="▶VOD INDO◀", IMAM TANPA MAKMUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDimamTanpaMakmum.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VhWZK7kD-t5NDffiKzLhG8DzQC8=/1920x1080/filters:quality(70)/vidio-media-production/uploads/image/source/50708/0f3377.jpg" group-title="▶VOD INDO◀", GJLS: IBUKU IBU IBU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDgjls-IbukuIbuIbu.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="XXXXXXXXXX", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="XXXXXXXXXX", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/c4Uc7nPMHqM/hq720.jpg" group-title="▶VOD INDO◀",  AGEN +62
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://playerngefilm21.rpmlive.online/hls/mLJ_BKip2P07ukXOFoJzRQ/epu/1xmlfn69/q1hc6e/tt/master.m3u8?v=1766826492
