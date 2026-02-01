@@ -1083,67 +1083,67 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 
 
-#EXTINF:-1 tvg-id="001" tvg-name="adptv-001" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="TRANSVISION" ,HBO
+#EXTINF:-1 tvg-id="001" tvg-name="adptv-001" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="TRANSVISION" ,HBO⭐⭐⭐⭐
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmI2MDg4YzMwMTZiODdkNjRiOTcwYjUzL21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmI2MDg4YzMwMTZiODdkNjRiOTcwYjUzL21hbmlmZXN0Lm1wZA
 
 
-#EXTINF:-1 tvg-id="002" tvg-name="adptv-002" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="TRANSVISION" ,HBO HITS
+#EXTINF:-1 tvg-id="002" tvg-name="adptv-002" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="TRANSVISION" ,HBO HITS⭐⭐⭐⭐
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU0ZmJmNjczNzlmL21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU0ZmJmNjczNzlmL21hbmlmZXN0Lm1wZA
 
 
-#EXTINF:-1 tvg-id="003" tvg-name="adptv-003" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="TRANSVISION" ,HBO FAMILY
+#EXTINF:-1 tvg-id="003" tvg-name="adptv-003" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="TRANSVISION" ,HBO FAMILY⭐⭐⭐⭐
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU1OTI3ZmUzN2E0L21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU1OTI3ZmUzN2E0L21hbmlmZXN0Lm1wZA
 
 
-#EXTINF:-1 tvg-id="004" tvg-name="adptv-004" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="TRANSVISION" ,HBO SIGNATURE
+#EXTINF:-1 tvg-id="004" tvg-name="adptv-004" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="TRANSVISION" ,HBO SIGNATURE⭐⭐⭐⭐
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU1MmUwY2EzN2EyL21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU1MmUwY2EzN2EyL21hbmlmZXN0Lm1wZA
 
 
-#EXTINF:-1 tvg-id="005" tvg-name="adptv-005" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png",Bioskop Indonesia
+#EXTINF:-1 tvg-id="005" tvg-name="adptv-005" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png",Bioskop Indonesia⭐⭐⭐⭐
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmZkMGQ2NmQwMTcwMzQxYmYxMDAwOTA1L21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmZkMGQ2NmQwMTcwMzQxYmYxMDAwOTA1L21hbmlmZXN0Lm1wZA
 
 
-#EXTINF:-1 tvg-id="024" tvg-name="adptv-024" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be292d655725/20200924033003.png",!nsert
+#EXTINF:-1 tvg-id="024" tvg-name="adptv-024" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be292d655725/20200924033003.png",!nsert⭐⭐⭐⭐
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmMzZGIyY2MwMTZjZGM1MTI5NGI0ZjhlL21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmMzZGIyY2MwMTZjZGM1MTI5NGI0ZjhlL21hbmlmZXN0Lm1wZA
 
 
-#EXTINF:-1 tvg-id="019" tvg-name="adptv-019" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6764522be3/20220808030229.jpg",Knowledge+
+#EXTINF:-1 tvg-id="019" tvg-name="adptv-019" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6764522be3/20220808030229.jpg",Knowledge+⭐⭐⭐⭐
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1ODI0NDlhMmUwMTgyNTk3MTZmNzgyMWYwL21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1ODI0NDlhMmUwMTgyNTk3MTZmNzgyMWYwL21hbmlmZXN0Lm1wZA
 
 
 #EXTINF:-1 tvg-id="020" tvg-name="adptv-020" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2463495723/20200924032449.jpg",CGTN Documentary
@@ -1152,25 +1152,25 @@ https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci81LzQwMjhjNjg1NzI4NDFiYTMwMTcyOWM4NmUzY2YzYmZmL21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci81LzQwMjhjNjg1NzI4NDFiYTMwMTcyOWM4NmUzY2YzYmZmL21hbmlmZXN0Lm1wZA
 
 
-#EXTINF:-1 tvg-id="025" tvg-name="adptv-025" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2b660c5727/20230224132820.jpg",Channel Seru!
+#EXTINF:-1 tvg-id="025" tvg-name="adptv-025" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2b660c5727/20230224132820.jpg",Channel Seru!⭐⭐⭐⭐
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci81LzQwMjhjNjg1NzI4NDFiYTMwMTcyOWM5MjFiYzQzYzAwL21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci81LzQwMjhjNjg1NzI4NDFiYTMwMTcyOWM5MjFiYzQzYzAwL21hbmlmZXN0Lm1wZA
 
 
-#EXTINF:-1 tvg-id="026" tvg-name="adptv-026" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2db0a25728/20200924033459.png",Dunia Lain
+#EXTINF:-1 tvg-id="026" tvg-name="adptv-026" 1 group-title="TRANSVISION" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2db0a25728/20200924033459.png",Dunia Lain⭐⭐⭐⭐
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/adp/transvision/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8yLzQwMjhjNjg1NmVhMzRlMzUwMTZlZjhlOWZkZjk1MWMxL21hbmlmZXN0Lm1wZA
+#########https://get-adptv.mediaflow.workers.dev/index.mpd?src=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8yLzQwMjhjNjg1NmVhMzRlMzUwMTZlZjhlOWZkZjk1MWMxL21hbmlmZXN0Lm1wZA
 
 
 ############################
