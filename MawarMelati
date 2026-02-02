@@ -4635,6 +4635,35 @@ https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=112281
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PEb0yhsmfxc/maxresdefault.jpg" group-title="▶VOD INDO◀", SUJUD TERAKHIR BAPAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=107393
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s6Kz_94zdHQ/maxresdefault.jpg" group-title="▶VOD INDO◀", KUN ANA WA ANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=113967
+
+
+
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01jxv9vw5dx1dze9bz55pkggcc.jpg" group-title="▶VOD INDO◀", JODOH 3 BUJANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126981
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5DbFY0Fq-Vs/maxresdefault.jpg" group-title="▶VOD INDO◀", LEBIH DARI SELAMA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=127488
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="▶VOD INDO◀", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
 #EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="XXXXXXXXXX", 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
@@ -4643,6 +4672,7 @@ https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=112281
 
 #EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="XXXXXXXXXX", 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
