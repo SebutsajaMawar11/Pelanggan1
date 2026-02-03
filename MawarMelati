@@ -1848,28 +1848,28 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://liveeu-gcps.alkassdigital.net/alkass6-p/main.m3u8?hdnts=exp=1770121176~hmac=b1e15d5291c5ec054becfec3b65773946a00b436407c0813b2c0f022b6699ea3
+####https://liveeu-gcps.alkassdigital.net/alkass6-p/main.m3u8?hdnts=exp=1770121176~hmac=b1e15d5291c5ec054becfec3b65773946a00b436407c0813b2c0f022b6699ea3
 ####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkassSport6.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://liveeu-gcps.alkassdigital.net/alkass7-p/main.m3u8?hdnts=exp=1770121235~hmac=baa8fa6322c5802261f601bc09a73ecdbd14a06d2ae03d376a25ab304c399cbb
+####https://liveeu-gcps.alkassdigital.net/alkass7-p/main.m3u8?hdnts=exp=1770121235~hmac=baa8fa6322c5802261f601bc09a73ecdbd14a06d2ae03d376a25ab304c399cbb
 #####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkassSport7.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://thepeninsulaqatar.com/get/maximage/20221120_1668941709-282.jpg", ALKASS SHOOF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://liveeu-gcps.alkassdigital.net/shooflive/main.m3u8?hdnts=exp=1770121292~hmac=8ebc00023766fae7a709874df1ca23d1fe82e48bb7ad9d75d971370483792256
+####https://liveeu-gcps.alkassdigital.net/shooflive/main.m3u8?hdnts=exp=1770121292~hmac=8ebc00023766fae7a709874df1ca23d1fe82e48bb7ad9d75d971370483792256
 ######https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkassSHOOF1.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.myportfolio.com/ef1b5e3ad25255a3737546a5b7273692/8fa409d7-7fab-4185-a2f5-fbd5ef11194e_rw_3840.jpg?h=8c9f465e76ab61cf6e34ed54a7b3b919", ALKASS SHOOF 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://liveeu-gcps.alkassdigital.net/shooflive2/main.m3u8?hdnts=exp=1770121345~hmac=50daba7df75117dd9bc748ce3285d5d75b2d5addf28401f7f89fd3bb992390b9
+#####https://liveeu-gcps.alkassdigital.net/shooflive2/main.m3u8?hdnts=exp=1770121345~hmac=50daba7df75117dd9bc748ce3285d5d75b2d5addf28401f7f89fd3bb992390b9
 ######https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkassSHOOF2.m3u8
 
 
