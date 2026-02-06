@@ -3872,7 +3872,8 @@ http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+https://live1.pro2cdnlive.com/live/channel22.m3u8?wsSecret=7908ac240c224a7ab292ed78e3f396bd&wsABSTime=1767551485
 
 
 
