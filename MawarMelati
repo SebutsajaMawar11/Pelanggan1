@@ -641,7 +641,7 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
 ======================================================================
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn0-production-images-kly.akamaized.net/IHEGVo0bdDjq02JdmrAabHxZ7kQ=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3619432/original/032673600_1635753736-kompas-tv-a3cbc6.jpeg" group-title="Indonesia Channels",KOMPAS TV SD
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn0-production-images-kly.akamaized.net/IHEGVo0bdDjq02JdmrAabHxZ7kQ=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3619432/original/032673600_1635753736-kompas-tv-a3cbc6.jpeg" group-title="Indonesia Channels",KOMPAS TV (SD)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -650,7 +650,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index
 
 
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn0-production-images-kly.akamaized.net/IHEGVo0bdDjq02JdmrAabHxZ7kQ=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3619432/original/032673600_1635753736-kompas-tv-a3cbc6.jpeg" group-title="Indonesia Channels",KOMPAS TV HD
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn0-production-images-kly.akamaized.net/IHEGVo0bdDjq02JdmrAabHxZ7kQ=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3619432/original/032673600_1635753736-kompas-tv-a3cbc6.jpeg" group-title="Indonesia Channels",KOMPAS TV (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
