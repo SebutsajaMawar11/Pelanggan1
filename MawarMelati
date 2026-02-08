@@ -707,6 +707,9 @@ http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 _____________🔴 VIDIO _______________
 
 ______________________________________________________________________________________________________
+
+
+
 INDOSIAR
 
 🔴🔴#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",INDOSIAR SPORT (A1)
@@ -762,6 +765,12 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 🔴#http://ktpremium.online:2095/live/kt1107/110753906/73617.ts
 🔴🔴#####http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 🔴🔴###https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/jembut-idsr.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://api.mynex.co.id/assets/article/20250906_044901.jpg" group-title="Indonesia Channels", BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+https://live1.pro2cdnlive.com/live/channel8.m3u8?wsSecret=f1c8225c81616337cd19b3e254333554&wsABSTime=1761424409
 
 
 
