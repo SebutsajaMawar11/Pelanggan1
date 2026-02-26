@@ -1504,13 +1504,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #EXTINF:-1 group-title="🔴 EVENT / PROLIGA" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/01/28/3580151178.jpg", EVENT VOLI (MOJI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://194.143.206.217:8070/F33848/cbd9779b/298550
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MojiPRO-Liga.m3u8
+#####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MojiPRO-Liga.m3u8
 #####http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
 
 
 
 #EXTINF:-1 group-title="🔴 EVENT / PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/e3QRvUirNjGDs9oZeF677uSAKmw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19176/moji-volley-cup-6f4ba7.jpg", VOLI - MOJI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
 http://filex.tv:8080//live/shafiq02/1234/302279.m3u8
 http://filex.tv:8080/uk007/000920/302279
