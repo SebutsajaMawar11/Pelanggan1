@@ -585,7 +585,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="Indonesia Channels", ANTV_FHD (SPORTS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
+#######https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
 ###https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=782&type=hls
 #######https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/antv-digital1.m3u8
 ######http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
@@ -699,7 +699,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6VrE_PMJy84/mqdefault.jpg" group-title="Indonesia Channels", iNEWS TV SPORTS (FHD)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
+#################
 
 
 
@@ -732,7 +732,7 @@ INDOSIAR
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+🔴🔴🔴🔴🔴🔴🔴🔴######https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 ______________________________________________________________________________________________________
 
@@ -754,7 +754,15 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia Channels", INDOSIAR _BOLA (LIVE)
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia Channels", INDOSIAR _LIVE 1 (FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar-EventOTT.m3u8
+######http://vipambataousam.top:8080/VIP013471753720461526/e91e807d3574/34327
+######http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34327
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia Channels", INDOSIAR _LIVE 2 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:network-caching=1000
@@ -775,12 +783,6 @@ http://iptvtree.net:8080/F33848/cbd9779b/162138
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 ######https://live1.pro2cdnlive.com/live/channel8.m3u8?wsSecret=f1c8225c81616337cd19b3e254333554&wsABSTime=1761424409
 
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia Channels", INDOSIAR _LIVE 2 (FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vipambataousam.top:8080/VIP013471753720461526/e91e807d3574/34327
-######http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34327
 
 
 _____________________________________________________________________________________________________________________
@@ -3846,6 +3848,7 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/uvkiqtz5axawskdvrq3
 
 #EXTINF:-1 tvg-logo="https://cdn.indosiar.com/tag/2025/07/13/140198/bri-super-league-202526-rev3.jpg" group-title="▶EVENT 1 / LIVE◀", INDOSIAR_SPORTS (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://vipambataousam.top:8080/VIP013471753720461526/e91e807d3574/34327
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar-EventOTT.m3u8
 #####https://live5.msrktz.app/live/43612277.m3u8
 #######https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/indosiar2.m3u8
