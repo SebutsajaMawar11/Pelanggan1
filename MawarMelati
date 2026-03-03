@@ -756,8 +756,8 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia Channels", INDOSIAR _LIVE 1 (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-IndosiarEVENT1.m3u8
-http://103.66.62.83:8000/play/a00o/58322646.m3u8
+####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-IndosiarEVENT1.m3u8
+####http://103.66.62.83:8000/play/a00o/58322646.m3u8
 http://103.66.62.83:8000/play/a00o/index.m3u8
 ####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar-EventOTT.m3u8
 ######http://vipambataousam.top:8080/VIP013471753720461526/e91e807d3574/34327
