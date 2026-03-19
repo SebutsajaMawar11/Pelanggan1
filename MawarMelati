@@ -1743,9 +1743,9 @@ TNT SPORT
 
 #EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-####https://raw.githubusercontent.com/Rajkumar184-cloud/Live-re/refs/heads/main/TNT%20SPORT%201.m3u8
-https://7pal.short.gy/tntspts1
-###https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
 
@@ -1760,25 +1760,26 @@ https://7pal.short.gy/tntspts1
 
 #EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TntSport2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
 
 
 #EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://7pal.short.gy/tntspts3
-#####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport3.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 
 
 #EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#####https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-####https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc_video_6_0_42046965.mp4?m=1760132750
-https://7pal.short.gy/tntspts4
-######http://31.43.191.73:8080/VIP013471753720461526/e91e807d3574/1710?token=TxBbUEFZGgNDAA0OAlRUW1VTCgNWAgZTVwECA1AKBgIBV1UBBVNeAFMbFRREQRFcVwtsWFNECwFWBlQaF00WBEZtWlUQCxoNUAgPAAIXTxtCD15UFVwAB1YFVgcEAVJSGBBDWFYTAhtVCw4GDxdPG1MeR1RFCFBcPlMBQFxbAEMOXEZdXh0aVg9mXVNaVA1dFFwRABVKE1kSR0YMW00JDRgQUVhGQ1lNBBsDFAUNUgwUShFSWBNfRBNORgwXcSFDGBBWSUZUVkoIVlcUDRcXShRKEVhEOUNVEkMWU1RVABMWCBEBEB0aVABBZlVYWw1cVRJaXlkVEwpDBkYaF1UKD11GXENtQVFdQwMbBQIEUQkUGw==
-#####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport4.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
 
@@ -2469,45 +2470,30 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_c
 
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://allinonereborn.online/mix.m3u8/live478.php?id=309615
-https://allinonereborn.online/mix.m3u8/live478.php?id=309615
-https://allinonereborn.online/mix.m3u8/live478.php?id=309615
-
+####https://raw.githubusercontent.com/Rajkumar184-cloud/Live-re/refs/heads/main/TNT%20SPORT%201.m3u8
+https://7pal.short.gy/tntspts1
+###https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport1.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://allinonereborn.online/mix.m3u8/live478.php?id=309616
-https://allinonereborn.online/mix.m3u8/live478.php?id=309616
-https://allinonereborn.online/mix.m3u8/live478.php?id=309616
-
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TntSport2.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://allinonereborn.online/mix.m3u8/live478.php?id=309617
-https://allinonereborn.online/mix.m3u8/live478.php?id=309617
-https://allinonereborn.online/mix.m3u8/live478.php?id=309617
+https://7pal.short.gy/tntspts3
+#####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport3.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://allinonereborn.online/mix.m3u8/live478.php?id=309618
-https://allinonereborn.online/mix.m3u8/live478.php?id=309618
-https://allinonereborn.online/mix.m3u8/live478.php?id=309618
+#####https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+####https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc_video_6_0_42046965.mp4?m=1760132750
+https://7pal.short.gy/tntspts4
+######http://31.43.191.73:8080/VIP013471753720461526/e91e807d3574/1710?token=TxBbUEFZGgNDAA0OAlRUW1VTCgNWAgZTVwECA1AKBgIBV1UBBVNeAFMbFRREQRFcVwtsWFNECwFWBlQaF00WBEZtWlUQCxoNUAgPAAIXTxtCD15UFVwAB1YFVgcEAVJSGBBDWFYTAhtVCw4GDxdPG1MeR1RFCFBcPlMBQFxbAEMOXEZdXh0aVg9mXVNaVA1dFFwRABVKE1kSR0YMW00JDRgQUVhGQ1lNBBsDFAUNUgwUShFSWBNfRBNORgwXcSFDGBBWSUZUVkoIVlcUDRcXShRKEVhEOUNVEkMWU1RVABMWCBEBEB0aVABBZlVYWw1cVRJaXlkVEwpDBkYaF1UKD11GXENtQVFdQwMbBQIEUQkUGw==
+#####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport4.m3u8
 
 
 ___________
