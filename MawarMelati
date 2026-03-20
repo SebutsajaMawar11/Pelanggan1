@@ -1948,18 +1948,14 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/
 --------------------------------
 bluesport
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/11/Blue_Sport_zitat-1.jpg", BLUE SPORT 01
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/11/Blue_Sport_zitat-1.jpg", BLUE SPORT 01⭐⭐⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/11/Blue_Sport_zitat-1.jpg", BLUE SPORT 02
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/11/Blue_Sport_zitat-1.jpg", BLUE SPORT 02⭐⭐⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
+
 
 
 __________
