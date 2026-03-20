@@ -2115,24 +2115,29 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 ___________
 tsntv
 
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 01⭐⭐⭐
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://stream.decentdoubts.net/805/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 02⭐⭐⭐
-
-
-
-#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 03⭐⭐⭐
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://stream.decentdoubts.net/806/index.m3u8
 
 
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://stream.decentdoubts.net/807/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 04⭐⭐⭐
+
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://stream.decentdoubts.net/808/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 05⭐⭐⭐
-
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://stream.decentdoubts.net/809/index.m3u8
 
 
 
