@@ -4641,6 +4641,13 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 
 
 
+#EXTINF:-1 tvg-logo="https://genz.id/wp-content/uploads/2025/09/Film-Tukar-Takdir-1.jpeg" group-title="▶VOD INDO◀", TUKAR TAKDIR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtukar-Takdir.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://posmerdeka.com/wp-content/uploads/2021/12/79e05236-ea7f-4a39-918e-a5ec9f4fc0bb.jpg" group-title="▶VOD INDO◀", SEPEDA PRESIDENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsepeda-President.m3u8
