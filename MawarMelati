@@ -4635,6 +4635,11 @@ https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjanganPanggil-MamaKafir.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/03/12/2976601761.jpg" group-title="▶VOD INDO◀", SI PALING AKTOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsiPaling-Aktor.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wR-25J0vzoc/hq720.jpg" group-title="▶VOD INDO◀", SETETES EMBUN CINTA NIYALA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
