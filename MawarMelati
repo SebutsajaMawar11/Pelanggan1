@@ -4779,7 +4779,8 @@ https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126285
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u7SRMGoJ9b9TsVtKm5WRvVz-bjo=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8865733/mendadak-dangdut_upload-979150.jpg" group-title="▶VOD INDO◀", MENDADAK DANGDUT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=125569
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmendadak-Dangdut.m3u8
+#######https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=125569
 ####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmendadakDangdut1.m3u8
 
 
