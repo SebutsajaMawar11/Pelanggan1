@@ -4661,6 +4661,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 
 
 
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2025/07/04/686726c786111-film-pengin-hijrah_665_374.jpg" group-title="▶VOD INDO◀", PENGIN HIJRAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpengin-Hijrah.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tuUSrwrP1yk/maxresdefault.jpg" group-title="▶VOD INDO◀", KARTU POS WINI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkartuPos-Wini.m3u8
