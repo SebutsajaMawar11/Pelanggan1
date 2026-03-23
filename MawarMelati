@@ -4695,6 +4695,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e1TEZc8cN8s/maxresdefault.jpg" group-title="▶VOD INDO◀", KELUARGA BESAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkeluarga-Besar.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tuUSrwrP1yk/maxresdefault.jpg" group-title="▶VOD INDO◀", KARTU POS WINI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkartuPos-Wini.m3u8
@@ -5264,6 +5270,13 @@ https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2025/09/26/47443-ilustrasi-film-kang-solah-from-kang-mak-x-nenek-gayung-suaracomema-rohimah.jpg" group-title="FILM HOROR", KANG SOLAH from KANG MAK - NENEK GAYUNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkangSolah-NenekGayung.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P54SMI7YBEc/maxresdefault.jpg" group-title="FILM HOROR", KROMOLEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkromo-leo.m3u8
+
 
 
 
