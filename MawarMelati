@@ -4604,6 +4604,7 @@ ________________________________________
 
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 -------------------------------------------
+HALLO:   " stoya00 "
 HALLO:   " AKMA . SERV00 .NET "
 HALLO:   " SKY TV "
 HALLO:   " TV GEULIS "
@@ -5270,6 +5271,12 @@ https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2025/09/26/47443-ilustrasi-film-kang-solah-from-kang-mak-x-nenek-gayung-suaracomema-rohimah.jpg" group-title="FILM HOROR", KANG SOLAH from KANG MAK - NENEK GAYUNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkangSolah-NenekGayung.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/10/22/52437-film-kuncen.jpg" group-title="FILM HOROR", KUNCEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkun-Cen.m3u8
 
 
 
