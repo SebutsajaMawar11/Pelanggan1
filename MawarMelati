@@ -4322,6 +4322,12 @@ https://live1.pro2cdnlive.com/live/channel54.flv?wsSecret=602366fc5c0343581a7175
 
 
 
+#EXTINF:-1  tvg-logo="https://imgcdn.femaledaily.com/2020/09/mulan-20201.png" group-title="📁 MOVIES - REQUEST", MULAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmulan.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://images.thedirect.com/media/article_full/avatar-3-fire-and-ash-gets-unsurprising-rating-ahead-of-2025-release_.jpg" group-title="📁 MOVIES - REQUEST", AVATAR - FIRE AND ASH (2025)⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 ####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDavatarFireAndAsh.m3u8
