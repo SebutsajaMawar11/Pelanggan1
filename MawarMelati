@@ -4347,6 +4347,13 @@ ________________________________________________________
 
 
 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="📁 MOVIES - REQUEST", INFO...!!!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
+
+
+
+
 
 
 #EXTINF:-1  tvg-logo="https://imgcdn.femaledaily.com/2020/09/mulan-20201.png" group-title="📁 MOVIES - REQUEST", MULAN
@@ -4568,6 +4575,7 @@ https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
+
 ##########EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 ############EXTINF:-1 type="" group-title="▶VOD ALL◀" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3Py1TT9hDyCcDV3N3ihh3HUGihz.jpg",The Mystery of the Silk
 ##########https://cloud.hownetwork.xyz/xxx/NhAsYygABDUnIw5hLFZ7LCodZD0sFRw5KyRaNSodJTArVTEnaBEWL288Hi0tHWRocE1kOSAbEy0dCSgoc1Jma3seKg/32/480.m3u8
@@ -4780,6 +4788,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FBd1zpjXQ3Q/maxresdefault.jpg" group-title="▶VOD INDO◀", HARTA, TAHTA, BORU NI RAJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDhartaTahtaBoruNi-Raja.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://abdipersadafm.co.id/wp-content/uploads/2023/06/8-JUNI-2023-3.jpg" group-title="▶VOD INDO◀", JENDELA SERIBU SUNGAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjendelaSeribu-Sungai.m3u8
@@ -4802,6 +4816,11 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlosmen-BuBroto.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lZOjybcuDi8/hq720.jpg" group-title="▶VOD INDO◀", SIAPA DIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsiapa-Dia.m3u8
 
 
 
