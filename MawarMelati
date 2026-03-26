@@ -4363,6 +4363,18 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
+#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Tzl0TD1kU3rQn1gjLfwUNA/1200x675.jpg" group-title="📁 MOVIES - REQUEST", NINE RING GOLDEN DAGGER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/NineRingGolden-Dagger.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://pic6.iqiyipic.com/image/20260205/b6/4f/v_192655384_m_601_en_1013_569.jpg" group-title="📁 MOVIES - REQUEST", ANECDOTES OF APE MONTAIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/AnecdotesOfApe-Mountain.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://beritanasional.com/storage/2025/11/sinopsis-hingga-jadwal-tayang-my-boo-2-simak-selengkapnya-12112025-222044.png" group-title="📁 MOVIES - REQUEST", MY BOO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/My-Boo2.m3u8
