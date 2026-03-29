@@ -2496,14 +2496,6 @@ https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-PFL-Tv.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1oSvmJIy33ViJs6NG4jSzHoyl_0EfxvZL63ZWBrPFhRrlBfWhqjZRMXoSQ2dKt7G9NShq5jaYnk=w299-h165-ns-nd-rj" group-title="SPORTS 2 HD", BELLATOR MMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://jmp2.uk/plu-62792f34f3aa05000728841e.m3u8
-######https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Bellator-mma.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2Rhgo-vYluFZ0W7Y8JTK1AN6x-N0LOrj_Htm6Af5Fr-XrVjok0qoWShPeEc9AoKgOgY&usqp=CAU" group-title="SPORTS 2 HD", UFA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_UnitedFightAlliance/playlist.m3u8
@@ -2530,6 +2522,11 @@ https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 ⭐⭐⭐#####https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1oSvmJIy33ViJs6NG4jSzHoyl_0EfxvZL63ZWBrPFhRrlBfWhqjZRMXoSQ2dKt7G9NShq5jaYnk=w299-h165-ns-nd-rj" group-title="SPORTS 2 HD", BELLATOR MMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://jmp2.uk/plu-62792f34f3aa05000728841e.m3u8
+######https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Bellator-mma.m3u8
 
 
 
