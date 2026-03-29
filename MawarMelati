@@ -2481,6 +2481,12 @@ https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MMA-Tv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2023/12/tna_xwu571fdt27817go9dm8yk8ol.jpeg" group-title="SPORTS 2 HD", TNA WRESTLING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Tna-WrestlingTv.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2Rhgo-vYluFZ0W7Y8JTK1AN6x-N0LOrj_Htm6Af5Fr-XrVjok0qoWShPeEc9AoKgOgY&usqp=CAU" group-title="SPORTS 2 HD", UFA TV
 #######https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 
