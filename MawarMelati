@@ -2469,13 +2469,6 @@ CAMPION
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
-#EXTINF:-1 tvg-logo="https://img2.hulu.com/user/v3/artwork/36cbc733-044f-4e94-a511-f4abbbc8c803?base_image_bucket_name=image_manager&base_image=13261923-7033-417c-bf73-c64e492cd830&size=600x338&format=webp" group-title="SPORTS 2 HD",MMA TV/PFL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
-#####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-PFL-Tv.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-ott/2419418/2a00000189f848b20a67c593a887a9b4ca75/764x430" group-title="SPORTS 2 HD", MMA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MMA-Tv.m3u8
@@ -2484,6 +2477,13 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2023/12/tna_xwu571fdt27817go9dm8yk8ol.jpeg" group-title="SPORTS 2 HD", TNA WRESTLING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Tna-WrestlingTv.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://img2.hulu.com/user/v3/artwork/36cbc733-044f-4e94-a511-f4abbbc8c803?base_image_bucket_name=image_manager&base_image=13261923-7033-417c-bf73-c64e492cd830&size=600x338&format=webp" group-title="SPORTS 2 HD",MMA TV/PFL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+#####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-PFL-Tv.m3u8
 
 
 
@@ -2506,28 +2506,28 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_c
 ___________
 digisport
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS 2 HD" , DIGI SPORT 1
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS 2 HD" , DIGI SPORT 1⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+#########https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
 
-#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS 2 HD" , DIGI SPORT 2
+#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS 2 HD" , DIGI SPORT 2⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+#######https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
 
-#EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS 2 HD" , DIGI SPORT 3
+#EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS 2 HD" , DIGI SPORT 3⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
+########https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
 
 
-#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS 2 HD" , DIGI SPORT 4
+#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS 2 HD" , DIGI SPORT 4⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+########https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 
 
 ____________
@@ -2556,38 +2556,36 @@ http://65.108.239.207/t4/index.m3u8
 ------------------
 hubsport
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.ytimg.com/vi/2pLVzvLfVQo/maxresdefault.jpg", HUB_SPORTS 1
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.ytimg.com/vi/2pLVzvLfVQo/maxresdefault.jpg", HUB_SPORTS 1⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/hub-sport1.m3u8
+##########https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/hub-sport1.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.vimeocdn.com/video/2065869551-a10b35c7e1255ea89bed6d0a56e4050f434b42d293f628b486d28740c4bda607-d?f=webp", HUB_SPORTS 2
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.vimeocdn.com/video/2065869551-a10b35c7e1255ea89bed6d0a56e4050f434b42d293f628b486d28740c4bda607-d?f=webp", HUB_SPORTS 2⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/hub-sport2.m3u8
+#######https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/hub-sport2.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.vimeocdn.com/video/2065870772-0780cc782fc50cc68844944b08344293df30afa35f3b8721a0941d56bf2a3743-d?f=webp", HUB_SPORTS 3
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.vimeocdn.com/video/2065870772-0780cc782fc50cc68844944b08344293df30afa35f3b8721a0941d56bf2a3743-d?f=webp", HUB_SPORTS 3⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/hub-sport3.m3u8
+#########https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/hub-sport3.m3u8
 
 
 -------
 starzplaysport
 
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/1200w/livechannels/STARZPLAYSPORTS01Y2025M/STARZPLAYSPORTS01Y2025M-landscape-poster-v1.jpg", group-title="SPORTS 2 HD", STARZPLAY SPORT 01
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/1200w/livechannels/STARZPLAYSPORTS01Y2025M/STARZPLAYSPORTS01Y2025M-landscape-poster-v1.jpg", group-title="SPORTS 2 HD", STARZPLAY SPORT 01⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://forip.in/live/uqywlyae2l/6hkmudi7zk/254310.ts
 
 
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/600w/livechannels/STARZPLAYSPORTS02Y2025M/STARZPLAYSPORTS02Y2025M-landscape-poster-v1.jpg", group-title="SPORTS 2 HD", STARZPLAY SPORT 02
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/600w/livechannels/STARZPLAYSPORTS02Y2025M/STARZPLAYSPORTS02Y2025M-landscape-poster-v1.jpg", group-title="SPORTS 2 HD", STARZPLAY SPORT 02⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://forip.in/live/uqywlyae2l/6hkmudi7zk/254309.ts
 
 
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/600w/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg", group-title="SPORTS 2 HD", STARZPLAY SPORT 03
+
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/600w/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-landscape-poster-v1.jpg", group-title="SPORTS 2 HD", STARZPLAY SPORT 03⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://forip.in/live/uqywlyae2l/6hkmudi7zk/252862.ts
 
 
 ---------
@@ -3091,83 +3089,6 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 
 #EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://iili.io/JpwCQ24.png" group-title="SPORTS 2 HD" , REDBULL TV ⭐⭐⭐
-
-
-======================
-champion
-
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=dash
-
-
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 1 (BACK UP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lwt5imYSHerJCDxgceftlfOw9D0P6JbVXQ&s" group-title="SPORTS 2 HD",CHAMPIONS TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=dash
-
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lwt5imYSHerJCDxgceftlfOw9D0P6JbVXQ&s" group-title="SPORTS 2 HD",CHAMPIONS TV 2 (BACK UP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n9PlqkddBSErYojBXYMIRmrnw7M=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6786&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6786&type=dash
-
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n9PlqkddBSErYojBXYMIRmrnw7M=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 3 (BACK UP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=dash
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS 2 HD",CHAMPIONS TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=dash
-
-================================================
-
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORTS 2 HD", Champions Golf 1 ⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORTS 2 HD", Champions Golf 2 ⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
 
 
 
