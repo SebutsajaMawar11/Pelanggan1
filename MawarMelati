@@ -2476,6 +2476,12 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-643f0ecd76de
 ####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/PFL-mma.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-ott/2419418/2a00000189f848b20a67c593a887a9b4ca75/764x430" group-title="SPORTS 2 HD", MMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MMA-Tv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2Rhgo-vYluFZ0W7Y8JTK1AN6x-N0LOrj_Htm6Af5Fr-XrVjok0qoWShPeEc9AoKgOgY&usqp=CAU" group-title="SPORTS 2 HD", UFA TV
 #######https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 
