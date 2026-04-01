@@ -5760,6 +5760,37 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
+#EXTINF:-1  tvg-logo="https://pic6.iqiyipic.com/image/20260327/22/6f/v_194295331_m_601_en_720_405.jpg" group-title="📁 MOVIES - REQUEST", SOUL GUIDING LANTERN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SoulGuiding-Lantern2.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/EUWPY2Rjgys/hq720.jpg" group-title="📁 MOVIES - REQUEST", HEART OF THE FUTURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/HeartOf-theFuture.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://www.laughingplace.com/uploads/media/2026/02/Ready-or-Not-2.png" group-title="📁 MOVIES - REQUEST", READY OR NOT - HERE I COME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ReadyOrNot-HereICome.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w780/dFzCGGhcMycxeE4s4r9KSzGfqjU.jpg" group-title="📁 MOVIES - REQUEST", SWORDS OF LEGENDS - HEART OF THE SWORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SwordsOfLegends-HeartOfTheSword.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://pic4.iqiyipic.com/image/20260318/6b/ae/v_194303191_m_601_en_m2_1013_569.jpg" group-title="📁 MOVIES - REQUEST", MISSION AGAINST DRUGS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/MissionAgainst-Drugs.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://pic4.iqiyipic.com/image/20260219/f7/4b/v_192979554_m_601_en_1080_608.jpg" group-title="📁 MOVIES - REQUEST", SPIDER FAIRY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Spider-Fairy.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Tzl0TD1kU3rQn1gjLfwUNA/1200x675.jpg" group-title="📁 MOVIES - REQUEST", NINE RING GOLDEN DAGGER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/NineRingGolden-Dagger.m3u8
