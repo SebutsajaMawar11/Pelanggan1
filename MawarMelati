@@ -2531,12 +2531,6 @@ https://jmp2.uk/plu-62792d003b8ddc000714f43a.m3u8
 ######https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Bellator-mma.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2023/04/MTRSPT1-1024x576.jpg" group-title="SPORTS 2 HD", MTRSPT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
-
-
 ___________
 digisport
 
@@ -2586,23 +2580,6 @@ http://65.108.239.207/t3/index.m3u8
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://65.108.239.207/t4/index.m3u8
-
---------------
-tv campur
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://pbs.twimg.com/media/Em_nqB8UUAAiubg.jpg", PAC12-INSIDER TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Pac12-Insider.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://d2779tscntxxsw.cloudfront.net/6125153b12367.png", FLO RACING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-FloRacing.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="XXXXXXXXXXXXXXXXXXX", XXXXXX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
 
 
 ------------------
@@ -2703,27 +2680,6 @@ arena sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
--------------------------
-eurosports
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2024/10/195-s.webp", Eurosport 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://db637ll7r1kva.cloudfront.net/app/uploads/2019/04/03130856/logo-eurosport-2-hd.jpg", Eurosport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-
 ------------------------------------
 
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtyn1nKAGQW9mn_1AuslGXZEXPb6f13bt0IQ&s", Auto Motor Sport HD⭐⭐⭐⭐
@@ -2767,68 +2723,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.pinimg.com/originals/39/74/70/3974702b32beb52a3b2b3b64de6ece51.png", Diema Sport HD⭐⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.pinimg.com/736x/63/f9/85/63f985173053067b5eac9b0e13c21575.jpg", Diema Sport 2 HD⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
--------------------------------------
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://media1.hu/wp-content/uploads/2020/01/sport-1-hd.jpg", Sport 1 HD⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://static.sweet.tv/images/cache/channel_banners/BDCQ4IAM/1861-sport-1-baltic.png", Sport 1 Baltic⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stv.ee/wp-content/uploads/2024/02/e8c3436bb0e3022880cac14b275a1f64e643e85b.png", Sport 2 Baltic⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0q6TC0RVukZvIfR3N3XlCSENMG-RmWRXEE1GE1_MrOrLBTs0AhNR0yNZwI81RwToVJSk&usqp=CAU", Sport 4⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/519-s.webp", Go3 Sport Open HD⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/519-s.webp", Go3 Sport 1 HD⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/519-s.webp", Go3 Sport 2 HD⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/519-s.webp", Go3 Sport 3 HD⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
---------------------------------------------
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://falcons.org.au/wp-content/uploads/2023/07/sportsmart-1-768x432.png", Sporsmart1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://65.108.239.207/smart1/index.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://falcons.org.au/wp-content/uploads/2023/07/sportsmart-1-768x432.png", Sporsmart2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://65.108.239.207/smart2/index.m3u8
-
-
---------------------------------------------
 
 ------------------------------
 alkas tv
@@ -3117,31 +3011,57 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JpjtKep.png" group-title="SPORTS 2 HD" , Peacock PL ⭐⭐⭐
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD"  tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",PeacockTV Premier League ⭐⭐⭐
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 1 ⭐⭐⭐
-
-
-
-
-
 #EXTINF:-1 tvg-id="here" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5DMwHRNTQiPCr3ZNskWVT3Mop4ReGdTB5w&s" group-title="SPORTS 2 HD" , Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
+--------------
+tv campur
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://pbs.twimg.com/media/Em_nqB8UUAAiubg.jpg", PAC12-INSIDER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Pac12-Insider.m3u8
 
 
-#EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://iili.io/JpwCQ24.png" group-title="SPORTS 2 HD" , REDBULL TV ⭐⭐⭐
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://d2779tscntxxsw.cloudfront.net/6125153b12367.png", FLO RACING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-FloRacing.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2023/04/MTRSPT1-1024x576.jpg" group-title="SPORTS 2 HD", MTRSPT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://falcons.org.au/wp-content/uploads/2023/07/sportsmart-1-768x432.png", Sporsmart1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/smart1/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://falcons.org.au/wp-content/uploads/2023/07/sportsmart-1-768x432.png", Sporsmart2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/smart2/index.m3u8
+
+
+-------------------------
+eurosports
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2024/10/195-s.webp", Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://db637ll7r1kva.cloudfront.net/app/uploads/2019/04/03130856/logo-eurosport-2-hd.jpg", Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
 
