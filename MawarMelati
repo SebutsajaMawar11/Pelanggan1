@@ -5778,6 +5778,13 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Sword
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/MissionAgainst-Drugs.m3u8
 
 
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/nUXhN1Zg7ho/hq720.jpg" group-title="📁 MOVIES - REQUEST", FALCON RISING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Falcon-Rising.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://pic4.iqiyipic.com/image/20260219/f7/4b/v_192979554_m_601_en_1080_608.jpg" group-title="📁 MOVIES - REQUEST", SPIDER FAIRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Spider-Fairy.m3u8
