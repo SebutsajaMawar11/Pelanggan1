@@ -5812,6 +5812,18 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SendH
 
 
 
+#EXTINF:-1  tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fc%2Fgracenote%2Fc83ab0fa1f52178b473134cf37c78693.jpg" group-title="📁 MOVIES - REQUEST", A GANGSTERS LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/AGangsters-Life.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://www.fadaatmedia.com/sites/default/files/styles/news_image_full_view_880x495/public/2025-08/TIFF%20Image_6%404x.png" group-title="📁 MOVIES - REQUEST", PALESTINE 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Palestine36.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://assets-in.bmscdn.com/discovery-catalog/events/et00424340-bnewxutpyx-landscape.jpg" group-title="📁 MOVIES - REQUEST", MARDAANI 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Mardaani3.m3u8
