@@ -753,6 +753,16 @@ ________________________________________________________________________________
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
+==============
+event
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19355&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" ch-number="2", Semen Padang FC vs PERSIB - BRI Super League
+https://archertv.my.id/event/index.mpd?id=19355&type=dash|User-Agent=VidioPlayer/6.31.6
+
+==============
+
 
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
@@ -761,10 +771,11 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 ####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-IndosiarEVENT1.m3u8
 ####http://103.66.62.83:8000/play/a00o/58322646.m3u8
-http://103.66.62.83:8000/play/a00o/index.m3u8
+🔴http://103.66.62.83:8000/play/a00o/index.m3u8
 ####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar-EventOTT.m3u8
 ######http://vipambataousam.top:8080/VIP013471753720461526/e91e807d3574/34327
 ######http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34327
+
 
 
 
@@ -774,7 +785,7 @@ http://103.66.62.83:8000/play/a00o/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-http://iptvtree.net:8080/F33848/cbd9779b/162138
+🔴http://iptvtree.net:8080/F33848/cbd9779b/162138
 ####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-IndosiarEvent2.m3u8
 #####https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
 #####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar-Event-Live.m3u8
