@@ -5825,10 +5825,31 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Skate
 
 
 
+#EXTINF:-1  tvg-logo="https://pic8.iqiyipic.com/image/20260330/6f/cf/v_196015943_m_601_zh-CN_m2_720_405.jpg" group-title="📁 MOVIES - REQUEST", CELESTIAL QUEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Celestial-Quest.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://assets-in.bmscdn.com/discovery-catalog/events/et00481597-qusclaslmu-landscape.jpg" group-title="📁 MOVIES - REQUEST", SEND HELP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SendHelp.m3u8
 
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/7tlybWsZjqs/hq720.jpg" group-title="📁 MOVIES - REQUEST", REFUGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Refuge.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/a91JhBuP674/hq720.jpg" group-title="📁 MOVIES - REQUEST", INSIDIOS TALES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Insidious-Tales.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://filmonizirani.net/wp-content/uploads/2026/02/Tenement.webp" group-title="📁 MOVIES - REQUEST", TENEMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Tenement.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fc%2Fgracenote%2Fc83ab0fa1f52178b473134cf37c78693.jpg" group-title="📁 MOVIES - REQUEST", A GANGSTERS LIFE
