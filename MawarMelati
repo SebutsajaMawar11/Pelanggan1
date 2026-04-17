@@ -3855,7 +3855,7 @@ ________________________________________________________________________________
 
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE 1 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3864,7 +3864,7 @@ ________________________________________________________________________________
 https://aspaltvpasti.top/11111/21178.mpd?exp=1776434520&uip=2a06%3A98c0%3A3600%3A%3A103&sign=bb0887dbfa926482ee13ce18d685a2ec043f4ebe0f561b802c8462c109edbeab
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE 2 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 2 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
