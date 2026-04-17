@@ -3873,6 +3873,18 @@ https://aspaltvpasti.top/11111/21178.mpd?exp=1776434520&uip=2a06%3A98c0%3A3600%3
 https://aspaltvpasti.top/11111/21178.mpd?dev_kaki_09&t=1776434520&uip=2a06%3A98c0%3A3600%3A%3A103&h=796788226299160677d0b2a7e391de8ab4b1dc2c2099b27f272816685f46df06
 
 
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg", LIVE 2A (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://livecdn.euw1-0005.jwplive.com//live/sites/fM9jRrkn/media/ptySF6DO/live.isml/live-video=6499968.m3u8
+
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg", LIVE 2B (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://livecdn.euw1-0005.jwplive.com//live/sites/fM9jRrkn/media/wmEsyCGx/live.isml/live-video=6499968.m3u8
+
+
+================================================
+
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://onestream.live/wp-content/uploads/2023/05/LiveStream-Sports-Events-Full-Guide.gif", LIVE A1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
