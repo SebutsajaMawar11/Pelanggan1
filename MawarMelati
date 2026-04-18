@@ -1850,21 +1850,23 @@ TNT SPORT
 #####https://pecdl1.streameasthd.net/tntsports/index.m3u8?token=5a8306348d09290613d356d21d6614e827d115b4-93-1776033845-1775979845
 
 
-#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 01⭐⭐⭐
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-######https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 02⭐⭐⭐
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-########https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 02⭐⭐⭐
@@ -1875,20 +1877,23 @@ TNT SPORT
 
 
 
-
-#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 03⭐⭐⭐
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-######https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 04⭐⭐⭐
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-######https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
 
