@@ -5975,9 +5975,17 @@ https://cdn.aceimg.com/95997cf91.mp4
 ######https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
 
 
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20250305/91/bf/v_180043359_m_601_en_1013_569.jpg" group-title="📁 MOVIES - REQUEST", TIGER SQUAD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TigerSquad.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d1bf33383cc8a1e467214b3e80d1d6154633bbb1bca1e59aa236196783ada187._SX1080_FMjpg_.jpg" group-title="📁 MOVIES - REQUEST", THE VOLUNTEERS - PEACE AT LAST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheVolunteers-PeaceAtLast.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://whentostream.com/wp-content/uploads/2026/04/Brothers-Under-Fire-Horizontal.jpeg" group-title="📁 MOVIES - REQUEST", BROTHER UNDER FIRE
@@ -6000,6 +6008,13 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Balli
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uSXacEXAaDEFMT0e07vfr4l4OJd.jpg" group-title="📁 MOVIES - REQUEST", LEGENDARY DIVINE KUNG FU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/LegendaryDivine-KungFu.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic9.iqiyipic.com/image/20230616/8d/7b/v_172887693_m_601_es-MX_720_405.jpg" group-title="📁 MOVIES - REQUEST",  THE YIN YANG - CROSSOVER MAN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheYinYang-CrossoverMan2.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-AKL03pmnqA/hq720.jpg" group-title="📁 MOVIES - REQUEST", PROTECTOR
