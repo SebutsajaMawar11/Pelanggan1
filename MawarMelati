@@ -845,20 +845,20 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 ==============
 event
 
-#####EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" ch-number="2", INDOSIAR (EVENT BOLA)
-######EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#####KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=205&type=drm
-#####https://archertv.my.id/event/index.mpd?id=205&type=dash
-
-
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" ch-number="2", INDOSIAR (EVENT BOLA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21165.drm?dev_kaki_09&t=1776612928&uip=2a06%3A98c0%3A3600%3A%3A103&h=822d487436fe075a0107abc1c4d9547a08292e54f4ec0ea04a55e5454022ee23
-https://ayo.maling.pl/video/id/21165.mpd?dev_kaki_09&t=1776612928&uip=2a06%3A98c0%3A3600%3A%3A103&h=822d487436fe075a0107abc1c4d9547a08292e54f4ec0ea04a55e5454022ee23
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=205&type=drm
+https://archertv.my.id/event/index.mpd?id=205&type=dash
+
+
+####EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" ch-number="2", INDOSIAR (EVENT BOLA)
+####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+####KODIPROP:inputstreamaddon=inputstream.adaptive
+####KODIPROP:inputstream.adaptive.manifest_type=dash
+####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+###KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21165.drm?dev_kaki_09&t=1776612928&uip=2a06%3A98c0%3A3600%3A%3A103&h=822d487436fe075a0107abc1c4d9547a08292e54f4ec0ea04a55e5454022ee23
+####https://ayo.maling.pl/video/id/21165.mpd?dev_kaki_09&t=1776612928&uip=2a06%3A98c0%3A3600%3A%3A103&h=822d487436fe075a0107abc1c4d9547a08292e54f4ec0ea04a55e5454022ee23
 
 
 
