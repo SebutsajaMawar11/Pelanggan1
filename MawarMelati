@@ -587,8 +587,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="Indonesia Channels", ANTV_FHD (SPORTS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
-http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
+###http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
+###http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
+
 #####http://103.66.62.83:8000/play/a00r/index.m3u8
 ####https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=782&type=hls
 ####https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/antv-digital1.m3u8
@@ -5959,6 +5960,34 @@ ________________________________________________________
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/95997cf91.mp4
 ######https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
+
+
+#EXTINF:-1 tvg-logo="https://whentostream.com/wp-content/uploads/2026/04/Brothers-Under-Fire-Horizontal.jpeg" group-title="📁 MOVIES - REQUEST", BROTHER UNDER FIRE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/BrothersUnder-Fire.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic4.iqiyipic.com/image/20260407/51/60/v_194818561_m_601_en_m1_720_405.jpg" group-title="📁 MOVIES - REQUEST", BLADE WARRIOR OF BLADE ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/BladeWarriorOfBlade-Action.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2026/04/Ballistic-2025-thriller-review.jpg" group-title="📁 MOVIES - REQUEST", BALLISTIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Ballistic.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uSXacEXAaDEFMT0e07vfr4l4OJd.jpg" group-title="📁 MOVIES - REQUEST", LEGENDARY DIVINE KUNG FU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/LegendaryDivine-KungFu.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-AKL03pmnqA/hq720.jpg" group-title="📁 MOVIES - REQUEST", PROTECTOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Protector.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nj6p2abJnQI/hq720.jpg" group-title="📁 MOVIES - REQUEST", VENGEANCE
