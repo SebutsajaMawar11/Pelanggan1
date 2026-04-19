@@ -4347,6 +4347,19 @@ https://cdn.aceimg.com/95997cf91.mp4
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtimur.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2025/12/06/32923-poster-film-wasiat-warisan-instagramcomfilm-wasiatwarisan.jpg" group-title="▶VOD INDO◀", WASIAT WARISAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwasiat-Warisan.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XO4l2zUeL84/maxresdefault.jpg" group-title="▶VOD INDO◀", MERTUA NGERI KALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmertuaNgeri-Kali.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0fchlmZwc4o5RO7B0fvaagCXGw0=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/12124/jadi-tuh-barang-fb3960.jpg" group-title="▶VOD INDO◀", JADI TUH BARANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjadiTuh-Barang.m3u8
@@ -5960,6 +5973,11 @@ ________________________________________________________
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/95997cf91.mp4
 ######https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d1bf33383cc8a1e467214b3e80d1d6154633bbb1bca1e59aa236196783ada187._SX1080_FMjpg_.jpg" group-title="📁 MOVIES - REQUEST", THE VOLUNTEERS - PEACE AT LAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheVolunteers-PeaceAtLast.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://whentostream.com/wp-content/uploads/2026/04/Brothers-Under-Fire-Horizontal.jpeg" group-title="📁 MOVIES - REQUEST", BROTHER UNDER FIRE
