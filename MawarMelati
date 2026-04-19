@@ -4093,8 +4093,8 @@ ________________________________________________________________________________
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/21178.drm?exp=1776434520&uip=2a06%3A98c0%3A3600%3A%3A103&sign=87f85278ed1a38a67457e9e8de8063fc7ef17b702ad10acbe3948172c86571ea
-https://aspaltvpasti.top/11111/21178.mpd?exp=1776434520&uip=2a06%3A98c0%3A3600%3A%3A103&sign=bb0887dbfa926482ee13ce18d685a2ec043f4ebe0f561b802c8462c109edbeab
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21178.drm?dev_kaki_09&t=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&h=409a0083207738749d90bfc6c4d43e4ac1835eb6f0d64fc35d0cb5c25485b9ea
+https://ayo.maling.pl/video/id/21178.mpd?dev_kaki_09&t=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&h=409a0083207738749d90bfc6c4d43e4ac1835eb6f0d64fc35d0cb5c25485b9ea
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 2 (TERSEDIA SAAT LIVE)
@@ -4102,30 +4102,27 @@ https://aspaltvpasti.top/11111/21178.mpd?exp=1776434520&uip=2a06%3A98c0%3A3600%3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/21178.drm?dev_kaki_09&t=1776434520&uip=2a06%3A98c0%3A3600%3A%3A103&h=796788226299160677d0b2a7e391de8ab4b1dc2c2099b27f272816685f46df06
-https://aspaltvpasti.top/11111/21178.mpd?dev_kaki_09&t=1776434520&uip=2a06%3A98c0%3A3600%3A%3A103&h=796788226299160677d0b2a7e391de8ab4b1dc2c2099b27f272816685f46df06
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21178.drm?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=69ee5bcbe0daad23b1554800c3fe53889d001232c698bef62590efe18976e440
+https://ayo.maling.pl/video/id/21178.mpd?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=df486e08e255296b4ced5fb8676415d1ca8d5b6cd98b0d3325354b8850e2d500
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 1A (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/20240.drm?dev_kaki_09&t=1776519313&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=8476ae57a60791cc6dca185adc10aaa9e442fb49c03ea32b6a6d81668ffa329c
-https://aspaltvpasti.top/11111/20240.mpd?dev_kaki_09&t=1776519313&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=8476ae57a60791cc6dca185adc10aaa9e442fb49c03ea32b6a6d81668ffa329c
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/20240.drm?dev_kaki_09&t=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&h=2215748d2335084bbd193e0df10541418508d41257dd958f3d329920c2ed3c57
+https://ayo.maling.pl/video/id/20240.mpd?dev_kaki_09&t=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&h=2215748d2335084bbd193e0df10541418508d41257dd958f3d329920c2ed3c57
+
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 1B (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20240.drm?dev_kaki_09&t=1776519313&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=8476ae57a60791cc6dca185adc10aaa9e442fb49c03ea32b6a6d81668ffa329c
-https://vid-zero-gelang.disini.workers.dev/20240.mpd?dev_kaki_09&t=1776519313&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=8476ae57a60791cc6dca185adc10aaa9e442fb49c03ea32b6a6d81668ffa329c
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/20240.drm?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=2df9efdb37963c4cf54a98b22284d6b5ae2d68eb252ae7c0cf9d81c361d63966
+https://ayo.maling.pl/video/id/20240.mpd?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=49f56cbdbffa249ed4f5b51b8191fb02472f75e3b84f2baff6e3db5ce63a707b
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg", LIVE 2A (TERSEDIA SAAT LIVE)
