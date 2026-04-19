@@ -3558,22 +3558,22 @@ http://iptvtree.net:8080/F33848/cbd9779b/162138
 http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN", BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN",🔵 BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/19354.drm?exp=1776438325&uip=2a06%3A98c0%3A3600%3A%3A103&sign=0b12fedb9219aa3bd33b38d0d6e9a80b9d336c64f38a314b3fc911fb2be239dd
-https://aspaltvpasti.top/11111/19354.mpd?exp=1776438325&uip=2a06%3A98c0%3A3600%3A%3A103&sign=837c626209ed25b8cea95a41d2765bc1046b1e408c492d74a22888ab583d7855
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19353.drm?dev_kaki_09&t=1776611696&uip=2a06%3A98c0%3A3600%3A%3A103&h=14432c4ead91cc5ae2f4401bf70bfec2510156a6c6c0e1da39019e19cf5c1bee
+https://ayo.maling.pl/video/id/19353.mpd?dev_kaki_09&t=1776611696&uip=2a06%3A98c0%3A3600%3A%3A103&h=14432c4ead91cc5ae2f4401bf70bfec2510156a6c6c0e1da39019e19cf5c1bee
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN", BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN",🔵 BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/19354.drm?dev_kaki_09&t=1776438325&uip=2a06%3A98c0%3A3600%3A%3A103&h=92269520ebe684c988f0f84a95577a50b36233e33eb1d7b272fd307fe45f8332
-https://aspaltvpasti.top/11111/19354.mpd?dev_kaki_09&t=1776438325&uip=2a06%3A98c0%3A3600%3A%3A103&h=92269520ebe684c988f0f84a95577a50b36233e33eb1d7b272fd307fe45f8332
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19353.drm?exp=1776611696&uip=2a06%3A98c0%3A3600%3A%3A103&sign=98dc564c14416391ae7f0518da6d89abe0c84160d173f7e4711607bed44d6bff
+https://ayo.maling.pl/video/id/19353.mpd?exp=1776611696&uip=2a06%3A98c0%3A3600%3A%3A103&sign=0295b18df4d3f0cc1109326c163d39950be0cce245863f02f71029cfdaf01137
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN", BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
