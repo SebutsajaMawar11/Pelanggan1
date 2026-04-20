@@ -3557,6 +3557,14 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 ======================================================================================================================
 =================================================BRI SUPER LEAGUE / PEGADAIAN=========================================
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN",🔴 BOLA BRI SUPER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Bri-Super2.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN", BOLA BRI SUPER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
