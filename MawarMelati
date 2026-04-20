@@ -3568,22 +3568,22 @@ http://iptvtree.net:8080/F33848/cbd9779b/162138
 http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN",🔴🔵 BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN",🔴🔵 BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19353.drm?dev_kaki_09&t=1776611696&uip=2a06%3A98c0%3A3600%3A%3A103&h=14432c4ead91cc5ae2f4401bf70bfec2510156a6c6c0e1da39019e19cf5c1bee
-https://ayo.maling.pl/video/id/19353.mpd?dev_kaki_09&t=1776611696&uip=2a06%3A98c0%3A3600%3A%3A103&h=14432c4ead91cc5ae2f4401bf70bfec2510156a6c6c0e1da39019e19cf5c1bee
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?dev_kaki_09&t=1776687915&uip=2a06%3A98c0%3A3600%3A%3A103&h=3e889c4f2137e268fe35f71621017a3ae06d2f6dbbad67e3ede8c396c055f618
+https://ayo.maling.pl/video/id/205.mpd?dev_kaki_09&t=1776687915&uip=2a06%3A98c0%3A3600%3A%3A103&h=3e889c4f2137e268fe35f71621017a3ae06d2f6dbbad67e3ede8c396c055f618
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN",🔴🔵 BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN",🔴🔵 BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19353.drm?exp=1776611696&uip=2a06%3A98c0%3A3600%3A%3A103&sign=98dc564c14416391ae7f0518da6d89abe0c84160d173f7e4711607bed44d6bff
-https://ayo.maling.pl/video/id/19353.mpd?exp=1776611696&uip=2a06%3A98c0%3A3600%3A%3A103&sign=0295b18df4d3f0cc1109326c163d39950be0cce245863f02f71029cfdaf01137
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?exp=1776687915&uip=2a06%3A98c0%3A3600%3A%3A103&sign=3a41369cf02d90a43c0395b276db365af0d2b06b928aec09f981d4a86b650e56
+https://ayo.maling.pl/video/id/205.mpd?exp=1776687915&uip=2a06%3A98c0%3A3600%3A%3A103&sign=c6474124be0a4655ef78f3b166bdb9a3f9a1bf92ec252865df04ee9fc935f714
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN", BOLA BRI SUPER LEAGUE (TERSEDIA SAAT LIVE)
