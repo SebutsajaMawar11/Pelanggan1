@@ -3852,81 +3852,6 @@ BWF
 -------------------------------------------------------
 
 
-SEA_GAMES
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH01)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-#https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH02) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-#https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH03)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-#https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH04)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH05)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
-https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/02/05/67a30a036b6f6-logo-baru-sea-games-2025-diresmikan-akhir-januari_1265_711.jpg", SEA GAMES (CH06)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
-https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
-
----------------------------------------------------
-
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT01)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
-
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT02)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
-
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT03)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
-
-#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://thethaiger.com/wp-content/uploads/2025/07/Cover-Picture-2025-07-23T103140.286.jpg", SEA GAMES (SPORT04)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
-
-
 ---------------------------------------------------
 
 __________
@@ -3937,22 +3862,8 @@ livolitv
 
 #EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROc5k5B3P79jFuziDQ5knSFGN02dItHBXBZQ&s", VOLI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
+#######http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
 #####https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/volitv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/SEA-V-League-menjadi-agenda-selanjutnya-t3etwtwww.jpg" group-title="▶EVENT 1 / LIVE◀", V-LEAGUE 1 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251225022F117
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/uvkiqtz5axawskdvrq3vbgee91rw60xfw3s9/480.stream/hdntl=exp=1767036799~acl=*%2fuvkiqtz5axawskdvrq3vbgee91rw60xfw3s9%2f*~data=hdntl~hmac=529340314c163d2b140a18e2eabdef566442b483b0ab83a4452b809776ed5078/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/SEA-V-League-menjadi-agenda-selanjutnya-t3etwtwww.jpg" group-title="▶EVENT 1 / LIVE◀", V-LEAGUE 2 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251225022F117
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/uvkiqtz5axawskdvrq3vbgee91rw60xfw3s9/480.stream/hdntl=exp=1767036799~acl=*%2fuvkiqtz5axawskdvrq3vbgee91rw60xfw3s9%2f*~data=hdntl~hmac=529340314c163d2b140a18e2eabdef566442b483b0ab83a4452b809776ed5078/480.stream_883536656_1767004725545_2512_0_1256.ts?bitrate=163184&filetype=.ts
 
 
 ===============================================
@@ -3979,15 +3890,12 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/uvkiqtz5axawskdvrq3
 
 #EXTINF:-1 tvg-logo="https://cdn.indosiar.com/tag/2025/07/13/140198/bri-super-league-202526-rev3.jpg" group-title="▶EVENT 1 / LIVE◀", INDOSIAR_SPORTS (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vipambataousam.top:8080/VIP013471753720461526/e91e807d3574/34327
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar-EventOTT.m3u8
-#####https://live5.msrktz.app/live/43612277.m3u8
-#######https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/indosiar2.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://api.mynex.co.id/assets/article/20250906_044901.jpg" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
+#####https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
 
 
 
@@ -4010,18 +3918,12 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/pontianak/foto/bank/images/live-sctv-liga-champions.jpg" group-title="▶EVENT 1 / LIVE◀", SCTV_SPORTS (FHD)
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:NO
-http://filex.me:8080//live/Qasim1990/1990qasim/302301.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="▶EVENT 1 / LIVE◀", RCTI_SPORTS HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
-http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34322
 ########https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
 
 
@@ -4097,6 +3999,20 @@ ________________________________________________________________________________
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 1 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D8KX4TZw/live.isml/.m3u8
+
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 2 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xuPJaDso/live.isml/.m3u8
+
+
+
+=========================================================================================================================
+
+
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -4134,16 +4050,6 @@ https://ayo.maling.pl/video/id/20240.mpd?dev_kaki_09&t=1776608896&uip=2a06%3A98c
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/20240.drm?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=2df9efdb37963c4cf54a98b22284d6b5ae2d68eb252ae7c0cf9d81c361d63966
 https://ayo.maling.pl/video/id/20240.mpd?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=49f56cbdbffa249ed4f5b51b8191fb02472f75e3b84f2baff6e3db5ce63a707b
 
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 1 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D8KX4TZw/live.isml/.m3u8
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 2 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xuPJaDso/live.isml/.m3u8
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 3 (TERSEDIA SAAT LIVE)
