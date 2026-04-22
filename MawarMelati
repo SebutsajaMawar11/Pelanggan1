@@ -3998,6 +3998,28 @@ ________________________________________________________________________________
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
+=========================================================
+TV_VOLLEY
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROc5k5B3P79jFuziDQ5knSFGN02dItHBXBZQ&s", LIVE VOLLEY 1 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/21178.drm?dev_kaki_09&t=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&h=346808ad45afa474a20f310751b10aac5ae6922932381e5266445f7ef38d5d2b
+https://maling.pl/21178.mpd?dev_kaki_09&t=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&h=346808ad45afa474a20f310751b10aac5ae6922932381e5266445f7ef38d5d2b
+
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROc5k5B3P79jFuziDQ5knSFGN02dItHBXBZQ&s", LIVE VOLLEY 2 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/21178.drm?exp=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&sign=a8c883769081ed201490db0d8d72477b38f4bebad4abec5ae067b3c03168235b
+https://aspaltvpasti.top/3TULAR/21178.mpd?exp=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&sign=25a189b6511b9c23df00a65a17c637b565d8b01010d13c84a556f5bad9e5e71a
+
+
+=========================================================
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
