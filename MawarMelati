@@ -4033,22 +4033,23 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xuPJaDso/live.is
 =========================================================================================================================
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA 01 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#EXTVLCOPT:@account=mawar_melati11
-https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/live-volley01.m3u8
 
-
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA 2 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20240.drm?exp=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&sign=73d649ab9c5df035f55059a207ba7811e5f9de6951daea239d3c701e55dec7ae
 https://aspaltvpasti.top/3TULAR/20240.mpd?exp=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&sign=0024f1e4789eb9ff3b0d5e3bc3197bdd76d5a03924df1f491fae7f79a6931796
+
+
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA 2 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+#EXTVLCOPT:@account=mawar_melati11
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/live-volley01.m3u8
+
 
 
 ============================================================================================================================
