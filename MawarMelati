@@ -4033,10 +4033,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xuPJaDso/live.is
 =========================================================================================================================
 
 
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA 01 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA_1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
-#EXTVLCOPT:@account=mawar_melati11
 https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/live-volley01.m3u8
 
 
