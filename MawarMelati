@@ -4022,6 +4022,15 @@ https://maling.pl/21178.mpd?dev_kaki_09&t=1776867264&uip=2a06%3A98c0%3A3600%3A%3
 https://aspaltvpasti.top/3TULAR/21178.mpd?exp=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&sign=25a189b6511b9c23df00a65a17c637b565d8b01010d13c84a556f5bad9e5e71a
 
 
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROc5k5B3P79jFuziDQ5knSFGN02dItHBXBZQ&s", LIVE VOLLEY 3 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiYWxsVXNlcnMiLCJjaWQiOiJsaXZlXzIxMTc4XzYwODA1NDU2YWM3YyIsInBvbGljeSI6IjVreGtTMkcrSGxIUm9hZ29QMGFOd2YxYll0MTBKZVlKMmhCVno3OGxkMmdCUHJBRWU5Z0NPb05ubXVJSWJGejB0aEp4WWtocmhTWXloSGpxS3Fsb29nQUcvcGg1MjM5OVhpQ2lpR3FxZ0lNeXUvNDlrRjBLVnU0bDRkLzNkWmEvIiwidGltZXN0YW1wIjoiMjAyNi0wNC0yNFQxMjo0NzoxNloiLCJoYXNoIjoidG5EcTAxOTBUZEt0U1d2dWZSRjMzMVRsYUJ0V0xJZTloM0RqbjhnQzlXZz0iLCJrZXlfcm90YXRpb24iOmZhbHNlLCJ2aWRpb19jb250ZW50X2lkIjoyMTE3OCwidmlkaW9fY29udGVudF90eXBlIjoiTGl2ZXN0cmVhbWluZyIsImlzX3ByZXZpZXciOmZhbHNlfQ%3D%3D
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21178/file/drm/dash/stream.mpd?hdnts=exp=1777035215~acl=/stream/21178/file/drm/dash/stream.mpd!/stream/21178/file/drm/dash/*/aac/*!/stream/21178/file/drm/dash/*/*-2160p/*!/stream/21178/file/drm/dash/*/*-1440p/*!/stream/21178/file/drm/dash/*/*-1080p/*!/stream/21178/file/drm/dash/*/*-720p/*!/stream/21178/file/drm/dash/*/*-480p/*!/stream/21178/file/drm/dash/*/*-360p/*~id=allUsers~hmac=eb7d809c499eabacab6f45007b61670bc356dbca72bfd74dd751f27a0f90ab36
+
+
 =========================================================
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 1 (TERSEDIA SAAT LIVE)
