@@ -7955,6 +7955,13 @@ https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21178/file
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiYWxsVXNlcnMiLCJjaWQiOiJsaXZlXzIxMTc4XzYwODA1NDU2YWM3YyIsInBvbGljeSI6IjVreGtTMkcrSGxIUm9hZ29QMGFOd2YxYll0MTBKZVlKMmhCVno3OGxkMmdCUHJBRWU5Z0NPb05ubXVJSWJGejB0aEp4WWtocmhTWXloSGpxS3Fsb29nQUcvcGg1MjM5OVhpQ2lpR3FxZ0lNeXUvNDlrRjBLVnU0bDRkLzNkWmEvIiwidGltZXN0YW1wIjoiMjAyNi0wNC0yNVQxMTo0Nzo0MVoiLCJoYXNoIjoiUzkrWjBHQlpadXQ3MDNLY3RabU4ramM5akY0c1Q1WHZVNmk4Mms3dnJpMD0iLCJrZXlfcm90YXRpb24iOmZhbHNlLCJ2aWRpb19jb250ZW50X2lkIjoyMTE3OCwidmlkaW9fY29udGVudF90eXBlIjoiTGl2ZXN0cmVhbWluZyIsImlzX3ByZXZpZXciOmZhbHNlfQ%3D%3D
+#KODIPROP:inputstream.adaptive.stream_headers=AKU=A
+#EXTINF:-1 tvg-id="1" group-title="TES 1",TES
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21178/file/drm/dash/stream.mpd?hdnts=exp=1777118457~acl=/stream/21178/file/drm/dash/stream.mpd!/stream/21178/file/drm/dash/*/aac/*!/stream/21178/file/drm/dash/*/*-2160p/*!/stream/21178/file/drm/dash/*/*-1440p/*!/stream/21178/file/drm/dash/*/*-1080p/*!/stream/21178/file/drm/dash/*/*-720p/*!/stream/21178/file/drm/dash/*/*-480p/*!/stream/21178/file/drm/dash/*/*-360p/*~id=allUsers~hmac=fcbe9c407f9e4745c072b2720e17a5cb628dd487f8b74b0f4a107db059e37678
+
+
 
 
 
