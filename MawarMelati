@@ -7964,6 +7964,31 @@ https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21178/file
 
 
 
+#EXTINF:-1 group-title="TESSSS" tvg-logo="XXXXXXX", tes 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1qq/1/205.drm
+https://bosstv.asia/1qq/1/205.mpd
+
+
+
+#EXTINF:-1 group-title="TESSSS" tvg-logo="XXXXXXX", tes 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
