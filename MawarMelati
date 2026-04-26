@@ -3746,6 +3746,12 @@ https://ayo.maling.pl/video/id/19542.mpd?exp=1776610741&uip=2a06%3A98c0%3A3600%3
 ====================================================================================================================
 ==========================================HYDROPLUS Soccer League U-18===============================================
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1JT0AvnUBDokG_4V-m_5zmXQsYQ=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/9341501/none-mude-vs-tangsel-women-full-match-hydroplus-soccer-league-2026-u-15-a6fd8d.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN", HYDROPLUS Soccer League U-18 A1 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/hidro-soccer1.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1JT0AvnUBDokG_4V-m_5zmXQsYQ=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/9341501/none-mude-vs-tangsel-women-full-match-hydroplus-soccer-league-2026-u-15-a6fd8d.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN", HYDROPLUS Soccer League U-18 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
