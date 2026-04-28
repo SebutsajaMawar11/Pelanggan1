@@ -4430,15 +4430,21 @@ https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/782
 
 
 
-#EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 1 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 01 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/21210/codec=h264/file/master.m3u8?hdnts=exp=1777372453~acl=/stream/21210/codec=h264/file/master.m3u8!/stream/21210/file/*/aac/*!/stream/21210/file/*/*-2160p/*!/stream/21210/file/*/*-1440p/*!/stream/21210/file/*/*-1080p/*!/stream/21210/file/*/*-720p/*!/stream/21210/file/*/*-480p/*!/stream/21210/file/*/*-360p/*~id=allUsers~hmac=8cbc1a6ac6fd2b023101fa4afd8286b73c09df8e8122794319fe8e0dcce2f25e
 
 
 
-#EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 2 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 02 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.vivo200.com/live/sd-24-5054206.m3u8?txSecret=1af860bf797dc578704f4e4e271ffa32&txTime=6978A8B5
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1/18249.drm?sign=101e124e
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18249/codec=h264/file/drm/dash/stream.mpd?hdnts=exp=1777372965~acl=/stream/18249/codec=h264/file/drm/dash/stream.mpd!/stream/18249/file/drm/dash/*/aac/*!/stream/18249/file/drm/dash/*/*-2160p/*!/stream/18249/file/drm/dash/*/*-1440p/*!/stream/18249/file/drm/dash/*/*-1080p/*!/stream/18249/file/drm/dash/*/*-720p/*!/stream/18249/file/drm/dash/*/*-480p/*!/stream/18249/file/drm/dash/*/*-360p/*~id=allUsers~hmac=7a1a6cabe8e2f36e1d7bc9d3cd2dde4cb88f158d60cfcfa47d033482fb560a5d
 
 
 
