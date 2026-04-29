@@ -4463,21 +4463,18 @@ https://live.alilicloud.com/live/b10b0ec310746c22d4fabb3b0f7201fb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 7 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel53.flv?wsSecret=5eb11bef890d1c34ab6fbb589b778425&amp;wsABSTime=1769534557
+https://live.alilicloud.com/live/ab5d47bdf2bfc10749bdbfb8ecd4d849/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 8 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel54.flv?wsSecret=602366fc5c0343581a71759ef579993d&amp;wsABSTime=1769534588
+https://live.alilicloud.com/live/54ec90698413ae554fa8f9e7c61b9ae6/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 9 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/5eca46d221fd09691799ea1af84551c0/playlist.m3u8
 
 
 
