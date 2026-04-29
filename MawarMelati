@@ -6179,10 +6179,6 @@ https://cdn.aceimg.com/95997cf91.mp4
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Rise-OfTheConqueror.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_GVXvvMQjkY/hq720.jpg" group-title="📁 MOVIES - REQUEST", IMMORTAL COMBAT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Immortal-Combat.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ts5tG-4I9DE/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", BAD MAN MUST BLEED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -6199,6 +6195,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Apex.
 #EXTINF:-1 tvg-logo="https://api.mtvuutiset.fi/graphql/caas/v1/media/9282252/data/f05d5f26df80a1e4300e12b5d9e92638/kullervon-tarina-kuva.jpg" group-title="📁 MOVIES - REQUEST", SON OF REVENGE - THE STORY OF KALEVALA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Son-OfRevengeTheStoryOfKalevala.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.indigofilm.it/wp-content/uploads/2025/10/primavera.jpg" group-title="📁 MOVIES - REQUEST", PRIMAVERA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Immortal-Combat.m3u8
 
 
 
