@@ -6169,6 +6169,34 @@ https://cdn.aceimg.com/95997cf91.mp4
 
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4cb7e8f44311ec64d5552a08371b2c6615dca0108a523665441c27f85a5f201a.jpg" group-title="📁 MOVIES - REQUEST", RISE OF THE CONQUEROR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Rise-OfTheConqueror.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_GVXvvMQjkY/hq720.jpg" group-title="📁 MOVIES - REQUEST", IMMORTAL COMBAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Immortal-Combat.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ts5tG-4I9DE/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", BAD MAN MUST BLEED
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Bad-MenMustBleed.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/txV4ybEHO_Q/hq720.jpg" group-title="📁 MOVIES - REQUEST", APEX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Apex.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://api.mtvuutiset.fi/graphql/caas/v1/media/9282252/data/f05d5f26df80a1e4300e12b5d9e92638/kullervon-tarina-kuva.jpg" group-title="📁 MOVIES - REQUEST", SON OF REVENGE - THE STORY OF KALEVALA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Son-OfRevengeTheStoryOfKalevala.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20250305/91/bf/v_180043359_m_601_en_1013_569.jpg" group-title="📁 MOVIES - REQUEST", TIGER SQUAD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TigerSquad.m3u8
