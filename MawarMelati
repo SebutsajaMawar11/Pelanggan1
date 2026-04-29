@@ -4445,32 +4445,19 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/138851_hd/index.m3u8?is_vip=false&
 https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=004f25334080826557ee46299df796ee&x-time=1777457940
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 4 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tfsw3gr5dgmttgha1hcto8yzdncbzfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel54.m3u8?wsSession=f8e2138942e400baa6facd6b-176949760121348&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
-
+https://live.alilicloud.com/live/2428c08cf61f7bd0ba82224b6c3002c7/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 5 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel52.flv?wsSecret=0731438c04a9d94d6fa5c3cc99028970&amp;wsABSTime=1769534616
+https://live.alilicloud.com/live/f501f66b3ed5888ccd219e5a00b77cf9/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 6 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel51.flv?wsSecret=b7ee3d3cb1917ad0c800e8b375881b5b&amp;wsABSTime=1769534492
+https://live.alilicloud.com/live/b10b0ec310746c22d4fabb3b0f7201fb/playlist.m3u8
 
 
 
