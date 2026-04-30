@@ -4434,39 +4434,40 @@ https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/782
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 01 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=531ab2f1300dbf53a0ee47015aab4159&x-time=1777541580
-https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Aston1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 02 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=733d714dbf088601c54fa4b4ebcd2a64&x-time=1777541580
-https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Aston2.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 03 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=004f25334080826557ee46299df796ee&x-time=1777457940
+https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=aa659f74093eefc85642a0dfb5bbac15&x-time=1777541580
+
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 4 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/2428c08cf61f7bd0ba82224b6c3002c7/playlist.m3u8
+https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=8bb53322175edcc91b30e1bfe8185d9e&x-time=1777541580
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 5 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/f501f66b3ed5888ccd219e5a00b77cf9/playlist.m3u8
+https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=f7203e3c68051c41db3bf96025375b55&x-time=1777541580
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 6 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/d0ab53d121455d4e25a9374b4b837c0b/playlist.m3u8
+https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=3a2f3d1024143f0ccfb87df3b9de528b&x-time=1777541580
 
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 7 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/ab5d47bdf2bfc10749bdbfb8ecd4d849/playlist.m3u8
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=ad9aa72d89173ec8a103baba71790d34&x-time=1777541580
 
 
 
