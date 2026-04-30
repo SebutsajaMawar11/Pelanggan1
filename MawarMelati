@@ -868,13 +868,13 @@ event
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Indonesia Channels", INDOSIAR _LIVE 1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Indonesia Channels", INDOSIAR _LIVE 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm
-https://maling.pl/19354.mpd
+🔴🔴🔴############https://maling.pl/19354.mpd
 
 
 
@@ -1286,7 +1286,7 @@ BRI SUPER LEAGUE
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 ##########https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar-EventOTT.m3u8
-https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
+http://103.148.44.38:8000/play/a05c/index.m3u8
 
 ===========================
 ===========================
