@@ -4475,8 +4475,7 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&tok
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 08 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://3010759504.global.cdnfastest.com/live/pro3/index.m3u8
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 09 (TERSEDIA SAAT LIVE)
