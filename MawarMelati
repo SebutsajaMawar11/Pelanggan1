@@ -4433,11 +4433,13 @@ https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/782
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 01 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=531ab2f1300dbf53a0ee47015aab4159&x-time=1777541580
 https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Aston1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 02 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=733d714dbf088601c54fa4b4ebcd2a64&x-time=1777541580
 https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Aston2.m3u8
 
 
