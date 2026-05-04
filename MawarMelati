@@ -7625,32 +7625,55 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://lintasgayo.co/wp-content/uploads/2017/04/rps20170421_013406_816.jpg" group-title="MUSIC", Musik Indonesia⭐⭐⭐
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#####https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="MUSIC", XXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="MUSIC", XXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="MUSIC", XXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="MUSIC", XXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="MUSIC", XXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="MUSIC", XXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="MUSIC", XXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="MUSIC", XXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+
+========================================================================================== 
+
 
 
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/5/19875.v12.png",BAHANA FM MUSIC
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvaeo_vWUDEUd0eGVEsxYuMUpA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg",CITRA DANGDUT
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvaeo_vWUDEUd0eGVEsxYuMUpA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg",CITRA DANGDUT FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
-
 
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nwEOUy-lkSLds4VpJE5zwbgKoNG-BuYmrOBwhsxerLdgjw0rsa6iLPf8n8QRhCdy2QE&usqp=CAU",IMTV
@@ -7665,33 +7688,8 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="MTV90s" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_banners/BDZAUIAM/1394-mtv-90.png" group-title="MUSIC",MTV 90's
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-
-
-
-#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/1446519160_00-artcard-mtvlivehd-november.jpg" group-title="MUSIC",MTV Live HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-
-
-
-
 #EXTINF: -1 tvg-logo="https://filtermusic.net/_astro/radios-live-radio_GWqp9.webp" group-title="MUSIC", IbizaTV
 https://wahyu1ptv.pages.dev/Ibiza.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://www.radioplayeruk.com/img/logs/freshdance.png" group-title="MUSIC", FreshDance
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxCG5y1nkFMxIWAKSRZSExmVe9INDp0yGZQ&s" group-title="MUSIC", MTV HITS HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 
 
@@ -7703,7 +7701,6 @@ https://live.24hrkpop.com/hls/3/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo-media.beatport.com/image_size/590x404/ece428f9-f4bb-4eae-b1d9-63865fab4e19.jpg" group-title="MUSIC", RELOAD MUSIC
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-
 
 
 
@@ -7724,22 +7721,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYpQoeuhRE83jJrGmAAWpqLhGVpMQ1Yp3fA&s", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ytimg.com/vi/cE1ONL8DyDU/hq720.jpg", NEW KPOP
-
-
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://m.media-amazon.com/images/I/91ccSv90GmS.png", DANCE TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/btxWKdCx2w0/hq720.jpg" group-title="MUSIC", K-ContentsVoyage
-
 
 
 #EXTINF: -1 tvg-logo="https://stat.ameba.jp/user_images/20220331/09/skz20000320hj/ef/ef/j/o1080060915095605874.jpg" group-title="MUSIC",K-PopShowChampion
@@ -8062,12 +8043,10 @@ https://bosstv.asia/1qq/1/205.mpd
 
 
 
-#EXTINF:-1 group-title="TESSSS" tvg-logo="XXXXXXX",mertua ngeri kaliiiiii🔴
+#EXTINF:-1 group-title="TES01" tvg-logo="XXXXXXX", TES YOUTUBE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://themoviebox.org/movies/
-#EXTVLCOPT:@account=mawar_melati11
-#####https://raw.githubusercontent.com/SebutsajaMawar11/tested1/refs/heads/main/tesABCD.m3u8
-
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCXWOf2fdWef8tbv1X27JHzw
+https://raw.githubusercontent.com/SebutsajaMawar11/tested1/refs/heads/main/tes001122.m3u8
 
 
 
