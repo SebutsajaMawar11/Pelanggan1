@@ -620,10 +620,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 ____________________________________________________________________________________
 🔴 SCTV
 
-#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png", SCTV_SPORT HD
+#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png", SCTV_SPORT FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#EXTVLCOPT:@account=mawar_melati11
+#EXTVLCOPT:http-referrer=https://github.com/SebutsajaMawar11
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-SctvEvent.m3u8
 
 
