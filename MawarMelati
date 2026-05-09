@@ -977,11 +977,7 @@ ______________________ MOJI LIVE ____________________________
 
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Indonesia Channels" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg",MOJI_SPORT (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cmtjPTE3NzgzMzE1MTcmZnZ0YT0zM3M4Nm8zMTU4bzg3MzM0bzNwODByNnE4cTM2MW9zODczOXA0cm8ybjVucjg2M241MTQ4NnNyMTg1bzg3Mm9ufDE3Nzg5MjU1MTc
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cmtjPTE3NzgzMzE1MTcmZnZ0YT02NDQ4c24yOThxM29vMDZxM3E4MDZuczJwNjAwMDc3MDE4ODMyMzZwbzE0MDRzOXI0OTZwNzQybjkwcnM5bjMxfDE3Nzg5MjU1MTc
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIxMzU1LnozaDg_cXJpX3hueHZfMDkmZz0xNzc4MzMxNTE3JnU9cjg3MDU1cjM1NTBwMjhwNTMyNjk5cDJwMHI0czkxbjdwcjg3cnMybzIybjVxcDRuOTgybjIybnA5MjFxNDZycHwxNzc4OTI1NTE3
 
 
 ######EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
