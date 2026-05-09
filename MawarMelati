@@ -976,10 +976,12 @@ ______________________ MOJI LIVE ____________________________
 
 
 #EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Indonesia Channels" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg",MOJI_SPORT (FHD)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-####http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-####http://103.66.62.83:8000/play/a00i/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cmtjPTE3NzgzMzE1MTcmZnZ0YT0zM3M4Nm8zMTU4bzg3MzM0bzNwODByNnE4cTM2MW9zODczOXA0cm8ybjVucjg2M241MTQ4NnNyMTg1bzg3Mm9ufDE3Nzg5MjU1MTc
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cmtjPTE3NzgzMzE1MTcmZnZ0YT02NDQ4c24yOThxM29vMDZxM3E4MDZuczJwNjAwMDc3MDE4ODMyMzZwbzE0MDRzOXI0OTZwNzQybjkwcnM5bjMxfDE3Nzg5MjU1MTc
 
 
 ######EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -3917,9 +3919,22 @@ livolitv
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT 1 / LIVE◀", MOJI_SPORTS (FHD)
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT 1 / LIVE◀", MOJI_SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cXJpX3hueHZfMDkmZz0xNzc4MzMxNTE3JnU9MzBzM3MwNG45NnE0MjE0cTI0MjBwOTIxczg1bjAxc283NjgyMTQ4NzBuNnJyNnJxc25vNG4wNm4wcjYxcDJucXwxNzc4OTI1NTE3
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzMxNTE3JnU9MzBzM3MwNG45NnE0MjE0cTI0MjBwOTIxczg1bjAxc283NjgyMTQ4NzBuNnJyNnJxc25vNG4wNm4wcjYxcDJucXwxNzc4OTI1NTE3
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT 1 / LIVE◀", MOJI_SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cmtjPTE3NzgzMzE1MTcmZnZ0YT0zM3M4Nm8zMTU4bzg3MzM0bzNwODByNnE4cTM2MW9zODczOXA0cm8ybjVucjg2M241MTQ4NnNyMTg1bzg3Mm9ufDE3Nzg5MjU1MTc
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cmtjPTE3NzgzMzE1MTcmZnZ0YT02NDQ4c24yOThxM29vMDZxM3E4MDZuczJwNjAwMDc3MDE4ODMyMzZwbzE0MDRzOXI0OTZwNzQybjkwcnM5bjMxfDE3Nzg5MjU1MTc
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT 1 / LIVE◀", MOJI TV VOLLY
