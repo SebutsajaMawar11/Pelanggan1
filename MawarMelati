@@ -3949,22 +3949,33 @@ http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel22.m3u8?wsSecret=7908ac240c224a7ab292ed78e3f396bd&wsABSTime=1767551485
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE5MzU0LnFlej9xcmlfeG54dl8wOSZnPTE3NzgzMzE1MTcmdT0yczMzNDc3cXAzcnNxbzZwN3JvNTg4NHFvODg3Mjk2cHA4OHI4MHA3MjhvbzkxMG9uNjk4OHI4M3E4b24xcTRyfDE3Nzg5MjU1MTc
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE5MzU0LnpjcT9xcmlfeG54dl8wOSZnPTE3NzgzMzE1MTcmdT0yczMzNDc3cXAzcnNxbzZwN3JvNTg4NHFvODg3Mjk2cHA4OHI4MHA3MjhvbzkxMG9uNjk4OHI4M3E4b24xcTRyfDE3Nzg5MjU1MTc
 
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/43612277.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE5MzU0LnFlej9ya2M9MTc3ODMzMTUxNyZmdnRhPTlycG41cXFwcjNvcm4xczVybzJvNTVucHFvbnNxOXA4MTVub3EzMW82bjFyMzRxMDA2NzI0MjhyNzQ0bzUwcHJ8MTc3ODkyNTUxNw
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE5MzU0LnpjcT9ya2M9MTc3ODMzMTUxNyZmdnRhPTRyOTQzOTNzcW82OTZuOTM0NzQ4NDZvbzYzNDYwcXE1bzhzNTkxMDg5MXAwcnA3czE0cDluMTgzbjdxNjVyOW98MTc3ODkyNTUxNw
 
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://c.beyye.shop/hls/FYYY.m3u8
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE5MzU0LnFlenwxNzc4OTI1NTE3
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE5MzU0LnpjcXwxNzc4OTI1NTE3
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 2 (TERSEDIA SAAT LIVE)
@@ -4447,30 +4458,34 @@ https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/782
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 01 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.rapidlive.shop/live/e3d7c3153c37a1c56974d80126bbaf4a/playlist.m3u8
-https://live.rapidlive.shop/live/589cfbafc0dea98700b344e94b56781f/playlist.m3u8
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=531ab2f1300dbf53a0ee47015aab4159&x-time=1777541580
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIxMjEwLnozaDg_cXJpX3hueHZfMDkmZz0xNzc4MzMxNTE3JnU9NDFwOXA1cjgwcTdxMjQzOTJvNXFuNDQ0Mjk3cnBucjZzMjIxODk3NHIzMDgwM29vNTM2NXE1MTdzcDgzMzZwM3wxNzc4OTI1NTE3
 
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 02 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.rapidlive.shop/live/59e5ecda8bbf6fb58b1038d8bc9b6927/playlist.m3u8
-https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=733d714dbf088601c54fa4b4ebcd2a64&x-time=1777541580
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIxMjEwLnFlej9xcmlfeG54dl8wOSZnPTE3NzgzMzE1MTcmdT00MXA5cDVyODBxN3EyNDM5Mm81cW40NDQyOTdycG5yNnMyMjE4OTc0cjMwODAzb281MzY1cTUxN3NwODMzNnAzfDE3Nzg5MjU1MTc
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIxMjEwLnpjcT9xcmlfeG54dl8wOSZnPTE3NzgzMzE1MTcmdT00MXA5cDVyODBxN3EyNDM5Mm81cW40NDQyOTdycG5yNnMyMjE4OTc0cjMwODAzb281MzY1cTUxN3NwODMzNnAzfDE3Nzg5MjU1MTc
 
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 03 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.rapidlive.shop/live/44818085788751e2ff015a523e655106/playlist.m3u8
-https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=aa659f74093eefc85642a0dfb5bbac15&x-time=1777541580
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIxMjEwLnozaDg_cmtjPTE3NzgzMzE1MTcmZnZ0YT0wb3E1MW5ucTNxODVxNTE4ODY1Njc2MG5xcDMzNTVvbzAwN3M0M3E1b3FuMXMxcTM3cm40cDAyNjIyMzZzNnE0fDE3Nzg5MjU1MTc
 
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 4 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.rapidlive.shop/live/3501bf31d0340543fca4d8e65f75bd9d/playlist.m3u8
-https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=8bb53322175edcc91b30e1bfe8185d9e&x-time=1777541580
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIxMjEwLnFlej9ya2M9MTc3ODMzMTUxNyZmdnRhPTQxNXEwcjE5OThyMTFzMTM1MG8xcDVuNzkwNG9uOW4zbnBuNnJvbjE5NjlucTM5bzIzNXAxNHByODM1N3I4MDl8MTc3ODkyNTUxNw
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIxMjEwLnpjcT9ya2M9MTc3ODMzMTUxNyZmdnRhPTBvcTUxbm5xM3E4NXE1MTg4NjU2NzYwbnFwMzM1NW9vMDA3czQzcTVvcW4xczFxMzdybjRwMDI2MjIzNnM2cTR8MTc3ODkyNTUxNw
+
 
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 5 (TERSEDIA SAAT LIVE)
