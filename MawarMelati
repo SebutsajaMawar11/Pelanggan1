@@ -411,81 +411,6 @@ https://cdn.aceimg.com/95997cf91.mp4
 ######https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
 
 
-----------------
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/guu2oZ315RM/maxresdefault.jpg" group-title="Indonesia Channels", 🔴 WOKO_24Jam (TES)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#####https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/tesWoko.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://e1.pxfuel.com/desktop-wallpaper/211/228/desktop-wallpaper-dj-logo-music-logo.jpg" group-title="Indonesia Channels", 🔴 TES STREAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#####https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/liveDangdut.m3u8
-
-
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="🔴🔴" group-title="Indonesia Channels",🔴 LIVE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-logo="🔴🔴" group-title="Indonesia Channels",🔴 LIVE
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fZNLMElKn7g/mqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zxoeLYbQpr4/mqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE 
-
-
-
-
-
-
-#EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE
-
-
-
-
-
-________________________________________________________________________________________
-
-
-
-==============================BRI SUPER LEAGUE====================================
-
-
-
-#EXTINF:-1 group-logo="" group-title="Indonesia Channels" tvg-logo="https://kuatbaca.com/_next/image?url=https%3A%2F%2Fkb-cdn.is3.cloudhost.id%2Fc71e4f450b6fa7f36d6c814f6184918b_ac001b1aba.jpg&w=3840&q=100", BRI SUPER LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-####https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-
-
-
-#EXTINF:-1 group-logo="" group-title="Indonesia Channels" tvg-logo="https://kuatbaca.com/_next/image?url=https%3A%2F%2Fkb-cdn.is3.cloudhost.id%2Fc71e4f450b6fa7f36d6c814f6184918b_ac001b1aba.jpg&w=3840&q=100", BRI SUPER LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#####https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-
-
-#EXTINF:-1 group-logo="" group-title="Indonesia Channels" tvg-logo="https://kuatbaca.com/_next/image?url=https%3A%2F%2Fkb-cdn.is3.cloudhost.id%2Fc71e4f450b6fa7f36d6c814f6184918b_ac001b1aba.jpg&w=3840&q=100", BRI SUPER LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#####https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-
-
 
 ===========================================================================================================================================================
 
@@ -553,18 +478,21 @@ ___________________________________________________________________
 
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="Indonesia Channels",TransTV HD
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/VHJhbnNUVg/manifest.mpd
 
 
 
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/522/59522-SNAPSHOT-m.png" group-title="Indonesia Channels",Trans7 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/VFJBTlM3LW15/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="Indonesia Channels",Trans7 HD+
