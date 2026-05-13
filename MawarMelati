@@ -6268,6 +6268,12 @@ https://cdn.aceimg.com/95997cf91.mp4
 
 
 
+#EXTINF:-1 tvg-logo="https://images.zoomnews.com/thumb/msid-153513807,width-1280,height-720,resizemode-75/153513807.jpg" group-title="📁 MOVIES - REQUEST", BORDER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Border-2.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://pic3.iqiyipic.com/image/20260428/7b/dd/v_196476597_m_601_en_m1_1080_608.jpg" group-title="📁 MOVIES - REQUEST", LEGEND OF THE CHANGBAI MOUNTAIN HUNTER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/LegendOfTheChangbaiMountain-Hunter2.m3u8
