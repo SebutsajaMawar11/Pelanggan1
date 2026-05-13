@@ -925,13 +925,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 ______________________ MOJI LIVE ____________________________
 
 
-#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Indonesia Channels" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg",MOJI_SPORT (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Indonesia Channels" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg",MOJI_SPORT VD (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cXJpX3hueHZfMDkmZz0xNzc4NjgzMzI1JnU9OG8yMjRycXNvNjI5ODNycHI1OTQ1NzM0cjdxb3BvODczMTcxc3A1OTIwcW83NDY3NW4zMzlvbzlzbnAxbnJzM3wxNzc5Mjc3MzI1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cXJpX3hueHZfMDkmZz0xNzc4NjgzMzI1JnU9OG8yMjRycXNvNjI5ODNycHI1OTQ1NzM0cjdxb3BvODczMTcxc3A1OTIwcW83NDY3NW4zMzlvbzlzbnAxbnJzM3wxNzc5Mjc3MzI1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzIxMjU0LnFlenwxNzc5Mjc3MzI1
+
 
 
 ######EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
