@@ -6239,6 +6239,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Legen
 
 
 
+#EXTINF:-1 tvg-logo="https://pic7.iqiyipic.com/image/20260324/3f/34/v_194639428_m_601_en_1080_608.jpg" group-title="📁 MOVIES - REQUEST", MULAN - LIGHT A FIRE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/MulanLight-Afire.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4cb7e8f44311ec64d5552a08371b2c6615dca0108a523665441c27f85a5f201a.jpg" group-title="📁 MOVIES - REQUEST", RISE OF THE CONQUEROR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Rise-OfTheConqueror.m3u8
