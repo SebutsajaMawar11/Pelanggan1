@@ -4600,6 +4600,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3zP_qB1uNqQ/hq720.jpg" group-title="▶VOD INDO◀", UANG PASSOLO - AMPLOP KONDANGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDuang-Passolo.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://wartabuana.com/wp-content/uploads/2025/12/TIMUR_POSTER_925X527_300ppi-scaled.jpg" group-title="▶VOD INDO◀", TIMUR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtimur01.m3u8
