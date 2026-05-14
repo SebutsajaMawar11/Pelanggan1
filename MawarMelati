@@ -3847,14 +3847,12 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 
 -------------------------------------------------------
-BWF
+ANTV SPORT
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon_2mfqMlEUpmtKoQI0xRX4bGIIqtIRrGiQ&s" group-title="▶EVENT 1 / LIVE◀", LIVE BWF 1 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="▶EVENT 1 / LIVE◀", ANTV - SPORT (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/cobaduarr.mpd?id=18249&type=drm
-#######https://vidd.semar.my.id/cobaduarr.mpd?id=18249&type=dash
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/AnTV-Bola.m3u8
+
 
 
 
