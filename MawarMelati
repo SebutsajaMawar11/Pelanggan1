@@ -2512,8 +2512,8 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
 
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="SPORTS", CHAMPIONS TV 5
