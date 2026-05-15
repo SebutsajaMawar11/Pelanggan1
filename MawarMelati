@@ -831,6 +831,7 @@ event
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Indonesia Channels", INDOSIAR _LIVE (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/SebutsajaMawar11
+http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 http://103.148.44.38:8000/play/a05c/index.m3u8
 ######https://live-prod-v1-biznet.streams.my.id/streams/indosiar/index.m3u8
 #######https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Bola-Indosiar1.m3u8
@@ -3572,13 +3573,7 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN", BOLA BRI SUPER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-             #####http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-######http://iptvtree.net:8080/F33848/cbd9779b/162138
-########http://202.169.224.202:8800/udp/239.9.1.25:1234
+http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 
 
 
@@ -3904,7 +3899,7 @@ livolitv
 
 #EXTINF:-1 tvg-logo="https://cdn.indosiar.com/tag/2025/07/13/140198/bri-super-league-202526-rev3.jpg" group-title="▶EVENT 1 / LIVE◀", INDOSIAR_SPORTS (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 
 
 #EXTINF:-1 tvg-logo="https://api.mynex.co.id/assets/article/20250906_044901.jpg" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 1
@@ -3963,11 +3958,7 @@ http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE5MzU0LnFlej9xcmlfeG54dl8wOSZnPTE3NzgzMzE1MTcmdT0yczMzNDc3cXAzcnNxbzZwN3JvNTg4NHFvODg3Mjk2cHA4OHI4MHA3MjhvbzkxMG9uNjk4OHI4M3E4b24xcTRyfDE3Nzg5MjU1MTc
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE5MzU0LnpjcT9xcmlfeG54dl8wOSZnPTE3NzgzMzE1MTcmdT0yczMzNDc3cXAzcnNxbzZwN3JvNTg4NHFvODg3Mjk2cHA4OHI4MHA3MjhvbzkxMG9uNjk4OHI4M3E4b24xcTRyfDE3Nzg5MjU1MTc
+http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 
 
 
