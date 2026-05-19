@@ -764,43 +764,24 @@ ________________________________________________________________________________
 
 INDOSIAR
 
-🔴🔴#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",INDOSIAR SPORT (A1)
-🔴🔴#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-🔴🔴#EXTVLCOPT:http-referrer=https://m.vidio.com
-🔴🔴#KODIPROP:inputstream.adaptive.license_type=clearkey
-🔴🔴#KODIPROP:inputstream.adaptive.license_key=fc5895799dc521e5d61ccedd4d4f1ebb:b5ecf7d95b70fbff640bf2124a63f2f3
-🔴🔴https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19679/file/drm/dash/stream.mpd?hdntl=exp=1763223390~acl=%2fstream%2f19679%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=193459917~data=hdntl~hmac=05d101d4e6e70e670f7d0220613faa450ade49c30b151d1b144a0605471f6ed5
-
-
-
-
-#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",INDOSIAR_SPORT (A1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-🔴🔴🔴🔴🔴🔴🔴🔴######https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 ______________________________________________________________________________________________________
 
 
 🔴INDOSIAR (NORMAL)
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia Channels",Indosiar  
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-###########https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpgg" group-title="Indonesia Channels", INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4f1a636b93240d88fa17c089a30db50:52d05ac325974bcd93966be2faf88f3a
+https://cdnjktbpid02.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SW5kb3NpYXI/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+#######https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 ==============
 event
