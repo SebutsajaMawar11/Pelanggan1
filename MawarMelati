@@ -6478,102 +6478,33 @@ https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApkt8KT6AC4W2FPqj8FNrtiMnoxHRCBnW8B90yCVoimNalodrsPFXxJCl&s=10" group-title="HBO / MOVIES",HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew07.php
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-########https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://i.ytimg.com/vi/L8ogLoq6UUY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6m0RSCviR-uijRKki7EAKnWbwlQ" group-title="HBO / MOVIES",HBO HITS
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew07.php
-######https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpdd
 
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png" group-title="HBO / MOVIES",HBO FAMILY
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew07.php
-#####https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/451090884-354f49183019612865ac36fdb5074309ad5fb3d1a88ef81b2b996fb56dd60562-d?f=webp" group-title="HBO / MOVIES",HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew07.php
-#####https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="HBO / MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop⭐⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-
-
-
-#EXTINF:-1 group-title="HBO / MOVIES" tvg-logo="https://i0.wp.com/tvchannelbranding.wordpress.com/wp-content/uploads/2016/03/flik_id_wip_08_cutstyle0-00-19-24.jpg?fit=1200%2C675&ssl=1", FLIK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-id="idh" tvg-logo="https://www.telkomsel.com/sites/default/files/thumbnails-video/images/2021-06/maxstream.png" group-title="HBO / MOVIES" , MAXTREAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-
-
-
-#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_psqdb637/landscape.png" group-title="HBO / MOVIES", ALL-PLAY ENT
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY66X5MohT8XvRcZ-zFEJOVoOVLeNpoTg2tA&s" group-title="HBO / MOVIES", DUNIA LAIN TV⭐⭐⭐⭐⭐
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1100px-AXN_Movies_logo.jpg" group-title="HBO / MOVIES", AXN
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 
 
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55fd8821e4b0e00d15c6fa0f/1442702516979-HZWON79STPXJ2QYRTZDL/06.jpg" group-title="HBO / MOVIES", CINEMAX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-######https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd|referrer=https://www.firstmedia.com
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+https://indihuy.streamized.net/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
 
 
 
