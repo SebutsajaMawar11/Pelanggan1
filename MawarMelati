@@ -6960,8 +6960,8 @@ https://flv.intechmedia.net/live/ch80.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BTMLA0PE2NQ/maxresdefault.jpg" group-title="KIDS", DISCOVER FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/subtitles.m3u8
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/30/f0/64/30f06464f59c7c1086b95c4b3577319d.jpg" group-title="KIDS", NICK JR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
