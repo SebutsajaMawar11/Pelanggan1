@@ -2946,24 +2946,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/defau
 
 
 ______________
-DAZN TV
-
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 01
 
 
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 02
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXX", group-title="SPORTS 2 FHD", XXXXXXXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
 
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 03
 
-
-
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 04
-
-
-
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS 2 FHD",DAZN 05
 
 
 
@@ -3198,7 +3188,7 @@ https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://unitedmedia.net/wp-content/uploads/2024/04/trace.jpg", group-title="SPORTS 2 FHD", TRACE SPORTS
+#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/cache/v2/channel_banner/CL8F/703-trace-sport-stars-hd.png", group-title="SPORTS 2 FHD", TRACE SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
