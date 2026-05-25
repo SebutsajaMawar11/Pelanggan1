@@ -1584,7 +1584,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://liveeu-gcps.alkassdigital.net/alkass6-p/main.m3u8?hdnts=exp=1779712772~hmac=8028c2b4d813d895dc8a6767c63c2c4be962d93a51b3233334d4319bbb65446b
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkassSport6.m3u8
+#####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkassSport6.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 7
