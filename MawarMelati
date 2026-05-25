@@ -1583,7 +1583,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://liveeu-gcps.alkassdigital.net/alkass6-p/main.m3u8?hdnts=exp=1779712772~hmac=8028c2b4d813d895dc8a6767c63c2c4be962d93a51b3233334d4319bbb65446b
+#####https://liveeu-gcps.alkassdigital.net/alkass6-p/main.m3u8?hdnts=exp=1779712772~hmac=8028c2b4d813d895dc8a6767c63c2c4be962d93a51b3233334d4319bbb65446b
 #####https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkassSport6.m3u8
 
 
@@ -1596,7 +1596,7 @@ https://liveeu-gcps.alkassdigital.net/alkass6-p/main.m3u8?hdnts=exp=1779712772~h
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass8vau/master.m3u8?hdnts=exp=1779713493~hmac=257efbf53d7d444bc0b34d8a1e63b1d2f150e4c74aab47d8f4f6935b2149e3e4
+####https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass8vau/master.m3u8?hdnts=exp=1779713493~hmac=257efbf53d7d444bc0b34d8a1e63b1d2f150e4c74aab47d8f4f6935b2149e3e4
 
 
 
@@ -1609,13 +1609,13 @@ https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass8vau/master.m3u8?hdn
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://thepeninsulaqatar.com/get/maximage/20221120_1668941709-282.jpg", ALKASS SHOOF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://liveeu-gcps.alkassdigital.net/shooflive/main.m3u8?hdnts=exp=1779712419~hmac=7796e824e72ab3bb232ddb8649a59712d1b9deca224fbbeea31a557b1e3f7a1f
+#####https://liveeu-gcps.alkassdigital.net/shooflive/main.m3u8?hdnts=exp=1779712419~hmac=7796e824e72ab3bb232ddb8649a59712d1b9deca224fbbeea31a557b1e3f7a1f
 
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.myportfolio.com/ef1b5e3ad25255a3737546a5b7273692/8fa409d7-7fab-4185-a2f5-fbd5ef11194e_rw_3840.jpg?h=8c9f465e76ab61cf6e34ed54a7b3b919", ALKASS SHOOF 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://liveeu-gcps.alkassdigital.net/shooflive2/main.m3u8?hdnts=exp=1779712458~hmac=c8301f87b5c11682639606c622e37b609f57b821745f89ebd0d61ca94724fb4c
+######https://liveeu-gcps.alkassdigital.net/shooflive2/main.m3u8?hdnts=exp=1779712458~hmac=c8301f87b5c11682639606c622e37b609f57b821745f89ebd0d61ca94724fb4c
 
 
 
