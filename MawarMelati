@@ -1409,7 +1409,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 ======================
 TNT SPORT
 
-#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 1
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083508-Photoroom%20(2).png" group-title="SPORTS",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
@@ -1417,7 +1417,7 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/clleki
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 02
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083509-Photoroom%20(1).png" group-title="SPORTS",TNT SPORTS 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1427,7 +1427,7 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 03
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083510-Photoroom%20(1).png" group-title="SPORTS",TNT SPORTS 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1437,7 +1437,7 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4912362.jpg" group-title="SPORTS",TNT SPORTS 04
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083511-Photoroom%20(1).png" group-title="SPORTS",TNT SPORTS 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
