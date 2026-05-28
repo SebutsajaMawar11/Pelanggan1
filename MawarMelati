@@ -2885,9 +2885,8 @@ https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 =========
 UEFA TV
 
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/025b-0f8e76d359fb-3d5a29cab80f-1000/uefa.tv.jpeg" group-title="SPORTS 2 FHD", UEFA TV
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/025b-0f8e76d359fb-3d5a29cab80f-1000/uefa.tv.jpeg" group-title="SPORTS 2 FHD", UEFA TV SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 https://sport-data-global.b-cdn.net/live/7d9c631f074196ce580fd681648f11a9/playlist.m3u8
 
 
@@ -4166,7 +4165,7 @@ https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/782
 
 #EXTINF:-1 tvg-logo="https://doondefencedreamers.com/wp-content/uploads/2025/11/National-International-Games-2026.jpg" group-title="▶EVENT 4 / LIVE◀",  LIVE 01 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779809395-0-0-58b22b91fa5204f7ce374b64e10c992c
+https://sport-data-global.b-cdn.net/live/8cda89cc0bb60b54d3645d49b47ae6dd/playlist.m3u8
 
 
 
