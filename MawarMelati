@@ -2974,14 +2974,24 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bcj
 
 
 ______________________
-ZIGO TV
+ONE TV
 
 
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportselect.png" group-title="SPORTS 2 FHD",Ziggo Sport ⭐⭐⭐
+#EXTINF:-1 tvg-logo="https://photo.one.co.il/Image/GG/7,1/1470337.webp" group-title="SPORTS 2 FHD", ONE 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"3f9bd29c066a700e8b282c4a9dccf8eb":"6e3314a39d06af5553a16b8550f0691e"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?indexMode&amp;dvr=7200000
 
 
 
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportvoetbal.png" group-title="SPORTS 2 FHD",Ziggo Sport 2 ⭐⭐⭐
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qjSSgko796O4vNvpaWRmR6PbGsfXRuHpewxP96nTD22x5riZ70Mo_My7-7VoQEZORsw=w3840-h2160-rw" group-title="SPORTS 2 FHD", ONE 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"6f09c99d572d9c6d4d616521ee785460":"12893b12e80c3c5dbaf6b4994c8432c0"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&amp;dvr=7200000
 
 
 
