@@ -602,7 +602,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b3840
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://i.ytimg.com/vi/HkWwrFkvYJU/maxresdefault.jpg", BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+https://flv.intechmedia.net/live/ch112.m3u8
+#http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ag3DlGE4zs35O8ozWQWV1XTunvA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" group-title="Indonesia Channels", Elshinta TV
