@@ -1884,33 +1884,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 ___________
 tsntv
 
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 01⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-######https://stream.decentdoubts.net/805/index.m3u8
-
-
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 02⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#####https://stream.decentdoubts.net/806/index.m3u8
-
-
-#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 03⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-######https://stream.decentdoubts.net/807/index.m3u8
-
-
-#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 04⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-######https://stream.decentdoubts.net/808/index.m3u8
-
-
-#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 05⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-######https://stream.decentdoubts.net/809/index.m3u8
-
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/fanart/9wma511726868598.jpg" group-title="SPORTS",TSN 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1945,7 +1918,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
-
 
 
 _______
