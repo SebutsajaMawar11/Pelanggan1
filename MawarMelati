@@ -2275,6 +2275,15 @@ https://jmp2.uk/plu-62792d003b8ddc000714f43a.m3u8
 ######https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Bellator-mma.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/fight_tv_960X540.jpg" group-title="SPORTS 2 HD", FIGHT_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/6a7346d1-e5e1-49c2-8e37-a615b4a09871/0.m3u8
+########https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8?hdnts=st%3D1769558008~exp%3D1769579608~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-FIGHT-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F70e45fc8-1f6c-4492-ac26-9868f70f4e02%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_68_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_68_-1~hmac%3D5b3e91a87146d945717d2e68736986e441208071d11b32a2aeccccc4f4333496
+
+
+
 ___________
 digisport
 
