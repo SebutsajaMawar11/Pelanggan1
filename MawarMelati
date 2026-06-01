@@ -2922,6 +2922,16 @@ UEFA TV
 ###########https://sport-data-global.b-cdn.net/live/7d9c631f074196ce580fd681648f11a9/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/434/rtvs-sport-1.jpg" group-title="SPORTS 2 FHD", RTVS_SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
+
+
 _________
 sport_tv
 
