@@ -3808,13 +3808,7 @@ AVC CHAMPIONSIP
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/x7rfrsfEzsV-dRZOrxQ67wRTk4Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21254/avc-men-s-champions-league-2026-14a56e.jpg", AVC Men's Champions League 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzIxMjU0LnFlenwxNzc5Mjc3MzI1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzIxMjU0LnpjcXwxNzc5Mjc3MzI1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6GfPRYVe/live.isml/.m3u8
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/x7rfrsfEzsV-dRZOrxQ67wRTk4Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21254/avc-men-s-champions-league-2026-14a56e.jpg", AVC Men's Champions League 2 (TERSEDIA SAAT LIVE)
