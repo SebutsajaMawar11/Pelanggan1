@@ -498,7 +498,7 @@ event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/SebutsajaMawar11
 http://103.148.44.38:8000/play/a05c/index.m3u8
-http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
+
 ######https://live-prod-v1-biznet.streams.my.id/streams/indosiar/index.m3u8
 #######https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Bola-Indosiar1.m3u8
 ########https://live.alilicloud.com/live/eb4427c132b1109816d4c4993d88e169/playlist.m3u8
@@ -513,6 +513,14 @@ http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 🔴#http://ktpremium.online:2095/live/kt1107/110753906/73617.ts
 🔴🔴#####http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 🔴🔴###https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/jembut-idsr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Indonesia Channels", INDOSIAR _LIVE (FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
+
+
+
 
 
 _____________________________________________________________________________________________________________________
