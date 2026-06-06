@@ -358,6 +358,8 @@ https://sport-data-global.b-cdn.net/live/6af1b45170768e083cd2024e05df0888/playli
 ###### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-SctvSport.m3u8
 
 
+#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdn0-production-images-kly.akamaized.net/o4vWrMrp4E65GHFCxa_AZuMnzwc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/48911/original/bola-130622b.jpg", SCTV_SPORT FHD
+http://opplextv.cyou:8080/nasir6160/nasir/351030
 
 ######EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 ####KODIPROP:mimetype=application/dash+xml
@@ -771,13 +773,15 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 
 #EXTINF:0 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="- INDONESIA  / VIP -",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/351030
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="- INDONESIA  / VIP -", INDOSIAR (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://103.148.44.38:8000/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="- INDONESIA  / VIP -", INDOSIAR (FHD)
 http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 
 
@@ -947,7 +951,7 @@ BRI SUPER LEAGUE
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZnaTFkZC5xbmZuZWpycXFoZi5qYmV4cmVmLnFyaS8yMDUuemNxfDE3Nzg0OTUyOTY
+http://103.148.44.38:8000/play/a05c/index.m3u8
 
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
@@ -3103,6 +3107,16 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
 
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_hdpi.webp", MAXSTREAM SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://tencent-pull.byteplaycdn.com/live/live5_1080p.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_hdpi.webp", MAXSTREAM SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
+
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
@@ -4075,13 +4089,16 @@ https://rumble.com/live-hls-dvr/78nvak/playlist.m3u8
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/x7rfrsfEzsV-dRZOrxQ67wRTk4Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21254/avc-men-s-champions-league-2026-14a56e.jpg", AVC Men's Champions League 2 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1nmvCqBl/live.isml/.m3u8
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=23178c3dd9f38a0b853cf5191c41666e&wsABSTime=1780617666
 
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/x7rfrsfEzsV-dRZOrxQ67wRTk4Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21254/avc-men-s-champions-league-2026-14a56e.jpg", AVC Men's Champions League 3 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly92YXYuem55dmF0LmN5L2lvZ2kvcXRlTGFVS3YuejNoOHwxNzc5MzQ5MzEw
+h#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=23178c3dd9f38a0b853cf5191c41666e&wsABSTime=1780617666
+
 
 
 
