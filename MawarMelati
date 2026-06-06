@@ -1958,21 +1958,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i
 
 
 =========
-ONE_SPORT (ISRAEL)
-
-#EXTINF:-1 tvg-logo="https://img.ice.co.il/giflib/news/rsPhoto/sz_192/rsz_615_346_logo_one_090818.jpg", group-title="SPORTS", ONE 1 - ISRAEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3f9bd29c066a700e8b282c4a9dccf8eb":"6e3314a39d06af5553a16b8550f0691e"}
-https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?indexMode&dvr=7200000
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZJr10gI1nBEPnFJBhma-D7uhQ_xpUQ05DU0nDQ94uYw&s=10", group-title="SPORTS", ONE 2 - ISRAEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"6f09c99d572d9c6d4d616521ee785460":"12893b12e80c3c5dbaf6b4994c8432c0"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&amp;dvr=7200000
 
 
 =========================
