@@ -351,17 +351,13 @@ ________________________________________________________________________________
 🔴 SCTV
 
 
-#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdn0-production-images-kly.akamaized.net/o4vWrMrp4E65GHFCxa_AZuMnzwc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/48911/original/bola-130622b.jpg", SCTV_SPORT FHD
+#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdn0-production-images-kly.akamaized.net/o4vWrMrp4E65GHFCxa_AZuMnzwc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/48911/original/bola-130622b.jpg", SCTV_SPORT 2 FHD
 http://opplextv.cyou:8080/nasir6160/nasir/351030
-
 
 
 #EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdn0-production-images-kly.akamaized.net/o4vWrMrp4E65GHFCxa_AZuMnzwc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/48911/original/bola-130622b.jpg", SCTV_SPORT FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
-
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-SctvSport.m3u8
 
 
 ###### https://sport-data-global.b-cdn.net/live/6af1b45170768e083cd2024e05df0888/playlist.m3u8
@@ -599,13 +595,6 @@ moji sport
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI_SPORT (FHD)
 http://opplextv.cyou:8080/nasir6160/nasir/350997
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI_SPORT (FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:network-caching=2000
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 ===============
 
@@ -1588,36 +1577,22 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpvsvlWBh4bsKoHtmU-ViQWVzPR00NK6LmkzPQ4M5EWipxBBFj9OR-R0U&s=10" group-title="AFF U-19 CHAMPIONS", INDOSIAR AFF-U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
+http://103.148.44.38:8000/play/a05c/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpvsvlWBh4bsKoHtmU-ViQWVzPR00NK6LmkzPQ4M5EWipxBBFj9OR-R0U&s=10" group-title="AFF U-19 CHAMPIONS", INDOSIAR AFF-U19
+http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/1/2026/06/01/timnas-indonesia-u19-akan-menghadapi-myanmar-u19-dalam-laga-pembuka-fase-grup-piala-aff-u19-2026-vidio-6wkEJ.webp" group-title="AFF U-19 CHAMPIONS", SCTV AFF-U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-https://tvratu.my.id/vid/index.mpd?id=204&type=dash
-https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
+http://opplextv.cyou:8080/nasir6160/nasir/351030
 
 
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/344356/logo_piala_aff_u19_2022-169.jpg" group-title="AFF U-19 CHAMPIONS", MOJI AFF-U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=206&type=drm
-https://tvratu.my.id/vid/index.mpd?id=206&type=dash
-https://ratu77.adptv.workers.dev/index.mpd?id=206&type=dash
+http://opplextv.cyou:8080/nasir6160/nasir/350997
 
 
 
