@@ -183,11 +183,15 @@ https://cdn.aceimg.com/6e11d212d.mp4
 
 
 #EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="Indonesia Channels",INFO...!!!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="Indonesia Channels", INFO...1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/95997cf91.mp4
 ######https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="Indonesia Channels", INFO...2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 ===========================================================================================================================================================
@@ -3702,6 +3706,13 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 =================================================BRI SUPER LEAGUE / PEGADAIAN=========================================
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN", INFO ...!!!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/vURpA40sj.mp4
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kUOaoJQrZAk/maxresdefault.jpg" group-title="🔴BRI SUPER LEAGUE-PEGADAIAN",🔴🔵 BOLA BRI SUPER LEAGUE (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://103.148.44.38:8000/play/a05c/index.m3u8
@@ -3942,6 +3953,14 @@ ________________________________________________________________________________
 ====================================▶EVENT 1 / LIVE◀====================================================
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="▶EVENT 1 / LIVE◀", INFO ...!!!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/vURpA40sj.mp4
+
+
 __________
 M LIVE 2
 
@@ -4168,6 +4187,12 @@ ________________________________________________________________________________
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="▶EVENT 2 / LIVE◀", INFO ...!!!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 AVC CHAMPIONSIP
@@ -4728,10 +4753,16 @@ ________________________________________________________
 --------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="▶VOD INDO◀", INFO...!!!
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="▶VOD INDO◀", INFO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/95997cf91.mp4
 #####https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="▶VOD INDO◀", INFO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 
@@ -5436,11 +5467,19 @@ ________________________________________________________
 
 ------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="FILM HOROR", INFO...!!!
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="FILM HOROR", INFO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/95997cf91.mp4
 ####https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="FILM HOROR", INFO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/vURpA40sj.mp4
+
+
+=======================
 
 
 #EXTINF:-1 tvg-logo="https://indonews.id/images/posts/1/2026/2026-01-25/e325c46475ec341f93bf83ded3b53058_1.jpg" group-title="FILM HOROR", SEBELUM DIJEMPUT NENEK
@@ -6240,11 +6279,19 @@ ________________________________________________________
 --------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="▶VOD SERIES◀", INFO...!!!
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="▶VOD SERIES◀", INFO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/95997cf91.mp4
 ######https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="▶VOD SERIES◀", INFO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/vURpA40sj.mp4
+
+
+===========================
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6sNON95_us8/hq720.jpg" group-title="▶VOD SERIES◀", MADE WITH LOVE (LUKA MAKAN CINTA) Eps 01
@@ -6450,10 +6497,19 @@ ________________________________________________________
 
 
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="📁 MOVIES - REQUEST", INFO...!!!
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="📁 MOVIES - REQUEST", INFO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/95997cf91.mp4
 ######https://github.com/Setangtengen/folder_anu/raw/refs/heads/main/infoMaszeehh.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="📁 MOVIES - REQUEST", INFO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/vURpA40sj.mp4
+
+
+==================================
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PP0zFlpPcg8/hq720.jpg" group-title="📁 MOVIES - REQUEST", DESERT WARRIOR
