@@ -4262,39 +4262,26 @@ TV_VOLLEY
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROc5k5B3P79jFuziDQ5knSFGN02dItHBXBZQ&s", LIVE VOLLEY 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/21178.drm?dev_kaki_09&t=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&h=346808ad45afa474a20f310751b10aac5ae6922932381e5266445f7ef38d5d2b
-https://maling.pl/21178.mpd?dev_kaki_09&t=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&h=346808ad45afa474a20f310751b10aac5ae6922932381e5266445f7ef38d5d2b
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROc5k5B3P79jFuziDQ5knSFGN02dItHBXBZQ&s", LIVE VOLLEY 2 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/21178.drm?exp=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&sign=a8c883769081ed201490db0d8d72477b38f4bebad4abec5ae067b3c03168235b
-https://aspaltvpasti.top/3TULAR/21178.mpd?exp=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&sign=25a189b6511b9c23df00a65a17c637b565d8b01010d13c84a556f5bad9e5e71a
-
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 =========================================================
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1nmvCqBl/live.isml/.m3u8
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 2 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 ######https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qN5iNpxi/live.isml/.m3u8
@@ -4305,35 +4292,23 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzIxMzU1LnozaDh8MTc3ODgzOTMwNQ
-
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA 2 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/20240.drm
-https://bostv.maling.pl/20240.mpd
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA 3 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20240.drm?exp=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&sign=73d649ab9c5df035f55059a207ba7811e5f9de6951daea239d3c701e55dec7ae
-https://aspaltvpasti.top/3TULAR/20240.mpd?exp=1776867264&uip=2a06%3A98c0%3A3600%3A%3A103&sign=0024f1e4789eb9ff3b0d5e3bc3197bdd76d5a03924df1f491fae7f79a6931796
-
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x600/webp/photo/p1/592/2025/12/08/Proliga-2026-2714115182.jpg", LIVE PROLIGA 4 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-#EXTVLCOPT:@account=mawar_melati11
-https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/live-volley01.m3u8
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 
@@ -4342,40 +4317,23 @@ https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/l
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21178.drm?dev_kaki_09&t=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&h=409a0083207738749d90bfc6c4d43e4ac1835eb6f0d64fc35d0cb5c25485b9ea
-https://ayo.maling.pl/video/id/21178.mpd?dev_kaki_09&t=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&h=409a0083207738749d90bfc6c4d43e4ac1835eb6f0d64fc35d0cb5c25485b9ea
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 2 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21178.drm?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=69ee5bcbe0daad23b1554800c3fe53889d001232c698bef62590efe18976e440
-https://ayo.maling.pl/video/id/21178.mpd?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=df486e08e255296b4ced5fb8676415d1ca8d5b6cd98b0d3325354b8850e2d500
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 1A (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/20240.drm?dev_kaki_09&t=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&h=2215748d2335084bbd193e0df10541418508d41257dd958f3d329920c2ed3c57
-https://ayo.maling.pl/video/id/20240.mpd?dev_kaki_09&t=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&h=2215748d2335084bbd193e0df10541418508d41257dd958f3d329920c2ed3c57
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/proliga_9d03c38.jpg", LIVE 1B (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/20240.drm?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=2df9efdb37963c4cf54a98b22284d6b5ae2d68eb252ae7c0cf9d81c361d63966
-https://ayo.maling.pl/video/id/20240.mpd?exp=1776608896&uip=2a06%3A98c0%3A3600%3A%3A103&sign=49f56cbdbffa249ed4f5b51b8191fb02472f75e3b84f2baff6e3db5ce63a707b
-
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 3 (TERSEDIA SAAT LIVE)
@@ -4393,7 +4351,7 @@ https://ayo.maling.pl/video/id/20240.mpd?exp=1776608896&uip=2a06%3A98c0%3A3600%3
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg",🔵 LIVE 2A (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ini.maling.pl/vbtv/YFcwb0wa.m3u8
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/eCda_XFeFo7qinY33SQpiSEB3fo=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35073/volleyball-world-club-champs-3fd84a.jpg", LIVE 2B (TERSEDIA SAAT LIVE)
