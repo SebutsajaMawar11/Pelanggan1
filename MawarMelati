@@ -4218,28 +4218,23 @@ AVC CHAMPIONSIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8ZOnaM4r/live.isml/.m3u8
 https://rumble.com/live-hls-dvr/78rlcg/playlist.m3u8
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/VDOGWxY7XMLm/2026/6/7/13_4_19/index.m3u8
 
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XZld06niSBi1a4UqvQ3WjL6nGyIdyWVpSw&s", VNL/CEV (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/UYr37lelJAE9/2026/6/7/13_7_27/index.m3u8
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/h7vcZqibhfR1/2026/6/7/13_7_31/index.m3u8
-
-
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8ZOnaM4r/live.isml/.m3u8
+https://rumble.com/live-hls-dvr/78rlcg/playlist.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g2L5IWdp/live.isml/.m3u8
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XZld06niSBi1a4UqvQ3WjL6nGyIdyWVpSw&s", VNL-CEV (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
-
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/ZQFTz1Ftrkbf/2026/6/7/12_19_42/index.m3u8
-https://rumble.com/live-hls-dvr/78r996/playlist.m3u8
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zKvRlKlx/live.isml/.m3u8
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vENgseQ3/live.isml/.m3u8
-
+=================================
+=================================
+AVC
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/x7rfrsfEzsV-dRZOrxQ67wRTk4Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21254/avc-men-s-champions-league-2026-14a56e.jpg", AVC Men's Champions League 2 (TERSEDIA SAAT LIVE)
