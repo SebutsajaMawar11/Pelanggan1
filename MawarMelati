@@ -1317,24 +1317,32 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 _____________________________________________
 
 #EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="FIFA WORLD CUP 2026",INFO...!!!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="FIFA WORLD CUP 2026",INFO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/95997cf91.mp4
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="FIFA WORLD CUP 2026", INFO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/vURpA40sj.mp4
 
-#EXTINF:-1 tvg-logo="https://www.thestatesman.com/wp-content/uploads/2026/06/fifa-wc_x-768x432.webp" group-title="FIFA WORLD CUP 2026", INFO 1 MASZEEEHHHH..!!!!
+
+==============================
+
+
+
+#EXTINF:-1 tvg-logo="https://www.thestatesman.com/wp-content/uploads/2026/06/fifa-wc_x-768x432.webp" group-title="FIFA WORLD CUP 2026", ROUND - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://nexusconnects.org:80/play/live.php?mac=00:1B:79:53:08:DB&stream=1745140&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23xGj1.img?w=768&h=432&m=6" group-title="FIFA WORLD CUP 2026", INFO 2
+#EXTINF:-1 tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23xGj1.img?w=768&h=432&m=6" group-title="FIFA WORLD CUP 2026", EVEN - SOON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:53:08:DB&stream=1745143&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3e0Aw4r6XiE/hq720.jpg" group-title="FIFA WORLD CUP 2026", INFO 3
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3e0Aw4r6XiE/hq720.jpg" group-title="FIFA WORLD CUP 2026", NEXT (GALERI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:53:08:DB&stream=1745141&extension=ts
 
