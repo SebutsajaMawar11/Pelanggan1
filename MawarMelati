@@ -8139,13 +8139,12 @@ ttp://154.222.16.140:5080/123.php?url=http://206.212.246.239/live/Cori/123456/22
 
 
 
-#EXTINF:-1 group-title="TES01" tvg-logo="XXXXXXX", TES bola 1
+#EXTINF:-1 group-title="TES01" tvg-logo="XXXXXXX", TNT 2222222
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/AnTV-Bola.m3u8
-https://raw.githubusercontent.com/SebutsajaMawar11/tested1/refs/heads/main/tesMDM.m3u8
-
-
-
+https://raw.githubusercontent.com/fikrikappa/LXNET/4cb3c5596bea0cf278194e0066029b258ab15c24/LIST/TNT1.m3u8
+https://raw.githubusercontent.com/fikrikappa/LXNET/4cb3c5596bea0cf278194e0066029b258ab15c24/LIST/TNT2.m3u8
+https://raw.githubusercontent.com/fikrikappa/LXNET/4cb3c5596bea0cf278194e0066029b258ab15c24/LIST/TNT3.m3u8
+https://raw.githubusercontent.com/fikrikappa/LXNET/4cb3c5596bea0cf278194e0066029b258ab15c24/LIST/TNT4.m3u8
 
 
 
