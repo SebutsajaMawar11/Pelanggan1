@@ -1549,6 +1549,7 @@ tvri sport id
 #EXTINF:-1 tvg-logo="https://raisely-images.imgix.net/uploads/ca-5-be-4-b-0-33-d-7-47-e-8-8-af-8-35-f-7-c-419-cbec-png-099577.png?fm=jpg" group-title="FIFA WORLD CUP 2026", PIALA DUNIA (TVRI SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Tvri-Sport.m3u8
+http://202.169.224.202:8800/udp/239.1.2.3:1234
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
