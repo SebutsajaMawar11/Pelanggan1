@@ -8064,31 +8064,58 @@ http://j.mp/2bFREcc
 
 
 
+============
+TES 1
 
-
-#EXTINF:-1 group-title="TES VD" tvg-logo="XXXXXXX", TNT
+#EXTINF:-1 group-title="TES 1" tvg-logo="XXXXXXX", TNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
+
+#EXTINF:-1 group-title="TES 1" tvg-logo="XXXXXXX", TNT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/89213
+
+#EXTINF:-1 group-title="TES 1" tvg-logo="XXXXXXX", TNT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/89212
+
+#EXTINF:-1 group-title="TES 1" tvg-logo="XXXXXXX", TNT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
+
+#EXTINF:-1 group-title="TES 1" tvg-logo="XXXXXXX", TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
+
+#EXTINF:-1 group-title="TES 1" tvg-logo="XXXXXXX", TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://154.222.16.140:5080/123.php?url=http://206.212.246.239/live/Cori/123456/224931.m3u8
 
+============
+TES 2
 
-
-#EXTINF:-1 group-title="TES01" tvg-logo="XXXXXXX", TNT 2222222
+#EXTINF:-1 group-title="TES 2" tvg-logo="XXXXXXX", TNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://raw.githubusercontent.com/fikrikappa/LXNET/4cb3c5596bea0cf278194e0066029b258ab15c24/LIST/TNT1.m3u8
+
+#EXTINF:-1 group-title="TES 2" tvg-logo="XXXXXXX", TNT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://raw.githubusercontent.com/fikrikappa/LXNET/4cb3c5596bea0cf278194e0066029b258ab15c24/LIST/TNT2.m3u8
+
+#EXTINF:-1 group-title="TES 2" tvg-logo="XXXXXXX", TNT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://raw.githubusercontent.com/fikrikappa/LXNET/4cb3c5596bea0cf278194e0066029b258ab15c24/LIST/TNT3.m3u8
+
+#EXTINF:-1 group-title="TES 2" tvg-logo="XXXXXXX", TNT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://raw.githubusercontent.com/fikrikappa/LXNET/4cb3c5596bea0cf278194e0066029b258ab15c24/LIST/TNT4.m3u8
 
 
 
-===================================
+===============
+TES 3
 
-#EXTINF:-1 group-title="TES01" tvg-logo="XXXXXXX", TNT 01
+#EXTINF:-1 group-title="TES 3" tvg-logo="XXXXXXX", TNT 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport1.m3u8
 
@@ -8108,16 +8135,26 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport4.m3u8
 
 
+
 ===========================================
 
-#EXTINF:-1 group-title="TES01" tvg-logo="XXXXXXX", TES YOUTUBE
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="YT-CONVERT" tvg-logo="XXXXXXX", TES YOUTUBE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCXWOf2fdWef8tbv1X27JHzw
 https://raw.githubusercontent.com/SebutsajaMawar11/tested1/refs/heads/main/tes001122.m3u8
-
-
-
-
 
 
 
