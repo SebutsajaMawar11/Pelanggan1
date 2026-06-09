@@ -184,7 +184,6 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3goeqb4ymdM6A5nYIpNR-SET7v8jiymzHhVC_qGp4pELzRrRW6J4CQc&s=10",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3goeqb4ymdM6A5nYIpNR-SET7v8jiymzHhVC_qGp4pELzRrRW6J4CQc&s=10" group-title="Indonesia Channels",LOWONGAN KERJA....!!!
-################# https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPjWNAGp7y1PsUy7bDvVzt7sRBl0ueOe4vtBL2Cf43hA5ELiT1RhmpvVBlT4obYN8NDde36Dm2EdlFuHknwBNw3QXmTEBCY8x3mPteidQ.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=SXo62oo0NeEQ7kNvwGQURbl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgwNzE5NzU5MDE1NTM1OSwidmlfdXNlY2FzZV9pZCI6MTAxMjEsImR1cmF0aW9uX3MiOjIyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeGUhqTJnXlna_d8PSK7U4397BywT1r8o9HsHLBPWvyj0ehKZVP3gaI8rNHpNxb7a0g13BgwPq-PqCjACKe69VZc&oh=00_AfQp1eCtKlxeEm3Um-_B6kUFEx3xqwD_Xob4o1ZG7KG_Mg&oe=6887D680
 
 
 ==================================================🔵SELAMAT DATANG==================================================
@@ -234,37 +233,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 
 
 
-#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
-______________________________________________
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zmUB2OxnmMk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBa1FbbyTm-9ZbqhHfOda4khPtcwQ" group-title="Indonesia Channels", MNC_SPORTS HD
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-🔴🔴🔴🔴🔴🔴https://liveplus.rctiplus.id/RTMP-IN.m3u8
-
-
-=============================================
-rcti event (bola) tersedia saat live
-
-#######EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/514/59514-SNAPSHOT-m.png" group-title="Indonesia Channels",RCTI HD (LIVE BOLA)
-########EXT-X-VERSION:3
-########EXT-X-MEDIA-SEQUENCE:0
-########EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-########KODIPROP:inputstream=inputstream.ffmpegdirect
-########KODIPROP:mimetype=video/mp2t
-########KODIPROP:inputstream.ffmpegdirect.program_number=350997
-########KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-########EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-####### https://liveplus.rctiplus.id/rcti2023.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/514/59514-SNAPSHOT-m.png" group-title="Indonesia Channels",RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -274,14 +242,6 @@ rcti event (bola) tersedia saat live
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 =============================================
-
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="Indonesia Channels", RCTI _ SPORT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#### https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
@@ -559,8 +519,10 @@ ________________________________________________________________________________
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg", group-title="Indonesia Channels", SIN PO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://ratu77.adptv.workers.dev/index.mpd?id=19046&type=dash|User-Agent=VidioPlayer/6.31.6
+##### https://ratu77.adptv.workers.dev/index.mpd?id=19046&type=dash|User-Agent=VidioPlayer/6.31.6
 
 
 
