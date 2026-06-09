@@ -204,14 +204,15 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 
 
-#EXTINF:-1 tvg-logo="https://wartagarut.com/wp-content/uploads/2026/06/INDONESIA-VS-MOZAMBIK-700x370.jpg" group-title="🔴LIVE TIMNAS DAY", INDONESIA VS MOZAMBIK - SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-SctvSport.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://wartagarut.com/wp-content/uploads/2026/06/INDONESIA-VS-MOZAMBIK-700x370.jpg" group-title="🔴LIVE TIMNAS DAY", INDONESIA VS MOZAMBIK - SCTV
 http://opplextv.cyou:8080/nasir6160/nasir/351030
 
+
+
+#EXTINF:-1 tvg-logo="https://wartagarut.com/wp-content/uploads/2026/06/INDONESIA-VS-MOZAMBIK-700x370.jpg" group-title="🔴LIVE TIMNAS DAY", INDONESIA VS MOZAMBIK - SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-SctvSport.m3u8
 
 
 
