@@ -6646,6 +6646,29 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 ==================================
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pgIWUXtxauU/hq720.jpg" group-title="📁 MOVIES - REQUEST", BLADES OF THE GUARDIANS - WIND RISES IN THE DESERT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/BladesOfThe-Guardians.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://horrorbrains.com/wp-content/uploads/2025/12/Iron-Lung-2026-Horror-Movvie-Image-2.jpg" group-title="📁 MOVIES - REQUEST", IRON LUNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Iron-Lung.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZItarm43sDA/hq720.jpg" group-title="📁 MOVIES - REQUEST", SEVEN SNIPERS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Seven-Snipers.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/1*MnS18lC2aHzpKpbQDR60Jw.jpeg" group-title="📁 MOVIES - REQUEST", IKKIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Ikkis.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PP0zFlpPcg8/hq720.jpg" group-title="📁 MOVIES - REQUEST", DESERT WARRIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
