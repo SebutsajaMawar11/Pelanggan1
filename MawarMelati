@@ -1964,32 +1964,44 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 ======================
 TNT SPORT
 
-#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083508-Photoroom%20(2).png" group-title="SPORTS",TNT SPORTS 1 (FHD)
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083508-Photoroom%20(2).png" group-title="SPORTS",TNT SPORTS 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport1.m3u8
-#### https: //cdn.aceimg.com/tAAiNe1pP.mp4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
 
 
 
 
-#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083509-Photoroom%20(1).png" group-title="SPORTS",TNT SPORTS 02 (FHD)
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083509-Photoroom%20(1).png" group-title="SPORTS",TNT SPORTS 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport2.m3u8
-##### https: //cdn.aceimg.com/tAAiNe1pP.mp4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083510-Photoroom%20(1).png" group-title="SPORTS",TNT SPORTS 03 (FHD)
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083510-Photoroom%20(1).png" group-title="SPORTS",TNT SPORTS 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport3.m3u8
-###### https: //cdn.aceimg.com/tAAiNe1pP.mp4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083511-Photoroom%20(1).png" group-title="SPORTS",TNT SPORTS 04 (FHD)
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083511-Photoroom%20(1).png" group-title="SPORTS",TNT SPORTS 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport4.m3u8
-#### https: //cdn.aceimg.com/tAAiNe1pP.mp4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
 
 
 -----------------
@@ -3486,7 +3498,39 @@ https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 
-=========
+
+======================
+TNT SPORT
+
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083508-Photoroom%20(2).png" group-title="SPORTS 2 FHD",TNT SPORTS 1 (FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport1.m3u8
+#### https: //cdn.aceimg.com/tAAiNe1pP.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083509-Photoroom%20(1).png" group-title="SPORTS 2 FHD",TNT SPORTS 02 (FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport2.m3u8
+##### https: //cdn.aceimg.com/tAAiNe1pP.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083510-Photoroom%20(1).png" group-title="SPORTS 2 FHD",TNT SPORTS 03 (FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport3.m3u8
+###### https: //cdn.aceimg.com/tAAiNe1pP.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083511-Photoroom%20(1).png" group-title="SPORTS 2 FHD",TNT SPORTS 04 (FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport4.m3u8
+#### https: //cdn.aceimg.com/tAAiNe1pP.mp4
+
+
+================
 UEFA TV
 
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/025b-0f8e76d359fb-3d5a29cab80f-1000/uefa.tv.jpeg" group-title="SPORTS 2 FHD", UEFA TV SPORT⭐⭐⭐⭐⭐
