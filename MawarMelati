@@ -916,10 +916,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -", MOJI 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=206&type=dash
+
 
 
 =============================================
@@ -4299,21 +4296,11 @@ http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT 1 / LIVE◀", MOJI_SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cXJpX3hueHZfMDkmZz0xNzc4MzMxNTE3JnU9MzBzM3MwNG45NnE0MjE0cTI0MjBwOTIxczg1bjAxc283NjgyMTQ4NzBuNnJyNnJxc25vNG4wNm4wcjYxcDJucXwxNzc4OTI1NTE3
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzMxNTE3JnU9MzBzM3MwNG45NnE0MjE0cTI0MjBwOTIxczg1bjAxc283NjgyMTQ4NzBuNnJyNnJxc25vNG4wNm4wcjYxcDJucXwxNzc4OTI1NTE3
+http://opplextv.cyou:8080/nasir6160/nasir/350997
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT 1 / LIVE◀", MOJI_SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cmtjPTE3NzgzMzE1MTcmZnZ0YT0zM3M4Nm8zMTU4bzg3MzM0bzNwODByNnE4cTM2MW9zODczOXA0cm8ybjVucjg2M241MTQ4NnNyMTg1bzg3Mm9ufDE3Nzg5MjU1MTc
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cmtjPTE3NzgzMzE1MTcmZnZ0YT02NDQ4c24yOThxM29vMDZxM3E4MDZuczJwNjAwMDc3MDE4ODMyMzZwbzE0MDRzOXI0OTZwNzQybjkwcnM5bjMxfDE3Nzg5MjU1MTc
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="▶EVENT 1 / LIVE◀", MOJI TV VOLLY
@@ -4329,48 +4316,33 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="▶EVENT 1 / LIVE◀", RCTI_SPORTS HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
-########https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6VrE_PMJy84/mqdefault.jpg" group-title="▶EVENT 1 / LIVE◀", iNEWS TV SPORTS HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE5MzU0LnFlej9ya2M9MTc3ODMzMTUxNyZmdnRhPTlycG41cXFwcjNvcm4xczVybzJvNTVucHFvbnNxOXA4MTVub3EzMW82bjFyMzRxMDA2NzI0MjhyNzQ0bzUwcHJ8MTc3ODkyNTUxNw
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE5MzU0LnpjcT9ya2M9MTc3ODMzMTUxNyZmdnRhPTRyOTQzOTNzcW82OTZuOTM0NzQ4NDZvbzYzNDYwcXE1bzhzNTkxMDg5MXAwcnA3czE0cDluMTgzbjdxNjVyOW98MTc3ODkyNTUxNw
 
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 1 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE5MzU0LnFlenwxNzc4OTI1NTE3
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzE5MzU0LnpjcXwxNzc4OTI1NTE3
+
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 2 (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://shorter.me/mviHP
+
 
 
 
@@ -4392,8 +4364,6 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀",LIVE AFF U23 (SERVER 3)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
 
 
 
@@ -4662,97 +4632,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 
 ///////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 01 TERSEDIA SAAT LIVE (THAP CAMTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
-https://hotlivezz179266008.akainu.xyz/w7Ab2r-ez61WA5JW1rH2Bg/Fv2lucGIbhPi2caWYvF5Lg/1765159606208/live/daoHD/chunklist.m3u8
-####https://hotlivezz179266008.akainu.xyz/XSnijAd7Khw36GLA4c6KmA/Fv2lucGIbhPi2caWYvF5Lg/1765152355986/live/dungHD/chunklist.m3u8
-#####https://hotlivezz179266008.akainu.xyz/3vwVKfwL3Jhl0qPwOyxMXg/Fv2lucGIbhPi2caWYvF5Lg/1765406132179/live/oldHD/chunklist.m3u8
-
-
----------------------------------------------------
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 02 TERSEDIA SAAT LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png",
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 03 TERSEDIA SAAT LIVE (XOILAX TV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
-https://hotlivezz179026907.akainu.xyz/_qerOOU0ehWTS-0PLjmFVQ/Fv2lucGIbhPi2caWYvF5Lg/1758036656540/live/may6/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 04 TERSEDIA SAAT LIVE (XOILACZ.LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://shorter.me/jzOKS
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 05 TERSEDIA SAAT LIVE (XOILACZ.LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://shorter.me/itR59
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 06 TERSEDIA SAAT LIVE (XOILACZ.LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://shorter.me/pcR93
-
-----------------------------------------
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 07 TERSEDIA SAAT LIVE (THAP CAMTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
-https://hotlivezz179026907.akainu.xyz/x7SKbxLHqFMdyALwgjA4zA/Fv2lucGIbhPi2caWYvF5Lg/1758109276955/live/may20/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 08 TERSEDIA SAAT LIVE (THAP CAMTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
-https://hotlivezz179026907.akainu.xyz/W7gFaWSJ7vw77y_0XZVbjA/Fv2lucGIbhPi2caWYvF5Lg/1757777806656/live/may21/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 09 TERSEDIA SAAT LIVE (THAP CAMTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
-https://hotlivezz179026907.akainu.xyz/_BCVBkbBA0umdgOuDmW2nw/Fv2lucGIbhPi2caWYvF5Lg/1764100081879/live/may24/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 10 TERSEDIA SAAT LIVE (FPT PLAYTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
-https://hotlivezz179026907.akainu.xyz/Z_oaKeXpeNJK7PanUGPuog/Fv2lucGIbhPi2caWYvF5Lg/1758036764025/live/may61/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 11 TERSEDIA SAAT LIVE (THAP CAMTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz
-https://hotlivezz179026907.akainu.xyz/cEcZ7pU11uzA8tMVkb7rHg/Fv2lucGIbhPi2caWYvF5Lg/1757934717649/live/may201/chunklist.m3u8
-
-
-
-#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.event.live/default-og.png", EVENT 12 TERSEDIA SAAT LIVE (THAP CAMTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-https://hotlivezz179026907.akainu.xyz/xzs09nuImEbNYpGQ8hUwbQ/Fv2lucGIbhPi2caWYvF5Lg/1759852754522/live/may211/chunklist.m3u8
-
-
 
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
@@ -6589,29 +6468,6 @@ https://tiviku69.github.io/apk/m3u/t3.m3u8
 
 ----------------------
 
-test
-
-#EXTINF:-1  tvg-logo="XXXXXXXXX" group-title="▶VOD SERIES◀", TES 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/VodSeries/refs/heads/main/Ganteng-GantengGentengE1.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="XXXXXXXXX" group-title="▶VOD SERIES◀", TES 1a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://token-media-001-vidio-com.akamaized.net/exp=1778868129~acl=/uploads/9339782/*~hmac=fe614548ffe24a1aef37ed055ec97249ed5337899558223460004b8dc26bdbf7/uploads/9339782/etsvod_ETS2d378db4066c455fd_premier.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="XXXXXXXXX" group-title="▶VOD SERIES◀", TES 1b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://token-media-001-vidio-com.akamaized.net/exp=1778868129~acl=/uploads/9339782/*~hmac=fe614548ffe24a1aef37ed055ec97249ed5337899558223460004b8dc26bdbf7/uploads/9339782/etsvod_ETS2d378db4066c455fd_premier.m3u8
-
-
-
-
-
-
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ============================================================================================MOVIES -REQUEST==============================================================================================
@@ -7141,65 +6997,6 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Peaky
 #EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8d/85/6a/8d856ab8-6873-f4da-816d-0663336aa0d0/relentless_poster_3840_coverart.png/1200x675.jpg" group-title="📁 MOVIES - REQUEST", RELENTLESS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Relentless.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/17/2023/12/27/Bioskop-Trans-TV-Hari-Ini-27-Desember-2023-Sinopsis-Film-The-Invincible-Dragon-Keadilan-Keberanian-dan-Konsekuensi-dari-Dendam-Pribadi-4040553141.jpg" group-title="📁 MOVIES - REQUEST", THE INVINCIBLE DRAGON
-https://www.googleapis.com/drive/v3/files/19uyGdVlHea9JED5CF4Iq5Rs3PpQMKsNS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#EXTINF:-1  tvg-logo="https://material.asset.catchplay.com/SNY-ID-002-A1114/artworks/posters/SNY-ID-002-A1114-P1200.jpg?hash=1639559151475" group-title="📁 MOVIES - REQUEST", KINGDOM
-https://www.googleapis.com/drive/v3/files/1vtbYgCiSL5uBVeR7g5AW4d6chg5hnAbE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#EXTINF:-1  tvg-logo="https://resizing.flixster.com/-8n07NueWN7mkGQDM4P1DLrerHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17084000_v_h8_ad.jpg" group-title="📁 MOVIES - REQUEST", THE KNIGHT OF SHADOWS - BETWEEN YIN AND YANG
-https://www.googleapis.com/drive/v3/files/1VeY_dRJQmRl8HQWw7Kpuv1eJR5fO2Zti?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/a9/92/fb/a992fb6e-4918-9676-b891-f347339dbab8/Transit17_iTunes_Wide.png/1200x675.jpg" group-title="📁 MOVIES - REQUEST", TRANSIT 17
-https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#EXTINF:-1  tvg-logo="https://imgapps.okezone.com/dynamic/content/2023/06/23/206/2835958/sinopsis-film-ad-astra-brad-pitt-jelajah-ruang-angkasa-demi-ayah-JLu7zYLeh0.jpg?w=350" group-title="📁 MOVIES - REQUEST", AD ASTRA
-https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a226ce507e213fa044c05e9c28b98b641f210cac210b9ce7c70c70b84d8d0bc0.jpg" group-title="📁 MOVIES - REQUEST", MUMMY REBORN
-https://www.googleapis.com/drive/v3/files/15qvAVRKyU-_BWAw7JAp47B46HuNxUsZ2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/pi_-0lE2S2E/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", BADLAND
-https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#EXTINF:-1  tvg-logo="" group-title="",
-
-
-
-#EXTINF:-1  tvg-logo="" group-title="",
-
-
-
-#EXTINF:-1  tvg-logo="" group-title="",
-
-
-
-#EXTINF:-1  tvg-logo="" group-title="",
-
-
-
-#EXTINF:-1  tvg-logo="" group-title="",
-
-
-
-#EXTINF:-1  tvg-logo="" group-title="",
-
-
-
-#EXTINF:-1  tvg-logo="" group-title="",
-
-
-
 
 
 
