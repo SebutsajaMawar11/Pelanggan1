@@ -2217,7 +2217,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 FANCODE
 
 
-#EXTINF:-1 tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2025/06/FanCode-secures-TV-and-digital-rights-for-UEFA-Womens-EURO-2025-and-UEFA-U21-Mens-Championship-202.jpg", group-title="SPORTS", FANCODE 01
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Nf_mr5_ufE/maxresdefault.jpg", group-title="SPORTS", FANCODE 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2226,7 +2226,7 @@ FANCODE
 #######https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2025/06/FanCode-secures-TV-and-digital-rights-for-UEFA-Womens-EURO-2025-and-UEFA-U21-Mens-Championship-202.jpg", group-title="SPORTS", FANCODE 01
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Nf_mr5_ufE/maxresdefault.jpg", group-title="SPORTS", FANCODE 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2235,7 +2235,7 @@ FANCODE
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2025/06/FanCode-secures-TV-and-digital-rights-for-UEFA-Womens-EURO-2025-and-UEFA-U21-Mens-Championship-202.jpg", group-title="SPORTS", FANCODE 02
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Nf_mr5_ufE/maxresdefault.jpg", group-title="SPORTS", FANCODE 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
