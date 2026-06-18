@@ -4800,6 +4800,11 @@ https://cdn.aceimg.com/95997cf91.mp4
 https://cdn.aceimg.com/vURpA40sj.mp4
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xgnKZheIJxo/maxresdefault.jpg" group-title="▶VOD INDO◀", AHLAN SINGAPORE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDahlan-singapore.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3_4a-HnCUnrxPnYG9_a0jsLzwTMUOa42tleIpqc-ukNchvKyl8n2NMpe&s=10" group-title="▶VOD INDO◀", PANGKU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5528,6 +5533,11 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 
 
 
+#EXTINF:-1 tvg-logo="https://pic.bstarstatic.com/ugc/bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp" group-title="FILM HOROR", MARIABAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmariaban.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://media.kompas.tv/library/image/content_article/article_img/20251229053101.webp" group-title="FILM HOROR", ALAS ROBAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDalasRoban.m3u8
@@ -5537,14 +5547,14 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 
 #EXTINF:-1 tvg-logo="https://pic.bstarstatic.com/ugc/a586e9b588cb574e3f132ac2c66f8628.jpg@720w_405h_1e_1c_90q.webp" group-title="FILM HOROR", SANTET KABINET (KOMEDI HOROR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsantetKabinet.m3u8
+### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsantetKabinet.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2025/09/26/47443-ilustrasi-film-kang-solah-from-kang-mak-x-nenek-gayung-suaracomema-rohimah.jpg" group-title="FILM HOROR", KANG SOLAH from KANG MAK - NENEK GAYUNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkangSolah-NenekGayung01.m3u8
+#### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkangSolah-NenekGayung01.m3u8
 
 
 
@@ -8244,9 +8254,9 @@ https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/ind
 
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", SPORT-ONE+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", tes GGG E4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+https://putar-in.rpmplay.me/#ai9rjp
 
 
 
