@@ -4798,6 +4798,11 @@ https://cdn.aceimg.com/95997cf91.mp4
 https://cdn.aceimg.com/vURpA40sj.mp4
 
 
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-sadali-2026_600_880.webp" group-title="▶VOD INDO◀", SADALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsadali.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xgnKZheIJxo/maxresdefault.jpg" group-title="▶VOD INDO◀", AHLAN SINGAPORE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDahlan-singapore.m3u8
@@ -5528,6 +5533,11 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/04/13/3257753829.jpg" group-title="FILM HOROR", WARUNG POCONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwarung-pocong.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPUTpOsbzSJiRXn1tvyLr7YRi7s3EHxhI3ZPW2eh2773t3UvXJFZ7T5OY&s=10" group-title="FILM HOROR", KAFIR - GERBANG SUKMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkafir-gerbangSukma.m3u8
 
 
 
