@@ -4819,6 +4819,14 @@ https://cdn.aceimg.com/95997cf91.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/vURpA40sj.mp4
 
+===============🔴🔴🔴==================
+===============🔴🔴🔴==================
+
+
+#EXTINF:-1 tvg-logo="https://channel9.id/wp-content/uploads/2026/01/Balas-Budi.jpg" group-title="▶VOD INDO◀", BALAS BUDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDbalas-Budi.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-sadali-2026_600_880.webp" group-title="▶VOD INDO◀", SADALI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -6653,6 +6661,11 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 ==================================
+
+#EXTINF:-1 tvg-logo="https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/3/image/1800x/71252117777b696995f01934522c402d/6/4/640x396-kingkaew.jpg" group-title="📁 MOVIES - REQUEST", BLADES OF THE GUARDIANS - KING KAEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/King-Kaew.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pgIWUXtxauU/hq720.jpg" group-title="📁 MOVIES - REQUEST", BLADES OF THE GUARDIANS - WIND RISES IN THE DESERT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
