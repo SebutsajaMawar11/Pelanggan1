@@ -6662,6 +6662,12 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 ==================================
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lqHeUVBGmg8hRNJz4KgZ6af8UOhLp-bi7XQ-bFZHV4Dtp-rJJmuP2jQ&s=10" group-title="📁 MOVIES - REQUEST", HUNGRY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Hungry.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/3/image/1800x/71252117777b696995f01934522c402d/6/4/640x396-kingkaew.jpg" group-title="📁 MOVIES - REQUEST", KING KAEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/King-Kaew.m3u8
