@@ -4841,6 +4841,11 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ===============🔴🔴🔴==================
 
 
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2020/06/The-Raid-2_all-templateThumbnail.jpg" group-title="▶VOD INDO◀", THE RAID 2 (BERANDAL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtheRaid2.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://channel9.id/wp-content/uploads/2026/01/Balas-Budi.jpg" group-title="▶VOD INDO◀", BALAS BUDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDbalas-Budi.m3u8
@@ -5573,9 +5578,21 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 =======================
 
 
-#EXTINF:-1 tvg-logo="https://indonews.id/images/posts/1/2026/2026-01-25/e325c46475ec341f93bf83ded3b53058_1.jpg" group-title="FILM HOROR", SEBELUM DIJEMPUT NENEK
+#EXTINF:-1 tvg-logo="https://indonews.id/images/posts/1/2026/2026-01-25/e325c46475ec341f93bf83ded3b53058_1.jpg" group-title="FILM HOROR", 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#######https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2026/03/zWub72Jw7LyyDhHETxFm_20_9353ea0b0496340c1e1f2090f1935816_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20260321%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260321T125852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=36e6b314e55890e6cf8810c469e59f115344424c7db4697ad3ba344a905298af
+xxxxxxxxxxxxx http
+
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/webp/photo/2024/08/01/1604763664.jpg" group-title="FILM HOROR", SAKARATUL MAUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsakaratul-Maut.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/43/2025/06/27/mitos-malam-satu-suro-466849331.jpg" group-title="FILM HOROR", SATU SURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsatu-Suro.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/04/13/3257753829.jpg" group-title="FILM HOROR", WARUNG POCONG
