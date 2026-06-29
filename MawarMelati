@@ -1838,12 +1838,12 @@ ___________________
 SPOTV_NOW
 
 #EXTINF:-1 tvg-logo="https://image.idntimes.com/post/20240308/banner-img-078ea664188aa7e17deaea8f5156b901.png" group-title="SPORTS", SPOTV NOW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTVLCOPT:http-referrer=https://www.mana2.my/
-https://slive.mana2.my/SpotvNow/index.mpd
+#  EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#  KODIPROP:inputstream.adaptive.manifest_type=mpd
+#  KODIPROP:inputstream.adaptive.license_type=clearkey
+#  KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#   EXTVLCOPT:http-referrer=https://www.mana2.my/
+#########    https://slive.mana2.my/SpotvNow/index.mpd
 
 
 __________________
