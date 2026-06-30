@@ -6745,6 +6745,28 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ==================================
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MrqwblWpptA/hq720.jpg" group-title="📁 MOVIES - REQUEST", KILLHOUSE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Kill-House.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1G-N32D9uuI/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", CHUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Chum.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic3.iqiyipic.com/image/20260623/7f/49/v_199987986_m_601_en_1080_608.jpg" group-title="📁 MOVIES - REQUEST", BACK IN THE GAME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Back-InTheGame.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZZkkhCm0s7g/hq720.jpg" group-title="📁 MOVIES - REQUEST", PATRIOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Patriot.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6114aef7c488c89f291d58e95795e4c01dd0992bd929ddf182c1d4a412f2531e.jpg" group-title="📁 MOVIES - REQUEST", SPACE RANGER NEW WORLDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
