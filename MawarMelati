@@ -6766,6 +6766,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/IpMan
 
 
 
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260626/cb/fc/v_201634348_m_601_en_m1_480_270.jpg" group-title="📁 MOVIES - REQUEST", SREANGE TALES OF HUANGQUAN VILLAGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/StrangeTalesOf-HuangquanVillage.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MrqwblWpptA/hq720.jpg" group-title="📁 MOVIES - REQUEST", KILLHOUSE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Kill-House.m3u8
