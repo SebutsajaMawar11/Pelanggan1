@@ -484,6 +484,13 @@ event
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Indonesia Channels", INDOSIAR _LIVE 1 (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:network-caching=2000
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/imdosiar-avc1_2500000=7-3277707030000000.mpd
+
+
 #### http://103.148.44.38:8000/play/a05c/index.m3u8
 
 ###### https://live-prod-v1-biznet.streams.my.id/streams/indosiar/index.m3u8
