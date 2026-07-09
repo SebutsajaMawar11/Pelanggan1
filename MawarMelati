@@ -4445,7 +4445,7 @@ AVC / VNL / CEV
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XZld06niSBi1a4UqvQ3WjL6nGyIdyWVpSw&s", VNL/CEV (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/X5vyjXoN/live.isml/.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 ### https://cdn.aceimg.com/tAAiNe1pP.mp
 
@@ -4458,7 +4458,6 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/X5vyjXoN/live.is
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XZld06niSBi1a4UqvQ3WjL6nGyIdyWVpSw&s", VNL/CEV (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/N3eqELxk/live.isml/.m3u8
 
 ##### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
@@ -4467,7 +4466,7 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/N3eqELxk/live.is
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XZld06niSBi1a4UqvQ3WjL6nGyIdyWVpSw&s", VNL/CEV (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/V1JWq9X3/live.isml/.m3u8
+
 
 #### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
@@ -6785,6 +6784,26 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 ==================================
 ==================================
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_wBX1GGS0Ok/hq720.jpg" group-title="📁 MOVIES - REQUEST", RAPTOR ATTACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Raptor-Attack.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NenzQrmPeg8/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", MALYSH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Malysh.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rJ1Zp9jQEgs/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", GREENLAND 2 - MIGRATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Greenland2-Migration.m3u8
+
+
+================
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TyfEgqSuxgU/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", THE FURIOUS
