@@ -572,8 +572,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 ======
 moji sport
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI_SPORT (UHD)
-http://opplextv.cyou:8080/nasir6160/nasir/350997
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI SPORT (UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 
 ===============
@@ -919,7 +920,8 @@ https://ratu77.adptv.workers.dev/index.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -", MOJI 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350997
 
 
 =============================================
