@@ -258,21 +258,21 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 
 \\\\\\\\\\\\\\\\\\\\\
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/386/437386-SNAPSHOT-m.png" group-title="Indonesia Channels", SindoNews (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=5&type=fitnah
-#####  https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
-
 
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/518/59518-SNAPSHOT-m.png",iNews_TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/386/437386-SNAPSHOT-m.png" group-title="Indonesia Channels", SindoNews (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=5
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 
 
@@ -1506,7 +1506,8 @@ one sports
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1080" group-title="SPORTS", ONE SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdn.aceimg.com/tAAiNe1pP.mp4
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/onesports_qp.m3u8
+### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
