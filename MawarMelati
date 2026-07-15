@@ -217,65 +217,49 @@ https://cdn.aceimg.com/scrIIOjX2.mp4
 ===========================================================================================================================================================
 
 
-
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-m.png" group-title="Indonesia Channels",MNC_TV
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-m.png" group-title="Indonesia Channels", MNC_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 
 
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/516/59516-SNAPSHOT-m.png" group-title="Indonesia Channels",GTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/516/59516-SNAPSHOT-m.png" group-title="Indonesia Channels", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/514/59514-SNAPSHOT-m.png" group-title="Indonesia Channels",RCTI HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/514/59514-SNAPSHOT-m.png" group-title="Indonesia Channels", RCTI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-=============================================
-
-
-
-#### http://103.58.160.157:8278/720-RCTI/playlist.m3u8
-### http://103.66.62.83:8000/play/a00v/index.m3u8
-#### http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 
 _______________________________________
 
 
 #EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="Indonesia Channels", TransTV HD (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 
+
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/522/59522-SNAPSHOT-m.png" group-title="Indonesia Channels", Trans7 HD (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="Indonesia Channels",Trans7 HD+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-##### http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
 
 
@@ -295,76 +279,17 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 ### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-ANTV-Sport.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&s=10" group-title="Indonesia Channels", ANTV (SPORT 2)
-##### http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
-
-
-=========================================================================================
-
-
-
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="Indonesia Channels", ANTV_FHD (SPORTS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-### http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
-### http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
-
-##### http://103.66.62.83:8000/play/a00r/index.m3u8
-#### https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=782&type=hls
-##### http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
-
-
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="Indonesia Channels", ANTV_FHD (SPORTS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
-🔴🔴🔴🔴 http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
-
-
 ========================================================================================
 
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="Indonesia Channels",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="Indonesia Channels", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-
-
-
-
-
-____________________________________________________________________________________
-🔴 SCTV
-
-
-#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdn0-production-images-kly.akamaized.net/o4vWrMrp4E65GHFCxa_AZuMnzwc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/48911/original/bola-130622b.jpg", SCTV_SPORT (FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-SctvSport.m3u8
-
-
-#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdn0-production-images-kly.akamaized.net/o4vWrMrp4E65GHFCxa_AZuMnzwc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/48911/original/bola-130622b.jpg", SCTV_SPORT (UHD 2)
-#### http://opplextv.cyou:8080/nasir6160/nasir/351030
-
-
-
-###### https://sport-data-global.b-cdn.net/live/6af1b45170768e083cd2024e05df0888/playlist.m3u8
-#### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-SctvSport.m3u8
-####### http://103.148.44.38:8000/play/a05g/index.m3u8
-###### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-SctvSport.m3u8
-
-
-
-######EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-####KODIPROP:mimetype=application/dash+xml
-#####KODIPROP:inputstream=inputstream.adaptive
-####KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-####KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-####KODIPROP:inputstream.adaptive.manifest_type=dash
-#####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-###KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
-##### https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 ____________________________________________________________________________________
 
@@ -455,70 +380,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-####### https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
-==============
-event
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" ch-number="2", INDOSIAR (EVENT BOLA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=205&type=drm
-🔴🔴###### https://archertv.my.id/event/index.mpd?id=205&type=dash
-
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" ch-number="2", INDOSIAR A (EVENT BOLA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21165.drm?dev_kaki_09&t=1776612928&uip=2a06%3A98c0%3A3600%3A%3A103&h=822d487436fe075a0107abc1c4d9547a08292e54f4ec0ea04a55e5454022ee23
-🔴🔴###### https://ayo.maling.pl/video/id/21165.mpd?dev_kaki_09&t=1776612928&uip=2a06%3A98c0%3A3600%3A%3A103&h=822d487436fe075a0107abc1c4d9547a08292e54f4ec0ea04a55e5454022ee23
-
-
-
-==============
-
-
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Indonesia Channels", INDOSIAR _LIVE 1 (FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#### http://103.148.44.38:8000/play/a05c/index.m3u8
-
-###### https://live-prod-v1-biznet.streams.my.id/streams/indosiar/index.m3u8
-####### https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Bola-Indosiar1.m3u8
-######## https://live.alilicloud.com/live/eb4427c132b1109816d4c4993d88e169/playlist.m3u8
-#### https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Bri-super01.m3u8
-## http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-🔴 http://iptvtree.net:8080/F33848/cbd9779b/162138
-#### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-IndosiarEvent2.m3u8
-##### https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
-##### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar-Event-Live.m3u8
-##### http://103.254.122.70/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts?token=SEReU0dfFg8WAVIBVlcHUQAHUQYCB1paAAcABAUAUA0CAgJXDA8FUwYWGxRGRUZWVl9tXVAWWAgGUgILBQpJFkYVU0BrXlAXDhYGBwEHDQUPBRAYFkALVFZADQIGBFcFAVUBBwcbFkVdUBUMFwAFBgcDEBgWURpNVhBZUl1sAVFFD1VXFg1aQFhYGxRaX2tXUl9TWlAWWBsDQBsRWEAVFgkIQ15YGxZXXUBFV0FUFgkVAwsDBhZOG1ANQl1FQRwWCQhDXlgbFlBMQFJYRlhbXRUIEEBHFk4bWhFoQVRAEUZWB1tXRhUOFwQWGxRYUExsVF1cWlFXFlBcDEQRCxFUFh9EW11aXkBaRmtHX1ETDhEEAwcEAhZOG0YRUkFuWhUWCUQHBAQZBgcaBQUOGwAFBxVP
-🔴🔴 ###https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/indosiar2.m3u8
-🔴# http://ktpremium.online:2095/live/kt1107/110753906/73617.ts
-🔴🔴##### http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
-🔴🔴### https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/jembut-idsr.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Indonesia Channels", INDOSIAR _LIVE 2 (FHD)
-### http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
-
-
-
-
-
-_____________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________
 
 
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.pinimg.com/736x/b9/0a/c8/b90ac8ae062a39d4a92e978454651cb6.jpg" group-title="Indonesia Channels",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://img.inews.co.id/media/450/files/inews_new/2019/10/02/stream_idx.png",IDX
