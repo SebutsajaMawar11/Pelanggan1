@@ -1235,8 +1235,6 @@ http://opplextv.cyou:8080/nasir6160/nasir/350997
 
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/309/437309-SNAPSHOT-l.png" x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAUVGjddwFCU6rN-O1fnkVyO4YBNpT1EqMUZRLmKVE1hFoNE3Q94eHClPi6VkjkcRf1C0aiLL9fB1GvX3bETqy3XUgGu5bQp4OT2T5gnmWnOJQxTb5aVvmpy-pfsz9Z7i-O1DJkjz7fT4v7oTd4glqEk1gWc9kuBxFEqc3oriV-wSVMFJAaFUNUsPR2CO9/s700/SPORTSTARS%201.png" group-title="SPORTS",SPORTSTARS
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1297,6 +1295,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png?w=272" x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAG3aQBG_pQWJTEDaM-fVme5MYzppW5xUNsPqdzmpCDJ7PoEVNv7KAhzYg-26cREM0QEzgJLjHjYhxw2FBDx82V_IzpvDYUV6TKeNhlCZ7eBGfSP92DO_YMJSh6uU-XVJJ0BSQNP1MDAcmuViI2eI8mXvTAjSdNPxxONQDzCA31zQEylry6F9z9VlM19cz/s700/FIGHT%20SPORTS.png" group-title="SPORTS", FIGHT SPORTS
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+
+
+
 
 
 
