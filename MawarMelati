@@ -1380,7 +1380,7 @@ SPOSTAR1
 
 
 
-#EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="SPORTS",SPORTSTARS 01 HD
+#EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS1.png" group-title="SPORTS",SPORTSTARS 01 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1393,7 +1393,7 @@ _____
 SPORTSTAR 2
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/A1hlnLA.png",SPORTSTARS 02 HD
+#EXTINF:-1 group-title="SPORTS" tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS2.png",SPORTSTARS 02 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -1409,7 +1409,7 @@ _____
 SPOSTAR 3
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dIcTZj3.png" group-title="SPORTS", SPORTSTARS 03 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS3.png" group-title="SPORTS", SPORTSTARS 03 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 ########EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #######KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1421,7 +1421,7 @@ SPOSTAR 3
 
 
 -------------------CADANGAN------------------
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dIcTZj3.png" group-title="SPORTS", SPORTSTARS 03 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS3.png" group-title="SPORTS", SPORTSTARS 03 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
@@ -1432,7 +1432,7 @@ _____
 SPORSTAR4
 
 
-#EXTINF:0 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="SPORTS", SPORTSTARS 04 HD
+#EXTINF:0 tvg-id="SS4" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS4.png" group-title="SPORTS", SPORTSTARS 04 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
