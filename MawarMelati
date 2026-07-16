@@ -3039,15 +3039,6 @@ http://157.15.187.3:25092/hls/2/2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/10/996x664/livoli_124b3cc.jpg" group-title="▶EVENT 1 / LIVE◀", LiVOLI TV 02 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&amp;type=drm
-####https://spacetv.my.id/index.mpd?id=19488&amp;type=dash
-
-
-
-
 #EXTINF:-1 tvg-logo="https://cdn.indosiar.com/tag/2025/07/13/140198/bri-super-league-202526-rev3.jpg" group-title="▶EVENT 1 / LIVE◀", INDOSIAR_SPORTS (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
@@ -3080,39 +3071,8 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/pontianak/foto/bank/images/live-sctv-liga-champions.jpg" group-title="▶EVENT 1 / LIVE◀", SCTV_SPORTS (FHD)
-
-
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="▶EVENT 1 / LIVE◀", RCTI_SPORTS HD
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6VrE_PMJy84/mqdefault.jpg" group-title="▶EVENT 1 / LIVE◀", iNEWS TV SPORTS HD
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A1)
 http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", INDOSIAR - SUPER LEAGUE (A2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 1 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/risetcdn.jatimtimes.com/images/2025/08/07/c44d1c0f7930.jpg?quality=50" group-title="▶EVENT 1 / LIVE◀", BRI SUPER LEAGUE 2 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
 
 
 
@@ -3129,12 +3089,6 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT 1 / LIVE◀",LIVE AFF U23 (SERVER 3)
-
-
 
 
 
@@ -3314,10 +3268,6 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
-
-
-#EXTINF:-1 group-title="▶EVENT 3 / LIVE◀" tvg-logo="https://www.redasiainsurance.com/wp-content/uploads/2022/02/Sports-events-insurance-Main-scaled-e1644805433386.jpg", LIVE EVENT (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
 
