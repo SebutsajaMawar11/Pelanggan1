@@ -302,7 +302,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://img.inews.co.id/media/450/files/inews_new/2019/10/02/stream_idx.png",IDX
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
@@ -323,7 +323,7 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mp
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/169/438169-SNAPSHOT-m.png" group-title="Indonesia Channels",DAAI TV
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
