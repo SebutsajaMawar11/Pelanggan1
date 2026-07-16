@@ -101,10 +101,10 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 https://cdn.aceimg.com/scrIIOjX2.mp4
 
 
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 ===========================================================================================================================================================
 
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/517/59517-SNAPSHOT-m.png" group-title="Indonesia Channels", AN_TV
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/517/59517-SNAPSHOT-m.png" group-title="Indonesia Channels", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF_Players/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -112,8 +112,8 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-m.png" group-title="Indonesia Channels", MNC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF_Players/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-m.png" group-title="Indonesia Channels", MNC_TV
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
