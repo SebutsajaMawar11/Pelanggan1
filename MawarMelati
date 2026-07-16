@@ -1223,7 +1223,7 @@ SPOSTAR 3
 
 -------------------CADANGAN------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS3.png" group-title="SPORTS", SPORTSTARS 03 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
