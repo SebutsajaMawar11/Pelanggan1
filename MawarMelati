@@ -104,8 +104,8 @@ https://cdn.aceimg.com/scrIIOjX2.mp4
 EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 ===========================================================================================================================================================
 
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/517/59517-SNAPSHOT-m.png" group-title="Indonesia Channels", ANTV (HD)
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36 
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/517/59517-SNAPSHOT-m.png" group-title="Indonesia Channels", ANTV
+EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://beetv.my.id/stream/vd.m3u8?ch=antv
