@@ -1270,11 +1270,11 @@ _______
 BEIN SPORT 3
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/4KssTLoB6zhR9rSWTPjdeG37sUM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6318/bein-3-c9b708.jpg",BEIN SPORTS ID 3
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
