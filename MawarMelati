@@ -3140,7 +3140,7 @@ AVC / VNL / CEV
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://w7.pngwing.com/pngs/1018/553/png-transparent-volleyball-net-sport-volleyball-text-sport-logo.png", VOLI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://157.15.187.3:25092/hls/2/2.m3u8
-
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-VoliTV1.m3u8
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XZld06niSBi1a4UqvQ3WjL6nGyIdyWVpSw&s", VNL/CEV (TERSEDIA SAAT LIVE)
