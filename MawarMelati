@@ -3343,6 +3343,11 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ===============🔴🔴🔴==================
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oCH8YQDHQfo/maxresdefault.jpg" group-title="▶VOD INDO◀", AKU SEBELUM AKU (ME BEFORE ME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDakuSebelum-Aku.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/article-check-out-sekarang-pay-later-caper-2026-1_890_490.webp" group-title="▶VOD INDO◀", CHECK OUT SEKARANG - PAY LATER / CAPER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5249,6 +5254,22 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 ==================================
 
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/backdrop/347129224/s640/borderline-2026.jpg" group-title="📁 MOVIES - REQUEST", BORDERLINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Borderline.m3u8
+
+
+
+
+
+
+
+
+
+
+
+==================================================================================
 
 #EXTINF:-1 tvg-logo="https://pic2.iqiyipic.com/image/20191106/34/b7/v_140637347_m_601_m6_480_270.jpg" group-title="📁 MOVIES - REQUEST", THE MAD MONK LEGEND OF SHADOW FRIEND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
