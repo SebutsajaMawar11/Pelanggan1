@@ -3343,6 +3343,11 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ===============🔴🔴🔴==================
 
 
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/14/2026/04/02/official-poster-senin-harga-naik-starvision-qRYho.webp" group-title="▶VOD INDO◀", SENIN HARGA NAIK (LAST CHANCE TO SAVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsenin-HargaNaik.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oCH8YQDHQfo/maxresdefault.jpg" group-title="▶VOD INDO◀", AKU SEBELUM AKU (ME BEFORE ME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDakuSebelum-Aku.m3u8
@@ -5255,17 +5260,21 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ==================================
 
 
+#EXTINF:-1 tvg-logo="https://pic9.iqiyipic.com/image/20260716/89/59/v_199385016_m_601_en_m2_1080_608.jpg" group-title="📁 MOVIES - REQUEST", ORACLE OF THE DRAGON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/OracleOf-TheDragon.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ctbsR2557AA/hq720.jpg" group-title="📁 MOVIES - REQUEST", PEDDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Peddi.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/backdrop/347129224/s640/borderline-2026.jpg" group-title="📁 MOVIES - REQUEST", BORDERLINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Borderline.m3u8
-
-
-
-
-
-
-
-
 
 
 
