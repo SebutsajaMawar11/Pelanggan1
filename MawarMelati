@@ -1468,8 +1468,7 @@ one sports
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1080" group-title="SPORTS", ONE SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/onesports_qp.m3u8
-### https://cdn.aceimg.com/tAAiNe1pP.mp4
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
@@ -1693,7 +1692,7 @@ RAI TV
 
 
 
-#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://www.sorrisi.com/wp-content/uploads/2018/04/logo-canale-5-886x494.jpg" group-title="SPORTS",Canale 5
+#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://www.sorrisi.com/wp-content/uploads/2018/04/logo-canale-5-886x494.jpg" group-title="SPORTS",CANALE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
