@@ -189,7 +189,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR_LIVE (FHD)
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar1.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar1.m3u8
 
 
 ___________________________________________________________________________________________________________________
@@ -211,7 +212,8 @@ moji sport
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI SPORT (FHD)
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MojiPRO1.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+#### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MojiPRO1.m3u8
 
 ===============
 
@@ -606,7 +608,8 @@ http://tvgp.diskon.cloud/red/205.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -", MOJI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://157.15.187.3:25092/hls/50/50.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+### http://157.15.187.3:25092/hls/50/50.m3u8
 
 
 
@@ -3046,7 +3049,8 @@ livolitv
 
 #EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROc5k5B3P79jFuziDQ5knSFGN02dItHBXBZQ&s", VOLI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-VoliTV1.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+##### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-VoliTV1.m3u8
 #######http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
 #####https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/volitv.m3u8
 
@@ -3144,7 +3148,8 @@ AVC / VNL / CEV
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://w7.pngwing.com/pngs/1018/553/png-transparent-volleyball-net-sport-volleyball-text-sport-logo.png", VOLI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-VoliTV1.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+##### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-VoliTV1.m3u8
 
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XZld06niSBi1a4UqvQ3WjL6nGyIdyWVpSw&s", VNL/CEV (TERSEDIA SAAT LIVE)
@@ -6011,38 +6016,34 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Relen
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApkt8KT6AC4W2FPqj8FNrtiMnoxHRCBnW8B90yCVoimNalodrsPFXxJCl&s=10" group-title="HBO / MOVIES", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboID.m3u8
-
-###### https://cdn.aceimg.com/tAAiNe1pP.mp4
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+###### https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboID.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://i.ytimg.com/vi/L8ogLoq6UUY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6m0RSCviR-uijRKki7EAKnWbwlQ" group-title="HBO / MOVIES", HBO_HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboHits.m3u8
-
-##### https://cdn.aceimg.com/tAAiNe1pP.mp4
+##### https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboHits.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png" group-title="HBO / MOVIES", HBO_FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboFamily.m3u8
+##### https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboFamily.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
-###### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/451090884-354f49183019612865ac36fdb5074309ad5fb3d1a88ef81b2b996fb56dd60562-d?f=webp" group-title="HBO / MOVIES",HBO_SIGNATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboSignature.m3u8
-
-###### https://cdn.aceimg.com/tAAiNe1pP.mp4
+##### https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboSignature.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55fd8821e4b0e00d15c6fa0f/1442702516979-HZWON79STPXJ2QYRTZDL/06.jpg" group-title="HBO / MOVIES", CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboCinemax.m3u8
-
-##### https://cdn.aceimg.com/tAAiNe1pP.mp4
+##### https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboCinemax.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
