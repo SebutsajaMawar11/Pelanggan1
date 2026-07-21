@@ -7192,82 +7192,9 @@ https://raw.githubusercontent.com/SebutsajaMawar11/tested1/refs/heads/main/tes00
 V+ -TEST
 https://boti.my.id/saya.suka?
 
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", 01 MGP 1
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", tes vod-
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:NO
-#EXTINF:1,
-http://vpn.rivostv.space:80/live/b87ed4b5/ab28e6b6/683162.ts
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", 01 MGP 2
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:1,
-http://vpn.rivostv.space:80/live/b87ed4b5/ab28e6b6/601836.ts
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", VOLLI 1
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:NO
-#EXTINF:1,
-http://vpn.rivostv.space:80/live/b87ed4b5/ab28e6b6/689681.ts
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", VOLLI 2
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:NO
-#EXTINF:1,
-http://vpn.rivostv.space:80/live/b87ed4b5/ab28e6b6/689684.ts
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", VNL1
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:NO
-#EXTINF:1,
-http://lisabontv.pro:8080/tjPYdQpZ/kYXxX5x8yKgd/551888
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", VNL2
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:NO
-#EXTINF:1,
-http://lisabontv.pro:8080/tjPYdQpZ/kYXxX5x8yKgd/551924
-
-
+https://www.cloudflare-terms-of-service-abuse.com/stream.ts
 
 
 
