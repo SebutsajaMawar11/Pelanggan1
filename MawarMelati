@@ -5312,6 +5312,12 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ==================================
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2cp3o6ZI3ZE/hq720.jpg" group-title="📁 MOVIES - REQUEST", FIREFLIES EL MOZOTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/FirefliesAt-ElMozote.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://pic9.iqiyipic.com/image/20260717/7c/14/v_205533791_m_601_zh-CN_m3_1080_608.jpg" group-title="📁 MOVIES - REQUEST", RETROGRADE BATTLEFIELD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Retrograde-Battlefield.m3u8
