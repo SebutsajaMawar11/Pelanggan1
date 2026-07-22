@@ -217,6 +217,7 @@ moji sport
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI SPORT (FHD)
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
+http://202.169.224.202:8800/udp/239.9.1.32:1234
 
 ### https://cdn.aceimg.com/tAAiNe1pP.mp4
 #### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MojiPRO1.m3u8
