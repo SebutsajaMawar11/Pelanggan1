@@ -187,9 +187,10 @@ ________________________________________________________________________________
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR_LIVE (FHD)
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR_LIVE (UHD)
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
-https://cdn.aceimg.com/tAAiNe1pP.mp4
+http://202.169.224.202:8800/udp/239.9.1.25:1234
+### https://cdn.aceimg.com/tAAiNe1pP.mp4
 ### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar1.m3u8
 
 
