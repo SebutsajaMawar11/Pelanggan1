@@ -223,8 +223,8 @@ moji sport
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/523/59523-SNAPSHOT-m.png" group-title="Indonesia Channels", TVOne HD
-#EXTVLCOPT:http-user-agent=MPF_Players/972.56
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
