@@ -317,11 +317,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="Indonesia Channels", SINPO_TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="Indonesia Channels", SINPO TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
 
 
