@@ -299,7 +299,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="Indonesia Channels", SINPO TV (A
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="Indonesia Channels", SINPO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
@@ -825,11 +825,12 @@ SPOSTAR1
 
 
 #EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS1.png" group-title="SPORTS",SPORTSTARS 01 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 _____
@@ -837,11 +838,10 @@ SPORTSTAR 2
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS2.png",SPORTSTARS 02 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 
 _____
 SPORTSTAR2.1
