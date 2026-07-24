@@ -4939,6 +4939,12 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ==================================
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ltmnkaDTx0A/hq720.jpg" group-title="📁 MOVIES - REQUEST", THE DEBT COLLECTOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheDebt-Collector.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://img7.yna.co.kr/etc/inner/PR/2026/07/23/RPR20260723003500353_02_i_P4.jpg" group-title="📁 MOVIES - REQUEST", MYSTIC TALES - THE SPIDER LADYS VENDETTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/MysticTales-TheSpiderLadysVendetta.m3u8
