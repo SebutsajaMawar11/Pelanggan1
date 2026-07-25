@@ -6889,11 +6889,75 @@ https://raw.githubusercontent.com/SebutsajaMawar11/tested1/refs/heads/main/tes00
 V+ -TEST
 https://boti.my.id/saya.suka?
 
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="V+ -TEST", tes vod-
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
-https://www.cloudflare-terms-of-service-abuse.com/stream.ts
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes ANTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=antv
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes transtv
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=transtv
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes trans7
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=trans7
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes metrotv
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=metrotv
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes tvone
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=tvone
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes moji
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=moji
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes mojitv
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mojitv
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes inewstv
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inewstv
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes indosiar
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=indosiar
 
 
 
