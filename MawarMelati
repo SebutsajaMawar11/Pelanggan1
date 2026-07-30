@@ -233,8 +233,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 ======
 moji sport
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI SPORT (FHD)
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI SPORT (UHD)
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350997
+
+
+
 #### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 #### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MojiPRO1.m3u8
