@@ -5016,6 +5016,21 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ==================================
 
 
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/jisu/20260731/29/e2/d1988fb91727685d77c775fdf4eda461_1013_569.jpg" group-title="📁 MOVIES - REQUEST", SOULBREAKER SWORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Soulbreaker-Sword.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HyaRaYwgQ-A/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", TÀI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/T%C3%A0i.m3u8
+
+
+
+===================================
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/00VIAjiczPA/hq720.jpg" group-title="📁 MOVIES - REQUEST", A COOL FISH 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/A-CoolFish2.m3u8
