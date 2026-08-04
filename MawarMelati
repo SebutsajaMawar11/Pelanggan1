@@ -183,7 +183,6 @@ _______________________________________
 
 
 #EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="Indonesia Channels", TransTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
