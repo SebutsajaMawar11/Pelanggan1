@@ -193,11 +193,10 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 _______________________________________
 
 
-#EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="Indonesia Channels", TransTV (TRV 1)
+#EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="Indonesia Channels", TransTV (TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
 https://cdnjkt913.transvision.co.id:1003/live/master/108/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
