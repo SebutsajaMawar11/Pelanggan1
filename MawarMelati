@@ -147,12 +147,6 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 ========================================================================================
 
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="Indonesia Channels", SCTV (TRV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c467a737445684c4974426f556c7579:4547737a78565152376f4e3861636541
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdnjkt913.transvision.co.id:1003/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 
 
@@ -220,12 +214,6 @@ ________________________________________________________________________________
 
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (TRV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7863725870545163494c4c7741306f65:327745514751744c35374f3079426232
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdnjkt913.transvision.co.id:1003/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 
 
@@ -244,7 +232,7 @@ https    ://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR_LIVE (FHD)
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
-http://202.169.224.202:8800/udp/239.9.1.25:1234
+### http://202.169.224.202:8800/udp/239.9.1.25:1234
 #### http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
 #### http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 #### http://202.169.224.202:8800/udp/239.9.1.25:1234
