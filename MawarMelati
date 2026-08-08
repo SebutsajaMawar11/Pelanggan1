@@ -3108,6 +3108,12 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ===============🔴🔴🔴==================
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiZSxEETazw/maxresdefault.jpg" group-title="▶VOD INDO◀", NA WILLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDnaWilla.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://mariviu.com/wp-content/uploads/2026/01/poster-film-Esok-Tanpa-Ibu.jpg" group-title="▶VOD INDO◀", ESOK TANPA IBU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDesok-TanpaIbu.m3u8
@@ -5082,6 +5088,45 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 ==================================
+
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260723/b2/0d/v_205531590_m_601_zh-CN_m1_720_405.jpg" group-title="📁 MOVIES - REQUEST", SPEED AND BATTLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SpeedAnd-Battle.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/90cedd5f3b25fa882fa7cca2f153ab199db7429ba0b38ad86d47156f780352ac.png" group-title="📁 MOVIES - REQUEST", BEAST RACE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/BeastRace.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic.bstarstatic.com/ugc/34bbde2c2adaa23a5ae91210761a95fc.jpg@336w_188h_1e_1c_90q.webp" group-title="📁 MOVIES - REQUEST", AGENT SHAAN - ELITE PURSUIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/AgentShaan-ElitePursuit.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/T3AcYz7a9xE/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", KUNG FU SOCCER 2 (CAM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/KungFu-Soccer2.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260807/58/73/v_208669802_m_601_en_1080_608.jpg" group-title="📁 MOVIES - REQUEST", ELF PIG CONQUERED THE DEMONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ElfPigConquered-TheDemons.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sPynGVUJamg/hq720.jpg" group-title="📁 MOVIES - REQUEST", THE ISOLATE THIEF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheIsolateThief.m3u8
+
+
+
+=================================
 
 
 #EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/jisu/20260731/29/e2/d1988fb91727685d77c775fdf4eda461_1013_569.jpg" group-title="📁 MOVIES - REQUEST", SOULBREAKER SWORD
