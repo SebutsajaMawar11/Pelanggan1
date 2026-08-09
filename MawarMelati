@@ -187,6 +187,11 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 _______________________________________
 
 
+#EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="Indonesia Channels", TransTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
+https://cdnjkt913.transvision.co.id/live/chunk/4028c685651d7bcc01651f0b6d210096/2000/chunk-stream0-18441
+
+
 #EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="Indonesia Channels", TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
