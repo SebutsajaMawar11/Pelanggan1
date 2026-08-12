@@ -5103,6 +5103,11 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 ==================================
 
+#EXTINF:-1 tvg-logo="https://pic0.iqiyipic.com/image/20260803/97/db/v_205625976_m_601_zh-CN_m1_1080_608.jpg" group-title="📁 MOVIES - REQUEST", DRAGON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Dragon.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QCChpFuy9ms/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", THE EYES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5124,7 +5129,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheDe
 
 #EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260723/b2/0d/v_205531590_m_601_zh-CN_m1_720_405.jpg" group-title="📁 MOVIES - REQUEST", SPEED AND BATTLE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SpeedAnd-Battle.m3u8
+### https ://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SpeedAnd-Battle.m3u8
 
 
 
