@@ -136,11 +136,12 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ch5VWMy2NdRsKj1FuPTDt0zmeeI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Indonesia Channels", GTV (R+)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ch5VWMy2NdRsKj1FuPTDt0zmeeI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Indonesia Channels", GTV (R+/)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1786744060~hmac=cdd8fcc498ab11c1a29fa48911396773ddf494d1e2f29df7211a243d2a94d161
+## https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 
 
