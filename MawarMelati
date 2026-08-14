@@ -137,7 +137,7 @@ https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786744347~hmac=d26b5b
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ch5VWMy2NdRsKj1FuPTDt0zmeeI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Indonesia Channels", GTV (R+/)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ch5VWMy2NdRsKj1FuPTDt0zmeeI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Indonesia Channels", GTV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -343,7 +343,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/518/59518-SNAPSHOT-m.png",iNews_TV
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786744529~hmac=13ac04511f87826d4aa5104e52d31963dd895f16d13baa028479d2b33b73d8b7
+## https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 
 
