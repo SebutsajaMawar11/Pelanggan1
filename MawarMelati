@@ -120,7 +120,8 @@ EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786744347~hmac=d26b5b5ca5393ff856cf3ddd398b9fdf5362afe1577bcd2541544335692536e4
+## https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 
 
 
