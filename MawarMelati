@@ -172,7 +172,8 @@ https   ://tvratu.my.id/vid/index.mpd?id=204
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786744248~hmac=fc90c63d221a62f0425608aba99dceb49246921b14cb0aacd456b3ea14d13853
+## https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 
 
 
