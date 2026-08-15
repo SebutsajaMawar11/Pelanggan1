@@ -132,17 +132,18 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/516/59516-SNAPSHOT-m.png" group-title="Indonesia Channels", GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#### https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=3.play
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ch5VWMy2NdRsKj1FuPTDt0zmeeI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Indonesia Channels", GTV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+## https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 
