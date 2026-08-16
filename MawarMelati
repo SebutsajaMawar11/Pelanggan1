@@ -7301,88 +7301,85 @@ https://raw.githubusercontent.com/SebutsajaMawar11/tested1/refs/heads/main/tes00
 V+ -TEST
 https://boti.my.id/saya.suka?
 
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+
+#EXTINF:-1 tvg-id="800.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" tvg-name="Trans TV" group-title="TV Nasional", Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/VHJhbnNUVg/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes ANTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=antv
+#EXTINF:-1 tvg-id="801.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" tvg-name="Trans 7" group-title="TV Nasional", Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/VFJBTlM3LW15/manifest.mpd
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes transtv
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=transtv
+#EXTINF:-1 tvg-id="803.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" tvg-name="CNN Indonesia" group-title="TV Nasional", CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/Q05OaS1teQ/manifest.mpd
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes trans7
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=trans7
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes metrotv
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=metrotv
+#EXTINF:-1 tvg-id="805.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" tvg-name="CNBC Indonesia" group-title="TV Nasional", CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes tvone
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=tvone
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes moji
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=moji
+#EXTINF:-1 tvg-id="802.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfc9d256-0421-447e-9aae-431db3de77c3.png" tvg-name="MetroTV" group-title="TV Nasional", MetroTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/TWV0cm9UVg/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes mojitv
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mojitv
+#EXTINF:-1 tvg-id="804.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/930c8097-dc6b-4161-b414-d7a70b0b8b98.png" tvg-name="TVOne" group-title="TV Nasional", TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/VFZPTkU/manifest.mpd
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes inewstv
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inewstv
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes indosiar
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=indosiar
+#EXTINF:-1 tvg-id="806.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png" tvg-name="SCTV" group-title="TV Nasional", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/U0NUVi1teQ/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="807.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" tvg-name="Indosiar" group-title="TV Nasional", Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/SW5kb3NpYXI/manifest.mpd
 
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes sctv
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=sctv
+
+#EXTINF:-1 tvg-id="808.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/15c10f90-4304-4410-a418-67891b5c185d.png" tvg-name="RCTI" group-title="TV Nasional", RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/UkNUSS1DaGFubmVs/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXX" group-title="R+ -TEST", tes mnctv
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+#EXTINF:-1 tvg-id="809.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" tvg-name="GTV" group-title="TV Nasional", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=459fe89c4f5f627fe0a9cc0f65c3cf81:2d6ab4f85cb59f6a2d1a7a57d66802b1
+https://cdnjktbpid22.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/R1RWLUNIQU5ORUw/manifest.mpd
 
 
 
