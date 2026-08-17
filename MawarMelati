@@ -658,6 +658,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34328
 
 
+
+#EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV - FHD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -673,6 +680,12 @@ http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34323
 
 
 
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="- INDONESIA  / VIP -",SCTV - FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="- INDONESIA  / VIP -",SCTV
 http://opplextv.cyou:8080/nasir6160/nasir/351030
 
@@ -682,6 +695,12 @@ http://opplextv.cyou:8080/nasir6160/nasir/351030
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="- INDONESIA  / VIP -", INDOSIAR - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34327
+
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="- INDONESIA  / VIP -", INDOSIAR - FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="- INDONESIA  / VIP -", INDOSIAR (FHD)
@@ -770,6 +789,12 @@ http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350997
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34329
 
 
+#EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png", tvOne - FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
+
+
+
 #EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png", tvOne
 http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
@@ -786,13 +811,22 @@ https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 
+
+================================================================
+
+
+#EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-id="kplus.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/metro.png",Metro TV - FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+
 #EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-id="kplus.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/metro.png",Metro TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
 
-
+=======================================
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-THH5gaT4O6JD--4wh-OOKw_FLA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="- INDONESIA  / VIP -",Nusantara TV 1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
