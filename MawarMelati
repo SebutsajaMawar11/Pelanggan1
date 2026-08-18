@@ -241,7 +241,9 @@ ________________________________________________________________________________
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+
+#### https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
 
 
 
