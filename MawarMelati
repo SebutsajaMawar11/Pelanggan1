@@ -4485,6 +4485,12 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 =======================
 
 
+#EXTINF:-1 tvg-logo="https://image.ggwp.id/post/20260125/upload_acf066a54f2c93070cccc59d5a266f17_40862978-002c-4219-bc23-40c37eb425e0.jpg" group-title="FILM HOROR", HANTU DALAM SEL (GHOST IN THE CELL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDhantuDalamSel.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnryGVjzuso/maxresdefault.jpg" group-title="FILM HOROR", SANTET DOSA DI ATAS DOSA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsantetDosa-diAtasDosa.m3u8
@@ -5664,6 +5670,20 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 ==================================
 
+
+#EXTINF:-1 tvg-logo="https://www.americajackets.com/wp-content/uploads/2026/06/mutiny-2026-1400x788.webp" group-title="📁 MOVIES - REQUEST", MUTINY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Mutiny.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HmqOWlG_bHo/hq720.jpg" group-title="📁 MOVIES - REQUEST", GHABADKUND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Ghabadkund.m3u8
+
+
+
+==============================================
 
 
 #EXTINF:-1 tvg-logo="https://pic0.iqiyipic.com/image/20260803/97/db/v_205625976_m_601_zh-CN_m1_1080_608.jpg" group-title="📁 MOVIES - REQUEST", DRAGON
