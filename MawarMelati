@@ -1534,6 +1534,32 @@ BEIN SPORT 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
+==============
+
+BEIN SPORT 4
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://vid.alarabiya.net/images/2020/07/14/e23ccd39-0056-41cd-8e4c-41e05407185c/e23ccd39-0056-41cd-8e4c-41e05407185c_16x9_1200x676.JPG?width=720",BEIN SPORTS ID 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=125&type=fitnah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+
+
+==============
+
+BEIN SPORT 5
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://vid.alarabiya.net/images/2020/07/14/e23ccd39-0056-41cd-8e4c-41e05407185c/e23ccd39-0056-41cd-8e4c-41e05407185c_16x9_1200x676.JPG?width=720",BEIN SPORTS ID 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=126&type=fitnah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+
+
 ________
 BEIN SPORT EXTRA ID
 
