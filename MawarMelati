@@ -1321,22 +1321,17 @@ _____
 SOCCER
 
 
-# EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="SPORTS", SOCCER_CHANNEL
-#  EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-# EXTVLCOPT:http-referrer=https://www.visionplus.id/
-# KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-# KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=115.play
-#### https ://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-
-### https://cdn.aceimg.com/tAAiNe1pP.mp4
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="SPORTS", SOCCER_CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+
+
+# EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="SPORTS", SOCCER_CHANNEL
+# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+# EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+# KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=115
+##### https ://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 ___________________
@@ -2866,39 +2861,24 @@ http://xtvplayer.top:8080/4536546/6545653/352804
 http://xtvplayer.top:8080/4536546/6545653/352808
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="SPORTS 2 FHD", POLSAT SPORTS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NRVLkS21NhI/maxresdefault.jpg" group-title="SPORTS 2 FHD", POLSAT SPORTS PREMIUM 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://xtvplayer.top:8080/4536546/6545653/352809
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="SPORTS 2 FHD", POLSAT SPORTS
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_banner/COMd/3811-polsat-sport-3-hd.png" group-title="SPORTS 2 FHD", POLSAT SPORTS PREMIUM 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://xtvplayer.top:8080/4536546/6545653/352810
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="SPORTS 2 FHD", POLSAT SPORTS
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv-imported-images/akpa6229055.jpg" group-title="SPORTS 2 FHD", POLSAT SPORTS PREMIUM 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://xtvplayer.top:8080/4536546/6545653/352811
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="SPORTS 2 FHD", POLSAT SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjoixM0hA7huUXDJ41uv1oUMSjydsmoWxpCgfqlS7oxCPPKcYL3rraCU&s=10" group-title="SPORTS 2 FHD", POLSAT SPORTS FIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="SPORTS 2 FHD", POLSAT SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="SPORTS 2 FHD", POLSAT SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXX" group-title="SPORTS 2 FHD", POLSAT SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+http://xtvplayer.top:8080/4536546/6545653/352806
 
 
 ================
