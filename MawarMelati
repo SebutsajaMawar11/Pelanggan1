@@ -109,6 +109,7 @@ EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-m.png" group-title="Indonesia Channels", MNCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=2&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -117,7 +118,7 @@ EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-m.png" group-title="Indonesia Channels", MNCTV HD (R+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
