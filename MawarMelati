@@ -312,6 +312,7 @@ https://live2.domainkqt.cc/live/channel18.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://vidsemar.pages.dev/terraluna/205.mpd
+http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 
 ### http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
