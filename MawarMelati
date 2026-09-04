@@ -3915,6 +3915,19 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ===============🔴🔴🔴==================
 
 
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2026/08/Ikatan-Darah-Alternative-KV-Apple-Artwork-16_9-Cover-Art.jpg-1024x576.jpg" group-title="▶VOD INDO◀", IKATAN DARAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDikatanDarah.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZNvFL2AvkMA/maxresdefault.jpg" group-title="▶VOD INDO◀", KUPILIH JALUR LANGIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkupilihJalurLangit.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/0Qzqdxw-HG1AiOKLWWPsFOUDA2E/AAAABaauaqPS5M7gFXS_p5bH7wvOVI-M_g5gkU7D1XoTtkBc9Ha9u4dX8P9vojAdEWK9_HR87ia7ueiMgQsZb-IkGxYJQUHB2oZqBPc.jpg" group-title="▶VOD INDO◀", 5 BOMOH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-V5-Bomoh.m3u8
@@ -5944,21 +5957,9 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ==================================
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://pic9.iqiyipic.com/image/20260211/9f/71/v_193438389_m_601_m4_720_405.jpg" group-title="📁 MOVIES - REQUEST", CRAZY MAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/CrazyMan.m3u8
 
 
 
@@ -5968,27 +5969,58 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7L5qkIkkcY8/hq720.jpg" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/discovery-catalog/events/et00457361-kxfkarmaxf-landscape.jpg" group-title="📁 MOVIES - REQUEST", KARAVALI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Karavali.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L-Mml3pfxuk/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", MOSSES - BORN OF WATER AND FIRE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Moses-BornOfWaterAndFire.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic5.iqiyipic.com/image/20260112/b0/4b/v_192021902_m_601_m7_720_405.jpg" group-title="📁 MOVIES - REQUEST", THE ULTIMATE LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheUltimateLife.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic3.iqiyipic.com/image/20260828/84/53/v_206910879_m_601_en_1080_608.jpg" group-title="📁 MOVIES - REQUEST", THE NINTH LAYER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheNinthLayer.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/O8h_nzzITY8/hq720.jpg" group-title="📁 MOVIES - REQUEST", FENGMEN VILLAGE HORROR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/FengmenVillageHorror.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.m9.news/wp-content/uploads/2026/09/gandhari-netflix-movie-review-1280x720.jpg" group-title="📁 MOVIES - REQUEST", GANDHARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Gandhari.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvbtP2gnGuoT_QLZjkFoZ5_bZ3SROlk0qLC5JGLIikvaPOidWw8rprQK_&s=10" group-title="📁 MOVIES - REQUEST", LAND OF WOLVES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p33718194_v_h8_aa.jpg?w=1280&h=720" group-title="📁 MOVIES - REQUEST", JUST PLAY DEAD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/JustPlayDead.m3u8
 
 
 
