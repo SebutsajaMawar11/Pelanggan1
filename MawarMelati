@@ -294,8 +294,8 @@ ________________________________________________________________________________
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel18.m3u8
-http://013tv.com:8080/F33848/cbd9779b/162138
+### https://live2.domainkqt.cc/live/channel18.m3u8
+### http://013tv.com:8080/F33848/cbd9779b/162138
 
 
 
@@ -311,7 +311,6 @@ http://013tv.com:8080/F33848/cbd9779b/162138
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-https://vidsemar.pages.dev/terraluna/205.mpd
 http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 
 ### http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
