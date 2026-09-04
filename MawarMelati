@@ -3915,6 +3915,12 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ===============🔴🔴🔴==================
 
 
+#EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/0Qzqdxw-HG1AiOKLWWPsFOUDA2E/AAAABaauaqPS5M7gFXS_p5bH7wvOVI-M_g5gkU7D1XoTtkBc9Ha9u4dX8P9vojAdEWK9_HR87ia7ueiMgQsZb-IkGxYJQUHB2oZqBPc.jpg" group-title="▶VOD INDO◀", 5 BOMOH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-V5-Bomoh.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tiIDmjCim3k/maxresdefault.jpg" group-title="▶VOD INDO◀", PARA PERASUK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDparaPerasuk.m3u8
@@ -5971,6 +5977,48 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 #EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvbtP2gnGuoT_QLZjkFoZ5_bZ3SROlk0qLC5JGLIikvaPOidWw8rprQK_&s=10" group-title="📁 MOVIES - REQUEST", LAND OF WOLVES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5zSn3Jcsgdo/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", GASKINS - THE HITCHHIKER KILLER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Gaskins-TheHitchhikerKiller.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic1.iqiyipic.com/image/20260826/2d/7e/v_209140648_m_601_en_1080_608.jpg" group-title="📁 MOVIES - REQUEST", THE EIGHT KINGS - DRAGON HEIST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheEightKings-DragonHeist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WboZixweAh8/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", LET ME TELL YOU DAD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/LetMeTell-YouDad.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/amjUQY1zqaY/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", ULTIMATE REVENGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/UltimateRevenge.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static-cgv.vncdn.vn/media/catalog/product/cache/3/image/1800x/71252117777b696995f01934522c402d/1/0/1080wx650h-qnt.jpg" group-title="📁 MOVIES - REQUEST", THE CORPOSE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/The-Corpse2.m3u8
 
 
 
