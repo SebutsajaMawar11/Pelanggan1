@@ -1998,7 +1998,9 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 ================================
 alkas tv
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1 ////
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://shoof.alkass.net
 https://liveeu-gcps.alkassdigital.net/alkass1-p/20260809T151638Z/mux_video_1080p_ts/hdntl=exp=1788798455~acl=%2f*~data=hdntl~hmac=957696221113fd3beb28d588f2bd4b6219642bd0d54f71c23b97e7f6f15940c5/index-1.m3u8
 https://liveeu-gcps.alkassdigital.net/alkass1-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
