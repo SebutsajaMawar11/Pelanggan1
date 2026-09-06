@@ -5963,20 +5963,45 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ==================================
 
 
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+#EXTINF:-1 tvg-logo="https://horrorbrains.com/wp-content/uploads/2026/08/Deathwoods-2026-Horror-Movie-Poster-2.jpg" group-title="📁 MOVIES - REQUEST", DEATHWOODS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Deathwoods.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m2pwAGOnDfQ/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", DARK HOLLOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/DarkHollow.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HPz28myg12o/hq720.jpg" group-title="📁 MOVIES - REQUEST", CHEN ZHEN - STORM OVER THE CONCESSION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ChenZhen-StormOverTheConcession.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/kattalan-et00466949-1776678836.jpg" group-title="📁 MOVIES - REQUEST", KATTALAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Kattalan.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic4.iqiyipic.com/image/20260905/f9/d6/v_216305970_m_601_en_1080_608.jpg" group-title="📁 MOVIES - REQUEST", MANHUNT - DESERT JUSTICE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Manhunt-DesertJustice2.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://pic9.iqiyipic.com/image/20260211/9f/71/v_193438389_m_601_m4_720_405.jpg" group-title="📁 MOVIES - REQUEST", CRAZY MAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/CrazyMan.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXX" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7L5qkIkkcY8/hq720.jpg" group-title="📁 MOVIES - REQUEST", XXXXXXXXXXXXXXXX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
 
