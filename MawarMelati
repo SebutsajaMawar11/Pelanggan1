@@ -1999,7 +1999,6 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 alkas tv
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://liveeu-gcps.alkassdigital.net/alkass1-p/20260809T151638Z/mux_video_1080p_ts/hdntl=exp=1788798455~acl=%2f*~data=hdntl~hmac=957696221113fd3beb28d588f2bd4b6219642bd0d54f71c23b97e7f6f15940c5/index-1.m3u8
 https://liveeu-gcps.alkassdigital.net/alkass1-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
@@ -2008,15 +2007,14 @@ https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 2
 https://liveeu-gcps.alkassdigital.net/alkass2-p/20260813T120105Z/mux_video_1080p_ts/hdntl=exp=1788799826~acl=%2f*~data=hdntl~hmac=7b7fa2d925571ac194e6108235fa7b4711ede103de7356c6f51659592dd45d1c/index-1.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 ###### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkasssSport2.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://liveeu-gcps.alkassdigital.net/alkass3-p/20260812T044822Z/mux_video_720p_ts/hdntl=exp=1788800445~acl=%2f*~data=hdntl~hmac=cd9e968b51ae4e2722eced1d31bf0e8e8645ca0f41581e0bb9b9146efb22fee5/index-1.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 #### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-AlkassSport3.m3u8
 
@@ -3869,7 +3867,7 @@ AVC / VNL / CEV
 
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XZld06niSBi1a4UqvQ3WjL6nGyIdyWVpSw&s", VNL/CEV (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rumble.com/live-hls-dvr/qUctTlrMVmY/playlist.m3u8
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/N4RJtOVEPWga/2026/9/6/15_15_39/index.m3u8
 
 ### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
