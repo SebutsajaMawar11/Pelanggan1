@@ -1974,19 +1974,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 _____________
 FUBOTV
 
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Lz_AGLm13QancA==/0db3dce1-41f0-4900-8fcc-3983ab4d492d/CPwDEJ0COgUxLjEuOQ==" group-title="SPORTS",FUBO NETWORK 1
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Lz_AGLm13QancA==/0db3dce1-41f0-4900-8fcc-3983ab4d492d/CPwDEJ0COgUxLjEuOQ==" group-title="SPORTS", FUBO NETWORK 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Lz_AGLm13QancA==/0db3dce1-41f0-4900-8fcc-3983ab4d492d/CPwDEJ0COgUxLjEuOQ==" group-title="SPORTS",FUBO NETWORK 2
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Lz_AGLm13QancA==/0db3dce1-41f0-4900-8fcc-3983ab4d492d/CPwDEJ0COgUxLjEuOQ==" group-title="SPORTS", FUBO NETWORK 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size20/v1696604581/prd/iyfopp6wzuzji5dr4qno" group-title="SPORTS",FUBO SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdn.aceimg.com/tAAiNe1pP.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
