@@ -4156,6 +4156,12 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDikatanDarah.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QAK-oosLksM/hq720.jpg" group-title="▶VOD INDO◀", SENI MEMAHAMI KEKASIH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDseniMemahamiKekasih.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BjZCR60L6Ms/maxresdefault.jpg" group-title="▶VOD INDO◀", SHAKA OH SHAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.dubbindo.site/dubbing/upload/videos/2026/09/hVP4Oqf63V8KXlkVu4yp_07_12b43fe9cc427a17635ff7021c609aa0_video_720p_converted.mp4
