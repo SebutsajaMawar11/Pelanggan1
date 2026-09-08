@@ -8704,9 +8704,8 @@ https://live.vivo155.com/live/sd-10-5313818-1788867438.ts?txspiseq=1038870816005
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_3.webp" group-title="ช่อง SPORTS - 2",volleyball-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/volleyball3/playlist.m3u8
-
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+https://player.787200.com/live/index.html?liveUrl=https%253A%252F%252Flive.vivo155.com%252Flive%252Fsd-10-5313818.m3u8%253FtxSecret%253Daebfabae9fcc8557d5cc3ea04349575f%2526txTime%253D6AA009EC%2526refreshText%253DRefresh%2526isMobile%253Dfalse%2526mute%253D%2526cancel_mute%253DCancel%252Bmute%2526open_pip%253DOpen%252BPip%2526fullscreen%253D0%2526hotkey%253Dtrue
 
 
 
