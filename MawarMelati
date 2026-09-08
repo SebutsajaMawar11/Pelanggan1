@@ -1593,7 +1593,7 @@ SPOSTAR1
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Sportstars
-https://visionplus.fazznet.my.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+##### https://visionplus.fazznet.my.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 
@@ -1603,7 +1603,7 @@ https://visionplus.fazznet.my.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=112&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-###### https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 ### https://cdn.aceimg.com/tAAiNe1pP.mp4
@@ -1637,7 +1637,7 @@ SPORTSTAR 2
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Sportstars%202
-https://visionplus.fazznet.my.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#### https://visionplus.fazznet.my.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
@@ -1646,7 +1646,7 @@ https://visionplus.fazznet.my.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=113&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-###### https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
@@ -1661,7 +1661,7 @@ SPOSTAR 3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS3.png" group-title="SPORTS", SPORTSTARS 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://cdn.aceimg.com/tAAiNe1pP.mp4
+#### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
@@ -1670,7 +1670,7 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9999&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-###### https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
 # EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1696,7 +1696,7 @@ SPORSTAR4
 
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS4.png" group-title="SPORTS", SPORTSTARS 04 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://cdn.aceimg.com/tAAiNe1pP.mp4
+#### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS4.png" group-title="SPORTS", SPORTSTARS 04 HD
@@ -1704,7 +1704,7 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=205&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-###### https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 ======================
