@@ -8744,9 +8744,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_1.webp" group-title="ช่อง SPORTS - 2",volleyball-1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_1.webp" group-title="ช่อง SPORTS - 2", DETIK 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.vivo155.com
+#EXTVLCOPT:http-referrer=https://20.detik.com
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w582410912_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NDg2Mjk0Mzkmd293emF0b2tlbmhhc2g9Wk5uZ09LQmlMQ1RVOXBfQlNHZkNRaTF6WmI1UUo4Q010bjV3ZzhFckxHZz0=.m3u8
+
 https://live.vivo155.com/live/sd-10-5313818.m3u8?txSecret=3e73e17b6fb7bbe2419d373583fc330a&txTime=6AA008A8&refreshText=Refresh&isMobile=false&mute=&cancel_mute=Cancel+mute&open_pip=Open+Pip&fullscreen=0&hotkey=true
 https://live.vivo155.com/live/sd-10-5313818.m3u8
 https://live.vivo155.com/live/sd-10-5313818-1788867438.ts?txspiseq=103887081600533343596
