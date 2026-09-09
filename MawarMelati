@@ -4713,6 +4713,14 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 AVC
 
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/x7rfrsfEzsV-dRZOrxQ67wRTk4Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21254/avc-men-s-champions-league-2026-14a56e.jpg" group-title="▶EVENT 2 / LIVE◀", VOLLEY / SPORTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+
+
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://thumbor.prod.vidiocdn.com/x7rfrsfEzsV-dRZOrxQ67wRTk4Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21254/avc-men-s-champions-league-2026-14a56e.jpg", AVC / CEV / VNL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/tAAiNe1pP.mp4
