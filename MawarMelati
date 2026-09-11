@@ -3749,6 +3749,12 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 ==============================
 COLATV77
 
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKvFxZH44bpkH3WZ-N6k0I4dNE58CE-7B0YzOyjdZzh4GyN8i2dZvMlF8&s=10", ARMENIAN PREMIER LEAGUE (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.aiscore.com
+https://v101.sportcdn.live/live/live-1-4578919-0.flv?txSecret=19eeb8046bb609e0a2243db18ef66182&txTime=6aa42724
+
+
 
 #EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://png.pngtree.com/design-canvas/en/image-194b69e679aff964eb0ff75152707fef_7.webp", LIVE SPORT A (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
