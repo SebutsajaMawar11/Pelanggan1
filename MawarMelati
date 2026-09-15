@@ -2154,17 +2154,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 FANCODE
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Nf_mr5_ufE/maxresdefault.jpg", group-title="SPORTS", FANCODE 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-###### https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Nf_mr5_ufE/maxresdefault.jpg", group-title="SPORTS", FANCODE 01
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Nf_mr5_ufE/maxresdefault.jpg", group-title="SPORTS", FANCODE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2175,14 +2165,22 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Nf_mr5_ufE/maxresdefault.jpg", group-title="SPORTS", FANCODE 03
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Nf_mr5_ufE/maxresdefault.jpg", group-title="SPORTS", FANCODE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-xxxxxxxxxxxxxxxx
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Nf_mr5_ufE/maxresdefault.jpg", group-title="SPORTS", FANCODE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 
 =============
@@ -2517,6 +2515,8 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=57c1fdd8-6295-4541-8f01-a9e1baee7486&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/65e11743-1e00-4b43-8904-122f90c6bebb/0.m3u8
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-OneChampionsip.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2022tJVDxI2dgVYV0byQYykYIIHjzw3Ewxg&s", group-title="SPORTS 2 HD", UFC TV
@@ -3291,6 +3291,39 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjoixM0hA7huUXDJ41uv1oUMSjydsmoWxpCgfqlS7oxCPPKcYL3rraCU&s=10" group-title="SPORTS 2 FHD", POLSAT SPORTS FIGHT
+
+
+
+
+#EXTINF:-1 tvg-logo="https://kyujinshim.com/wp-content/uploads/2016/05/one-fc-new-logo-circa-2014-750x370-600x296.jpg?w=640" group-title="SPORTS 2 FHD", ONE FIGHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://www.apple.com/newsroom/videos/apple-tv-plus-/posters/Apple-TV-app_571x321.jpg" group-title="SPORTS 2 FHD", APPLE TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6fb331ba7626d5b8cf7e0e021123c6c:851debc8a163d983a189c75fe55e76d4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxqlrbffzr/out/v1/70d05b34fd3f4e5c865934cd2410f3e9/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://www.apple.com/newsroom/videos/apple-tv-plus-/posters/Apple-TV-app_571x321.jpg" group-title="SPORTS 2 FHD", APPLE TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0167f8a5efeb58aab9ddc9b8960d2d9e:bd56e86317856eeb57001b9b5d85d82d
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dgditzefdj/out/v1/f815a2fd789142b79eeaa33407a190a9/cenc.mpd
+
+
 
 
 
