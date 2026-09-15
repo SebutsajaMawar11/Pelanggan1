@@ -9596,28 +9596,36 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=1.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
+==================================================================================
 
+#EXTM3U
+#PLAYLIST:Willow Cricket Event Info
+#LAST_UPDATE:07:32 PM 15-09-2026
+#TELEGRAM:https://t.me/livesportsplay
+#OWNER:Md Sohanur Rahman Hady
+#LIVE_COUNT:3
+#UPCOMING_COUNT:5
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_1.webp" group-title="ช่อง SPORTS - 2", DETIK 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://20.detik.com
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w582410912_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NDg2Mjk0Mzkmd293emF0b2tlbmhhc2g9Wk5uZ09LQmlMQ1RVOXBfQlNHZkNRaTF6WmI1UUo4Q010bjV3ZzhFckxHZz0=.m3u8
+#EXTINF:-1 tvg-id="B0H7PD3W98" tvg-name="European T20 Premier League 2026 - 26th Match - Amsterdam Flames vs Dublin Guardians" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.118470e0-9473-4801-988f-907d4b7a1c04/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 26th Match - Amsterdam Flames vs Dublin Guardians
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=309e85d6694749978e614aa5926c73a9:116d71ce23ee34ac656af54fb1400ffb
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0yruzktkji/out/v1/d65aac70c1904c7f8d75cbf959fb2d46/cenc.mpd
 
-https://live.vivo155.com/live/sd-10-5313818.m3u8?txSecret=3e73e17b6fb7bbe2419d373583fc330a&txTime=6AA008A8&refreshText=Refresh&isMobile=false&mute=&cancel_mute=Cancel+mute&open_pip=Open+Pip&fullscreen=0&hotkey=true
-https://live.vivo155.com/live/sd-10-5313818.m3u8
-https://live.vivo155.com/live/sd-10-5313818-1788867438.ts?txspiseq=103887081600533343596
+#EXTINF:-1 tvg-id="B0HHHWXG6B" tvg-name="Afghanistan vs India in India 2026 - 2nd T20I - Afghanistan vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7d963906-b7ec-4422-b07d-2a6eb9193931/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs India in India 2026 - 2nd T20I - Afghanistan vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=881660f21b521a54803840a388caaffa:b152a33ccb29c23fc05f8e6379f69551
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rg1wbyohtc/out/v1/e3fc25fcd54141b0a1aa39c1b04c0d7b/cenc.mpd
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_2.webp" group-title="ช่อง SPORTS - 2",volleyball-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.787200.com
-https://live.vivo155.com/live/sd-10-5313818.m3u8?txSecret=3e73e17b6fb7bbe2419d373583fc330a&txTime=6AA008A8&refreshText=Refresh&isMobile=false&mute=&cancel_mute=Cancel+mute&open_pip=Open+Pip&fullscreen=0&hotkey=true
-https://live.vivo155.com/live/sd-10-5313818-1788867438.ts?txspiseq=103887081600533343596
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_3.webp" group-title="ช่อง SPORTS - 2", premier league
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.aiscore.com
-https://v101.sportcdn.live/live/live-1-4578919-0.flv?txSecret=19eeb8046bb609e0a2243db18ef66182&txTime=6aa42724
+#EXTINF:-1 tvg-id="B0HF7W3GL3" tvg-name="European T20 Premier League 2026 - 27th Match - Edinburgh Castle Rockers vs Rotterdam Dockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bdbca49d-805a-4040-8857-6ae040e7c579/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 27th Match - Edinburgh Castle Rockers vs Rotterdam Dockers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4895c87726de3958e86b9a4557df4cea:7af28b191fc23a1332c9b41400c15d3d
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kf7yl3p0f9/out/v1/4a463dfd04374d4284c21789dce6247e/cenc.mpd
 
 
 
