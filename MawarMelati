@@ -1973,7 +1973,7 @@ Sport_TV
 
 CAZE TV
 
-#EXTINF:-1 tvg-logo="https://odia.ig.com.br/_midias/jpg/2023/01/13/1200x750/1_caze_tv_mundial_de_clubes-27682259.jpeg" group-title="SPORTS", CAZE TV
+#EXTINF:-1 tvg-logo="https://odia.ig.com.br/_midias/jpg/2023/01/13/1200x750/1_caze_tv_mundial_de_clubes-27682259.jpeg" group-title="SPORTS", CAZE TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
@@ -1983,6 +1983,14 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/
 ### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 ####  https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://odia.ig.com.br/_midias/jpg/2023/01/13/1200x750/1_caze_tv_mundial_de_clubes-27682259.jpeg" group-title="SPORTS", CAZE TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
 
 
 =================
@@ -3307,8 +3315,6 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 
 #EXTINF:-1 tvg-logo="https://www.apple.com/newsroom/videos/apple-tv-plus-/posters/Apple-TV-app_571x321.jpg" group-title="SPORTS 2 FHD", APPLE TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6fb331ba7626d5b8cf7e0e021123c6c:851debc8a163d983a189c75fe55e76d4
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxqlrbffzr/out/v1/70d05b34fd3f4e5c865934cd2410f3e9/cenc.mpd
@@ -3317,8 +3323,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxqlrbffzr/out/v1
 
 #EXTINF:-1 tvg-logo="https://www.apple.com/newsroom/videos/apple-tv-plus-/posters/Apple-TV-app_571x321.jpg" group-title="SPORTS 2 FHD", APPLE TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0167f8a5efeb58aab9ddc9b8960d2d9e:bd56e86317856eeb57001b9b5d85d82d
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dgditzefdj/out/v1/f815a2fd789142b79eeaa33407a190a9/cenc.mpd
