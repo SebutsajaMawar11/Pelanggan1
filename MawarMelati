@@ -3833,8 +3833,9 @@ COLATV77
 
 
 
-
-
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://png.pngtree.com/design-canvas/en/image-194b69e679aff964eb0ff75152707fef_7.webp", LIVE SPORT (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d302.soft4game.com/o22/stream502/o/stream502/chunks.m3u8?nimblesessionid=132828845&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDI2IDg6NTE6NTEgQU0maGFzaF92YWx1ZT1USFBCSjRaRGNWSmttTDhJdTFWL0pnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 
 
 
