@@ -3824,6 +3824,17 @@ https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.m
 
 
 
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://asset.indosport.com/article/image/243651/piala_dunia_20182-169.jpg", EVENT 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+
+
+
+
+
+
 ==============================
 COLATV77
 
