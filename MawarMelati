@@ -4769,10 +4769,32 @@ AVC / VNL / CEV
 
 
 
+=====================///////======================
+=======================//////=====================
+
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEu9cYs6sxSJBc-4KyPIzN79hqWCSrDgIjk6Aq_yHsJQ&s=10", EVENT 1 (TERSEDIA SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEu9cYs6sxSJBc-4KyPIzN79hqWCSrDgIjk6Aq_yHsJQ&s=10", EVENT 2 (TERSEDIA SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="▶EVENT 2 / LIVE◀" tvg-logo="https://www.wethrift.com/logo/store_peg8kzmsrhc45h", VNL/CEV (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/N6vu3yYS1eDy/2026/9/16/12_7_4/index.m3u8
-https://rumble.com/live-hls-dvr/XAmQ9GLDewU/playlist.m3u8
+
 
 
 
