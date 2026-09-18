@@ -350,8 +350,8 @@ ________________________________________________________________________________
 🔴INDOSIAR (NORMAL)
 
 
-#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; POLYTRONTV-MPFO15) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
