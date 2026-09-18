@@ -172,6 +172,86 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 
+================================🔴🔴🔴 VIDIO 🔴🔴🔴=========================================
+===============================================================================================
+
+INDOSIAR
+
+
+______________________________________________________________________________________________________
+
+
+🔴INDOSIAR (NORMAL)
+
+
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+
+
+
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+
+
+### http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+
+#### https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
+
+
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+### https://ogietv.biz.id:443/Livetv/234/1325.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Indosiar
+#### https://visionplus.fazznet.my.id/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+
+#### https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+
+
+# EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD)
+### https://cdn.aceimg.com/tAAiNe1pP.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR_LIVE (FHD)
+
+
+
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
+#### http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34327
+### http://202.169.224.202:8800/udp/239.9.1.25:1234
+#### http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
+#### http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
+#### http://202.169.224.202:8800/udp/239.9.1.25:1234
+#### https://s.id/Shareext_liga1_m3u8
+### https://cdn.aceimg.com/tAAiNe1pP.mp4
+### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar1.m3u8
+
+
+___________________________________________________________________________________________________________________
+
+
+
+
+
+
 ========================================================================================
 
 
@@ -338,94 +418,6 @@ https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 ____________________________________________________________________________________
 
 
-================================🔴🔴🔴 VIDIO 🔴🔴🔴=========================================
-===============================================================================================
-
-INDOSIAR
-
-
-______________________________________________________________________________________________________
-
-
-🔴INDOSIAR (NORMAL)
-
-
-#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
-https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
-
-
-
-## #EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-### https://live2.domainkqt.cc/live/channel18.m3u8
-### http://013tv.com:8080/F33848/cbd9779b/162138
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-### https ://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
-
-
-### http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
-
-#### https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
-
-
-#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-### https://ogietv.biz.id:443/Livetv/234/1325.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Indosiar
-#### https://visionplus.fazznet.my.id/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-
-
-#### https://beetv.my.id/stream/vd.m3u8?ch=indosiar
-
-
-# EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (VD)
-### https://cdn.aceimg.com/tAAiNe1pP.mp4
-
-
-
-#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR_LIVE (FHD)
-
-
-
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
-#### http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34327
-### http://202.169.224.202:8800/udp/239.9.1.25:1234
-#### http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
-#### http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-#### http://202.169.224.202:8800/udp/239.9.1.25:1234
-#### https://s.id/Shareext_liga1_m3u8
-### https://cdn.aceimg.com/tAAiNe1pP.mp4
-### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar1.m3u8
-
-
-___________________________________________________________________________________________________________________
 
 
 ==============
