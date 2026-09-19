@@ -6833,6 +6833,17 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ===============================
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vm4v2fQan4I/maxresdefault.jpg" group-title="▶VOD SERIES◀", NE ZHA 2 (FULL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodSeries/refs/heads/main/NeZha2.m3u8
+
+
+
+
+
+===============================
+
+
 #EXTINF:-1 tvg-logo="https://img.inews.id/media/600/files/inews_new/2026/07/28/My_Chef_In_Crime.jpg" group-title="▶VOD SERIES◀", MY CHEF IN CRIME (Eps1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodSeries/refs/heads/main/MyChef-InCrimeS1.m3u8
