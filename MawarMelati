@@ -7214,22 +7214,25 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ==================================
 
 
+
+#EXTINF:-1 tvg-logo="https://pic7.iqiyipic.com/image/20260916/b6/7c/v_222655959_m_601_zh-CN_1013_569.jpg" group-title="📁 MOVIES - REQUEST", RESTART TOMORROW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/RestartTomorrow.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/discovery-catalog/events/et00502598-jsvgphsezh-landscape.jpg" group-title="📁 MOVIES - REQUEST", ANANTHAN KAADU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/AnanthanKaadu.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M9tHmu0wNHM/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", ZIP WIRE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ZipWire.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
