@@ -788,6 +788,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="- INDONESIA  / VIP -", GTV+ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790110945~hmac=78e4d691d38567757a53bb556fda58d2c217dbf70ca8696010309913e6f20496
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -814,6 +821,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="- INDONESIA  / VIP -", MNCTV+ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790110945~hmac=bad5ce3e327fe5941b4a48c3c5633acc3cd65ae374f3a9f65de8787531e9e849
 
 
 
@@ -870,6 +884,13 @@ https://liveplus.rctiplus.id/rcti2023.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="- INDONESIA  / VIP -", RCTI+ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790110944~hmac=3e2ac30f157f89e545ecde265b178c93b0dd9da4e601b93c26d5dcaa16d9e2cd
+
+
 ============================================
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/trnas7.png" group-title="- INDONESIA  / VIP -", TRANS 7 - FHD
@@ -919,6 +940,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNewsTV - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34335
+
+
+#EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews-TV+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790110945~hmac=4e126ef5de0bf5a59a93d8826b2f2cc4344784fb983502bb36d59dc16c64cec4
+
 
 
 #EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews-TV
