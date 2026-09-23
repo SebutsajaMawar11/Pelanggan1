@@ -9866,7 +9866,7 @@ https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790171147~hmac=9e68a5e151
 https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790171147~hmac=e2d62f0feee83064036d4e8631a820ce59fe243369edb18b3b2bfb3d2472398b
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", xxx
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Banner_Landscape/daily_epg/210926/campus_league_21_25_Day_3.jpg", CAMPUS LEAGUE
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://nontonlagi.rctiplus.id/abvia/campusleague2026/manifest720.m3u8
