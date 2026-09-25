@@ -393,8 +393,8 @@ https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR_LIVE (FHD)
-
-
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34327
 
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
 #### http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34327
@@ -1013,6 +1013,10 @@ http://opplextv.cyou:8080/nasir6160/nasir/351030
 
 
 ==========================================
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="- INDONESIA  / VIP -", INDOSIAR - FHD
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
+
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="- INDONESIA  / VIP -", INDOSIAR - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
