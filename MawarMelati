@@ -2524,12 +2524,12 @@ FIFA TV
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://stream2watch.com.co/wp-content/uploads/2025/10/FIFA-Plus-Stream2Watch.com_.co-Official.webp" group-title="SPORTS", FIFA+
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/239697/logo_fifa-169.jpg" group-title="SPORTS", FIFA+
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
 
 =====================
-one sport+
+on sport+
 
 
 #EXTINF:-1 tvg-logo="https://imgvlive.vtvcab.vn/720X405/62954f11-54cd-4b09-aedc-52a4c4190b04.jpg" group-title="SPORTS", ON SPORTS+
@@ -2603,7 +2603,7 @@ ________
 #EXTINF:-1 tvg-logo="https://dhhmpfovkf2ub.cloudfront.net/content/dam/appstore/visual_update_2020/blog/blog_redbull_thumb_690x493.jpg?ck=1716338932" group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sky.de/static/img/program_guide/51719_ser_m.jpg" group-title="SPORTS" ,MOTORVISION TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" group-title="SPORTS", MOTORVISION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
