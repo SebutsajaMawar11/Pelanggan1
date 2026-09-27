@@ -1109,10 +1109,18 @@ http://tvgp.diskon.cloud/red/205.mpd
 
 =============================================
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -", MOJI 1
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
 https://cdnb.rkda.my.id/t/iJQwmFTe_W5SRcqlnUIJmA/1790513262/2d193c49-7daa-4aac-8934-7b3197d62258_output_0.m3u8?session=9idPAapE8h2AGY9X824Nwt
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -", MOJI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+https://cdnb.rkda.my.id/t/oWzDm1uBXSpbQWiv1KZkNw/1790513970/2d193c49-7daa-4aac-8934-7b3197d62258_output_0.m3u8?session=ntbg6BejsRchYJxru8EG9P
+
 
 
 
@@ -10075,7 +10083,7 @@ https://nontonlagi.rctiplus.id/abvia/campusleague2026/manifest720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
 https://cdnb.rkda.my.id/t/iJQwmFTe_W5SRcqlnUIJmA/1790513262/2d193c49-7daa-4aac-8934-7b3197d62258_output_0.m3u8?session=9idPAapE8h2AGY9X824Nwt
-
+https://cdnb.rkda.my.id/t/oWzDm1uBXSpbQWiv1KZkNw/1790513970/2d193c49-7daa-4aac-8934-7b3197d62258_output_0.m3u8?session=ntbg6BejsRchYJxru8EG9P
 
 
 
