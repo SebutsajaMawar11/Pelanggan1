@@ -1111,13 +1111,14 @@ http://tvgp.diskon.cloud/red/205.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -", MOJI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdn.aceimg.com/tAAiNe1pP.mp4
-### http://157.15.187.3:25092/hls/50/50.m3u8
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+https://cdnb.rkda.my.id/t/iJQwmFTe_W5SRcqlnUIJmA/1790513262/2d193c49-7daa-4aac-8934-7b3197d62258_output_0.m3u8?session=9idPAapE8h2AGY9X824Nwt
 
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -", MOJI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnb.rkda.my.id/t/iJQwmFTe_W5SRcqlnUIJmA/1790513262/2d193c49-7daa-4aac-8934-7b3197d62258_output_0.m3u8?session=9idPAapE8h2AGY9X824Nwt
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 
