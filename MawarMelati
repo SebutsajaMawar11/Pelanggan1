@@ -71,6 +71,13 @@ https://live05.meung.app/live/07808742_tsc.m3u8
 #### https://live05.meung.app/live/07428422.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6Uxu2qlZszc/maxresdefault.jpg" group-title="🔴 EVENT", 🔴 INDONESIA vs MALAYSIA (XOILACZ.IO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://img.bolaskor.com/media/db/77/df/db77df798e16e4c99f77a4e275b7d28d.png" group-title="🔴 EVENT", 🔴 INDONESIA vs MALAYSIA (INDOSIAR)
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
