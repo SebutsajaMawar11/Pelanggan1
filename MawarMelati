@@ -70,6 +70,11 @@ https://cdna.rkda.my.id/t/bYqpKKycFCK1yLMVWbjQ4g/1790616383/dd9f8e0c-e618-416c-a
 https://live.dyrur1.com/live/74557126_5c32e12daa8fdb8791a124cf58442d15_autoChange.m3u8?auth_key=1790612668-0-0-bed9d4756c8b6ac631496db97e452c80
 
 
+#EXTINF:-1 tvg-logo="https://rajamedia.co/storage/001/2026/09/prediksi-indonesia-vs-malaysia-derby-serumpun-panas-garuda-menang-tipis-27092026-203139.png" group-title="🔴 EVENT", 🔴 INDONESIA vs MALAYSIA (DAZN 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/fifaAsianCupDAZN.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.topik.id/wp-content/uploads/2026/09/perbandingan-market-value-timnas-indonesia-vs-malaysia.webp" group-title="🔴 EVENT", 🔴 INDONESIA vs MALAYSIA (COLATV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://colatv99.live/
