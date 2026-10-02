@@ -62,7 +62,7 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a
 
 #EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/01/1790830113937_nhan-dinh-bong-da-thai-lan-vs-philippines-teerasak-cung-voi-chien-huong-toi-vong-bang-toan-thang.png" group-title="🔴 EVENT", 🔴 THAILAND vs FILIPINA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+#EXTVLCOPT:http-referrer=https://ls-mp02stg.eo-edgefunctions7.com/
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
