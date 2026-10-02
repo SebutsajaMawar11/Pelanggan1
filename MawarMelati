@@ -53,15 +53,13 @@ wkwkwkwkwkk....... 🤣🤣🤣🤣😂
 https://cdn.aceimg.com/6e11d212d.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/S_0ROOEyKcc/maxresdefault.jpg" group-title="🔴 EVENT", 🔴DE RED FC vs PERSIPURA JAYAPURA (SELESAI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdn.aceimg.com/tAAiNe1pP.mp4
+=======================================
 
 
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/226030/1790342281_b0464c6958.jpg" group-title="🔴 EVENT", 🔴 KAZAKHSTAN vs MOLDOVA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+#EXTVLCOPT:http-referrer=https://cdngateway.rkda.my.id
 https://cdngateway.rkda.my.id/hls/4c16ed9cea395af02cd36797dc7ff7f0ed3f6d76ddad8415/r/40b9e2ccbf0b1b7b89dd94a0f4a9382e
 
 
@@ -75,6 +73,16 @@ https://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_autoChang
 
 
 
+
+
+
+
+=================================
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/S_0ROOEyKcc/maxresdefault.jpg" group-title="🔴 EVENT", 🔴DE RED FC vs PERSIPURA JAYAPURA (SELESAI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 #EXTINF:-1 tvg-logo="https://cdn25.metrotvnews.com/img/corner/2026/Cuplikan%20layar%202026-09-29%20130438(1).jpg" group-title="🔴 EVENT", 🔴 THAILAND vs FILIPINA (SELESAI)
