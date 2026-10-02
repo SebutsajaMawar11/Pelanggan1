@@ -2204,6 +2204,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1
 
 
 
+===============
+qazsport
+
+#EXTINF:-1 tvg-logo="https://live.bdtype.com/upload/tv/QAZ%20SPORT.png" group-title="SPORTS", QAZSPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/72/index.m3u8
+
+
+
+
 =================
 TSN SPORT
 
