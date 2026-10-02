@@ -68,6 +68,11 @@ https://cdngateway.rkda.my.id/hls/4c16ed9cea395af02cd36797dc7ff7f0ed3f6d76ddad84
 
 
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/09/30/nhan-dinh-bong-da-du-doan-kazakhstan-vs-moldova-uefa-nations-league-hom-nay-3009141243.jpg" group-title="🔴 EVENT", 🔴 KAZAKHSTAN vs MOLDOVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_autoChange.m3u8
+
+
 
 
 
