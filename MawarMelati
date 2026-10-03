@@ -56,10 +56,10 @@ https://cdn.aceimg.com/6e11d212d.mp4
 =======================================
 
 
-#EXTINF:-1 tvg-logo="https://asset.tribunnews.com/KF8miirvQHzlBiVwTAxUXtD9YsE=/650x365/filters:quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/pontianak/foto/bank/originals/ASIAN-GAMES-2026-54ydfghf546.jpg" group-title="🔴 EVENT", 🔴 KOREA vs JEPANG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
-https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
+#EXTINF:-1 tvg-logo="https://asset.tribunnews.com/KF8miirvQHzlBiVwTAxUXtD9YsE=/650x365/filters:quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/pontianak/foto/bank/originals/ASIAN-GAMES-2026-54ydfghf546.jpg" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+
 
 
 
