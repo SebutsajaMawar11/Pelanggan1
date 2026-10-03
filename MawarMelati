@@ -571,15 +571,13 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
-https://cdnb.rkda.my.id/t/iJQwmFTe_W5SRcqlnUIJmA/1790513262/2d193c49-7daa-4aac-8934-7b3197d62258_output_0.m3u8
-
+http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62218
 
 
 moji sport
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI SPORT (FHD)
-https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
+
 
 ### http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350997
 
