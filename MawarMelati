@@ -70,14 +70,13 @@ https://cdnb.rkda.my.id/t/k0K8Q4gWqmfcmZyp8U2OsA/1791038052/2d193c49-7daa-4aac-8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QwMlDau3IHI/maxresdefault.jpg" group-title="🔴 EVENT", 🔴 HONGKONG vs KAMBOJA (MOJI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MojiFIFA.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bJFVddMqLgM/hq720.jpg" group-title="🔴 EVENT", 🔴 HONGKONG vs KAMBOJA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bJFVddMqLgM/hq720.jpg" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-https://live4.dyrur1.com/live/75205506_f01329573dd99cdd6a5d673173eac08c_autoChange.m3u8
-https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/fifaAsianCupDAZN.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+####### https://live4.dyrur1.com/live/75205506_f01329573dd99cdd6a5d673173eac08c_autoChange.m3u8
+####### https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/fifaAsianCupDAZN.m3u8
 
 
 
