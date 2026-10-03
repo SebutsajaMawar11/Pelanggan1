@@ -56,6 +56,16 @@ https://cdn.aceimg.com/6e11d212d.mp4
 =======================================
 
 
+#EXTINF:-1 tvg-logo="https://asset.tribunnews.com/KF8miirvQHzlBiVwTAxUXtD9YsE=/650x365/filters:quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/pontianak/foto/bank/originals/ASIAN-GAMES-2026-54ydfghf546.jpg" group-title="🔴 EVENT", 🔴 KOREA vs JEPANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QwMlDau3IHI/maxresdefault.jpg" group-title="🔴 EVENT", 🔴 HONGKONG vs KAMBOJA (MOJI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
