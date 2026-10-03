@@ -63,6 +63,7 @@ https://cdnb.rkda.my.id/t/k0K8Q4gWqmfcmZyp8U2OsA/1791038052/2d193c49-7daa-4aac-8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QwMlDau3IHI/maxresdefault.jpg" group-title="🔴 EVENT", 🔴 HONGKONG vs KAMBOJA (MOJI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-MojiFIFA.m3u8
 
 
@@ -73,7 +74,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/f
 
 
 
-
+=================================
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8KR3AEmjGkY/maxresdefault.jpg" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
