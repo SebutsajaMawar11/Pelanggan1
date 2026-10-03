@@ -56,6 +56,14 @@ https://cdn.aceimg.com/6e11d212d.mp4
 =======================================
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QwMlDau3IHI/maxresdefault.jpg" group-title="🔴 EVENT", 🔴 HONGKONG vs KAMBOJA (MOJI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+https://cdnb.rkda.my.id/t/k0K8Q4gWqmfcmZyp8U2OsA/1791038052/2d193c49-7daa-4aac-8934-7b3197d62258_output_0.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QwMlDau3IHI/maxresdefault.jpg" group-title="🔴 EVENT", 🔴 HONGKONG vs KAMBOJA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 https://live4.dyrur1.com/live/75205506_f01329573dd99cdd6a5d673173eac08c_autoChange.m3u8
