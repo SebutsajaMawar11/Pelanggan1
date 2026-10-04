@@ -3470,6 +3470,18 @@ https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 =====================================
 
 
+#EXTINF:-1 tvg-id="here" tvg-logo="https://identsandpresentation.com/wp-content/uploads/2026/02/skysports2025.webp" group-title="SPORTS 2 HD" , SKY SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=ey78I85UBI0z8ivVfEQ8xA&e=2089870147&scheme=https
+
+
+
+
+=============================
+
+
 
 #EXTINF:-1 tvg-id="here" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5DMwHRNTQiPCr3ZNskWVT3Mop4ReGdTB5w&s" group-title="SPORTS 2 HD" , Real Madrid TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
