@@ -58,7 +58,8 @@ https://cdn.aceimg.com/6e11d212d.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PJoK__nhQQ-hp6TkjtmSjd-Nrco=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/7749532/fm-liga-2-persikab-kab-e58a09.jpg" group-title="🔴 EVENT", 🔴 SEMEN PADANG vs PSPS RIAU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://static-web.prod.vidiocdn.com/_next/static/manifest/manifest.webmanifest
 
 
 
