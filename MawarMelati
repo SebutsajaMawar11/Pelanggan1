@@ -3260,21 +3260,6 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-id="" tvg-logo="https://i.pinimg.com/736x/fe/4c/f9/fe4cf9657955277256a9d97cc59a5dd4.jpg",BEIN SPORTS 1 AR ⭐⭐⭐
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-id="" tvg-logo="https://i.pinimg.com/736x/fe/4c/f9/fe4cf9657955277256a9d97cc59a5dd4.jpg",BEIN SPORTS 2 AR ⭐⭐⭐
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-id="" tvg-logo="https://i.pinimg.com/736x/fe/4c/f9/fe4cf9657955277256a9d97cc59a5dd4.jpg",BEIN SPORTS 3 AR ⭐⭐⭐
-
-
-
-
 #EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgWOQqVQ_rvdzbiw0pe93KJldAF273Xo7KkUImNXEe9G2QTGyy2NXEzTUDZd7ERl1Rnc&usqp=CAU" group-title="SPORTS 2 HD" , BEIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3432,7 +3417,8 @@ dazn tv
 ####http://supersonictv.live:8080/006779/439866/7632
 
 
-
+=============================
+FOXSPORTS
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3MGm2necbhhx96iLp19DniVAOV4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7648/fox-1-bead8c.jpg" group-title="SPORTS 2 HD", FOXSPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3467,6 +3453,22 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11HObx6n9zhE87BQnOdzmPA1Iut_EJ8n2lHXTLCJpgcmATCnS1_2pPXwh&s=10" group-title="SPORTS 2 HD", FS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+
+
+
+
+=====================================
+
 
 
 #EXTINF:-1 tvg-id="here" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5DMwHRNTQiPCr3ZNskWVT3Mop4ReGdTB5w&s" group-title="SPORTS 2 HD" , Real Madrid TV
