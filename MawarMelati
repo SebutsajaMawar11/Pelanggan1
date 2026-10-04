@@ -56,9 +56,18 @@ https://cdn.aceimg.com/6e11d212d.mp4
 =======================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVNA-TOiECFQSrIBPcPg94M9S6Tq6FFcUrus6r3T8Akkf4aJLUqWk-jA&s=10" group-title="🔴 EVENT", 🔴 ICELAND vs BULGARIA
+#EXTINF:-1 tvg-logo="https://wartabanjar.com/uploads/2026/10/1791070547_6bfa62c2.webp" group-title="🔴 EVENT", 🔴 BARITO PUTRA vs PERSELA LAMONGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live2.dyrur1.com/live/73929298_fea07b42910bca4c8297738a943c6eaa_autoChange.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVNA-TOiECFQSrIBPcPg94M9S6Tq6FFcUrus6r3T8Akkf4aJLUqWk-jA&s=10" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-https://cdngateway.rkda.my.id/hls/6cf076cb491915702ea7505bfdc774d8c0d8ce8eeb7c94b3/master.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
+
 
 
 
