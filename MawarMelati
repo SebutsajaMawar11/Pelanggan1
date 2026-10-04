@@ -3467,6 +3467,14 @@ https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11HObx6n9zhE87BQnOdzmPA1Iut_EJ8n2lHXTLCJpgcmATCnS1_2pPXwh&s=10" group-title="SPORTS 2 HD", FS2/2
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+
+
 
 =====================================
 
