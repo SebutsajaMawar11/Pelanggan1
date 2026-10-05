@@ -3645,6 +3645,12 @@ SPORT DIGITAL FSBL
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 
+=======================
+MSG SPORTSZONE
+
+#EXTINF:-1 tvg-id="here" tvg-logo="https://prod-s.cdn-cf.philo.com/gracenote/assets/p23697814_b_h10_aa.jpg?auto=webp&auto=webp&ver=1&ver=1&width=630" group-title="SPORTS 2 HD" , MSG SPORTSZONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://37ed58e7.wurl.com/v1/amc_msgsportszone_1/tablo_us/latest/main/hls/playlist.m3u8
 
 ===========================
 
