@@ -56,6 +56,75 @@ https://cdn.aceimg.com/6e11d212d.mp4
 =======================================
 
 
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXX" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXX" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXX" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (M LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#### https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXX" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (FAWA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://www.fawanews.sc/
+#### http://193.47.62.55/hls/ekkkkAA.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GEZGwmDmDDo/hq720.jpg" group-title="🔴 EVENT", 🔴 JAPAN vs NEW ZEALAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8?
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GEZGwmDmDDo/hq720.jpg" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live2.domainkqt.cc/live/channel24.m3u8
+
+
+
+
+
+
+
+====================================
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WGg1ultm5d0/maxresdefault.jpg" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/tAAiNe1pP.mp4
