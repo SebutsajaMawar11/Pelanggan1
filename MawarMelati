@@ -102,6 +102,10 @@ https://live2.zktsva.app/live/294335.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/18/2026/10/03/indonesia-vs-thailand-final-fifa-asean-cup-2026-zCw6x.webp" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (COLATV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live05.meung.app/live/07428422_tsc.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/18/2026/10/03/indonesia-vs-thailand-final-fifa-asean-cup-2026-zCw6x.webp" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (FAWA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
