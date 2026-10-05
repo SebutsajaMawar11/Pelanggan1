@@ -10634,11 +10634,16 @@ https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/L
 
 
 
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/205/codec=h264/file/master.m3u8?hdnts=exp=1791230419~acl=/stream/205/codec=h264/file/master.m3u8!/stream/205/file/*/aac/*!/stream/205/file/*/*-2160p/*!/stream/205/file/*/*-1440p/*!/stream/205/file/*/*-1080p/*!/stream/205/file/*/*-720p/*!/stream/205/file/*/*-480p/*!/stream/205/file/*/*-360p/*~id=allUsers~hmac=bdfd2c6b2340066c22956f6cb882debb08bd694f61ee89c9a85c4538d481d2db
+
+
 
 ============================
 
 
-
+Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 
 
 
