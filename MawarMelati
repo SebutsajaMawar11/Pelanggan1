@@ -49,10 +49,6 @@ wkwkwkwkwkk....... 🤣🤣🤣🤣😂
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="🔴 EVENT",
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="🔴 EVENT", INFO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -62,83 +58,35 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 =======================================
 
 
-#EXTINF:-1 tvg-logo="https://assets.radarcirebon.tv/main/2026/10/32.-siaran-langsung-indonesia-vs-thailand-final-fifa-asean-cup-2026-1200x675.webp" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (INDOSIAR)
+#EXTINF:-1 tvg-logo="https://assets.radarcirebon.tv/main/2026/10/32.-siaran-langsung-indonesia-vs-thailand-final-fifa-asean-cup-2026-1200x675.webp" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
-https://cdnd.rkda.my.id/memfs/c2f20a9b-0fa1-4640-96bc-39b42b18d6de_output_0.m3u8
-https://cdnd.rkda.my.id/memfs/c2f20a9b-0fa1-4640-96bc-39b42b18d6de.m3u8
-https://cdnb.rkda.my.id/t/7zdMYt6-5CR0bcsqI8Xp4g/1791220887/dd9f8e0c-e618-416c-a79c-5e8f739e167d.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXX" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tclNMZHrcuI/maxresdefault.jpg" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
 
 
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXX" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND
+#EXTINF:-1 tvg-logo="https://www.topik.id/wp-content/uploads/2026/10/final-fifa-asean-cup-indonesia-vs-thailand.webp" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tclNMZHrcuI/maxresdefault.jpg" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (M LIVE)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-wAOSU5jCkg/maxresdefault.jpg" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
-
-
-
-#EXTINF:-1 tvg-logo="https://www.topik.id/wp-content/uploads/2026/10/final-fifa-asean-cup-indonesia-vs-thailand.webp" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (DAZN)
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/18/2026/10/03/indonesia-vs-thailand-final-fifa-asean-cup-2026-zCw6x.webp" group-title="🔴 EVENT", 🔴(TAYANGAN SELESAI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.dyrur1.com/live/75234248_c0fd4ae0857afd21b13c3ff5fea65097_autoChange.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://asset.tribunnews.com/BUT2nIC7TbrxB6M4_tgx7q0PZV0=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/Timnas-Indonesia-vs-thailand-darr.jpg" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (GAVANG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavang33.live
-https://live2.zktsva.app/live/294335.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-wAOSU5jCkg/maxresdefault.jpg" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (COLATV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422_tsc.m3u8
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/18/2026/10/03/indonesia-vs-thailand-final-fifa-asean-cup-2026-zCw6x.webp" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (FAWA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/ekkkkAA.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
@@ -10612,14 +10560,39 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 
 
+
+===========================
+
+
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 2
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
@@ -10627,17 +10600,40 @@ https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+https://cdn1-global.ebaclofen.org/live/pro7/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+https://cdn1-global.ebaclofen.org/live/pro8/index.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+https://cdn1-global.ebaclofen.org/live/pro9/index.m3u8
 
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+https://cdn1-global.ebaclofen.org/live/pro10/index.m3u8
 
 
 
