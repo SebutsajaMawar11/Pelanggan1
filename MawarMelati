@@ -10579,6 +10579,12 @@ https://allfta.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=179
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/205/res=1080p/file/stream.mpd?hdntl=exp=1791044097~acl=%2fstream%2f205%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f205%2ffile%2f*%2faac%2f*!%2fstream%2f205%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f205%2ffile%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=9742ece5f46fdf31b10f3cecde14e898d3062c2defea620875e8f44002d1d346
 
+
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", VNL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+
 ============================
 
 
