@@ -10564,77 +10564,73 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 ===========================
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 1 A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
 https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live1.m3u8
 
 
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live2.m3u8
 
 
 
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live3.m3u8
 
 
 
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
-
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live4.m3u8
 
 
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live5.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live6.m3u8
 
 
 
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro7/index.m3u8
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live7.m3u8
 
 
 
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro8/index.m3u8
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live8.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro9/index.m3u8
-
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live9.m3u8
 
 
 
 #EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-https://cdn1-global.ebaclofen.org/live/pro10/index.m3u8
-
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/Live10.m3u8
 
 
 
