@@ -68,18 +68,20 @@ https://cdn.aceimg.com/6e11d212d.mp4
 
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXX" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (M LIVE)
+(M LIVE)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tclNMZHrcuI/maxresdefault.jpg" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (MENUNGGU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #### https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 
 
-
-#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXX" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (FAWA)
+(FAWA)
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/18/2026/10/03/indonesia-vs-thailand-final-fifa-asean-cup-2026-zCw6x.webp" group-title="🔴 EVENT", 🔴 INDONESIA vs THAILAND (MENUNGGU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #### http://193.47.62.55/hls/ekkkkAA.m3u8
 
