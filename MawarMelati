@@ -58,6 +58,26 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 =======================================
 
 
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227634/1790891258_b0464c6958.webp" group-title="🔴 EVENT", 🔴 KAZAKHSTAN vs FAROE ISLANDS (BEINSPORT3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227634/1790891258_b0464c6958.webp" group-title="🔴 EVENT", 🔴 KAZAKHSTAN vs FAROE ISLANDS (FS2)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227634/1790891258_b0464c6958.webp" group-title="🔴 EVENT", 🔴 KAZAKHSTAN vs FAROE ISLANDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-QazsportHD.m3u8
