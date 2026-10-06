@@ -10698,8 +10698,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/L
 
 =============================
 
-#EXTINF:-1 group-title="â–¶ï¸ || LIVE" tvg-logo="https://imgur.com/yKQvRuc.png" tvg-id="",CHANEL INFO
-https://drive.google.com/uc?id=1wxnTMqAWI4x7eRk3RpQOy0j6rtaRYiAO
+
 #EXTINF:-1 group-title="â–¶ï¸ || LIVE" tvg-logo="https://imgur.com/Q6P44Uj.png" tvg-id="97098" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",FINAL INDONESIA VS THAILAND
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10711,8 +10710,7 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/yKQvRuc.png" tvg-id="",CHANEL INFO
-https://drive.google.com/uc?id=1wxnTMqAWI4x7eRk3RpQOy0j6rtaRYiAO
+
 #EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/1JhmFIM.png" tvg-id="" http-user-agent="android-R+" http-referrer="https://www.rctiplus.com/" referrer="https://www.rctiplus.com/",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
