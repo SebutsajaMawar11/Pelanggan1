@@ -10642,9 +10642,9 @@ https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/205/codec=h2
 
 ============================
 
-
-Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 12 <A>
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/LiveTES1.m3u8
 
 
 
