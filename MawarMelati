@@ -58,7 +58,7 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 =======================================
 
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227634/1790891258_b0464c6958.webp" group-title="🔴 EVENT", 🔴 KAZAKHSTAN vs FAROE ISLANDS (BEINSPORT3)
+#EXTINF:-1 tvg-logo="https://img.vavel.com/live-en-es-2-1763428497187.png?cfsnip=1" group-title="🔴 EVENT", 🔴 KAZAKHSTAN vs FAROE ISLANDS (BEINSPORT3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -69,7 +69,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 
 
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227634/1790891258_b0464c6958.webp" group-title="🔴 EVENT", 🔴 KAZAKHSTAN vs FAROE ISLANDS (FS2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdzp6hAzKPToVcYnZYRfq8Prgt_AaXGSqKFHxq3p4WQ&s" group-title="🔴 EVENT", 🔴 KAZAKHSTAN vs FAROE ISLANDS (FS2)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
