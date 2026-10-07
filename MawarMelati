@@ -10726,6 +10726,18 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/
 
 
 
+#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes CLARO SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2e5f5d42771121d0dc5f6c9f74ac30:60460fa43257c537ba19a7f735d8177c
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/4eia4ypjxr/out/v1/2c628105d22c47dcb532e26968706a83/cenc.mpd
+
+
+
+
+
 
 
 
