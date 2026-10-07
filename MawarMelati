@@ -10904,7 +10904,7 @@ http://stream.mcquack.net/178/index.m3u8
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes DAZN 1
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EwOjE3OTEzOTYwMDU5MTM6Y2RubGl2ZXR2LnR2OjUwNTgwZTlhMDE4Y2IwMzUuMTM1NWZhZDY5MTk5ZDI4YjQzYTkyZjUyZGJkZGM5YWMxYmQzYzI4ZWIwOTkyNGViNTVhNDE5MTY5NmQ5Nzk4Nw
 
