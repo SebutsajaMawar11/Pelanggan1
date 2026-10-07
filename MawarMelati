@@ -10849,6 +10849,68 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fd
 
 
 
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes Матч!Футбол/1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/130/index.m3u8
+
+
+
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes Матч!Футбол/2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/142/index.m3u8
+
+
+
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes Матч!Футбол/2A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
+https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
+
+
+
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes Матч!Футбол/3A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/185/index.m3u8
+
+
+
+
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes Матч!Футбол/3B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
+https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
+
+
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes Матч! CTPAHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://stream.mcquack.net/143/index.m3u8
+
+
+
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes Матч! EXTREME/UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://stream.mcquack.net/148/index.m3u8
+
+
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes Матч! KHL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://stream.mcquack.net/178/index.m3u8
+
+
+
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EwOjE3OTEzOTYwMDU5MTM6Y2RubGl2ZXR2LnR2OjUwNTgwZTlhMDE4Y2IwMzUuMTM1NWZhZDY5MTk5ZDI4YjQzYTkyZjUyZGJkZGM5YWMxYmQzYzI4ZWIwOTkyNGViNTVhNDE5MTY5NmQ5Nzk4Nw
+
+EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EyOjE3OTEzOTYwMDYxMjY6Y2RubGl2ZXR2LnR2Ojg1MDMyYzhhZWFhY2ZmNDkuNzYwZGYyNGUwOTkyMjUzMjdiNzI1MmNhNzE5ZDg2NzAwZTZjYWQ4MzIzY2JmNmExOTIzMWI5MmVmMDU2NGU3Yg
 
 
 
