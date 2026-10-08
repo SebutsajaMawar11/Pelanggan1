@@ -10697,20 +10697,20 @@ https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/205/codec=h2
 
 ============================
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 12A
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 12A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/LiveTES1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 12A / DAZN1
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes live 12A / DAZN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 https://pul-tenm.gkykp.com/live/sd-1-4650120.m3u8?txSecret=f16fe9a063f9dfe78c69876fda61846e&txTime=6AC64FE8
 https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/LiveDAZN1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", FS1
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx", FS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
@@ -10719,7 +10719,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", FS2
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx", FS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -10728,7 +10728,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", FOX+
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx", FOX+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
@@ -10739,7 +10739,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", CLARO SPORTS
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",CLARO SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10751,7 +10751,7 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/4eia4y
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Fifa Competition/ZDF
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Fifa Competition ZDF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
@@ -10760,7 +10760,7 @@ https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Fifa Competition/Sat.1A
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Fifa Competition Sat.1A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
@@ -10769,7 +10769,7 @@ https://ac-009.live.p7s1video.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Fifa Competition/Sat.1B
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Fifa Competition Sat.1B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
@@ -10777,13 +10777,13 @@ https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", GE TV/BRASIL
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",GE TV BRASIL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", TUDN/MEXSICO
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",TUDN MEXSICO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
@@ -10791,20 +10791,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Sport 1/UA
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Sport 1 UA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/391/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Sport 1/BALTIC
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Sport 1/BALTIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/461/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Sport 2-5/UA
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Sport 2-5 UA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/392/index.m3u8
 http://stream.mcquack.net/393/index.m3u8
@@ -10814,54 +10814,54 @@ http://stream.mcquack.net/212/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", STANTA SPORT 1
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",STANTA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", STANTA SPORT 2
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",STANTA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/235/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", GP TV/BRASIL A
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",GP TV BRASIL A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 
-#EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", GP TV/BRASIL B
+#EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",GP TV BRASIL B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://stream.ads.ottera.tv/cl/261007db345ta6ci6s739h9fp0/1920x1080_4787200_1_f.m3u8?i=475_16499
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", tes TDP/SPANYOL
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",TDP SPANYOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=%5BLMT%5D&dnt=%5BDNS%5D&us_privacy=%5BUS_PRIVACY%5D&did=%5BDEVICE_ID%5D&ip=%5BIP%5D&ua=%5BUA%5D&ifa_type=%5BIFA_TYPE%5D&app_bundle=%5BAPP_BUNDLE%5D
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", SKY SPORT PREMIER LEAGUE/INGGRIS
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",SKY SPORT PREMIER LEAGUE INGGRIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=qd2MUJx2uKe8vQ1n81yoEA&e=2088940274
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Матч!Футбол/1
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Матч!Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Матч!Футбол/2
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Матч!Футбол 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/142/index.m3u8
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Матч!Футбол/2A
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Матч!Футбол 2A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -10871,14 +10871,14 @@ https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Матч!Футбол/3A
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Матч!Футбол 3A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/185/index.m3u8
 
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Матч!Футбол/3B
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Матч!Футбол 3B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -10887,28 +10887,28 @@ EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Матч!�
 https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Матч! CTPAHA
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Матч!CTPAHA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 http://stream.mcquack.net/143/index.m3u8
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Матч! EXTREME/UFC
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Матч!EXTREME UFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 http://stream.mcquack.net/148/index.m3u8
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", Матч! KHL
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",Матч!KHL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 http://stream.mcquack.net/178/index.m3u8
 
 
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", DAZN 1
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EwOjE3OTEzOTYwMDU5MTM6Y2RubGl2ZXR2LnR2OjUwNTgwZTlhMDE4Y2IwMzUuMTM1NWZhZDY5MTk5ZDI4YjQzYTkyZjUyZGJkZGM5YWMxYmQzYzI4ZWIwOTkyNGViNTVhNDE5MTY5NmQ5Nzk4Nw
 
-EXTINF:-1 tvg-id="iNews" group-title="TESSSSS" tvg-logo="xxxxxxxxxx", DAZN 2
+EXTINF:-1 group-title="TESSSSS" tvg-logo="xxxxxxxxxx",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EyOjE3OTEzOTYwMDYxMjY6Y2RubGl2ZXR2LnR2Ojg1MDMyYzhhZWFhY2ZmNDkuNzYwZGYyNGUwOTkyMjUzMjdiNzI1MmNhNzE5ZDg2NzAwZTZjYWQ4MzIzY2JmNmExOTIzMWI5MmVmMDU2NGU3Yg
 
