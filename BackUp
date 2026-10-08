@@ -2850,7 +2850,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 =========
 WOMEN SPORT NETWORK
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686d8dd294a028da3ac59566/featuredImage_1753992942871.jpg", group-title="SPORTS", WOMEN'S SPORT NETWORK
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686d8dd294a028da3ac59566/featuredImage_1753992942871.jpg", group-title="SPORTS GLOBAL", WOMEN'S SPORT NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 
@@ -2859,7 +2859,7 @@ https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 =========================
 cbs_sport
 
-#EXTINF:-1 tvg-logo="https://sportshub.cbsistatic.com/i/2018/01/20/7a5e8c01-1689-4311-b483-23b65c09516b/firetv-1280x720.png", group-title="SPORTS", CBS SPORTS
+#EXTINF:-1 tvg-logo="https://sportshub.cbsistatic.com/i/2018/01/20/7a5e8c01-1689-4311-b483-23b65c09516b/firetv-1280x720.png", group-title="SPORTS GLOBAL", CBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
@@ -2870,11 +2870,11 @@ _______
 FIFA TV
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5i6T5O-hEEQHXAopA-qtJB57TuxQRmyPz5g&s",FIFA+ SPORTS
+#EXTINF:-1 group-title="SPORTS GLOBAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5i6T5O-hEEQHXAopA-qtJB57TuxQRmyPz5g&s",FIFA+ SPORTS
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/239697/logo_fifa-169.jpg" group-title="SPORTS", FIFA+
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/239697/logo_fifa-169.jpg" group-title="SPORTS GLOBAL", FIFA+
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
 
@@ -2882,7 +2882,7 @@ https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 on sport+
 
 
-#EXTINF:-1 tvg-logo="https://imgvlive.vtvcab.vn/720X405/62954f11-54cd-4b09-aedc-52a4c4190b04.jpg" group-title="SPORTS", ON SPORTS+
+#EXTINF:-1 tvg-logo="https://imgvlive.vtvcab.vn/720X405/62954f11-54cd-4b09-aedc-52a4c4190b04.jpg" group-title="SPORTS GLOBAL", ON SPORTS+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
@@ -2893,7 +2893,7 @@ https://livebytsctbu.vtvprime.vn/mean/HAY_TV/manifest.mpd
 ____________
 SUKAN TV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg" group-title="SPORTS", SukanTV MALAYSIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg" group-title="SPORTS GLOBAL", SukanTV MALAYSIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.aceimg.com/tAAiNe1pP.mp4
 
@@ -2901,17 +2901,17 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 ________
 
 
-#EXTINF:-1 tvg-logo="https://dhhmpfovkf2ub.cloudfront.net/content/dam/appstore/visual_update_2020/blog/blog_redbull_thumb_690x493.jpg?ck=1716338932" group-title="SPORTS",REDBULL TV
+#EXTINF:-1 tvg-logo="https://dhhmpfovkf2ub.cloudfront.net/content/dam/appstore/visual_update_2020/blog/blog_redbull_thumb_690x493.jpg?ck=1716338932" group-title="SPORTS GLOBAL",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" group-title="SPORTS", MOTORVISION TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysi8jGCxlR5_MNvGv2YQCg0KDe-J9w7c83HFx6nZM0HeqZtq3UPzumcGM&s=10" group-title="SPORTS GLOBAL", MOTORVISION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 
 
 
-#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://www.sorrisi.com/wp-content/uploads/2018/04/logo-canale-5-886x494.jpg" group-title="SPORTS",CANALE 5
+#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://www.sorrisi.com/wp-content/uploads/2018/04/logo-canale-5-886x494.jpg" group-title="SPORTS GLOBAL",CANALE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2920,7 +2920,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRmpPjJNDYK_yKkPfUNSyZIB7xzgZFb_ftn96CrXuYZ8ymKiwQpr_sBuDz&s=10", ITALIA MEDIASET1
+#EXTINF:-1 group-title="SPORTS GLOBAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRmpPjJNDYK_yKkPfUNSyZIB7xzgZFb_ftn96CrXuYZ8ymKiwQpr_sBuDz&s=10", ITALIA MEDIASET1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2930,7 +2930,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 
 
 
-#EXTINF:-1 tvg-id="Tap Sports.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=412" group-title="SPORTS",TAP Sports
+#EXTINF:-1 tvg-id="Tap Sports.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=412" group-title="SPORTS GLOBAL",TAP Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
