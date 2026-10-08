@@ -3789,60 +3789,6 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 #### https: //cdn.aceimg.com/tAAiNe1pP.mp4
 
 
-=====================
-
-
-#EXTINF:-1 tvg-logo="https://ipla.pluscdn.pl/dituel/cp/tf/tfiup9u1381yfzz8zvu47xp6ypkqwupq.jpg" group-title="SPORTS 2 FHD", POLSAT SPORTS 1
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwIAMb9vIQv7ZD4zDcYWxERWYGaq8Uzohzw&s" group-title="SPORTS 2 FHD", POLSAT SPORTS PREMIUM 1
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NRVLkS21NhI/maxresdefault.jpg" group-title="SPORTS 2 FHD", POLSAT SPORTS PREMIUM 2
-
-
-
-#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_banner/COMd/3811-polsat-sport-3-hd.png" group-title="SPORTS 2 FHD", POLSAT SPORTS PREMIUM 3
-
-
-
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv-imported-images/akpa6229055.jpg" group-title="SPORTS 2 FHD", POLSAT SPORTS PREMIUM 4
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjoixM0hA7huUXDJ41uv1oUMSjydsmoWxpCgfqlS7oxCPPKcYL3rraCU&s=10" group-title="SPORTS 2 FHD", POLSAT SPORTS FIGHT
-
-
-
-
-#EXTINF:-1 tvg-logo="https://kyujinshim.com/wp-content/uploads/2016/05/one-fc-new-logo-circa-2014-750x370-600x296.jpg?w=640" group-title="SPORTS 2 FHD", ONE FIGHT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-
-
-
-================
-UEFA TV
-
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/025b-0f8e76d359fb-3d5a29cab80f-1000/uefa.tv.jpeg" group-title="SPORTS 2 FHD", UEFA TV SPORT⭐⭐⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-###########https://sport-data-global.b-cdn.net/live/7d9c631f074196ce580fd681648f11a9/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/434/rtvs-sport-1.jpg" group-title="SPORTS 2 FHD", RTVS_SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
-
 
 _________
 sport_tv
@@ -3926,111 +3872,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 
-____
-one sports
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1080" group-title="SPORTS 2 FHD", ONE SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=412" group-title="SPORTS 2 FHD", ONE SPORTS+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-########https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
-
-
-
-______________________
-ONE TV
-
-
-#EXTINF:-1 tvg-logo="https://photo.one.co.il/Image/GG/7,1/1470337.webp" group-title="SPORTS 2 FHD", ONE 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"3f9bd29c066a700e8b282c4a9dccf8eb":"6e3314a39d06af5553a16b8550f0691e"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-####  https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?indexMode&amp;dvr=7200000
-
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qjSSgko796O4vNvpaWRmR6PbGsfXRuHpewxP96nTD22x5riZ70Mo_My7-7VoQEZORsw=w3840-h2160-rw" group-title="SPORTS 2 FHD", ONE 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"6f09c99d572d9c6d4d616521ee785460":"12893b12e80c3c5dbaf6b4994c8432c0"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-####  https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&amp;dvr=7200000
-
-
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportgolf.png" group-title="SPORTS 2 FHD",Ziggo Sport 3 ⭐⭐⭐
-
-
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportracing.png" group-title="SPORTS 2 FHD",Ziggo Sport 4 ⭐⭐⭐
-
-
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosport.png" group-title="SPORTS 2 FHD",Ziggo Sport 5 ⭐⭐⭐
-
-
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportextra1.png" group-title="SPORTS 2 FHD",Ziggo Sport 6 ⭐⭐⭐
-
-
-
-______________
-SuperSport TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCsgPYng4b2PTAkf8j7ubEsYoWKI5wBpSERz8H1hNKb5chdEvrsY3L5iMUt2ax1NB1aU&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 01⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalF6WgbNRHUPxHhmmPaBJPOCz5l5MoFagVA&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 02⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwmQu0cALfjfxO1W5GHYrgFpCrkmDoI1cyA&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 03⭐⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRfm5cGxg4fpR0Q0zIB_nd1EKp1eKh2jnKQ&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 04⭐⭐⭐
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8RW3vy8N5P0jfqhENNVc3JNjfvqVAR0cUbmyCoLlgiWTKODq9TnlwkLRdX3vUcPwAhA&usqp=CAU" group-title="SPORTS 2 FHD", SuperSport 05⭐⭐⭐
-
-
-___________________
-ARENA TV
-
-
-_________________
-STANTA TV
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS 2 FHD",SetantaSports 1 ⭐⭐⭐
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS 2 FHD",SetantaSports 2 ⭐⭐⭐
-
-
-
-____________________________________________
-CAMPURAN
-
-#EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2023/10/10/629209/los-especiales-de-tyc-sports_862x485.webp" group-title="SPORTS 2 FHD",Tyc Sport⭐⭐⭐
-
-
-
+==========================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPGvN9IQf0Ekd7-d1DQkcAnpp7EaQHmKa2Q&s" group-title="SPORTS 2 FHD",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
@@ -4039,9 +3881,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-logo="https://zahraa.mr/wp-content/uploads/2024/12/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-oman-TV-sport.jpg" group-title="SPORTS 2 FHD",OMAN SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1280,h_720,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01jfk5gnn37tvaa7qbsd.jpg" group-title="SPORTS 2 FHD",SP WWE HD⭐⭐⭐
 
 
 ==========================
@@ -4053,16 +3892,6 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 
 
-______________________________________________________________________________________________________________
-MOTORVISION
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19QCHKXTxq-vr3sjXIpxjUugeuyCXES9jxg&s" group-title="SPORTS 2 FHD", MOTORVISION+
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
-
-
 ________________________________________________________________________
 
 
@@ -4070,57 +3899,6 @@ ________________________________________________________________________
 #EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxQWpSH0uqiAyiN5ngy5ZClBA4CnVQq3p9g&s" group-title="SPORTS 2 FHD", TVRI WORLD SPORT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="SPORTS 2 FHD", TVRI SPORT ⭐⭐⭐
-
-
-
-
-______________________________________________
-DUBAI TV
-
-
-
-#EXTINF: -1 tvg-logo="https://mercatoday.com/wp-content/uploads/2024/12/dubai-sports-khaleeji-780x470.jpg" group-title="SPORTS 2 FHD", DUBAI SPORTS 2⭐⭐⭐
-####https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://mercatoday.com/wp-content/uploads/2024/12/dubai-sports-khaleeji-780x470.jpg" group-title="SPORTS 2 FHD", DUBAI SPORTS 3⭐⭐⭐
-#####https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-chno="YOGAM" group-title="SPORTS 2 FHD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2011/03/14123237/PreTitle-Eurosport-.jpg", EUROSPORT ⭐⭐⭐
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 FHD" tvg-logo="https://image.xumo.com/v1/channels/channel/99951180/600x337.webp?type=channelTile",STRONGMAN CHAMPIONS LEAGUE
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNcxUossRp12KFfgDsLiUNbny_KFALGQlVwA&s" group-title="SPORTS 2 FHD",SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="SPORTS 2 FHD",  SPORTS TV 02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://external-preview.redd.it/9qWTeYJUEUmitzFtqZCPx_OI2SJFhFt06U5MUzMR7bk.jpg?width=640&crop=smart&auto=webp&s=908b6a4eebd1038544560a7f58ab0bd0ad1544c7" group-title="SPORTS 2 FHD",  UFC/UN FILTERED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/239208/350x197/latest.jpg" group-title="SPORTS 2 FHD", MADRID TV
@@ -4175,29 +3953,11 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.onefc.com/wp-content/uploads/sites/4/2025/06/251116-TYO-ONE173-1800x1200px-8.jpg" group-title="SPORTS 2 FHD",  PersianaFight
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fighthls.persiana.live/hls/stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFl3j8EYGxDWcrVpcgj0k3DjPX1-T7VIpwA&s" group-title="SPORTS 2 FHD", RTASport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg" group-title="SPORTS 2 FHD", TSports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tvsen7.aynaott.com/tsportshd/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMToutZLUUH60Pw9V3yeF_3K2JcFobsIM4w&s", group-title="SPORTS 2 FHD", FTF SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ToF2CAsmuiWCUU2J7SVcvxCqde-ic7Ht3Q&s", group-title="SPORTS 2 FHD", SHARJAH SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.sweet.tv/images/cache/v2/channel_banner/CL8F/703-trace-sport-stars-hd.png", group-title="SPORTS 2 FHD", TRACE SPORTS
@@ -4205,21 +3965,13 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/q6ujGQf8fsHBEQC2GMYYoZ-1200-80.jpg", group-title="SPORTS 2 FHD", MAVTV RACING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2022tJVDxI2dgVYV0byQYykYIIHjzw3Ewxg&s", group-title="SPORTS 2 FHD", UFC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2025-05/anw_s17-logo-1920x1080.jpg", group-title="SPORTS 2 FHD", AMERICAN NINJA WARRIOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
-
-
+/////////////
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751330357iXZkoSrM4n-original-HqNW8IE7.png", group-title="SPORTS 2 FHD", GOAL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
@@ -4240,9 +3992,20 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7rQsLTVsAOw82cbZj_s4-pPGY_9IXuY9a9PVh8LbDfSoIWqIH" group-title="UFC/MMA", ONE_CHAMPIONSIP
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7rQsLTVsAOw82cbZj_s4-pPGY_9IXuY9a9PVh8LbDfSoIWqIH" group-title="UFC/MMA", ONE_CHAMPIONSIP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-OneChampionsip.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://kyujinshim.com/wp-content/uploads/2016/05/one-fc-new-logo-circa-2014-750x370-600x296.jpg?w=640" group-title="UFC/MMA", ONE FIGHT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+
 
 
 
@@ -4310,6 +4073,52 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/6a7346d1-e5e1-49c2-8e37-a615b4a09871/0.m3u8
 ########https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8?hdnts=st%3D1769558008~exp%3D1769579608~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-FIGHT-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F70e45fc8-1f6c-4492-ac26-9868f70f4e02%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_68_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_68_-1~hmac%3D5b3e91a87146d945717d2e68736986e441208071d11b32a2aeccccc4f4333496
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.onefc.com/wp-content/uploads/sites/4/2025/06/251116-TYO-ONE173-1800x1200px-8.jpg" group-title="UFC/MMA", PERSIANA FIGHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://fighthls.persiana.live/hls/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/2025-05/anw_s17-logo-1920x1080.jpg", group-title="UFC/MMA", AMERICAN NINJA WARRIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="UFC/MMA" tvg-logo="https://image.xumo.com/v1/channels/channel/99951180/600x337.webp?type=channelTile",STRONGMAN CHAMPIONS LEAGUE
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
