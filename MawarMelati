@@ -2006,6 +2006,17 @@ MOTOGP_TV
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 
+===============
+F1 TV
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZVkEqrE_qSxKaOpR1UZ9R9S12Auekd-mD4EAg-gUfQ&s=10" group-title="SPORT", F1_TV CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
 
 _____
@@ -3444,6 +3455,15 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446902rOUCzuiQg4-original-ONOncvfW.png", group-title="SPORTS GLOBAL", SPORTS FIRST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKpiKPTezdDgMdwkUe8XRcg6XuAIityTFYqogPOOB2Q&s=10" group-title="SPORTS GLOBAL", RALLY_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+https://jmp2.uk/stvp-GB51000026A
+
 
 
 
@@ -10238,6 +10258,17 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca0/playlist.m3u8?token=
 #EXTINF:-1 tvg-logo="https" group-title="TES 2",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EyOjE3OTEzOTYwMDYxMjY6Y2RubGl2ZXR2LnR2Ojg1MDMyYzhhZWFhY2ZmNDkuNzYwZGYyNGUwOTkyMjUzMjdiNzI1MmNhNzE5ZDg2NzAwZTZjYWQ4MzIzY2JmNmExOTIzMWI5MmVmMDU2NGU3Yg
+
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2",LALIGA HIPER MOTION1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://31.43.191.125:8080/restream/restream/246
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2",LALIGA HIPER MOTION2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://31.43.191.125:8080/restream/restream/634
+
 
 
 ====================================
