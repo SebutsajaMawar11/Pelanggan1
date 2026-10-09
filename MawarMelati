@@ -10270,6 +10270,43 @@ http://31.43.191.125:8080/restream/restream/246
 http://31.43.191.125:8080/restream/restream/634
 
 
+#EXTINF:-1 tvg-logo="https" group-title="TES 2",SKY SPORT LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://190.83.9.222:8000/play/ca098/index.m3u8
+http://45.171.64.30:8800/play/a07h
+http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9601
+
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://31.43.191.125:8080/restream/restream/247
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://31.43.191.125:8080/restream/restream/248
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2",DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://31.43.191.125:8080/restream/restream/243
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2",DAZN 4/2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://31.43.191.125:8080/restream/restream/128942
+
+
+
+
+
+
+
+
+
+
+
 
 ====================================
 
