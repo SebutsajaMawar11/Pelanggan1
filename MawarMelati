@@ -3484,6 +3484,11 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/2024/10/What-Channel-Is-USA-Network.webp" group-title="SPORTS GLOBAL", USA_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
+
 
 
 
