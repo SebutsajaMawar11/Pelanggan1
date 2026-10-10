@@ -3249,6 +3249,19 @@ SPORT DIGITAL FSBL
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 
+================
+LALIGA HYPERMOTION
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgQS8MFsHpHzQT68jCesnLgigsYFO5m-h9wCdEKF1-xg&s=10", group-title="SPORTS GLOBAL", LALIGA HYPERMOTION 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://31.43.191.125:8080/restream/restream/246
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgQS8MFsHpHzQT68jCesnLgigsYFO5m-h9wCdEKF1-xg&s=10", group-title="SPORTS GLOBAL", LALIGA HYPERMOTION 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://31.43.191.125:8080/restream/restream/634
+
+
 =======================
 MSG SPORTSZONE
 
@@ -3465,13 +3478,10 @@ https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgQS8MFsHpHzQT68jCesnLgigsYFO5m-h9wCdEKF1-xg&s=10", group-title="SPORTS GLOBAL", LALIGA HYPERMOTION 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
-http://31.43.191.125:8080/restream/restream/246
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ1MjM0MTQtNGZjYi00NzI1LWJlMzMtMzI1NDVkZWJkZTJlXkEyXkFqcGc@._V1_.jpg" group-title="SPORTS GLOBAL", GARAGE_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgQS8MFsHpHzQT68jCesnLgigsYFO5m-h9wCdEKF1-xg&s=10", group-title="SPORTS GLOBAL", LALIGA HYPERMOTION 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
-http://31.43.191.125:8080/restream/restream/634
 
 
 
