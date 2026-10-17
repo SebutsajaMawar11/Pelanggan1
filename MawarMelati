@@ -399,8 +399,7 @@ EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-m.png" group-title="Indonesia Channels", MNCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rctiplus.mikrofast.my.id/rctiplus/mnctv/index.m3u8
+
 
 
 
@@ -408,7 +407,7 @@ https://rctiplus.mikrofast.my.id/rctiplus/mnctv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#### https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 
@@ -426,15 +425,16 @@ https://rctiplus.mikrofast.my.id/rctiplus/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/516/59516-SNAPSHOT-m.png" group-title="Indonesia Channels", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rctiplus.mikrofast.my.id/rctiplus/gtv/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ch5VWMy2NdRsKj1FuPTDt0zmeeI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Indonesia Channels", GTV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-### https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ch5VWMy2NdRsKj1FuPTDt0zmeeI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Indonesia Channels", GTV (R+)
@@ -550,7 +550,8 @@ https   ://tvratu.my.id/vid/index.mpd?id=204
 #EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2021/02/THUMBNAIL-RCTI.jpg" group-title="Indonesia Channels", RCTI HD (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rctiplus.mikrofast.my.id/rctiplus/rcti/index.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 
 
 
@@ -725,9 +726,8 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62218
+#### http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62218
 http://013tv.com:8080/F33848/cbd9779b/298550
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62218
 
 
 moji sport
@@ -748,9 +748,9 @@ moji sport
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/517/59517-SNAPSHOT-m.png" group-title="Indonesia Channels", ANTV (VD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com/
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
 
 
@@ -817,16 +817,19 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/518/59518-SNAPSHOT-m.png",iNews_TV
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/518/59518-SNAPSHOT-m.png", iNews_TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#### https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTVLCOPT:http-user-agent=android-R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
 
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/518/59518-SNAPSHOT-m.png",iNews_TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+### https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 
 
@@ -874,7 +877,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/386/437386-SNAPSHOT-m.png" group-title="Indonesia Channels", SindoNews (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-### https://cdn.aceimg.com/tAAiNe1pP.mp4
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
 
 
@@ -883,7 +886,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1017
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd
+#### https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd
 
 
 
@@ -925,24 +928,22 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTSU7rvh88i1kl-3GUTV1rHo4XKD6lafhLAXUf60mcVg&s=10" group-title="Indonesia Channels", MENTARI_TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+
 
 ============================
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="Indonesia Channels", SINPO-TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="Indonesia Channels", SINPO-TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
+
 
 ==========================
 
@@ -954,10 +955,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://img.inews.co.id/media/450/files/inews_new/2019/10/02/stream_idx.png",IDX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
-https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 ===============================
