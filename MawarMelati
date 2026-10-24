@@ -3820,9 +3820,17 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="https://www.schottensteincenter.com/assets/img/WWE_Smackdown_April2023_1248x680_NEW-c5ebefaeab.jpg", group-title="UFC/MMA", WWE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHGm5XPtNfLmhxVO0_WXw72z8lBWcVXZwnRonBoyG2g&s=10", group-title="UFC/MMA", HBO BOXING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeCr_6dPNm2K5xv0jmS5QFwM6XC3_kFahE3wU5Cb5OQ&s", group-title="UFC/MMA", WWE - SUPERSTARS CENTRAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+
 
 
 ________________________________________________________________________________________________________________________________________________________________________
