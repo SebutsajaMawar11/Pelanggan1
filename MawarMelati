@@ -2517,6 +2517,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #######  https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport4.m3u8
 
 
+===============
+STANTA SPORT
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/234/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/235/index.m3u8
+
+
+
 ====================
 PRIMA SPORT
 
@@ -2575,14 +2589,15 @@ https://kuruk1.xn--okq6e.shop/kuk2/usergendx0ul1ltsDx9lgcdwqrnd.m3u8
 #EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS PREMIUM", DIGI SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
-https://pu1se1.xn--ukq5h.shop/kuk3/usergendxt1v7slq2rnd.m3u8
+### https://pu1se1.xn--ukq5h.shop/kuk3/usergendxt1v7slq2rnd.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 #EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="SPORTS PREMIUM", DIGI SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
-https://pu1se1.xn--ukq5h.shop/kuk4/usergendl8g6ks0t3n.m3u8
-
+### https://pu1se1.xn--ukq5h.shop/kuk4/usergendl8g6ks0t3n.m3u8
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 ======================
 D-SPORT
@@ -2919,18 +2934,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvd
 #KODIPROP:inputstream.adaptive.license_key=19fb8464136594ce0c66fe3589e88ef4:6a0efc4a82a1e087f093c3e5de3e2a3e
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-
-===============
-STANTA SPORT
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/234/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/235/index.m3u8
 
 
 _______________________________________
