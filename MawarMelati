@@ -10807,7 +10807,15 @@ https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4a
 
 
 
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", 1a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://storage.googleapis.com/mediastorage/1793277562114/w7j9wn1o6i/675213766.mp4
 
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", 1b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.abyssplayer.com/
+https://storage.googleapis.com/mediastorage/1793277562114/w7j9wn1o6i/675213766.mp4
 
 
 ====================================
