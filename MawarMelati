@@ -57,11 +57,34 @@ wkwkwkwkwkk....... 🤣🤣🤣🤣😂
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ1ilAsmxipCGvk9dETfWpPViI0zb6DVcO11pinxDtFsr972qiTflUh6p&s=10" group-title="🔴 EVENT", INFO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-##### https://cdn.aceimg.com/vURpA40sj.mp4
+https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 =======================================
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlN5SsljQQt1oSX_RJZsev7LSaGnFZ0vQ1dixX7Kx7w&s=10" group-title="🔴 EVENT", DEWA UNITED vs PERSIJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#User-Agent=Mozilla/5.0&Origin=https://www.vidio.com&Referer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjIyMDcucWV6fDE3OTQwNTI0NTc
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjIyMDcuemNxfDE3OTQwNTI0NTc
+
+
+
+#EXTINF:-1 tvg-logo="https://mediaindonesia.gumlet.io/news/2026/10/31/1793417212_93683918bd2d4e97bb9b.jpg?w=376&dpr=2.6" group-title="🔴 EVENT", DEWA UNITED vs PERSIJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+https://cdnb.rkda.my.id/t/ywnazmU-rn0UzIjKC3nSbg/1793462829/3897b566-43d7-4f1e-862b-1aa22932504a.m3u8
+
+
+
+
+
+========================================
 
 #EXTINF:-1 group-title="🔴 EVENT" tvg-logo="https://tvku.family/T/cover.php?url=aHR0cHM6Ly90aHVtYm9yLnByb2QudmlkaW9jZG4uY29tL0ZUYWlZSjkyS3BFajVpM1FRR2R6azFvQlA2Yz0vNjQweDM2MC9maWx0ZXJzOnN0cmlwX2ljYygpOnF1YWxpdHkoNzApL3ZpZGlvLW1lZGlhLXByb2R1Y3Rpb24vdXBsb2Fkcy9saXZlc3RyZWFtaW5nL3NjaGVkdWxlL3RodW1ibmFpbC81NDAyMTMwL2Y1MjFiMy5qcGc=&status=LIVE+NOW&time=17%3A05&t=1793097974", Liga Voli Mahasiswa - Putra: BLU vs IPB (17:05 - 27 Oct 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
