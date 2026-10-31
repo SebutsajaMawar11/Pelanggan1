@@ -7538,6 +7538,12 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Furio
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GfeUkYDG2mM/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", KONG TAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/KongTao.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Y0KObXAG5utqOT6SATUS6-kD2cJ6SPMtTNbxgBi61g&s" group-title="📁 MOVIES - REQUEST", APOCALYPSE Z - NEW WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ApocalypseZ-NewWorld.m3u8
