@@ -7629,6 +7629,18 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Bewar
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPm5u19HgoffbuE54vcJ_C7CewSeoNxyT-LFPmgh3qfA&s=10" group-title="📁 MOVIES - REQUEST", A STORY OF DERRY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/AstoryOfDerry.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VJE5jMF0oFM/maxresdefault.jpg" group-title="📁 MOVIES - REQUEST", SCORPION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Scorpion.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvdmTIi0rtjeyFl3_i5RQy9o9vUcgAZAZtk-Opgep3g&s" group-title="📁 MOVIES - REQUEST", FURIOUS ATTACK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/FuriousAttack.m3u8
