@@ -7623,6 +7623,12 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ==================================
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOarigR5-FxZqwK2429HZUOO5uEG696i-Yh6QUT3yzQ&s" group-title="📁 MOVIES - REQUEST", BEWARE BOIUNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/BewareBoiuna.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvdmTIi0rtjeyFl3_i5RQy9o9vUcgAZAZtk-Opgep3g&s" group-title="📁 MOVIES - REQUEST", FURIOUS ATTACK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/FuriousAttack.m3u8
