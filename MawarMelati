@@ -4031,6 +4031,13 @@ https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443
 https://live1.ssmmcdn.cloud/MRTMP-02/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://png.pngtree.com/design-canvas/en/image-194b69e679aff964eb0ff75152707fef_7.webp", LIVE SPORT 2 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://live1.ssmmcdn.cloud:2096/DUNIYANEWSFHD/tracks-v1a1/mono.m3u8
+
+
 ==============================
 M LIVE 2
 
