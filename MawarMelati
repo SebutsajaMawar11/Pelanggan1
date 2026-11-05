@@ -4037,6 +4037,30 @@ https://live1.ssmmcdn.cloud/MRTMP-02/tracks-v1a1/mono.m3u8
 https://live1.ssmmcdn.cloud:2096/DUNIYANEWSFHD/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://png.pngtree.com/design-canvas/en/image-194b69e679aff964eb0ff75152707fef_7.webp", LIVE SPORT 3 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live.hztx2020.com/live/o07dni5xo0jsmkn_fbc2c41716189bf08ac279b07e633bd1_autoChange.m3u8
+
+
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://png.pngtree.com/design-canvas/en/image-194b69e679aff964eb0ff75152707fef_7.webp", LIVE SPORT 4 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.hztx2020.com/live/14346268_883b9894b32cb5b27861ebc52bdc47a8_autoChange.m3u8
+
+
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://png.pngtree.com/design-canvas/en/image-194b69e679aff964eb0ff75152707fef_7.webp", LIVE SPORT 5 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.hztx2020.com/live/14346267_0ee39c8cbde55b1915eb349b378e5af7_autoChange.m3u8
+
+
+
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://png.pngtree.com/design-canvas/en/image-194b69e679aff964eb0ff75152707fef_7.webp", LIVE SPORT 6 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live2.hztx2020.com/live/14346269_0743cfd5ab06f0a1648d4b62d5de662f_autoChange.m3u8
+
+
+
+
+
 ==============================
 M LIVE 2
 
