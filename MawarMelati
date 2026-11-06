@@ -10144,129 +10144,112 @@ https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4a
 
 
 
-#EXTINF:-1 tvg-logo="https" group-title="TES 2", 1a
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", BEK TV Sports West
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://storage.googleapis.com/mediastorage/1793277562114/w7j9wn1o6i/675213766.mp4
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https" group-title="TES 2", 1b
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Dazn Ringside
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.abyssplayer.com/
-https://storage.googleapis.com/mediastorage/1793277562114/w7j9wn1o6i/675213766.mp4
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https" group-title="TES 2", 1aaaa
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", DAZN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-V1aa.m3u8
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 
 
-====================================
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Dominance FC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
+https://jmp2.uk/plu-685aaec481c345899e4458bb.m3u8
+https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8
+https://jmp2.uk/plu-69f9c50202b6c1c00a213519.m3u8
+https://jmp2.uk/plu-67a23b899a300a00086f3371.m3u8
 
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/1JhmFIM.png" tvg-id="" http-user-agent="android-R+" http-referrer="https://www.rctiplus.com/" referrer="https://www.rctiplus.com/",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/NqxYx83.png" tvg-id="" http-user-agent="android-R+" http-referrer="https://www.rctiplus.com/" referrer="https://www.rctiplus.com/",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/eUqOd1b.png" tvg-id="" http-user-agent="android-R+" http-referrer="https://www.rctiplus.com/" referrer="https://www.rctiplus.com/",GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/VT018Tx.png" tvg-id="trans7",Trans 7
-https://transmedia-playlist.onrender.com/live/trans7
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/aU7FIqE.png" tvg-id="transtv",Trans TV
-https://transmedia-playlist.onrender.com/live/transtv
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/NMx7ldT.png" tvg-id="" http-user-agent="android-R+" http-referrer="https://www.rctiplus.com/" referrer="https://www.rctiplus.com/",INEWS
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/K6fAZNn.png" tvg-id="" http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36",INDOSIAR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36"
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/pWD17IK.png" tvg-id="" http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36" http-referrer="https://www.vidio.com/" referrer="https://www.vidio.com/",SCTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36"
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/vZUXYht.png" tvg-id="CNN.Indonesia.id",CNN INDONESIA
-https://zenajaygboleh.upr5317.workers.dev/cnn.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/0aouhmt.png" tvg-id="" http-user-agent="VidioPlayer/6.41.11",ANTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://calistaiptv.my.id/indopart/play.m3u8?id=782&type=hls
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/qG63VcM.png" tvg-id="Rajawali TV",RTV
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/Vb97OXh.png" tvg-id="Metro TV" http-user-agent="Mozilla/5.0",Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/OPj0GiO.png" tvg-id="Kompas TV" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",Kompas TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-https://op-group1-densxvisionhd-1.dens.tv/s/s104/index.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/eAPiFW7.png" tvg-id="itzplay.id",TVONE
-https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/6zGjwqk.png" tvg-id="Mdtv" http-user-agent="Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36" http-referrer="https://m.vidio.com/" referrer="https://m.vidio.com/",MDTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36"
-https://tvratu.my.id/vid/index.m3u8?id=875&type=hls
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/DOTuspz.png" tvg-id="" http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36",BTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36"
-https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/B1VH3fK.png" tvg-id="Moji" http-user-agent="Mozilla/5.0" http-referrer="https://www.dens.tv/" referrer="https://www.dens.tv/",MOJI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/yrKGLwM.png" tvg-id="" http-user-agent="YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3",VTV
-#EXTVLCOPT:http-user-agent="YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3"
-https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/QwNRETl.png" tvg-id="",Magna TV
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/t0KQiNn.png" tvg-id="TVRINasional.id" http-user-agent="TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",TVRI Nasional
-#EXTVLCOPT:http-user-agent="TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/FAqaafo.png" tvg-id="TVRI.id" http-user-agent="TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" http-referrer="https://klik.tvri.go.id/" referrer="https://klik.tvri.go.id/",TVRI World
-#EXTVLCOPT:http-user-agent="TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/aPDVRni.png" tvg-id="" http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36" http-referrer="https://www.vidio.com/" referrer="https://www.vidio.com/",NUSANTARA TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36"
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://calistaiptv.my.id/indopart/play.mpd?id=7432&type=dash
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/lSss0KI.png" tvg-id="" http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36" http-referrer="https://www.vidio.com/" referrer="https://www.vidio.com/",JAWAPOS TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36"
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://calistaiptv.my.id/indopart/play.mpd?id=9714&type=dash
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/WhwxMuc.png" tvg-id="" http-user-agent="VidioPlayer/6.41.11",Sin Po Tv
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://calistaiptv.my.id/indopart/play.m3u8?id=19046&type=hls
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/jjAdx4I.png" tvg-id="" http-user-agent="VidioPlayer/6.41.11",JAKTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://calistaiptv.my.id/indopart/play.m3u8?id=5415&type=hls
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/vwhA9To.png" tvg-id="" http-user-agent="VidioPlayer/6.41.11",Garuda TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://calistaiptv.my.id/indopart/play.m3u8?id=18162&type=hls
-#EXTINF:-1 group-title="ðŸ“º || TIVI NASIONAL" tvg-logo="https://imgur.com/SLy1Tb5.png" tvg-id="" http-user-agent="VidioPlayer/6.41.11",Elshinta TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://calistaiptv.my.id/indopart/play.m3u8?id=10975&type=hls
-#EXTINF:-1 group-title="ðŸ’¿ || TIVI MUSIK" tvg-logo="https://imgur.com/AyMTwXH.png" tvg-id="NOW ROCKS",NOW ROCK
-https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-#EXTINF:-1 group-title="ðŸ’¿ || TIVI MUSIK" tvg-logo="https://imgur.com/RnaZS0k.png" tvg-id="",Vevo pop
-https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
-#EXTINF:-1 group-title="ðŸ’¿ || TIVI MUSIK" tvg-logo="https://imgur.com/bkLfXjI.png" tvg-id="mic",MIC
-https://mic.siar.us/mic/live/mic.m3u8
-#EXTINF:-1 group-title="ðŸ’¿ || TIVI MUSIK" tvg-logo="https://imgur.com/QE3uBHR.png" tvg-id="",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Echo Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://a-cdn.klowdtv.com/live2/echosports_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Dyn Sport Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", MSG SportsZone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", NBC Sports NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Pluto TV Motor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Pluto TV Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
+https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Stingray Soccer Anthems
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://lotus.stingray.com/manifest/ose-347ads-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Tennis Channel Germany
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", Tennis+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", TR Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", World Billiards TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 
 
 
 
 
+
+
+
+
+
+====================================https://t.me/mawar_developer====================================
+
+
+COMOTTT TERUSSS NJINGG...!!!!!!
+NGENTOTTT DJIANCOK...ANJINGG
+ANAK DAJAL LU YEEEE...
 
 
 
