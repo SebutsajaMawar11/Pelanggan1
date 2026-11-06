@@ -4089,6 +4089,11 @@ http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-
 
 
 
+#EXTINF:-1 group-title="▶EVENT 1 / LIVE◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThxAO8xYw_h8AF3V35jY9rr9odZ6kpRBqMo9y5SRCs3vzTEXzrzW_BTA&s=10", MotoGP (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+http://master3.s3stream.top/hls/stream.m3u8
+
 
 ==============================
 M LIVE 2
