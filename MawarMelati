@@ -2244,11 +2244,9 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 
 
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThxAO8xYw_h8AF3V35jY9rr9odZ6kpRBqMo9y5SRCs3vzTEXzrzW_BTA&s=10", MotoGP (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThxAO8xYw_h8AF3V35jY9rr9odZ6kpRBqMo9y5SRCs3vzTEXzrzW_BTA&s=10", MotoGP (NontonGP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-http://master3.s3stream.top/hls/stream.m3u8
-
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/nMotoGP.m3u8
 
 
 ===============
