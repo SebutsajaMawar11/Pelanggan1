@@ -816,10 +816,8 @@ https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=858ee680eeb442d3d
 '''''''''''''''
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR (FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
-https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
-
-
+#### https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4tvU9DgkJZwbob7tWGGp3Yw
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
