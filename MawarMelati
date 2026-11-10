@@ -745,6 +745,7 @@ _______________________________________
 
 
 #EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="Indonesia Channels", TransTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
