@@ -3468,6 +3468,19 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTako_oICcEE6XVD_ipoYQnevl_90jOF1uhrwVQEvMxg&s=10" group-title="SPORTS PREMIUM", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/135423
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrPr-QuZQVyXP3qB0lkWCQx3-xGS8odJtKJIoycLA6Gw&s=10" group-title="SPORTS PREMIUM", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/135424
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSKDKxO3LvMTZl3FhQPFID-aHKEiLlzkXx9P0ifSQ4g&s" group-title="SPORTS PREMIUM", DAZN RISE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/135422
 
 
 
