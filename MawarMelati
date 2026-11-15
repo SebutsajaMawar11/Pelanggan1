@@ -3460,6 +3460,12 @@ http://stream.mcquack.net/178/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.ie/wp-content/uploads/sites/4/2017/07/Sky-Sports-MAIN-EVENT-pic-770x431.jpg" group-title="SPORTS PREMIUM", SKY SPORT - MAIN EVENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://ktpremium.site:2095/live/oc100212/88795409/932540.ts
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNHwlzrsrAXmbr7naJSZLatqUmbWrg_M_JzUj3dx0MwlGq4CUAvCnEco&s=10" group-title="SPORTS PREMIUM", SKY SPORT - PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3938,7 +3944,8 @@ TNT SPORT
 
 #EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083508-Photoroom%20(2).png" group-title="SPORTS GLOBAL",TNT SPORTS 1 (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport1.m3u8
+http://ktpremium.site:2095/live/oc100212/88795409/932552.ts
+### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport1.m3u8
 #### https: //cdn.aceimg.com/tAAiNe1pP.mp4
 
 
@@ -3946,21 +3953,24 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 
 #EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083509-Photoroom%20(1).png" group-title="SPORTS GLOBAL",TNT SPORTS 02 (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport2.m3u8
+http://ktpremium.site:2095/live/oc100212/88795409/932553.ts
+###### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport2.m3u8
 ##### https: //cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083510-Photoroom%20(1).png" group-title="SPORTS GLOBAL",TNT SPORTS 03 (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport3.m3u8
+http://ktpremium.site:2095/live/oc100212/88795409/932554.ts
+##### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport3.m3u8
 ###### https: //cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://durbinlive.live/upload/1000083511-Photoroom%20(1).png" group-title="SPORTS GLOBAL",TNT SPORTS 04 (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport4.m3u8
+http://ktpremium.site:2095/live/oc100212/88795409/932555.ts
+#### https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport4.m3u8
 #### https: //cdn.aceimg.com/tAAiNe1pP.mp4
 
 
