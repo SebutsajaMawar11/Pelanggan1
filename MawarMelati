@@ -1371,32 +1371,36 @@ http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34327
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="DIGITAL TV", RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/100.ts
+http://ktpremium.site:2095/live/oc100212/88795409/73606.ts
 http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34322
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="DIGITAL TV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/101.ts
-
+http://ktpremium.site:2095/live/oc100212/88795409/73607.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="DIGITAL TV", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/109.ts
 http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34331
+http://ktpremium.site:2095/live/oc100212/88795409/73619.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="DIGITAL TV", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://tvking.xyz:8080/Syednasrullah/kng1714/5124
 http://royaltv.world:25461/live/M8012/3422/106.ts
+http://ktpremium.site:2095/live/oc100212/88795409/73618.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png" group-title="DIGITAL TV", iNEWS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/99.ts
-
+http://ktpremium.site:2095/live/oc100212/88795409/73605.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/transtv.png" group-title="DIGITAL TV", TRANS TV
@@ -1405,6 +1409,7 @@ http://tvking.xyz:8080/Syednasrullah/kng1714/5151
 http://royaltv.world:25461/live/M8012/3422/102.ts
 http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34324
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34324
+http://ktpremium.site:2095/live/oc100212/88795409/73608.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/trnas7.png" group-title="DIGITAL TV", TRANS 7
@@ -1413,6 +1418,7 @@ http://tvking.xyz:8080/Syednasrullah/kng1714/5149
 http://royaltv.world:25461/live/M8012/3422/103.ts
 http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34325
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34325
+http://ktpremium.site:2095/live/oc100212/88795409/73609.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="DIGITAL TV", MNC TV
@@ -1420,35 +1426,38 @@ http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34325
 http://tvking.xyz:8080/Syednasrullah/kng1714/5139
 http://royaltv.world:25461/live/M8012/3422/23531.ts
 http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34326
+http://ktpremium.site:2095/live/oc100212/88795409/73616.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="DIGITAL TV", MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/23533.ts
-
+http://ktpremium.site:2095/live/oc100212/88795409/901194.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/metro.png" group-title="DIGITAL TV", METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/108.ts
-
+http://ktpremium.site:2095/live/oc100212/88795409/73611.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png" group-title="DIGITAL TV", TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/107.ts
-
+http://ktpremium.site:2095/live/oc100212/88795409/73610.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvriwolrd.png" group-title="DIGITAL TV", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/112.ts
 http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34333
+http://ktpremium.site:2095/live/oc100212/88795409/73620.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-m.png" group-title="DIGITAL TV", MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/114.ts
+http://ktpremium.site:2095/live/oc100212/88795409/73615.ts
 
 
 
@@ -1462,6 +1471,7 @@ http://royaltv.world:25461/live/M8012/3422/23536.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/110.ts
 http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34332
+http://ktpremium.site:2095/live/oc100212/88795409/73612.ts
 
 
 
@@ -1474,7 +1484,7 @@ http://royaltv.world:25461/live/M8012/3422/139.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t-MI3xuy_9qoyHhSD2nFxkLnB6xZT_EbfiwQtLKMQrIo2PTrCrfAL53n&s=10" group-title="DIGITAL TV", GARUDA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/129.ts
-
+http://ktpremium.site:2095/live/oc100212/88795409/73631.ts
 
 
 
