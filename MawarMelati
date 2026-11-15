@@ -1458,13 +1458,13 @@ http://ktpremium.site:2095/live/oc100212/88795409/73620.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/114.ts
 http://ktpremium.site:2095/live/oc100212/88795409/73615.ts
-
+http://ktpremium.site:2095/live/oc100212/88795409/1106292.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b9/0a/c8/b90ac8ae062a39d4a92e978454651cb6.jpg" group-title="DIGITAL TV", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/23536.ts
-
+http://ktpremium.site:2095/live/oc100212/88795409/946467.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/kompas.png" group-title="DIGITAL TV", KOMPAS TV
@@ -1478,7 +1478,7 @@ http://ktpremium.site:2095/live/oc100212/88795409/73612.ts
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/cnnindo.png" group-title="DIGITAL TV", CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://royaltv.world:25461/live/M8012/3422/139.ts
-
+http://ktpremium.site:2095/live/oc100212/88795409/73869.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t-MI3xuy_9qoyHhSD2nFxkLnB6xZT_EbfiwQtLKMQrIo2PTrCrfAL53n&s=10" group-title="DIGITAL TV", GARUDA TV
