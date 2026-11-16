@@ -2388,7 +2388,7 @@ SOCCER
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="SPORT", SOCCER_CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn.aceimg.com/tAAiNe1pP.mp4
+#### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="SPORT", SOCCER_CHANNEL
@@ -2439,8 +2439,8 @@ SPOTV1 normal
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPORT", SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-http://royaltv.world:25461/live/M8012/3422/149.ts
-http://ktpremium.site:2095/live/oc100212/88795409/26318.ts
+#### http://royaltv.world:25461/live/M8012/3422/149.ts
+#### http://ktpremium.site:2095/live/oc100212/88795409/26318.ts
 
 
 ____________
@@ -2460,9 +2460,9 @@ spotv bwww 2
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORT", SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-http://royaltv.world:25461/live/M8012/3422/14229.ts
-http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34405
-http://ktpremium.site:2095/live/oc100212/88795409/73957.ts
+#### http://royaltv.world:25461/live/M8012/3422/14229.ts
+#### http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34405
+#### http://ktpremium.site:2095/live/oc100212/88795409/73957.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORT", SPOTV 2 (CG)
