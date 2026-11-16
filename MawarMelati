@@ -485,13 +485,14 @@ EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-m.png" group-title="Indonesia Channels", MNCTV HD (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1794760141-6648025d67e2db8ffd26a5124e8db748-0-fefe0cf3c3a391bdb0398a935cd42fd7
+#### https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1794760141-6648025d67e2db8ffd26a5124e8db748-0-fefe0cf3c3a391bdb0398a935cd42fd7
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-m.png" group-title="Indonesia Channels", MNCTV HD (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-##### https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://rplus.inisemar.my.id/mnctv.m3u8
 
 
 
@@ -526,13 +527,14 @@ https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1794760141-664802
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/516/59516-SNAPSHOT-m.png" group-title="Indonesia Channels", GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1794760142-d87644cd782b377a1e063b2b39578602-0-58b9bcdf3781b9c4d740c1438afdf31c
+##### https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1794760142-d87644cd782b377a1e063b2b39578602-0-58b9bcdf3781b9c4d740c1438afdf31c
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ch5VWMy2NdRsKj1FuPTDt0zmeeI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Indonesia Channels", GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#### https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://rplus.inisemar.my.id/gtv.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 
@@ -687,14 +689,16 @@ https   ://tvratu.my.id/vid/index.mpd?id=204
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/514/59514-SNAPSHOT-m.png" group-title="Indonesia Channels", RCTI HD
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1794760141-6648025d67e2db8ffd26a5124e8db748-0-fefe0cf3c3a391bdb0398a935cd42fd7
+##### https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1794760141-6648025d67e2db8ffd26a5124e8db748-0-fefe0cf3c3a391bdb0398a935cd42fd7
 
 
 
 #EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2021/02/THUMBNAIL-RCTI.jpg" group-title="Indonesia Channels", RCTI HD (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-##### https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://rplus.inisemar.my.id/rcti.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 
 
 #EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2021/02/THUMBNAIL-RCTI.jpg" group-title="Indonesia Channels", RCTI HD (R+)
@@ -823,8 +827,9 @@ ________________________________________________________________________________
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 
 
