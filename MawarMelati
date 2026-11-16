@@ -2782,9 +2782,9 @@ https://liveeu-gcps.alkassdigital.net/alkass3-p/20261027T044756Z/mux_video_1080p
 
 
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 4
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 004
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://liveeu-gcps.alkassdigital.net/
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live-tv
 https://liveeu-gcps.alkassdigital.net/alkass4-p/20261024T164909Z/mux_video_1080p_ts/hdntl=exp=1794921074~acl=%2f*~data=hdntl~hmac=bcafc5558c7db9dc7c13cc8e8ca7e769be81b0b3fb1cc15ab3c4403033c32cd2/index-1.m3u8
 
 
