@@ -2910,12 +2910,12 @@ STANTA SPORT
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/234/index.m3u8
+### http://stream.mcquack.net/234/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/235/index.m3u8
+### http://stream.mcquack.net/235/index.m3u8
 
 
 
