@@ -2757,6 +2757,32 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 
 
+
+===============
+ALLKAS
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://liveeu-gcps.alkassdigital.net/alkass1-p/20261024T154302Z/mux_video_1080p_ts/hdntl=exp=1794920910~acl=%2f*~data=hdntl~hmac=98d9cac850a888a793ebcc8d61f65ab06e8880cad8b6fd693f7bc0a46d57c03e/index-1.m3u8
+
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://liveeu-gcps.alkassdigital.net/alkass2-p/20261025T005556Z/mux_video_1080p_ts/hdntl=exp=1794920958~acl=%2f*~data=hdntl~hmac=1928fb503726e90f4b4c84a171b0145923f73d4cb783c3c9109053ed3ca47f2e/index-1.m3u8
+
+
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://liveeu-gcps.alkassdigital.net/alkass3-p/20261027T044756Z/mux_video_1080p_ts/hdntl=exp=1794920989~acl=%2f*~data=hdntl~hmac=b8a9e601e27bf8e439f7f6294d76ebe2d0bb82f7cd593787f5ea8895472bc05d/index-1.m3u8
+
+
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://liveeu-gcps.alkassdigital.net/alkass4-p/20261024T164909Z/mux_video_1080p_ts/hdntl=exp=1794921074~acl=%2f*~data=hdntl~hmac=bcafc5558c7db9dc7c13cc8e8ca7e769be81b0b3fb1cc15ab3c4403033c32cd2/index-1.m3u8
+
+
 =========================
 TVRI SPORT
 
