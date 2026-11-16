@@ -1073,7 +1073,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/518/59518-SNAPSHOT-m.png", iNews_TV (V+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1794760142-49ec2afc4dc9eb60f1c7ace0520194db-0-53117bb5f2e82cd4d4d174f8dea9fbeb
 https://rplus.inisemar.my.id/inews.m3u8
 
 
