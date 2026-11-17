@@ -534,6 +534,7 @@ https://rplus.inisemar.my.id/mnctv.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rplus.inisemar.my.id/gtv.m3u8
+https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1794760142-d87644cd782b377a1e063b2b39578602-0-58b9bcdf3781b9c4d740c1438afdf31c
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
