@@ -836,11 +836,10 @@ ________________________________________________________________________________
 
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Indonesia Channels", INDOSIAR 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-origin=https://m.vidio.com
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-###### https://vidio123.mikrofast.web.id/vidio/205/index.mpd
+https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 
 
 🔴🔴🔴🔴
