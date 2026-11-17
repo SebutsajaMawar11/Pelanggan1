@@ -1320,8 +1320,9 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t-MI3xuy_9qoyHhSD2nFxkLnB6xZT_EbfiwQtLKMQrIo2PTrCrfAL53n&s=10" group-title="Indonesia Channels",Garuda TV
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
+#EXTVLCOPT:http-referer=https://garuda.tv/
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-
+https://hgmtv.com:2020/hls/garudatvlivestreaming/720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="Indonesia Channels",MAGNA TV
