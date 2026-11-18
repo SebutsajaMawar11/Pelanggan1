@@ -8783,6 +8783,11 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Relen
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApkt8KT6AC4W2FPqj8FNrtiMnoxHRCBnW8B90yCVoimNalodrsPFXxJCl&s=10" group-title="HBO / MOVIES", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/hbo/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApkt8KT6AC4W2FPqj8FNrtiMnoxHRCBnW8B90yCVoimNalodrsPFXxJCl&s=10" group-title="HBO / MOVIES", HBO
@@ -8796,6 +8801,12 @@ http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34433
 
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://i.ytimg.com/vi/L8ogLoq6UUY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6m0RSCviR-uijRKki7EAKnWbwlQ" group-title="HBO / MOVIES", HBO_HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/hbohits/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://i.ytimg.com/vi/L8ogLoq6UUY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6m0RSCviR-uijRKki7EAKnWbwlQ" group-title="HBO / MOVIES", HBO_HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4g8LhZhnSeQ6ODLBTwGwA_4
 
@@ -8803,6 +8814,14 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4g8LhZhnSeQ6ODLBTwGwA_4
 
 ##### https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboHits.m3u8
 ### https://cdn.aceimg.com/tAAiNe1pP.mp4
+
+
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png" group-title="HBO / MOVIES", HBO_FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/hbofamily/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png" group-title="HBO / MOVIES", HBO_FAMILY
@@ -8814,6 +8833,12 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4u22OlU2llAp4squXGnLIJM
 
 ##### https://raw.githubusercontent.com/SebutsajaMawar11/movies/refs/heads/main/HboFamily.m3u8
 ### https://cdn.aceimg.com/tAAiNe1pP.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/451090884-354f49183019612865ac36fdb5074309ad5fb3d1a88ef81b2b996fb56dd60562-d?f=webp" group-title="HBO / MOVIES",HBO_SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/hbosignature/index.m3u8
 
 
 
@@ -8829,12 +8854,23 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4okghq8b7IxQyl1atKqxrEs
 ### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55fd8821e4b0e00d15c6fa0f/1442702516979-HZWON79STPXJ2QYRTZDL/06.jpg" group-title="HBO / MOVIES", CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/cinemax/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55fd8821e4b0e00d15c6fa0f/1442702516979-HZWON79STPXJ2QYRTZDL/06.jpg" group-title="HBO / MOVIES", CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4k7jfUWSeWjhnf2JANHYtas
 
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/HitsMoviesSID.png/revision/latest/scale-to-width-down/1200?cb=20250104103345" group-title="HBO / MOVIES", HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/hitsmovies/index.m3u8
 
 
 
@@ -8844,16 +8880,38 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" group-title="HBO / MOVIES", HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/hits/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" group-title="HBO / MOVIES", HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1K0q3qJloo3-k_TutQdkangLajfkTAKVFfR4XwUOycYSstQ9CykCeSeVe7kIahLGeZDE&usqp=CAU", group-title="HBO / MOVIES", GALAXY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1K0q3qJloo3-k_TutQdkangLajfkTAKVFfR4XwUOycYSstQ9CykCeSeVe7kIahLGeZDE&usqp=CAU", group-title="HBO / MOVIES", GALAXY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4g9qEOo2U4K5YXfUc2ZdzVQ
 http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34427
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtfj_kMr8cClDaEyeVnPnKNeui8l7Fby9MpziTedi6IBBE9aIN9NMT0QD_PsFJBogpmh0&usqp=CAU", group-title="HBO / MOVIES", GALAXY PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
+
 
 
 
