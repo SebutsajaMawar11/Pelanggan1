@@ -2424,16 +2424,22 @@ SPOTV_NOW
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg" group-title="SPORT", SPOTV PRIME+
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_540&sid=OIRVfJPN5HKAMDPdE8kEyk87py8vTvKPBG72GQid&secret=2ea5e6739008e693d02a82fc1629b3bc&time=1794979762
+### http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg" group-title="SPORT", SPOTV PRIME 01
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg" group-title="SPORT", SPOTV PRIME 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_720&sid=DPBg1xS8Lc7opcorzjjCYZLk3HRHIEHZlhYcDINW&secret=88f4d276b721aeca8ed2ad32be8522cf&time=1794982824
+### http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg" group-title="SPORT", SPOTV PRIME 02
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg" group-title="SPORT", SPOTV PRIME 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_2_720&sid=pH3xOzjO7wRc05oEx9jSoZ5MXVjYrhx8eIddCtwQ&secret=b154582bb9f7bd3ebb568be32b668ed5&time=1794979138
+#### http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 
 
 
@@ -3287,6 +3293,16 @@ TUDN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SuAJw7sdGlM/maxresdefault.jpg", group-title="SPORTS PREMIUM", TUDN VIX SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
+
+
 
 =============
 TIPIK
