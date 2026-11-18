@@ -2491,9 +2491,22 @@ spotv bwww 2
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORT", SPOTV 2 (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-http://royaltv.world:25461/live/M8012/3422/14229.ts
-http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34405
+#### http://royaltv.world:25461/live/M8012/3422/14229.ts
+##### http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34405
 #### http://ktpremium.site:2095/live/oc100212/88795409/73957.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORT", SPOTV 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kocet.my.id/pisionplus/new/widevine.php?id=120
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORT", SPOTV 2 (CG)
