@@ -2424,20 +2424,21 @@ SPOTV_NOW
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg" group-title="SPORT", SPOTV PRIME+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_540&sid=OIRVfJPN5HKAMDPdE8kEyk87py8vTvKPBG72GQid&secret=2ea5e6739008e693d02a82fc1629b3bc&time=1794979762
+https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/SpotvPRIME1.m3u8
 ### http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg" group-title="SPORT", SPOTV PRIME 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_720&sid=DPBg1xS8Lc7opcorzjjCYZLk3HRHIEHZlhYcDINW&secret=88f4d276b721aeca8ed2ad32be8522cf&time=1794982824
 ### http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aMAkJbpEelg/hq720.jpg" group-title="SPORT", SPOTV PRIME 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_2_720&sid=pH3xOzjO7wRc05oEx9jSoZ5MXVjYrhx8eIddCtwQ&secret=b154582bb9f7bd3ebb568be32b668ed5&time=1794979138
 #### http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 
