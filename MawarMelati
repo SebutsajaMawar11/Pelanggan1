@@ -5109,6 +5109,12 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 ===============🔴🔴🔴==================
 
 
+#EXTINF:-1 tvg-logo="https://cdn.langit7.id/foto/1200/langit7/berita/2026/05/28/1/58369/sinopsis-children-of-heaven-indonesia-angkat-kisah-haru-tentang-keluarga-dan-pengorbanan-qjk.jpg" group-title="▶VOD INDO◀", CILDREN OF HEAVEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDchildrenOfHeaven.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2026/11/Never-Surrender-Review-Netflix-Movie.jpg" group-title="▶VOD INDO◀", NEVER SURRENDER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDneverSurrender.m3u8
@@ -7319,6 +7325,22 @@ https://cdn.aceimg.com/vURpA40sj.mp4
 
 
 ==================================
+
+
+#EXTINF:-1 tvg-logo="https://pic2.iqiyipic.com/image/20261117/73/1f/v_216358518_m_601_en_1080_608.jpg" group-title="📁 MOVIES - REQUEST", WARRIOR GOD OF EXORCISM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/WarriorGodOfExorcism.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/discovery-catalog/events/et00459370-pvpgcgkmqu-landscape.jpg" group-title="📁 MOVIES - REQUEST", MAARNAMI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Maarnami.m3u8
+
+
+
+
+=====================================
 
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/vijay-devarakonda-161938936-16x9_0.jpeg" group-title="📁 MOVIES - REQUEST", RANABAALI
