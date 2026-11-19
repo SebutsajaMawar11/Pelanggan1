@@ -636,9 +636,8 @@ https://vidsemar.pages.dev/terraluna3/204.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=8
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=8
-
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/Lama/drm.php?id=8
+https://bandeltv.xyz/sc1980/2025/Kvision/Lama/mpd.php/.mpd?id=8
 
 
 
