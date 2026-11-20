@@ -2449,7 +2449,7 @@ SOCCER
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kocet.my.id/pisionplus/new/widevine.php?id=115
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#### https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 
@@ -2542,9 +2542,9 @@ spotv bwww 2
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORT", SPOTV 2 (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#### http://royaltv.world:25461/live/M8012/3422/14229.ts
-##### http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34405
-#### http://ktpremium.site:2095/live/oc100212/88795409/73957.ts
+http://royaltv.world:25461/live/M8012/3422/14229.ts
+http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34405
+http://ktpremium.site:2095/live/oc100212/88795409/73957.ts
 
 
 
@@ -2555,7 +2555,7 @@ spotv bwww 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kocet.my.id/pisionplus/new/widevine.php?id=120
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#### https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 
@@ -2622,14 +2622,14 @@ SPOSTAR1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kocet.my.id/pisionplus/new/widevine.php?id=112
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+####### https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 
 
 #EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS1.png" group-title="SPORT",SPORTSTARS 01 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-##### https://cdn.aceimg.com/tAAiNe1pP.mp4
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 #EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS1.png" group-title="SPORT",SPORTSTARS 01 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -2667,7 +2667,7 @@ SPORTSTAR 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+##### https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
@@ -2677,14 +2677,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/v/drm1.php?id=1010&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2JhbmRlbHR2Lnh5eiIsImF1ZCI6Imt2aXNpb24iLCJzdWIiOiIxMDEwIiwiaWF0IjoxNzk1MDkyMDg3LCJuYmYiOjE3OTUwOTIwODcsImV4cCI6MTc5NTExMzY4N30.68aSgur87TjSeGCeFU5x4MhrtRG7SsIJcLrI5VAdtcY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/v/mpd1.php/.mpd?id=1010&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2JhbmRlbHR2Lnh5eiIsImF1ZCI6Imt2aXNpb24iLCJzdWIiOiIxMDEwIiwiaWF0IjoxNzk1MDkyMDg3LCJuYmYiOjE3OTUwOTIwODcsImV4cCI6MTc5NTExMzY4N30.68aSgur87TjSeGCeFU5x4MhrtRG7SsIJcLrI5VAdtcY
+#### https://bandeltv.xyz/sc1980/2025/Kvision/v/mpd1.php/.mpd?id=1010&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2JhbmRlbHR2Lnh5eiIsImF1ZCI6Imt2aXNpb24iLCJzdWIiOiIxMDEwIiwiaWF0IjoxNzk1MDkyMDg3LCJuYmYiOjE3OTUwOTIwODcsImV4cCI6MTc5NTExMzY4N30.68aSgur87TjSeGCeFU5x4MhrtRG7SsIJcLrI5VAdtcY
 
 
 
 
 #EXTINF:-1 group-title="SPORT" tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS2.png",SPORTSTARS 02 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-### https://cdn.aceimg.com/tAAiNe1pP.mp4
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 #EXTINF:-1 group-title="SPORT" tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS2.png",SPORTSTARS 02 HD
@@ -2708,13 +2708,9 @@ https://bandeltv.xyz/sc1980/2025/Kvision/v/mpd1.php/.mpd?id=1010&token=eyJ0eXAiO
 SPOSTAR 3
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS3.png" group-title="SPORT", SPORTSTARS 03 (TES)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS3.png" group-title="SPORT", SPORTSTARS 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-##### https://proxy-v.rctiplus.id/live/web/ss3/index.m3u8
-
-### https://cdn.aceimg.com/tAAiNe1pP.mp4
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
@@ -2726,7 +2722,7 @@ SPOSTAR 3
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+### https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
 
 
@@ -2785,7 +2781,7 @@ SPORSTAR4
 
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS4.png" group-title="SPORT", SPORTSTARS 04 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-###### https://cdn.aceimg.com/tAAiNe1pP.mp4
+https://cdn.aceimg.com/tAAiNe1pP.mp4
 
 
 
@@ -2798,7 +2794,7 @@ SPORSTAR4
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+### https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
 
 
