@@ -873,7 +873,7 @@ ________________________________________________________________________________
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=9
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=9
+###### https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=9
 
 
 
@@ -898,6 +898,7 @@ https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiNZaYICCx9iJHgYnpsutAfLaiN3mu6nzojU16uanyug&s=10" group-title="Indonesia Channels", BRI SUPER LEAGUE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+https://cdnb.rkda.my.id/t/0Ae30B8HqJoxjGRqwNWp8A/1795279010/3897b566-43d7-4f1e-862b-1aa22932504a.m3u8
 #### https://cdna.rkda.my.id/t/BeqGt0MYo-_vJ8M2tqz2YA/1794154113/3897b566-43d7-4f1e-862b-1aa22932504a.m3u8
 
 
@@ -3636,6 +3637,13 @@ http://stream.mcquack.net/178/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtYTm4Ip9VnbzVzzoeaYEi-icXwxH9ko43nDvrnmaCG9mvh1R9RBsC3Gs&s=10" group-title="SPORTS PREMIUM", BEK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.skymedia.ie/wp-content/uploads/sites/4/2017/07/Sky-Sports-MAIN-EVENT-pic-770x431.jpg" group-title="SPORTS PREMIUM", SKY SPORT - MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #### http://ktpremium.site:2095/live/oc100212/88795409/932540.ts
@@ -3701,15 +3709,17 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTako_oICcEE6XVD_ipoYQnevl_90jOF1uhrwVQEvMxg&s=10" group-title="SPORTS PREMIUM", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959377&extension=ts&play_token=ASDGBFexv9
 ### http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/135423
-http://ktpremium.site:2095/live/oc100212/88795409/932610.ts
-http://ktpremium.site:2095/live/oc100212/88795409/932608.ts
+### http://ktpremium.site:2095/live/oc100212/88795409/932610.ts
+### http://ktpremium.site:2095/live/oc100212/88795409/932608.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrPr-QuZQVyXP3qB0lkWCQx3-xGS8odJtKJIoycLA6Gw&s=10" group-title="SPORTS PREMIUM", DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959381&extension=ts&play_token=m6CeJTiuXi
 ### http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/135424
-http://ktpremium.site:2095/live/oc100212/88795409/932609.ts
+### http://ktpremium.site:2095/live/oc100212/88795409/932609.ts
 ### http://ktpremium.site:2095/live/oc100212/88795409/932610.ts
 
 
