@@ -804,7 +804,17 @@ https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=7
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=7
+###### https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=7
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/522/59522-SNAPSHOT-m.png" group-title="Indonesia Channels", Trans7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
+
+
 
 
 
