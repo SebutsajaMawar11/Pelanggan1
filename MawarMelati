@@ -10634,6 +10634,14 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_c
 
 
 
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", SKYSPORT MOTOGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://mirror-2.kilat-live.com/
+https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/IT_SKY_SPORTS_MOTOGP_TV/tracks-v1a1/mono.ts.m3u8
+
+
+
+
 ==============================
 
 
