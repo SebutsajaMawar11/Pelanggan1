@@ -3070,20 +3070,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #######  https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TNT-Sport4.m3u8
 
 
-===============
-STANTA SPORT
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/234/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/235/index.m3u8
-
-
-
 ====================
 PRIMA SPORT
 
@@ -3576,60 +3562,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=%5BLMT%5D&dnt=%5BDNS%5D&us_privacy=%5BUS_PRIVACY%5D&did=%5BDEVICE_ID%5D&ip=%5BIP%5D&ua=%5BUA%5D&ifa_type=%5BIFA_TYPE%5D&app_bundle=%5BAPP_BUNDLE%5D
 
 
-
-=============
-Матч!Футбол
-
-
-#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 2A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
-https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 3A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/185/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 3B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
-https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvx1m0WQbOOG8QpLawTbMyUv7GBGaEC3WICp0nTZYFH1UBX1ehcc6TtJo&s=10" group-title="SPORTS PREMIUM", Матч!CTPAHA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
-http://stream.mcquack.net/143/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKyJPHLaZYC5e4lwswoyiPPS5Xqak-y78mqxaHMOwyA5928DXA" group-title="SPORTS PREMIUM", Матч!KHL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
-http://stream.mcquack.net/178/index.m3u8
-
-
-
+===========================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtYTm4Ip9VnbzVzzoeaYEi-icXwxH9ko43nDvrnmaCG9mvh1R9RBsC3Gs&s=10" group-title="SPORTS PREMIUM", BEK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
@@ -3718,6 +3651,77 @@ http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959381&exte
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSKDKxO3LvMTZl3FhQPFID-aHKEiLlzkXx9P0ifSQ4g&s" group-title="SPORTS PREMIUM", DAZN RISE
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/135422
+
+
+===============
+STANTA SPORT
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 1 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/234/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xg2UbdzemptKHyIBW0cSPcZY2-8Sil_dlrxrSRJFewpTdCRar7J3hCM&s=10" group-title="SPORTS PREMIUM", STANTA SPORT 2 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/235/index.m3u8
+
+
+=============
+Матч!Футбол
+
+
+#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 1 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/130/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 2 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/142/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 2A (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
+https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 3A (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/185/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title="SPORTS PREMIUM", Матч!Футбол 3B (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
+https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvx1m0WQbOOG8QpLawTbMyUv7GBGaEC3WICp0nTZYFH1UBX1ehcc6TtJo&s=10" group-title="SPORTS PREMIUM", Матч!CTPAHA (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://stream.mcquack.net/143/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKyJPHLaZYC5e4lwswoyiPPS5Xqak-y78mqxaHMOwyA5928DXA" group-title="SPORTS PREMIUM", Матч!KHL (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
+http://stream.mcquack.net/178/index.m3u8
+
+
+=========================
+
+
+
 
 
 
