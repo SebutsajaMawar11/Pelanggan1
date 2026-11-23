@@ -799,16 +799,18 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/522/59522-SNAPSHOT-m.png" group-title="Indonesia Channels", Trans7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.cnbcindonesia.com/
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/chunklist_w889589017_b744100_sleng.m3u8
 https://live.cnbcindonesia.com/trans7/smil:trans7.smil/chunklist_w2147288906_b744100_sleng.m3u8
-
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/522/59522-SNAPSHOT-m.png" group-title="Indonesia Channels", Trans7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
-### https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1795438634962&wowzatokenhash=B4dAn2oyY5YUfv6A_MBCkVfjoUd9B1-jSovT0wA9_m0%3D
+https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w836672342_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTU0Mzg2MzQ5NjImd293emF0b2tlbmhhc2g9QjRkQW4yb3lZNVlVZnY2QV9NQkNrVmZqb1VkOUIxLWpTb3ZUMHdBOV9tMD0=.m3u8
 
 
 
