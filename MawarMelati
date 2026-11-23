@@ -813,9 +813,7 @@ https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/522/59522-SNAPSHOT-m.png" group-title="Indonesia Channels", Trans7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
-
-
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/chunklist_w2147288906_b744100_sleng.m3u8
 
 
 
