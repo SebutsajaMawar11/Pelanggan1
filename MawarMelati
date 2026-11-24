@@ -10679,6 +10679,15 @@ https://cdngateway.rkda.my.id/dash/ab0ed008d0df037c13e3c4eac0503c05e72dad3fb756a
 
 
 
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", sp stars
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdngateway.rkda.my.id/license/70824d4aa20b08aa36caaf9fb7ad8f933b94120c605ef8d1?pc=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InYxIn0.eyJjYXBWZXJzaW9uIjoxLCJzZXNzaW9uSWQiOiI3MDgyNGQ0YWEyMGIwOGFhMzZjYWFmOWZiN2FkOGY5MzNiOTQxMjBjNjA1ZWY4ZDEiLCJjaGFubmVsQ29kZSI6InNwb3J0c3RhcnMiLCJzb3VyY2VSZXZpc2lvbiI6MjMsInNjb3BlIjoiTElDRU5TRSIsImlzc3VlZEF0IjoxNzk1NTQ4NzM4LCJleHBpcmVzQXQiOjE3OTU1NDg3OTgsIm5vbmNlIjoiMzc3ZDc3NGYxOGExYWI1NzY4YjA3ODFjYzVlOTYzYjkiLCJwbGF5YmFja0NvbnRleHQiOiJUViJ9.9lqG6SBcxkQdLbNmn1KrgLLLkCliWXwrVYrUFVlCjhg
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://livetv.rkda.my.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
 
 
 
