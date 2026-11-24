@@ -10657,6 +10657,23 @@ https://tv.canal86.my.id/rkda/drm/mnctv.m3u8
 https://tv.canal86.my.id/rkda/drm/sctv.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", spoTV A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdngateway.rkda.my.id/license/8f5fe516e3ef4d9ea5a097b45f17148504f1b9b9ec74e4d4
+https://cdngateway.rkda.my.id/dash/27d1494774752e806b84cc3de45ee8b143e7648324edc5ed/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", spoTV B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f5fe516e3ef4d9ea5a097b45f17148504f1b9b9ec74e4d4
+https://cdngateway.rkda.my.id/dash/27d1494774752e806b84cc3de45ee8b143e7648324edc5ed/manifest.mpd
+
+
 ==============================
 
 
