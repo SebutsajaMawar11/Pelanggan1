@@ -2677,7 +2677,7 @@ SPORTSTAR 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/v/drm1.php?id=1010&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2JhbmRlbHR2Lnh5eiIsImF1ZCI6Imt2aXNpb24iLCJzdWIiOiIxMDEwIiwiaWF0IjoxNzk1NDQwNjI3LCJuYmYiOjE3OTU0NDA2MjcsImV4cCI6MTc5NTQ2MjIyN30.SV33m3_JkX7gPWct5KEQmhGFpW-mJCO5LwUS_6YUJ_Q
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/v/mpd1.php/.mpd?id=1010&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2JhbmRlbHR2Lnh5eiIsImF1ZCI6Imt2aXNpb24iLCJzdWIiOiIxMDEwIiwiaWF0IjoxNzk1NDQwNjI3LCJuYmYiOjE3OTU0NDA2MjcsImV4cCI6MTc5NTQ2MjIyN30.SV33m3_JkX7gPWct5KEQmhGFpW-mJCO5LwUS_6YUJ_Q
+### https://bandeltv.xyz/sc1980/2025/Kvision/v/mpd1.php/.mpd?id=1010&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2JhbmRlbHR2Lnh5eiIsImF1ZCI6Imt2aXNpb24iLCJzdWIiOiIxMDEwIiwiaWF0IjoxNzk1NDQwNjI3LCJuYmYiOjE3OTU0NDA2MjcsImV4cCI6MTc5NTQ2MjIyN30.SV33m3_JkX7gPWct5KEQmhGFpW-mJCO5LwUS_6YUJ_Q
 
 
 
@@ -2698,11 +2698,12 @@ https://bandeltv.xyz/sc1980/2025/Kvision/v/mpd1.php/.mpd?id=1010&token=eyJ0eXAiO
 
 
 #EXTINF:-1 group-title="SPORT" tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/SebutsajaMawar11/Data-repo/refs/heads/main/SPORTSTARS2.png",SPORTSTARS 02 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=113
-#### https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/v/drm1.php?id=1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
