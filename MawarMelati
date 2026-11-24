@@ -2646,7 +2646,7 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+### https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 
@@ -2733,7 +2733,7 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+#### https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
 
 
@@ -2805,7 +2805,7 @@ https://cdn.aceimg.com/tAAiNe1pP.mp4
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+#### https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
 
 
