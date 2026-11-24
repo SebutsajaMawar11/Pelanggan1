@@ -10666,12 +10666,23 @@ https://tv.canal86.my.id/rkda/drm/sctv.m3u8
 https://cdngateway.rkda.my.id/dash/27d1494774752e806b84cc3de45ee8b143e7648324edc5ed/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https" group-title="TES 2", spoTV B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.canal86.my.id/rkda/drm/index.php?drm=spotv
-https://tv.canal86.my.id/rkda/drm/index.php?id=spotv
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", soccer tes
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdngateway.rkda.my.id/license/3bf691646493ea5eb04bb0e76c58f2d2370d069367fca7e6?pc=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InYxIn0.eyJjYXBWZXJzaW9uIjoxLCJzZXNzaW9uSWQiOiIzYmY2OTE2NDY0OTNlYTVlYjA0YmIwZTc2YzU4ZjJkMjM3MGQwNjkzNjdmY2E3ZTYiLCJjaGFubmVsQ29kZSI6InNvY2NlcmNoIiwic291cmNlUmV2aXNpb24iOjI5LCJzY29wZSI6IkxJQ0VOU0UiLCJpc3N1ZWRBdCI6MTc5NTU0NzYzNiwiZXhwaXJlc0F0IjoxNzk1NTQ3Njk2LCJub25jZSI6IjhiZDdmNWEwZWU3OWM0YzFmY2YzN2ZlNWUwZDllOWM4IiwicGxheWJhY2tDb250ZXh0IjoiVFYifQ.8Tdo017L8nYjZ6RUCODe2rjFeCF3lhv994eKDb8NNkE|Content-Type=application/octet-stream|R{SSM}|
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://livetv.rkda.my.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdngateway.rkda.my.id/dash/3bf691646493ea5eb04bb0e76c58f2d2370d069367fca7e6/manifest.mpd?pc=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InYxIn0.eyJjYXBWZXJzaW9uIjoxLCJzZXNzaW9uSWQiOiIzYmY2OTE2NDY0OTNlYTVlYjA0YmIwZTc2YzU4ZjJkMjM3MGQwNjkzNjdmY2E3ZTYiLCJjaGFubmVsQ29kZSI6InNvY2NlcmNoIiwic291cmNlUmV2aXNpb24iOjI5LCJzY29wZSI6IkRBU0hfTUFOSUZFU1QiLCJpc3N1ZWRBdCI6MTc5NTU0NzYzNiwiZXhwaXJlc0F0IjoxNzk1NTQ3Njk2LCJub25jZSI6IjZlNjk4MDBkZmRiODdhNmU4YzdhMWU4Mjk5YzQ0Y2I0IiwicGxheWJhY2tDb250ZXh0IjoiVFYifQ.a5iZ2Bk9C4bwRe0Ohpum4v-k9elxzfYDbOiq-Rp5xSk
+
+
+
+
+
+
+
+
+
 
 
 ==============================
