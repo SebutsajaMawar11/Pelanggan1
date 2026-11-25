@@ -4454,6 +4454,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 
 
+#EXTINF:-1 tvg-logo="https://ridertua.com/wp-content/uploads/2024/10/Logo-Baru-MotoGP.webp" group-title="MotoGP", SKY SPORT Moto GP (KILAT TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+https://tv.canal86.my.id/kilatlive/live/34218202-6e67-42b1-9d35-511ff2838a99.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2024/11/20/673d5ad565033-logo-baru-motogp_1265_711.jpg" group-title="MotoGP", MotoGP 8 FHD (MOTOGP EVENT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://s1.strea.ru/index_src/index.m3u8
