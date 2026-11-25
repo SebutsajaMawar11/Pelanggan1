@@ -4399,7 +4399,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/11/16/d7a4635b-6d61-40c7-8e82-1051d16848e1/IMG_8551.png?width=1024&height=512" group-title="MotoGP", MotoGP 1 (TNT2 SPORTS)
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/02/23/logo-motogp-baru-1740285264952_169.jpeg?w=500&q=90" group-title="MotoGP", MotoGP 1 (TNT2 SPORTS)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
@@ -4407,7 +4407,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 
 
 
-#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/04/29/e44bf345-1f5a-424c-8988-a4286433c27f/MGP26_Launch-copy.jpg?width=1440&height=810" group-title="MotoGP", MotoGP 2 (PRIMA SPORT 3)
+#EXTINF:-1 tvg-logo="https://www.satuju.com/foto_berita/264303images%20(2).jpg" group-title="MotoGP", MotoGP 2 (PRIMA SPORT 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
@@ -4415,20 +4415,20 @@ https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/10/10/link-live-streaming-sprint-race-motogp-indonesia-2026-1791606526638_169.jpeg?w=1200" group-title="MotoGP", MotoGP 3 (DIGI SPORT 3)
+#EXTINF:-1 tvg-logo="https://www.satuju.com/foto_berita/264303images%20(2).jpg" group-title="MotoGP", MotoGP 3 (DIGI SPORT 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 https://pulse1.sanseny001.shop/kuk3/usergendxt1v7slq2rnd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4Ey2lzwoJHBvooLvi6QM6r9S2lsIkxkyCTnB9Adxbw&s=10" group-title="MotoGP", MotoGP 4 (NontonGP)
+#EXTINF:-1 tvg-logo="https://www.satuju.com/foto_berita/264303images%20(2).jpg" group-title="MotoGP", MotoGP 4 (NontonGP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/live-direck/refs/heads/main/nMotoGP.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://rayatimes.id/storage/media/artikel/19_11_26-RayaTimes-OLAHRAGA-MOTOGP-WEB-1_Web-Cover.webp" group-title="MotoGP", MotoGP 5 (FANCODE 1)
+#EXTINF:-1 tvg-logo="https://www.satuju.com/foto_berita/264303images%20(2).jpg" group-title="MotoGP", MotoGP 5 (FANCODE 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
