@@ -2509,10 +2509,12 @@ SPOTV1 normal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#### https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/master/drm.php?id=115
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://dsgtq5sngxkde.cloudfront.net/spotvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPORT", SPOTV HD
@@ -2538,6 +2540,16 @@ spotv bwww 2
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORT", SPOTV 2 (V+)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://dsgtq5sngxkde.cloudfront.net/spotv2/index.m3u8
+
+
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ### https://cdn.aceimg.com/tAAiNe1pP.mp4
 
@@ -2550,9 +2562,9 @@ spotv bwww 2
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORT", SPOTV 2 (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-http://royaltv.world:25461/live/M8012/3422/14229.ts
-http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34405
-http://ktpremium.site:2095/live/oc100212/88795409/73957.ts
+### http://royaltv.world:25461/live/M8012/3422/14229.ts
+### http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34405
+### http://ktpremium.site:2095/live/oc100212/88795409/73957.ts
 
 
 
@@ -10727,7 +10739,7 @@ https://cdngateway.rkda.my.id/dash/ab0ed008d0df037c13e3c4eac0503c05e72dad3fb756a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://dsgtq5sngxkde.cloudfront.net/spotv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/spotvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https" group-title="TES 2", spotv2
