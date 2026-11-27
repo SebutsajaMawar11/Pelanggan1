@@ -10798,12 +10798,14 @@ https://ott.rocket-ott.shop/oxygen/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://ott.rocket-ott.shop/oxygen/index.m3u8?id=sinpotv
 
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", kompastv
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://ott.rocket-ott.shop/oxygen/index.m3u8?id=kompastv
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", metrotv
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://ott.rocket-ott.shop/oxygen/index.m3u8?id=metrotv
 
 
 
