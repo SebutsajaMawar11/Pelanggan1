@@ -10771,6 +10771,36 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 #EXTINF:-1 tvg-logo="https" group-title="TES 2", transtv
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Transtv1.m3u8
+https://ott.rocket-ott.shop/oxygen/index.m3u8?id=transtv
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", trans7
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Trans07.m3u8
+https://ott.rocket-ott.shop/oxygen/index.m3u8?id=trans7
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", sctv
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://ott.rocket-ott.shop/oxygen/index.m3u8?id=sctv
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", tvone
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://ott.rocket-ott.shop/oxygen/index.m3u8?id=tvone
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", inewsTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://ott.rocket-ott.shop/oxygen/index.m3u8?id=inews
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", sinpotv
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://ott.rocket-ott.shop/oxygen/index.m3u8?id=sinpotv
+
+
+
+
 
 
 
