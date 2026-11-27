@@ -10757,8 +10757,9 @@ https://dsgtq5sngxkde.cloudfront.net/spotv2/index.m3u8
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Indosiar1.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", moji
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Moji1.m3u8
 
 
 
