@@ -1403,8 +1403,8 @@ https://cdn.aceimg.com/95997cf91.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="DIGITAL TV", INDOSIAR 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="DIGITAL TV", INDOSIAR 1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://ott.rocket-ott.shop/oxygen/index.m3u8?id=indosiar
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="DIGITAL TV", INDOSIAR 2
