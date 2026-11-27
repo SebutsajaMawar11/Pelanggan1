@@ -10763,6 +10763,23 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A
 
 
 
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", antv
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Antv1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https" group-title="TES 2", transtv
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-Transtv1.m3u8
+
+
+
+
+
+
+
+
+
 ==============================
 
 
